@@ -1,0 +1,58 @@
+{
+  "key": "14-sharpen-jawline",
+  "theme": "looksmax",
+  "eyebrow": "Looksmaxing",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Sharpen your jawline — *no surgery needed*.",
+      "sub": "Most of a 'weak' jaw is bloat and body fat hiding it. Here's the real fix.",
+      "bg": "ai-bg/14-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Lean out",
+      "title": "Body fat hides the jaw",
+      "body": "A defined jaw shows up as you *get leaner*. Fat loss reveals it more than any exercise."
+    },
+    {
+      "type": "content",
+      "kicker": "Debloat",
+      "title": "Cut the salt & alcohol",
+      "body": "*Sodium and booze* puff your whole face. Drop them and the jawline sharpens in days."
+    },
+    {
+      "type": "content",
+      "kicker": "Posture",
+      "title": "Chin up, tongue up",
+      "body": "Standing tall and *resting your tongue on the roof* of your mouth changes your whole profile."
+    },
+    {
+      "type": "content",
+      "kicker": "Build it",
+      "title": "Give your jaw work",
+      "body": "Harder foods and a little gum build the *masseter muscle*. Real — if minor."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Beat the morning puff",
+      "body": "*Deep sleep and water* drain the overnight fluid that softens your jawline."
+    },
+    {
+      "type": "cta",
+      "title": "Lean, debloated, *defined*.",
+      "body": "Vibe Health tracks the sleep, food & water that actually reveal your jaw — in one score.",
+      "button": "Download Vibe Health →",
+      "tag": "a sharper jaw, tracked",
+      "bg": "ai-bg/14-cta.png"
+    }
+  ],
+  "caption": "A \"weak\" jaw is usually bloat and body fat hiding a good one. 🫨\n\nLean out, cut the salt & booze, fix your posture, sleep deep. The jaw was there the whole time. Save this. 🔖\n\nVibe tracks the sleep, food & water that actually reveal your jawline → link in bio.",
+  "hashtags": ["#looksmaxing", "#jawline", "#glowup", "#jawlinegoals", "#mewing", "#selfimprovement", "#facegains", "#leanface", "#glowuptips", "#vibehealthapp"],
+  "youtube_title": "Sharpen Your Jawline — No Surgery Needed",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A man with a sharp, strong, well-defined jawline and chiseled chin, three-quarter profile, jaw catching a rim of light.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a sculpted male jawline and cheekbone, lean and defined, hard side light."
+  }
+}

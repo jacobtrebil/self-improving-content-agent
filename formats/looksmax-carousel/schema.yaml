@@ -1,0 +1,75 @@
+# Deck spec — one JSON file per deck:
+#   campaigns/<campaign>/generated/<NN>-<slug>.json
+# Field constraints below are what validation.md checks mechanically.
+
+deck:
+  key:
+    required: true
+    pattern: "^[0-9]{2}-[a-z0-9-]+$"      # e.g. 14-sharpen-jawline; NN unique across vibe-carousels/
+  theme:
+    required: true
+    const: looksmax
+  eyebrow:
+    required: true
+    max_words: 2                          # "Looksmaxing" or the feature ("Skin", "Eyes", "Hair")
+  slides:
+    required: true
+    count: 7                              # 1 cover + 5 content + 1 cta (9 allowed for list decks: +2 content)
+    order: [cover, content..., cta]
+
+  caption:
+    required: true
+    paragraphs: 3                         # reframe / lever recap + save nudge / Vibe pitch ending "→ link in bio"
+  hashtags:
+    required: true
+    count: 10
+    last: "#vibehealthapp"                # mix looksmax tags + health tags
+  youtube_title:
+    required: true
+    style: "plain, benefit-led, title case"
+  bg_prompts:
+    required: true
+    keys: [cover, cta]                    # beauty-portrait style from ai-bg/gen-bg.sh (see prompt.md)
+
+slide_cover:
+  type: { const: cover }
+  title:
+    required: true
+    max_words: 9
+    highlights: 1                         # exactly one *...* span
+  sub:
+    required: true
+    max_sentences: 2                      # names the misconception being reframed
+  bg:
+    required: true                        # "ai-bg/<NN>-cover.png" — hooks always get a real photo
+
+slide_content:
+  type: { const: content }
+  kicker:
+    required: true
+    max_words: 3                          # action label ("Lean out", "Debloat", "Overnight"), not "Step NN"
+  title:
+    required: true
+    max_words: 6
+  body:
+    required: true
+    max_words: 25
+    highlights: 1                         # honest effect sizing; minor levers labeled minor
+
+slide_cta:
+  type: { const: cta }
+  title:
+    required: true
+    max_words: 8
+    highlights: 1
+  body:
+    required: true
+    max_words: 30                         # ties the deck's levers to Vibe Health tracking
+  button:
+    required: true
+    const: "Download Vibe Health →"
+  tag:
+    required: true
+    style: "lowercase, benefit-led, tied to the aesthetic goal"
+  bg:
+    required: true                        # "ai-bg/<NN>-cta.png"

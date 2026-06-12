@@ -1,0 +1,64 @@
+{
+  "key": "reel-12-stopped-being-perfect",
+  "theme": "before-after-reel",
+  "persona": {
+    "description": "female, 27, perfectionist who restarts every Monday",
+    "goal": "swapped all-or-nothing plans for small tracked habits",
+    "timeframe": "90 days"
+  },
+  "duration_target_s": 18,
+  "segments": [
+    {
+      "type": "hook",
+      "duration_s": 2.5,
+      "text": "She stopped trying to be perfect.",
+      "visual": { "kind": "footage", "motion": "candid kitchen-at-night clip, fridge closing" }
+    },
+    {
+      "type": "before",
+      "duration_s": 3.0,
+      "text": "Every Monday: new plan. Every Friday: quit.",
+      "visual": { "kind": "before_still", "motion": "hold, slight handheld drift" }
+    },
+    {
+      "type": "transformation",
+      "duration_s": 3.0,
+      "text": "New rule: just keep the score green.",
+      "visual": { "kind": "app_ui", "motion": "Health Score screen, four small wins logged" }
+    },
+    {
+      "type": "after",
+      "duration_s": 3.5,
+      "text": "90 days later.",
+      "visual": { "kind": "after_still", "motion": "crossfade from before, then hold" }
+    },
+    {
+      "type": "app_payoff",
+      "duration_s": 3.0,
+      "text": "Small days count. That's the point.",
+      "visual": { "kind": "footage", "motion": "treadmill walking clip with score overlay" }
+    },
+    {
+      "type": "end_card",
+      "duration_s": 2.5,
+      "text": "Download Vibe Health",
+      "visual": { "kind": "end_card" }
+    }
+  ],
+  "assets": {
+    "before_prompt": "unedited amateur photo taken on a phone, slightly grainy, harsh overhead fluorescent lighting, realistic ordinary body, imperfect skin with natural texture, candid slightly awkward posture, no retouching, no studio lighting, muted colors, looks like a real photo posted on reddit. A 27-year-old woman in leggings and an old hoodie, tired after work, phone mirror selfie in a hallway, ordinary build, neutral expression.",
+    "after_prompt": "Keep the EXACT same person, face, and identity as the reference. Same location and framing, same amateur phone-photo quality. Believable result of 90 days of consistent training — NOT a fitness model; still has natural soft spots, just visibly leaner and healthier. Same hallway mirror selfie, better posture, brighter face, relaxed easy smile.",
+    "footage_prompts": [
+      "static handheld phone video, subtle camera shake like someone filming casually, natural movement, no cuts, no zoom, realistic ordinary footage. A woman in an old hoodie closing a fridge in a dim kitchen at night and pausing, lit by the fridge light.",
+      "static handheld phone video, subtle camera shake like someone filming casually, natural movement, no cuts, no zoom, realistic ordinary footage. The same woman walking at an easy pace on a home treadmill in daylight, headphones in, unbothered."
+    ]
+  },
+  "audio": {
+    "vibe": "warm acoustic loop, soft swell into the 90-days-later reveal",
+    "source": "licensed/trending track chosen at assembly, muxed with -shortest"
+  },
+  "caption": "All-or-nothing was the problem, not the discipline. 🌱\n\nShe stopped chasing perfect weeks and just kept her daily score green — sleep, food, water, steps. 90 days of small days. Save this if you keep restarting on Mondays. 🔖\n\nVibe Health scores the small stuff so it finally adds up → link in bio.",
+  "hashtags": ["#transformation", "#beforeandafter", "#healthjourney", "#habitstacking", "#consistencyiskey", "#allornothing", "#wellnessjourney", "#selfimprovement", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "She Stopped Trying to Be Perfect — 90 Days Later",
+  "notes": "Hook is footage, not a still — fridge clip generated via seedance_2_0 (9:16 1080p flags mandatory)."
+}

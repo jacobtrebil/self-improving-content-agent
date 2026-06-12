@@ -1,0 +1,58 @@
+{
+  "key": "15-clear-skin-kitchen",
+  "theme": "looksmax",
+  "eyebrow": "Skin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Clear skin starts *in your kitchen*.",
+      "sub": "Topicals are the last 10%. What you eat and how you sleep is the other 90%.",
+      "bg": "ai-bg/15-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "First",
+      "title": "Spike less sugar",
+      "body": "*Blood-sugar spikes* drive breakouts. Lower added sugar before you buy another serum."
+    },
+    {
+      "type": "content",
+      "kicker": "Test it",
+      "title": "Watch the dairy",
+      "body": "For some people *skim milk and whey* trigger acne. Worth a 3-week experiment."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat for it",
+      "title": "Eat the rainbow",
+      "body": "Colorful produce = *antioxidants* your skin actually uses. Brightness from the inside."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Sleep repairs skin",
+      "body": "Your skin *rebuilds overnight*. Short sleep = dull tone and slow healing."
+    },
+    {
+      "type": "content",
+      "kicker": "Daily",
+      "title": "Hydrate for clarity",
+      "body": "Chronic low water leaves skin *flat and tired*. Sip all day, not all at once."
+    },
+    {
+      "type": "cta",
+      "title": "Feed your skin. *Watch it clear.*",
+      "body": "Vibe Health connects your food, sleep & water to how your skin looks — in one simple score.",
+      "button": "Download Vibe Health →",
+      "tag": "clearer skin, from within",
+      "bg": "ai-bg/15-cta.png"
+    }
+  ],
+  "caption": "That $90 serum is the last 10%. Your food, sleep and water are the other 90%. 🍳\n\nSpike less sugar, test cutting dairy, eat the rainbow, sleep deep. Clear skin is an inside job. 🔖\n\nVibe connects your food, sleep & water to how your skin looks → link in bio.",
+  "hashtags": ["#clearskin", "#skincare", "#glowup", "#looksmaxing", "#acnetips", "#skinfromwithin", "#healthylifestyle", "#glowuptips", "#skincaretips", "#vibehealthapp"],
+  "youtube_title": "Clear Skin Starts in Your Kitchen",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A woman with flawless clear glowing skin, smooth complexion, soft beauty light on the face.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close-up of radiant clear dewy skin on a woman's cheek and jaw, luminous and healthy."
+  }
+}

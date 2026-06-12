@@ -1,0 +1,58 @@
+{
+  "key": "08-fix-your-sleep",
+  "theme": "health",
+  "eyebrow": "Sleep",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Fix your sleep, *fix everything*.",
+      "sub": "Bad sleep wrecks cravings, energy, and recovery. Here's the reset.",
+      "bg": "ai-bg/08-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Most important",
+      "title": "Consistency beats hours",
+      "body": "*Same bed + wake time* matters more than chasing a perfect 8."
+    },
+    {
+      "type": "content",
+      "kicker": "Morning",
+      "title": "Get light early",
+      "body": "*10 minutes of daylight* soon after waking sets your clock for the whole day."
+    },
+    {
+      "type": "content",
+      "kicker": "Afternoon",
+      "title": "Cut caffeine by 2pm",
+      "body": "Caffeine lingers *8+ hours*. That 4pm coffee is quietly stealing your deep sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "Environment",
+      "title": "Cool, dark, boring",
+      "body": "*Cool room, no screens* in bed. Your environment does half the work for you."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Bad sleep = more cravings",
+      "body": "One rough night spikes *hunger hormones* the next day. It's not willpower."
+    },
+    {
+      "type": "cta",
+      "title": "Better sleep *starts tonight*.",
+      "body": "Vibe Health tracks your sleep and ties it to how you feel — so the pattern gets obvious.",
+      "button": "Download Vibe Health →",
+      "tag": "better sleep, on autopilot",
+      "bg": "ai-bg/08-cta.png"
+    }
+  ],
+  "caption": "Bad sleep wrecks your cravings, energy, and recovery. Here's the reset. 😴\n\nConsistency beats hours, morning light, cut caffeine by 2pm, cool dark room. One rough night = more cravings tomorrow. 🔖\n\nVibe tracks your sleep and ties it to how you feel → link in bio.",
+  "hashtags": ["#sleep", "#sleeptips", "#sleephygiene", "#recovery", "#healthylifestyle", "#wellness", "#circadianrhythm", "#energy", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Fix Your Sleep, Fix Everything",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person asleep in a cool dark bedroom, soft window light across the sheets, peaceful and still.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A rested face in early morning light, eyes just opening, calm and refreshed."
+  }
+}

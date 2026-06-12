@@ -1,0 +1,75 @@
+# Deck spec — one JSON file per deck:
+#   campaigns/<campaign>/generated/<NN>-<slug>.json
+# Field constraints below are what validation.md checks mechanically.
+
+deck:
+  key:
+    required: true
+    pattern: "^[0-9]{2}-[a-z0-9-]+$"      # e.g. 04-hit-your-protein; NN unique across vibe-carousels/
+  theme:
+    required: true
+    const: health
+  eyebrow:
+    required: true
+    max_words: 2                          # topic label, capitalized ("Protein", "Sleep")
+  slides:
+    required: true
+    count: 7                              # 1 cover + 5 content + 1 cta (9 allowed for list decks: +2 content)
+    order: [cover, content..., cta]
+
+  caption:
+    required: true
+    paragraphs: 3                         # hook / value recap + save nudge / Vibe pitch ending "→ link in bio"
+  hashtags:
+    required: true
+    count: 10
+    last: "#vibehealthapp"
+  youtube_title:
+    required: true
+    style: "plain, benefit-led, title case"
+  bg_prompts:
+    required: true
+    keys: [cover, cta]                    # Higgsfield prompts, house monochrome style (see prompt.md)
+
+slide_cover:
+  type: { const: cover }
+  title:
+    required: true
+    max_words: 9
+    highlights: 1                         # exactly one *...* span
+  sub:
+    required: true
+    max_sentences: 2
+  bg:
+    required: true                        # "ai-bg/<NN>-cover.png" — hooks always get a real photo
+
+slide_content:
+  type: { const: content }
+  kicker:
+    required: true
+    max_words: 3                          # "Step 01" or argument beat ("The trap", "Do this")
+  title:
+    required: true
+    max_words: 6
+  body:
+    required: true
+    max_words: 25
+    highlights: 1
+
+slide_cta:
+  type: { const: cta }
+  title:
+    required: true
+    max_words: 8
+    highlights: 1
+  body:
+    required: true
+    max_words: 30                         # must name a concrete Vibe Health feature
+  button:
+    required: true
+    const: "Download Vibe Health →"
+  tag:
+    required: true
+    style: "lowercase, benefit-led, tied to deck topic"
+  bg:
+    required: true                        # "ai-bg/<NN>-cta.png"

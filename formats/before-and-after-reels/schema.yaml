@@ -1,0 +1,83 @@
+# Reel spec — one JSON file per reel:
+#   campaigns/<campaign>/generated/reel-<NN>-<slug>.json
+# Field constraints below are what validation.md checks mechanically.
+# NOTE: this format renders to a single MP4 (1080x1920, 30fps), not slides.
+
+reel:
+  key:
+    required: true
+    pattern: "^reel-[0-9]{2}-[a-z0-9-]+$"   # NN continues vibe-health-reel-01..10
+  theme:
+    required: true
+    const: before-after-reel
+  persona:
+    required: true
+    fields:
+      description: required                  # "25, desk job, no energy"
+      goal: required                         # what changed for them
+      timeframe: required                    # honest — "90 days" is the house default
+  duration_target_s:
+    required: true
+    min: 12
+    max: 22
+
+  segments:
+    required: true
+    count: { min: 5, max: 7 }
+    first: { type: hook }
+    last: { type: end_card }
+    must_include: [before, transformation, after, app_payoff]
+    each:
+      type:
+        enum: [hook, before, transformation, after, app_payoff, end_card]
+      duration_s:
+        min: 1.5
+        max: 4.5
+      text:
+        max_words: 12                        # on-screen text; "" allowed for silent reveals
+      visual:
+        kind:
+          enum: [before_still, after_still, footage, split, app_ui, end_card]
+        # hook.visual.kind must NOT be a flat card — before_still, footage,
+        # or app_ui only (quiz-card exception must be flagged in `notes`)
+        motion: optional                     # "slow push-in", "crossfade from before", etc.
+
+  assets:
+    required: true
+    before_prompt:
+      required: true
+      model: gpt_image_2                     # 9:16, amateur-phone-photo style (see prompt.md)
+    after_prompt:
+      required: true
+      model: nano_banana_2
+      identity_ref: before                   # MUST use --image <before> for same-person identity
+      note: "output 2048x2048 — center-crop to 9:16"
+    footage_prompts:
+      required: false                        # one per footage segment
+      model: seedance_2_0
+      flags: "--aspect_ratio 9:16 --resolution 1080p"   # mandatory; defaults are 16:9 720p
+
+  audio:
+    required: true
+    fields:
+      vibe: required                         # "calm lo-fi build, drop at the reveal"
+      source: required                       # licensed/trending track chosen at assembly
+
+  caption:
+    required: true
+    paragraphs: 3                            # insight / what changed + save nudge / Vibe pitch ending "→ link in bio"
+  hashtags:
+    required: true
+    count: 10
+    last: "#vibehealthapp"
+  youtube_title:
+    required: true
+    style: "plain, benefit-led, title case"
+
+output:
+  container: mp4
+  resolution: 1080x1920
+  fps: 30                                   # conform 24fps Seedance footage
+  pixel_format: yuv420p
+  codec: libx264 crf 18
+  destination: "vibe-carousels/reels/<key>.mp4"   # private media via symlink; never committed

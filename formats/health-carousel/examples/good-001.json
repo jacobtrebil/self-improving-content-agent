@@ -1,0 +1,58 @@
+{
+  "key": "04-hit-your-protein",
+  "theme": "health",
+  "eyebrow": "Protein",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "How to actually hit your *protein goal*.",
+      "sub": "Most people miss it by 40g a day. Here's the fix — no shakes required.",
+      "bg": "ai-bg/04-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Step 01",
+      "title": "Anchor every meal",
+      "body": "Build each plate around a *protein source* first. Let carbs and fats fill the gaps."
+    },
+    {
+      "type": "content",
+      "kicker": "Step 02",
+      "title": "Know your number",
+      "body": "Aim for *0.7–1g per lb* of goal bodyweight. Most people are nowhere close."
+    },
+    {
+      "type": "content",
+      "kicker": "Step 03",
+      "title": "Front-load breakfast",
+      "body": "*30g at breakfast* kills cravings and makes the rest of the day easy."
+    },
+    {
+      "type": "content",
+      "kicker": "Step 04",
+      "title": "Keep easy wins stocked",
+      "body": "Greek yogurt, eggs, chicken, tofu, jerky. *Boring beats nothing.*"
+    },
+    {
+      "type": "content",
+      "kicker": "Step 05",
+      "title": "Track it for one week",
+      "body": "You can't fix what you can't see. *One week of logging* is genuinely eye-opening."
+    },
+    {
+      "type": "cta",
+      "title": "Hit it *without the guesswork*.",
+      "body": "Snap your meals and Vibe Health counts your protein for you — so you actually hit the number.",
+      "button": "Download Vibe Health →",
+      "tag": "hit your number, automatically",
+      "bg": "ai-bg/04-cta.png"
+    }
+  ],
+  "caption": "Most people miss their protein by ~40g a day and wonder why they're always hungry. 🍗\n\nAnchor every meal, front-load breakfast, keep easy wins stocked. No shakes required. Save this. 🔖\n\nSnap your meals and Vibe counts your protein for you → link in bio.",
+  "hashtags": ["#protein", "#highprotein", "#proteingoals", "#fitnesstips", "#healthylifestyle", "#caloriedeficit", "#nutrition", "#healthapp", "#weightlosstips", "#vibehealthapp"],
+  "youtube_title": "How to Actually Hit Your Protein Goal",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A fit man plating a simple high-protein meal — grilled chicken and eggs — in a dim kitchen, side light catching the steam.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a fork lifting food from a well-built plate, hard rim light on the texture."
+  }
+}

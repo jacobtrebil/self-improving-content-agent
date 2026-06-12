@@ -1,0 +1,61 @@
+{
+  "key": "reel-11-nothing-stuck",
+  "theme": "before-after-reel",
+  "persona": {
+    "description": "male, 25, desk job, has tried and quit every diet",
+    "goal": "stopped restarting — tracked one daily score instead of five apps",
+    "timeframe": "90 days"
+  },
+  "duration_target_s": 17,
+  "segments": [
+    {
+      "type": "hook",
+      "duration_s": 2.0,
+      "text": "He tried everything. Nothing stuck.",
+      "visual": { "kind": "before_still", "motion": "slow push-in" }
+    },
+    {
+      "type": "before",
+      "duration_s": 3.0,
+      "text": "Day 1. No plan. No energy.",
+      "visual": { "kind": "before_still", "motion": "hold, slight handheld drift" }
+    },
+    {
+      "type": "transformation",
+      "duration_s": 3.0,
+      "text": "Then he tracked one score instead of five apps.",
+      "visual": { "kind": "app_ui", "motion": "Health Score screen, score ticking up" }
+    },
+    {
+      "type": "after",
+      "duration_s": 3.5,
+      "text": "Day 90. Same guy. New habits.",
+      "visual": { "kind": "after_still", "motion": "crossfade from before, then hold" }
+    },
+    {
+      "type": "app_payoff",
+      "duration_s": 3.0,
+      "text": "It just shows you what to fix.",
+      "visual": { "kind": "app_ui", "motion": "coach chat mockup, one nudge message" }
+    },
+    {
+      "type": "end_card",
+      "duration_s": 2.5,
+      "text": "Download Vibe Health",
+      "visual": { "kind": "end_card" }
+    }
+  ],
+  "assets": {
+    "before_prompt": "unedited amateur photo taken on a phone, slightly grainy, harsh overhead fluorescent lighting, realistic ordinary body, imperfect skin with natural texture, candid slightly awkward posture, no retouching, no studio lighting, muted colors, looks like a real photo posted on reddit. A tired 25-year-old man in a wrinkled t-shirt taking a mirror selfie in a cluttered bedroom at night, soft around the middle, flat expression.",
+    "after_prompt": "Keep the EXACT same person, face, and identity as the reference. Same location and framing, same amateur phone-photo quality. Believable result of 90 days of consistent training — NOT a fitness model; still has natural soft spots, just visibly leaner and healthier. Same mirror selfie, room slightly tidier, shirt fits better, shoulders back, small genuine smile.",
+    "footage_prompts": []
+  },
+  "audio": {
+    "vibe": "quiet lo-fi build that opens up at the day-90 crossfade",
+    "source": "licensed/trending track chosen at assembly, muxed with -shortest"
+  },
+  "caption": "He didn't need another diet. He needed to see the whole picture in one place. 📊\n\n90 days of tracking sleep, food, water & steps as one score. No perfect weeks — just never two bad days in a row. Save this if you keep restarting. 🔖\n\nVibe Health turns it all into one daily score that shows you what to fix → link in bio.",
+  "hashtags": ["#transformation", "#beforeandafter", "#healthjourney", "#habits", "#90daychallenge", "#consistency", "#weightlossjourney", "#selfimprovement", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "90 Days of Tracking One Score Changed Everything",
+  "notes": "Reveal beat (after segment) carries the audio drop; keep reveal text minimal."
+}
