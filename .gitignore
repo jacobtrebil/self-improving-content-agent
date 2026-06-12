@@ -1,0 +1,31 @@
+# OS noise
+.DS_Store
+
+# Claude Code runtime state
+.claude/scheduled_tasks.lock
+
+# Local-only config — real Postiz channel IDs (see config/posting.yaml)
+config/*.local.yaml
+
+# Local-only operational records — live post IDs from schedule runs
+vibe-carousels/scheduled_*.tsv
+vibe-carousels/*.local.tsv
+
+# Media never enters the public repo.
+# Bulk assets and finals live in ../slideshows-media (symlinked below);
+# per-deck slide PNGs / ai-bg PNGs are render outputs, regenerated locally.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.MOV
+
+# Symlinks into the private ../slideshows-media folder
+/Vibe Health Assets
+/vibe-carousels/reels
+/vibe-carousels/shorts
+/vibe-carousels/animal-transformations
+/vibe-carousels/_backup_bfaf_originals

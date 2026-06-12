@@ -1,0 +1,58 @@
+# Generation model routing — Higgsfield CLI (`higgsfield generate create <model> ... --wait --json`)
+# Auth: `higgsfield auth login`. All jobs: retry on transient HTTP 502 (backoff 20-60s).
+
+images:
+  photoreal_people:
+    model: gpt_image_2
+    params: { aspect_ratio: "9:16", quality: high, resolution: 2k }
+    use_for: candid people photos, scene stills (gym, bedroom, kitchen)
+    prompt_style: >
+      unedited amateur photo taken on a phone, slightly grainy, harsh overhead
+      fluorescent lighting, realistic ordinary body, imperfect skin with
+      natural texture, candid slightly awkward posture, no retouching, no
+      studio lighting, muted colors, looks like a real photo posted on reddit
+    never: studio lighting, glossy abs, fitness-model perfection, cinematic grading
+
+  identity_consistent_edit:
+    model: nano_banana_2
+    inputs: --image <reference photo>
+    use_for: before/after pairs, same-person variations
+    caveats:
+      - Returns 2048x2048 square regardless of reference ratio — center-crop
+        to 9:16 (subjects are centered) or compose into a card layout.
+    prompt_style: >
+      Keep the EXACT same person, face, and identity as the reference. Same
+      location and framing, same amateur phone-photo quality. Believable
+      result of 90 days of consistent training — NOT a fitness model; still
+      has natural soft spots, just visibly leaner and healthier.
+
+video:
+  image_to_video:
+    model: seedance_2_0
+    inputs: --start-image <still>
+    params: { aspect_ratio: "9:16", resolution: 1080p, duration: 4-15 }
+    caveats:
+      - MUST pass aspect_ratio + resolution explicitly — defaults are 16:9 720p
+        even with a portrait start image.
+      - Output is 24fps; conform to 30fps when cutting into reels.
+    prompt_style: >
+      static handheld phone video, subtle camera shake like someone filming
+      casually, natural movement, no cuts, no zoom, realistic ordinary footage
+
+analysis:
+  virality:
+    model: brain_activity   # customer-facing name: Virality Predictor
+    inputs: --video <finished mp4>
+    use_for: pre-publish hook/retention scoring of finished reels
+
+rendering:   # non-AI deterministic pipeline
+  frames: HTML (1080x1920) -> headless Chrome screenshot
+  chrome_flags: "--headless=new --window-size=1080,1920 --hide-scrollbars --force-device-scale-factor=1"
+  transparent_overlays: add --default-background-color=00000000 (notifications, captions)
+  segments: ffmpeg, 30fps, libx264 crf 18, yuv420p; concat demuxer per list.txt; mux original audio with -shortest
+  gotchas:
+    - ffmpeg zoompan on a `-loop 1` input multiplies frames; feed a
+      single-frame input and cap with `-frames:v N` instead.
+    - sed `&` in a replacement expands to the matched text (breaks HTML
+      entities) — use python/printf for templating.
+    - zsh aborts `&&` chains on unmatched globs (nomatch).

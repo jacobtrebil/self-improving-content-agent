@@ -1,0 +1,82 @@
+# Vibe Health — brand rules
+# Canonical source for naming, assets, colors, voice, and visual rules.
+
+brand:
+  name: Vibe Health
+  product: AI health coach app
+  domain: vibehealthapp.com
+  cta_default: vibehealthapp.com
+  taglines:
+    primary: your AI health coach
+    end_card_lines:   # one per reel/campaign, rotate — never invent medical claims
+      - brutally honest. always right.
+      - the coach that never logs off.
+      - training. nutrition. sleep. one coach.
+      - make that number rise.
+      - the coach you can't ghost.
+      - it even knows about the fridge.
+      - know your number.
+      - find your fastest +10.
+      - your turn.
+
+assets:
+  # "Vibe Health Assets/" is a gitignored symlink to ../slideshows-media/assets
+  logo: "Vibe Health Assets/vibe-health-logo.webp"   # black wordmark, transparent bg, 1080x505
+  icon: "Vibe Health Assets/icon.png"                # broccoli mark on mint gradient, 1024x1024
+  # Derived variants (regenerate from the two sources above if missing):
+  #   logo-black / logo-white / logo-green (recolor alpha-preserving)
+  #   icon-circle (avatar crops), icon-rounded (iOS squircle, 22.5% radius — notifications)
+  app_screens: "Vibe Health Assets/"                 # app-screen.png, health-coach/score .MOV captures
+
+colors:
+  green: "#22c55e"        # primary brand green (CTAs, accents, em text)
+  green_dark: "#15803d"   # dark green text on light backgrounds
+  ink: "#06230f"          # near-black green — text on brand-green backgrounds
+  deep_green: "#0e3b24"   # deep green card background (white text on top)
+  mint_gradient: ["#f6fcf8", "#e2f4e9", "#cdeeda"]  # end cards, light hooks
+  paper: "#f4f4f5"        # light card background
+  black: "#0a0a0a"        # CTA pills, body text on light — NEVER as a hook background
+
+typography:
+  family: "-apple-system, BlinkMacSystemFont, sans-serif"
+  headline_weight: 850-900
+  body_weight: 500-700
+
+logo_usage:
+  - Always use the real logo image (wordmark with the stylized B) — never type
+    "VIBE HEALTH" in a plain font as a logo substitute.
+  - Black logo on light/mint/green backgrounds; white variant on dark imagery.
+  - The broccoli icon is the app identity in UI mockups: chat avatars (circle
+    crop), push notifications (squircle crop), end cards.
+
+end_card:
+  background: mint_gradient
+  elements: [icon (squircle, ~170px), logo (black, ~640px), tagline, campaign line (green_dark), CTA pill (black bg, white text)]
+
+visual_rules:
+  hooks:
+    # Hook = the opening frame. It decides the scroll-stop.
+    - A hook must be a real visual — candid photo, footage, or a recognizable
+      UI mockup (Photos folder grid, iMessage thread, lockscreen over footage).
+    - NEVER a plain/flat color background with text. Not black, and not flat
+      brand green/mint either.
+    - Exception: quiz-style hooks may use a flat card.
+    - Text over imagery gets a dark scrim (40-60%) and text shadows.
+  people:
+    - All people must look realistic, never AI-glossy. Target look: unedited
+      amateur phone photo — grainy, harsh fluorescent gym light, ordinary soft
+      bodies, imperfect skin, awkward candid posture, muted colors.
+    - Before/after pairs must be the same person (identity-reference
+      generation) and show BELIEVABLE 90-day progress — leaner and healthier,
+      not a fitness-model transformation.
+  ui_mockups:
+    - iMessage chats: light mode, broccoli circle avatar, "Coach (Vibe)" header.
+    - Notifications: dark card, broccoli squircle icon, "VIBE HEALTH" app name.
+    - App screens use real captures from "Vibe Health Assets/".
+
+voice:
+  - Plain language, lowercase-casual hooks, short punchy lines.
+  - Coach persona: direct, dry, a little cocky, never mean ("You said that on Tuesday.").
+  - Favor curiosity, transformation, and concrete visual payoff.
+  - No cringe AI-sounding phrasing; no unsupported medical claims.
+  - Health outcomes phrased as "may help" / "can support" / "designed to".

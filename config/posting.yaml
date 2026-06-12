@@ -1,0 +1,60 @@
+# Posting & scheduling rules — Postiz is the scheduler for all platforms.
+
+policy:
+  - NEVER schedule, reschedule, or delete posts unless explicitly asked.
+  - Generation and rendering are always safe; publishing is always a human call.
+  - Scheduling a post publishes externally — confirm campaign, dates, and
+    captions before running any schedule script.
+
+scheduler:
+  tool: postiz   # `postiz upload <file>` then create post against integration
+  # Channel IDs are NOT committed. Real IDs live in config/posting.local.yaml
+  # (gitignored, flat `key: id` format). Recreate it via `postiz integrations:list`.
+  integrations:  # all 5 connected Vibe Health channels — IDs in posting.local.yaml
+    instagram:
+      key: instagram
+      handle: vibehealthapp
+      name: Vibe Health - AI Coach
+    tiktok_main:
+      key: tiktok_main
+      handle: vibehealthapp
+      name: vibehealthapp
+    tiktok_alt:
+      key: tiktok_alt
+      handle: vibehealthapp4
+      name: user3613913045948
+      note: original channel — existing schedule scripts still target this one
+    youtube_main:
+      key: youtube_main
+      handle: "@vibehealthapp"
+      name: Vibe
+    youtube_alt:
+      key: youtube_alt
+      handle: "@vibe-w7c"
+      name: Vibe Health App
+      note: original channel — existing schedule scripts still target this one
+
+cadence:
+  default: 1 post per deck per platform per day
+  time_utc: "17:00"          # 12 PM CDT — the slot used by every campaign so far
+  same_content_same_day: true # IG + TikTok + YouTube get the same deck on the same date
+
+captions:
+  source: vibe-carousels/CAPTIONS.md   # per-deck captions + hashtags
+  rules:
+    - Caption/date/settings are preserved when re-uploading media to an
+      existing scheduled post (see reschedule_tt.sh pattern).
+    - YouTube additionally needs a per-video title (plain, benefit-led —
+      see schedule_youtube.sh ROWS).
+    - Never reuse the exact same hook twice in one campaign.
+
+per_platform_media:
+  instagram: 4:5 PNGs (no suffix)
+  tiktok: 9:16 PNGs (-tt suffix) or 9:16 MP4 reels
+  youtube: 9:16 MP4s (shorts/)
+
+reference_scripts:   # working examples of the full upload+schedule flow
+  - vibe-carousels/schedule_ig.sh
+  - vibe-carousels/reschedule_tt.sh
+  - vibe-carousels/schedule_youtube.sh
+  - vibe-carousels/schedule_looksmax.sh

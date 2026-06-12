@@ -1,0 +1,51 @@
+# Platform constraints — where each rendered artifact goes and in what shape.
+
+video:   # reels / shorts (vibe-carousels/reels, vibe-carousels/shorts)
+  resolution: 1080x1920
+  aspect_ratio: "9:16"
+  fps: 30
+  codec: h264 (libx264, crf 18, yuv420p)
+  audio: aac
+  duration_seconds: { min: 12, target: 15-20, max: 60 }
+  notes:
+    - Keep total duration locked to the audio track when re-editing; mux
+      audio from the existing final and verify segment sums match.
+
+carousels:   # vibe-carousels/<NN>-<slug> decks, generated from build.js
+  instagram:
+    aspect_ratio: "4:5"
+    css_size: 1080x1350
+    final_png: 2160x2700        # Chrome renders at 2x device scale
+    file_suffix: ""             # slide-01.png
+  tiktok:
+    aspect_ratio: "9:16"
+    css_size: 1080x1920
+    final_png: 2160x3840
+    file_suffix: "-tt"          # slide-01-tt.png  (FMT=tt node build.js)
+  youtube_shorts:
+    source: 9:16 PNGs stitched to MP4 via build_shorts.sh (crossfades)
+  rule: >
+    Each deck ships in BOTH ratios — TikTok cover-crops 4:5 and clips
+    headlines; Instagram feed wants 4:5. Never cross-post the wrong ratio.
+
+platforms:
+  tiktok:
+    formats: [video, carousel-9:16]
+    settings:   # used by reschedule_tt.sh
+      privacy_level: PUBLIC_TO_EVERYONE
+      duet: false
+      stitch: false
+      comment: true
+      autoAddMusic: "yes"
+      content_posting_method: DIRECT_POST
+  instagram:
+    formats: [reels, carousel-4:5]
+    post_type: post
+  youtube:
+    formats: [shorts]
+    needs: per-video title (see schedule_youtube.sh ROWS for style)
+
+first_frame:
+  # The first frame is the cover/thumbnail on every platform.
+  - Must satisfy brand.yaml visual_rules.hooks (real visual, no flat color).
+  - Must read at thumbnail size: hook text large, high contrast.
