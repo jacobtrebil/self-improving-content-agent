@@ -42,6 +42,7 @@ format/campaign carries its own local instructions.
 | `formats/` | Format definitions (`format.md`, `schema.yaml`, `validation.md`) |
 | `Vibe Health Assets/` | Symlink into the private media folder (brand assets) — see below |
 | `vibe-carousels/` | Carousel deck sources (HTML/JS) and the build/schedule scripts |
+| `dashboard/` | Pulls Postiz analytics and segments performance by format & account (`node dashboard/build.js`) |
 
 ## Private files (not in this repo)
 
