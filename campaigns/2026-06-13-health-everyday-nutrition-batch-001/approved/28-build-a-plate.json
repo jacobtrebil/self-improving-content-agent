@@ -1,0 +1,21 @@
+{
+  "key": "28-build-a-plate",
+  "theme": "health",
+  "eyebrow": "Nutrition",
+  "slides": [
+    { "type": "cover", "title": "Build a balanced plate *without counting*.", "sub": "No app, no scale. Just your hand and a simple rule that works anywhere.", "bg": "ai-bg/28-cover.png" },
+    { "type": "content", "kicker": "Protein", "title": "A palm of protein", "body": "Start with a *palm-sized* portion of protein at every meal. Build the plate around it." },
+    { "type": "content", "kicker": "Veggies", "title": "Fill half the plate", "body": "Pile on *vegetables* — half the plate. Volume, fiber, and almost no calories." },
+    { "type": "content", "kicker": "Carbs", "title": "A cupped hand of carbs", "body": "Rice, potatoes, pasta — about a *cupped handful*. Enough to fuel, not flood." },
+    { "type": "content", "kicker": "Fats", "title": "A thumb of fats", "body": "Oils, nuts and cheese add up fast. A *thumb-sized* portion keeps them in check." },
+    { "type": "content", "kicker": "Adjust", "title": "Scale to your goal", "body": "Losing fat? *Smaller carbs, more veg.* Building? Add a second carb. Same simple plate." },
+    { "type": "cta", "title": "Eyeball it. *Nail it.*", "body": "Snap your plate and Vibe Health estimates the portions — so you can check your eye against the numbers over time.", "button": "Download Vibe Health →", "tag": "balanced plates, no scale", "bg": "ai-bg/28-cta.png" }
+  ],
+  "caption": "You don't need a food scale to eat well — you need your hand. ✋\n\nPalm of protein, half a plate of veg, a cupped hand of carbs, a thumb of fats. Save this and build every plate by eye. 🔖\n\nSnap a plate and Vibe Health checks your portions for you → link in bio.",
+  "hashtags": ["#portioncontrol", "#balancedplate", "#nutrition", "#healthyeating", "#weightlosstips", "#handportions", "#healthylifestyle", "#nutritiontips", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Build a Balanced Plate Without Counting Calories",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person assembling a balanced plate of protein, vegetables and rice, hands portioning the food.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A hand held beside a finished plate showing palm-sized portions, simple and clear under side light."
+  }
+}

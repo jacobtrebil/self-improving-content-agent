@@ -1,0 +1,21 @@
+{
+  "key": "31-cardio-vs-lifting",
+  "theme": "health",
+  "eyebrow": "Training",
+  "slides": [
+    { "type": "cover", "title": "Cardio or lifting *for fat loss*?", "sub": "Everyone argues about it. The real answer is simpler than the internet makes it.", "bg": "ai-bg/31-cover.png" },
+    { "type": "content", "kicker": "The truth", "title": "Diet drives fat loss", "body": "Neither burns much next to your fork. *The deficit* is where fat loss actually happens." },
+    { "type": "content", "kicker": "Lifting", "title": "Lifting keeps muscle", "body": "In a deficit, *strength training* keeps the weight you lose fat, not muscle." },
+    { "type": "content", "kicker": "Cardio", "title": "Cardio adds a deficit", "body": "Cardio *burns extra calories* and helps your heart. A useful tool, not the main one." },
+    { "type": "content", "kicker": "Steps", "title": "Don't forget walking", "body": "Daily steps quietly burn *more than your workout* with zero recovery cost." },
+    { "type": "content", "kicker": "Do both", "title": "Lift, then walk", "body": "*Lift 2–4x a week*, walk daily, add cardio you enjoy. That's the whole formula." },
+    { "type": "cta", "title": "Train smart. *Lose fat.*", "body": "Vibe Health rolls your steps, food & sleep into one score — so your training actually adds up to results.", "button": "Download Vibe Health →", "tag": "training that counts", "bg": "ai-bg/31-cta.png" }
+  ],
+  "caption": "Cardio vs lifting is the wrong fight. Your fork settles it. 🏋️\n\nDiet drives the deficit, lifting protects muscle, cardio and steps help. Do all four, stop overthinking. Save this. 🔖\n\nVibe Health rolls your steps, food & sleep into one score → link in bio.",
+  "hashtags": ["#fatloss", "#cardio", "#weightlifting", "#strengthtraining", "#weightlosstips", "#fitness", "#healthylifestyle", "#caloriedeficit", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Cardio vs Lifting for Fat Loss: What Actually Works",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person mid-set lifting a dumbbell in a dim home gym, focused, real effort.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. The same person walking outdoors after training, relaxed, light across their face."
+  }
+}

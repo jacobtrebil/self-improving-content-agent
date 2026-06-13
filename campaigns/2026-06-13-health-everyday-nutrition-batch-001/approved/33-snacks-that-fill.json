@@ -1,0 +1,21 @@
+{
+  "key": "33-snacks-that-fill",
+  "theme": "health",
+  "eyebrow": "Snacks",
+  "slides": [
+    { "type": "cover", "title": "Snacks that *actually fill you up*.", "sub": "Most snacks leave you hungry an hour later. These don't — and they're easy.", "bg": "ai-bg/33-cover.png" },
+    { "type": "content", "kicker": "The rule", "title": "Protein plus fiber", "body": "The most filling snacks pair *protein with fiber*. That combo actually holds you over." },
+    { "type": "content", "kicker": "Grab these", "title": "Yogurt and berries", "body": "*Greek yogurt and fruit* — protein, fiber, naturally sweet. Hard to beat." },
+    { "type": "content", "kicker": "Crunch fix", "title": "Apple and peanut butter", "body": "Swap chips for *apple and nut butter*. Same crunch, far more staying power." },
+    { "type": "content", "kicker": "Savory", "title": "Eggs or jerky", "body": "Keep *hard-boiled eggs or jerky* around. Pure protein when you need a fast win." },
+    { "type": "content", "kicker": "Veg + dip", "title": "Hummus and veggies", "body": "*Hummus with crunchy veg* gives you fiber and fat that actually satisfy." },
+    { "type": "cta", "title": "Snack smart. *Stay full.*", "body": "Snap your snacks and Vibe Health counts them too — so the little stuff stops adding up unseen.", "button": "Download Vibe Health →", "tag": "snacks that work for you", "bg": "ai-bg/33-cta.png" }
+  ],
+  "caption": "If your snack leaves you hungry in an hour, it was missing one thing: staying power. 🥜\n\nPair protein with fiber — yogurt and berries, apple and nut butter, hummus and veg. Save this for your next grocery run. 🔖\n\nSnap your snacks and Vibe Health counts them too → link in bio.",
+  "hashtags": ["#healthysnacks", "#snackideas", "#protein", "#fiber", "#weightlosstips", "#healthyeating", "#nutrition", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "5 Snacks That Actually Keep You Full",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person reaching for a healthy snack of yogurt and berries at a kitchen counter.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of apple slices with nut butter and a bowl of Greek yogurt, fresh and simple."
+  }
+}

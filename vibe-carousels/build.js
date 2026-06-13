@@ -396,6 +396,39 @@ const decks = {
   },
 };
 
+// --- merge in approved campaign specs --------------------------------------
+// Any carousel spec in campaigns/<camp>/approved/*.json renders automatically,
+// so new campaigns need no edits here. Cover/CTA backgrounds auto-attach from
+// ai-bg/<NN>-cover|cta.png (see the write loop below).
+function specToDeck(spec) {
+  return {
+    eyebrow: spec.eyebrow,
+    slides: (E, T) =>
+      spec.slides.map((s, i) => {
+        if (s.type === "cover") return cover({ eyebrow: E, title: s.title, sub: s.sub });
+        if (s.type === "cta")
+          return cta({ eyebrow: E, title: s.title, body: s.body, button: s.button, tag: s.tag });
+        return content({ eyebrow: E, idx: i + 1, total: T, kicker: s.kicker, title: s.title, body: s.body });
+      }),
+  };
+}
+const campRoot = path.join(__dirname, "..", "campaigns");
+if (fs.existsSync(campRoot)) {
+  for (const camp of fs.readdirSync(campRoot)) {
+    const appr = path.join(campRoot, camp, "approved");
+    if (!fs.existsSync(appr)) continue;
+    for (const f of fs.readdirSync(appr).filter((x) => x.endsWith(".json"))) {
+      try {
+        const spec = JSON.parse(fs.readFileSync(path.join(appr, f), "utf8"));
+        if (spec.theme !== "health" && spec.theme !== "looksmax") continue; // carousels only
+        if (!decks[spec.key]) decks[spec.key] = specToDeck(spec);
+      } catch (e) {
+        console.error(`skip ${camp}/${f}: ${e.message}`);
+      }
+    }
+  }
+}
+
 // --- write files -----------------------------------------------------------
 const root = __dirname;
 for (const [name, def] of Object.entries(decks)) {

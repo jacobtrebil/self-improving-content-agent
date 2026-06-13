@@ -1,0 +1,21 @@
+{
+  "key": "32-stress-and-fat",
+  "theme": "health",
+  "eyebrow": "Stress",
+  "slides": [
+    { "type": "cover", "title": "Stress is *stalling your progress*.", "sub": "You can eat clean and still feel stuck. Chronic stress quietly works against you.", "bg": "ai-bg/32-cover.png" },
+    { "type": "content", "kicker": "The hormone", "title": "Cortisol holds water", "body": "Stress raises *cortisol*, which makes you hold water and hides progress on the scale." },
+    { "type": "content", "kicker": "Cravings", "title": "Stress drives cravings", "body": "High stress pushes you toward *sugar and salt* — your body chasing a quick hit." },
+    { "type": "content", "kicker": "Sleep", "title": "Stress wrecks sleep", "body": "Stress and bad sleep *feed each other*, and both spike your hunger the next day." },
+    { "type": "content", "kicker": "Move it out", "title": "Walk it off", "body": "A daily walk *lowers cortisol* better than scrolling. Movement is a release valve." },
+    { "type": "content", "kicker": "Recover", "title": "Build in real rest", "body": "*Genuine downtime* — not just less work — is what actually brings stress back down." },
+    { "type": "cta", "title": "Lower stress. *Unstick progress.*", "body": "Vibe Health connects your sleep, steps & food to how you feel — so you can spot what stress is costing.", "button": "Download Vibe Health →", "tag": "calmer, and moving again", "bg": "ai-bg/32-cta.png" }
+  ],
+  "caption": "Eating clean but feeling stuck? Stress might be the missing variable. 😮‍💨\n\nCortisol holds water, fuels cravings, and wrecks sleep. Walk daily, build in real rest, and progress unsticks. Save this. 🔖\n\nVibe Health connects your sleep, steps & food to how you feel → link in bio.",
+  "hashtags": ["#stress", "#cortisol", "#weightlossplateau", "#wellness", "#sleep", "#healthylifestyle", "#mentalhealth", "#healthyhabits", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "How Stress Is Stalling Your Fat Loss",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A stressed person rubbing their temples at a cluttered desk, tense, low light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. The same person on a calm walk outside, shoulders down, breathing easy."
+  }
+}

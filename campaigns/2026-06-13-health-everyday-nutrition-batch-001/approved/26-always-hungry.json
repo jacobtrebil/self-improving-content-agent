@@ -1,0 +1,21 @@
+{
+  "key": "26-always-hungry",
+  "theme": "health",
+  "eyebrow": "Appetite",
+  "slides": [
+    { "type": "cover", "title": "Always hungry? *Here's why*.", "sub": "If you're hungry an hour after eating, the problem usually isn't willpower.", "bg": "ai-bg/26-cover.png" },
+    { "type": "content", "kicker": "Reason 1", "title": "Too little protein", "body": "Protein is the most *filling macro*. Skimp on it and the hunger comes right back." },
+    { "type": "content", "kicker": "Reason 2", "title": "Liquid calories", "body": "Drinks *don't trigger fullness*. You sip 300 calories and feel like you ate nothing." },
+    { "type": "content", "kicker": "Reason 3", "title": "You're under-slept", "body": "One short night spikes your *hunger hormones* the next day. It's biology, not weakness." },
+    { "type": "content", "kicker": "Reason 4", "title": "Not enough fiber", "body": "Refined carbs digest fast and leave you empty. *Fiber* is what keeps you satisfied." },
+    { "type": "content", "kicker": "Reason 5", "title": "Eating too fast", "body": "Fullness signals take *20 minutes*. Slow down and you'll need less to feel done." },
+    { "type": "cta", "title": "Get full and *stay full*.", "body": "Vibe Health shows how your meals, sleep & water affect your hunger — so you can fix the real cause.", "button": "Download Vibe Health →", "tag": "satisfied, not starving", "bg": "ai-bg/26-cta.png" }
+  ],
+  "caption": "Always hungry an hour after eating? It's rarely willpower. 🍽️\n\nLow protein, liquid calories, short sleep, no fiber, eating too fast — usually it's one of these five. Save this and check yourself. 🔖\n\nVibe Health ties your meals, sleep & water to your hunger → link in bio.",
+  "hashtags": ["#appetite", "#alwayshungry", "#protein", "#weightlosstips", "#nutrition", "#satiety", "#healthylifestyle", "#healthyhabits", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Why You're Always Hungry (And How to Fix It)",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person standing at an open fridge looking for something to eat, unsatisfied, low light on their face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. The same person at a table finishing a satisfying protein-rich meal, relaxed and full."
+  }
+}

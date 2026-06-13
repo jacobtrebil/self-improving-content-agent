@@ -1,0 +1,21 @@
+{
+  "key": "24-beat-the-3pm-crash",
+  "theme": "health",
+  "eyebrow": "Energy",
+  "slides": [
+    { "type": "cover", "title": "Beat the *3pm crash*.", "sub": "That afternoon slump isn't normal — and it's not about caffeine. Here's the real fix.", "bg": "ai-bg/24-cover.png" },
+    { "type": "content", "kicker": "The cause", "title": "Blood sugar spikes", "body": "A carb-heavy lunch *spikes then crashes* your blood sugar — and your energy crashes with it." },
+    { "type": "content", "kicker": "Anchor it", "title": "Add protein to lunch", "body": "*Protein and fiber* slow the spike, so your energy stays level into the afternoon." },
+    { "type": "content", "kicker": "Move", "title": "Take a 10-minute walk", "body": "A short walk after eating *blunts the spike* and wakes you up better than coffee." },
+    { "type": "content", "kicker": "Hydrate", "title": "You might be thirsty", "body": "Mild dehydration reads as *fatigue and fog*. A glass of water often fixes the dip." },
+    { "type": "content", "kicker": "Last night", "title": "It starts with sleep", "body": "Short sleep makes the crash *hit harder*. The afternoon slump often begins the night before." },
+    { "type": "cta", "title": "Steady energy, *all day*.", "body": "Vibe Health ties your food, water & sleep to how you feel — so you can see what's draining you.", "button": "Download Vibe Health →", "tag": "steady energy, tracked", "bg": "ai-bg/24-cta.png" }
+  ],
+  "caption": "That 3pm slump isn't a caffeine problem — it's a blood-sugar one. ☕️\n\nAnchor lunch with protein, walk for 10 minutes, drink water, and protect your sleep. Save this for tomorrow afternoon. 🔖\n\nVibe Health ties your food, water & sleep to how you actually feel → link in bio.",
+  "hashtags": ["#energy", "#afternoonslump", "#bloodsugar", "#healthylifestyle", "#nutritiontips", "#wellness", "#energyboost", "#healthyhabits", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "How to Beat the 3PM Energy Crash",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person slumped tired at a desk in late-afternoon light, eyes heavy, a cold coffee beside them.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. The same person walking outside looking alert and clear-headed, light across their face."
+  }
+}

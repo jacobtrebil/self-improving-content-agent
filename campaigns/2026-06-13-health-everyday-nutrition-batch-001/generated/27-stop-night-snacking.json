@@ -1,0 +1,21 @@
+{
+  "key": "27-stop-night-snacking",
+  "theme": "health",
+  "eyebrow": "Habits",
+  "slides": [
+    { "type": "cover", "title": "Stop the *late-night snacking*.", "sub": "It's rarely real hunger. Here's what's actually driving the 10pm fridge raid.", "bg": "ai-bg/27-cover.png" },
+    { "type": "content", "kicker": "The real cause", "title": "You under-ate all day", "body": "Skipping meals leaves a *calorie gap* your body comes to collect at night." },
+    { "type": "content", "kicker": "Front-load", "title": "Eat enough by dinner", "body": "Get *protein and fiber* across the day and the night cravings quietly fade." },
+    { "type": "content", "kicker": "Name it", "title": "It's a habit loop", "body": "Night snacking is often *boredom or stress*, not hunger. Spot the trigger first." },
+    { "type": "content", "kicker": "Swap it", "title": "Keep it satisfying", "body": "If you do snack, reach for *protein, not chips* — it actually ends the craving." },
+    { "type": "content", "kicker": "Wind down", "title": "Give the day an end", "body": "A *set bedtime* closes the kitchen. Most late snacking is just being awake too long." },
+    { "type": "cta", "title": "End the night raids *for good*.", "body": "Vibe Health logs your whole day, so you can see the under-eating that drives night cravings — and fix it.", "button": "Download Vibe Health →", "tag": "calmer nights, tracked", "bg": "ai-bg/27-cta.png" }
+  ],
+  "caption": "The 10pm fridge raid usually isn't hunger — it's the day catching up to you. 🌙\n\nEat enough earlier, name the real trigger, set a bedtime. The cravings fade faster than you'd think. Save this. 🔖\n\nVibe Health shows the under-eating behind your night cravings → link in bio.",
+  "hashtags": ["#latenightsnacking", "#cravings", "#habits", "#weightlosstips", "#nutrition", "#mindfuleating", "#healthylifestyle", "#healthyhabits", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "How to Stop Late-Night Snacking",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person lit only by an open fridge at night, reaching for a snack in a dark kitchen.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. The same person switching off the kitchen light and heading to bed, calm and settled."
+  }
+}

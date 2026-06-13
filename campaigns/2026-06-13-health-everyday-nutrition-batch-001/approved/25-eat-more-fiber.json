@@ -1,0 +1,21 @@
+{
+  "key": "25-eat-more-fiber",
+  "theme": "health",
+  "eyebrow": "Fiber",
+  "slides": [
+    { "type": "cover", "title": "You're not eating *enough fiber*.", "sub": "Most people get half of what they need — and it's quietly behind the hunger and bloat.", "bg": "ai-bg/25-cover.png" },
+    { "type": "content", "kicker": "Why it matters", "title": "Fiber keeps you full", "body": "Fiber *slows digestion*, so you stay full longer and snack less without trying." },
+    { "type": "content", "kicker": "The target", "title": "Aim for 25–35g", "body": "Most people get *half that*. Closing the gap changes your hunger and energy fast." },
+    { "type": "content", "kicker": "Easy win", "title": "Eat the whole thing", "body": "Skip the juice, eat the *whole fruit*. The skin and pulp are where the fiber lives." },
+    { "type": "content", "kicker": "Build it in", "title": "Add beans and oats", "body": "*Beans, oats and lentils* are the cheapest fiber there is. One serving moves the needle." },
+    { "type": "content", "kicker": "Go slow", "title": "Ramp up gradually", "body": "Add fiber *slowly, with water*, or your gut will protest. Give it a week to adjust." },
+    { "type": "cta", "title": "Full longer, *effortlessly*.", "body": "Vibe Health breaks down your meals so you can see your fiber — not just calories — and actually hit it.", "button": "Download Vibe Health →", "tag": "more fiber, less guesswork", "bg": "ai-bg/25-cta.png" }
+  ],
+  "caption": "Most people eat half the fiber they need and wonder why they're always snacky. 🌾\n\nEat whole fruit, add beans and oats, ramp up slowly. It's the most underrated fullness hack there is. Save this. 🔖\n\nVibe Health shows your fiber, not just your calories → link in bio.",
+  "hashtags": ["#fiber", "#guthealth", "#nutrition", "#healthyeating", "#fullness", "#digestion", "#healthylifestyle", "#nutritiontips", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Why You're Not Eating Enough Fiber",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person at a kitchen counter assembling a bowl of oats, beans and fruit, hands in frame.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a fiber-rich bowl of oats, berries and seeds, textures sharp under side light."
+  }
+}

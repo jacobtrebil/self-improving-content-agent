@@ -1,0 +1,21 @@
+{
+  "key": "29-meal-prep-hour",
+  "theme": "health",
+  "eyebrow": "Meal prep",
+  "slides": [
+    { "type": "cover", "title": "Meal prep a week in *one hour*.", "sub": "You don't need 15 containers and a Sunday gone. Just a system that scales.", "bg": "ai-bg/29-cover.png" },
+    { "type": "content", "kicker": "Pick a base", "title": "Cook one big protein", "body": "Roast a *tray of chicken or tofu* once. It anchors your lunches all week." },
+    { "type": "content", "kicker": "Batch carbs", "title": "One pot, done", "body": "Make a big batch of *rice or potatoes* while the protein cooks. Zero extra effort." },
+    { "type": "content", "kicker": "Veg too", "title": "Roast a sheet pan", "body": "One *sheet of vegetables* in the same oven. Mix and match them all week." },
+    { "type": "content", "kicker": "Don't repeat", "title": "Build different bowls", "body": "Same three components, *different sauces* — so it never feels like leftovers." },
+    { "type": "content", "kicker": "Keep it fresh", "title": "Prep, don't plate", "body": "Store components separately and *assemble fresh*. Nothing goes soggy by Thursday." },
+    { "type": "cta", "title": "Eat well, *all week*.", "body": "Snap each bowl and Vibe Health logs it in seconds — so a week of prep stays a week of tracking.", "button": "Download Vibe Health →", "tag": "a week sorted in an hour", "bg": "ai-bg/29-cta.png" }
+  ],
+  "caption": "Meal prep doesn't mean 15 identical containers. It means one smart hour. ⏱️\n\nBatch a protein, a carb and a sheet of veg, then remix with sauces all week. Save this for Sunday. 🔖\n\nSnap each bowl and Vibe Health logs it in seconds → link in bio.",
+  "hashtags": ["#mealprep", "#mealprepideas", "#healthyeating", "#nutrition", "#batchcooking", "#healthylifestyle", "#weightlosstips", "#mealpreptips", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Meal Prep a Whole Week in One Hour",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person batch-cooking, trays of chicken and vegetables on the counter in a home kitchen.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Rows of prepped meal components in glass containers, neat and ready, side light."
+  }
+}

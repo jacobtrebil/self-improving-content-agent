@@ -1,0 +1,21 @@
+{
+  "key": "30-eat-out-smart",
+  "theme": "health",
+  "eyebrow": "Eating out",
+  "slides": [
+    { "type": "cover", "title": "Eat out *without the guilt*.", "sub": "Restaurants don't have to wreck your week. A few moves keep you on track.", "bg": "ai-bg/30-cover.png" },
+    { "type": "content", "kicker": "Plan ahead", "title": "Check the menu first", "body": "Decide before you're hungry. *Pick your meal* on the way, not at the table." },
+    { "type": "content", "kicker": "Anchor it", "title": "Lead with the protein", "body": "Order a *protein and veg* base, then add from there — not from the bread basket." },
+    { "type": "content", "kicker": "Halve it", "title": "Box half up front", "body": "Portions are huge. *Box half* before you start and dinner becomes tomorrow's lunch." },
+    { "type": "content", "kicker": "Drinks count", "title": "Watch the liquid calories", "body": "Cocktails and sodas *add up fast*. Alternate with water and you barely notice." },
+    { "type": "content", "kicker": "Don't restrict", "title": "Enjoy it, then move on", "body": "One meal won't undo a week. *Enjoy it fully* and get right back to normal." },
+    { "type": "cta", "title": "Eat out. *Stay on track.*", "body": "Snap the meal and Vibe Health estimates it — so a night out is a data point, not a derailment.", "button": "Download Vibe Health →", "tag": "nights out, handled", "bg": "ai-bg/30-cta.png" }
+  ],
+  "caption": "Eating out isn't the problem. Going in with no plan is. 🍝\n\nCheck the menu first, lead with protein, box half, watch the drinks — then actually enjoy it. Save this before your next dinner. 🔖\n\nSnap the meal and Vibe Health estimates it for you → link in bio.",
+  "hashtags": ["#eatingout", "#restauranttips", "#weightlosstips", "#nutrition", "#healthylifestyle", "#mindfuleating", "#balance", "#healthyhabits", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "How to Eat Out Without Wrecking Your Progress",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person at a restaurant table reading the menu thoughtfully in warm low light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A well-chosen restaurant plate of protein and vegetables, the person relaxed and happy behind it."
+  }
+}

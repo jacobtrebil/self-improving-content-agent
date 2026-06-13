@@ -17,6 +17,10 @@ dashboard/dashboard.html
 # Manually-logged posts the Postiz API doesn't return (live metrics, local-only)
 dashboard/*.local.tsv
 
+# Campaigns: commit briefs/specs/decisions + results; never the live post IDs.
+# (rendered/ media is already covered by the media globs above.)
+campaigns/**/scheduled.tsv
+
 # Media never enters the public repo.
 # Bulk assets and finals live in ../slideshows-media (symlinked below);
 # per-deck slide PNGs / ai-bg PNGs are render outputs, regenerated locally.
