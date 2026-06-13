@@ -31,8 +31,11 @@ for row in "${ROWS[@]}"; do
   for n in 01 02 03 04 05 06 07; do
     f="$dir/slide-${n}-tt.png"
     [ -f "$f" ] || { echo "✗ $dir: missing $f"; ok=0; break; }
-    u=$(upload_path "$f")
-    [ -n "$u" ] || { echo "✗ $dir: upload failed for $f"; ok=0; break; }
+    # TikTok rejects photos >1080p; downscale the 2x master to 1080x1920 first.
+    f1080="$dir/slide-${n}-tt1080.png"
+    sips -z 1920 1080 "$f" --out "$f1080" >/dev/null 2>&1 || { echo "✗ $dir: resize failed $f"; ok=0; break; }
+    u=$(upload_path "$f1080")
+    [ -n "$u" ] || { echo "✗ $dir: upload failed for $f1080"; ok=0; break; }
     urls="${urls:+$urls,}$u"
   done
   [ "$ok" = 1 ] || { echo "✗ $dir: aborting, old post kept"; continue; }

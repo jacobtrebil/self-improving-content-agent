@@ -9,8 +9,13 @@ fixed, not rendered.
       word/highlight limits respected.
 - [ ] Cover and CTA each declare a `bg` image and a matching `bg_prompts`
       entry exists. **A hook on a flat color card is an automatic fail.**
-- [ ] Hook is not a reuse: cover title shares no main phrase with any deck in
-      `vibe-carousels/build.js` or the current campaign.
+- [ ] Uniqueness — not the same as a previously-made carousel in this format.
+      `formats/validate.js` checks every spec against the corpus of prior decks
+      (`vibe-carousels/build.js` + every other campaign's `approved/` specs +
+      this batch's siblings) and fails it if **(a)** the cover hook is reused,
+      or **(b)** the deck's copy is a **near-duplicate** — ≥ 40% word-bigram
+      overlap (`DUP_THRESHOLD`). A spec reusing its own key is an update, not a
+      duplicate, and is exempt.
 - [ ] The reframe is health-first: every lever is sleep / food / water /
       movement / posture. No surgery, fillers, supplements-as-fix, pharma, or
       product recommendations.

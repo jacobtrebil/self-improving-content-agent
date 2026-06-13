@@ -38,6 +38,14 @@ in `-tt.html` render at 1080×1920, everything else at 1080×1350).
 > clipping the headline edges. Instagram's feed is happiest at 4:5. So each deck
 > is generated in both ratios and the right set goes to the right platform.
 
+> ⚠️ **TikTok 1080p rule (must follow or the post fails).** TikTok photo mode
+> **rejects images over 1080p** — the 2× master `slide-NN-tt.png` (2160×3840)
+> fails with *"Video must be at least 720p, Picture must no exceed 1080p"*.
+> Before scheduling to TikTok, downscale to **1080×1920**:
+> `bash make_tt1080.sh <deck>` → uploads `slide-NN-tt1080.png`. Instagram (4:5
+> master) and YouTube (MP4) are unaffected; videos already ship ≥720p. See
+> `config/platforms.yaml` → `platforms.tiktok.limits`.
+
 ## File / naming convention
 
 ```

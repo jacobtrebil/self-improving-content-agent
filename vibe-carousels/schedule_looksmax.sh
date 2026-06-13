@@ -43,11 +43,14 @@ for ((i=0;i<n;i++)); do
     else echo "✗ $dir IG: create failed:"; echo "$out" | tail -2; fi
   fi
 
-  # ---- TikTok: 9:16 carousel (-tt) ----
+  # ---- TikTok: 9:16 carousel (-tt, downscaled to 1080x1920) ----
+  # TikTok rejects photos >1080p; never upload the 2x -tt master (2160x3840).
   tt_urls=""; ok=1
   for s in 01 02 03 04 05 06 07; do
     f="$dir/slide-${s}-tt.png"; [ -f "$f" ] || { echo "✗ $dir TT: missing $f"; ok=0; break; }
-    u=$(upload_path "$f"); [ -n "$u" ] || { echo "✗ $dir TT: upload failed $f"; ok=0; break; }
+    f1080="$dir/slide-${s}-tt1080.png"
+    sips -z 1920 1080 "$f" --out "$f1080" >/dev/null 2>&1 || { echo "✗ $dir TT: resize failed $f"; ok=0; break; }
+    u=$(upload_path "$f1080"); [ -n "$u" ] || { echo "✗ $dir TT: upload failed $f1080"; ok=0; break; }
     tt_urls="${tt_urls:+$tt_urls,}$u"
   done
   if [ "$ok" = 1 ]; then

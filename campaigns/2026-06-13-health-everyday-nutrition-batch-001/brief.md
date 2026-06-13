@@ -3,7 +3,7 @@
 - **Created:** 2026-06-13
 - **Format:** health-carousel  · see /formats/health-carousel/
 - **Count:** 10 posts
-- **Status:** approved   # draft → generating → review → approved → scheduled → live  (10/10 passed validation; awaiting render)
+- **Status:** rendered   # draft → generating → review → approved → scheduled → live  (10/10 validated + rendered; awaiting scheduling)
 - **Channels:** instagram, tiktok_alt, youtube_alt   # ids via vibe-carousels/channel_id.sh
 - **Cadence:** 1 post/day at 17:00Z
 

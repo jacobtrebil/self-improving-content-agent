@@ -20,8 +20,13 @@ carousels:   # vibe-carousels/<NN>-<slug> decks, generated from build.js
   tiktok:
     aspect_ratio: "9:16"
     css_size: 1080x1920
-    final_png: 2160x3840
+    final_png: 2160x3840        # 2x retina MASTER — never upload this to TikTok
     file_suffix: "-tt"          # slide-01-tt.png  (FMT=tt node build.js)
+    upload_png: 1080x1920       # REQUIRED: downscale the master before posting
+    upload_suffix: "-tt1080"    # slide-01-tt1080.png  (bash make_tt1080.sh <deck>)
+    # TikTok REJECTS photos over 1080p. The 2x master (2160x3840) fails with:
+    #   "Video must be at least 720p, Picture must no exceed 1080p".
+    # Scheduling must upload the -tt1080 (1080x1920) copies, not the masters.
   youtube_shorts:
     source: 9:16 PNGs stitched to MP4 via build_shorts.sh (crossfades)
   rule: >
@@ -31,6 +36,10 @@ carousels:   # vibe-carousels/<NN>-<slug> decks, generated from build.js
 platforms:
   tiktok:
     formats: [video, carousel-9:16]
+    limits:   # HARD TikTok API rules — violating these fails the whole post
+      photo_max_resolution: 1080p   # upload 1080x1920; the 2x master (2160x3840) is REJECTED
+      video_min_resolution: 720p    # reels/shorts must be >=720p (our 1080x1920 videos comply)
+      observed_error: "An error occurred while posting on tiktok: Video must be at least 720p, Picture must no exceed 1080p"
     settings:   # used by reschedule_tt.sh
       privacy_level: PUBLIC_TO_EVERYONE
       duet: false
