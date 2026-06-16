@@ -1,0 +1,58 @@
+{
+  "key": "35-caffeine-cutoff",
+  "theme": "health",
+  "eyebrow": "Caffeine",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your 3pm coffee is *wrecking your sleep*.",
+      "sub": "Caffeine has a long tail — half of it can still be in your system at bedtime.",
+      "bg": "ai-bg/35-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The science",
+      "title": "Caffeine has a half-life",
+      "body": "It takes about *5–6 hours* to clear half a dose. A 3pm cup is still working at 9pm."
+    },
+    {
+      "type": "content",
+      "kicker": "The cutoff",
+      "title": "Stop by early afternoon",
+      "body": "A simple rule: *no caffeine after 2pm*. It protects the deep sleep that actually restores your energy."
+    },
+    {
+      "type": "content",
+      "kicker": "Reality check",
+      "title": "You won't feel it",
+      "body": "You can fall asleep fine and still lose deep sleep. The cost shows up as *next-day fatigue*."
+    },
+    {
+      "type": "content",
+      "kicker": "Swap it",
+      "title": "Trade the late cup",
+      "body": "Crave the ritual? *Decaf or herbal tea* gives you the warm-mug habit without the 9pm jolt."
+    },
+    {
+      "type": "content",
+      "kicker": "If you're hooked",
+      "title": "Taper, don't quit",
+      "body": "Move your last cup *30 minutes earlier* each week. Painless, and your sleep notices fast."
+    },
+    {
+      "type": "cta",
+      "title": "Time caffeine *the smart way*.",
+      "body": "Log your coffee in Vibe Health and watch how the timing moves your sleep score the next morning.",
+      "button": "Download Vibe Health →",
+      "tag": "drink coffee, sleep better",
+      "bg": "ai-bg/35-cta.png"
+    }
+  ],
+  "caption": "Love an afternoon coffee but toss and turn at night? They're connected. ☕\n\nCaffeine's half-life is 5–6 hours, so a 3pm cup is still in you at 9pm. Try a hard 2pm cutoff and protect your deep sleep. Save this. 🔖\n\nVibe Health connects your coffee, sleep and energy into one daily score → link in bio.",
+  "hashtags": ["#caffeine", "#coffeelover", "#sleephygiene", "#sleepbetter", "#energy", "#healthtips", "#wellness", "#healthapp", "#sleepscore", "#vibehealthapp"],
+  "youtube_title": "When to Stop Drinking Coffee for Better Sleep",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person holding a coffee mug by a window in late-afternoon light, long shadows falling across the wall.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a steaming mug set down on a nightstand beside a dim lamp, hard rim light on the rising steam."
+  }
+}

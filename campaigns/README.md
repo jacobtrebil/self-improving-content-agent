@@ -26,6 +26,8 @@ Example: `2026-06-13-looksmax-transformation-batch-001`
   approved/         specs that passed validation + human review — ready to render
   rendered/         build outputs (PNG/MP4/HTML) — media is gitignored, regenerable
   rejected/         specs that failed validation/review, kept for learning
+  evals/            eval reports per deck (code checks + LLM-judge scores) + summary.tsv (see /evals)
+  traces/           JSONL trace logs of the LLM/tool steps that built this batch (see /traces, /observability)
   scheduled.tsv     log of scheduled posts: key · date · platform · post_id  (gitignored — has IDs)
   results.tsv       performance pulled from the dashboard: key · format · account · date · views · likes · reach · pulled_at
 ```
@@ -38,13 +40,18 @@ Example: `2026-06-13-looksmax-transformation-batch-001`
    `/formats/<format>/prompt.md` + `schema.yaml`.
 4. **Validate & review** — check each against `/formats/<format>/validation.md`.
    Passing specs move to `approved/`; failing ones to `rejected/`.
-5. **Render** — build media from `approved/` into `rendered/` (gitignored).
-6. **Schedule** — only on explicit human approval; log post IDs to `scheduled.tsv`.
-7. **Measure** — `node dashboard/build.js`; record per-post metrics in `results.tsv`.
+5. **Eval** — `node evals/run-evals.js campaigns/<campaign>` (every time). Code
+   checks + LLM-judge scores land in `evals/` and the trace. See `/evals`.
+6. **Render** — build media from `approved/` into `rendered/` (gitignored). The
+   render scripts trace each step into `traces/`; review with
+   `node observability/traceViewer.js campaigns/<campaign>`.
+7. **Schedule** — only on explicit human approval; log post IDs to `scheduled.tsv`.
+8. **Measure** — `node dashboard/build.js`; record per-post metrics in `results.tsv`.
 
 ## What's committed
 
-- **Committed:** `brief.md`, `generated/`, `approved/`, `rejected/`, `results.tsv`
-  (the briefs, specs, decisions, and metric history — no secrets).
+- **Committed:** `brief.md`, `generated/`, `approved/`, `rejected/`, `results.tsv`,
+  `traces/` (the briefs, specs, decisions, metric history, and how each batch was
+  produced — no secrets).
 - **Gitignored:** all media in `rendered/` (covered by the media globs) and
   `scheduled.tsv` (contains live Postiz post IDs).

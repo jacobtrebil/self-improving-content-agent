@@ -42,8 +42,8 @@ BATCH="$(printf '%03d' "$n")"
 NAME="${DATE}-${SLUG}-batch-${BATCH}"
 DIR="$ROOT/campaigns/$NAME"
 
-mkdir -p "$DIR"/{generated,approved,rendered,rejected}
-for d in generated approved rendered rejected; do touch "$DIR/$d/.gitkeep"; done
+mkdir -p "$DIR"/{generated,approved,rendered,rejected,traces,evals}
+for d in generated approved rendered rejected traces evals; do touch "$DIR/$d/.gitkeep"; done
 
 printf 'key\tdate\tplatform\tpost_id\n' > "$DIR/scheduled.tsv"
 printf 'key\tformat\taccount\tdate\tviews\tlikes\treach\tpulled_at\n' > "$DIR/results.tsv"

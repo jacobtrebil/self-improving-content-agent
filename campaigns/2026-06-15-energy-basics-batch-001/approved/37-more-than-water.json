@@ -1,0 +1,58 @@
+{
+  "key": "37-more-than-water",
+  "theme": "health",
+  "eyebrow": "Hydration",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why *plain water* isn't hydrating you.",
+      "sub": "If you're chugging water and still foggy and tired, you might be missing what makes it work.",
+      "bg": "ai-bg/37-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The myth",
+      "title": "Water alone falls short",
+      "body": "Water needs *electrolytes* — sodium, potassium, magnesium — to actually reach your cells instead of passing through."
+    },
+    {
+      "type": "content",
+      "kicker": "The signs",
+      "title": "Spot the shortfall",
+      "body": "Headaches, *afternoon brain fog*, and muscle cramps can all point to low electrolytes, not just low water."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Add a pinch of salt",
+      "body": "A *pinch of sea salt* and some citrus in your water gives plain H2O what it's missing."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat them too",
+      "title": "Food counts",
+      "body": "Bananas, leafy greens, yogurt, and avocado are loaded with *potassium and magnesium*. Hydration is partly a plate."
+    },
+    {
+      "type": "content",
+      "kicker": "Don't overdo it",
+      "title": "Balance, not buckets",
+      "body": "More water isn't always better. *Drinking to thirst* plus minerals beats forcing a gallon a day."
+    },
+    {
+      "type": "cta",
+      "title": "Hydrate so it *actually counts*.",
+      "body": "Vibe Health tracks your water with sleep, food, and steps, so you can see hydration move your daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "hydration that works",
+      "bg": "ai-bg/37-cta.png"
+    }
+  ],
+  "caption": "Drinking tons of water but still tired and foggy? Water alone might not cut it. 💧\n\nElectrolytes — sodium, potassium, magnesium — are what get water into your cells. Add a pinch of salt and eat your greens. Save this. 🔖\n\nVibe Health tracks your water with your sleep, food and steps in one score → link in bio.",
+  "hashtags": ["#hydration", "#electrolytes", "#waterintake", "#energy", "#healthtips", "#wellness", "#healthylifestyle", "#healthapp", "#brainfog", "#vibehealthapp"],
+  "youtube_title": "Why Drinking More Water Isn't Fixing Your Energy",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person drinking from a glass of water by a window, condensation on the glass, soft side light on the face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a glass of water with a citrus slice and a few salt grains, dramatic hard side light through the liquid."
+  }
+}

@@ -14,6 +14,7 @@
 const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
+const { Tracer } = require("../observability/tracer");
 
 const ROOT = __dirname;
 const CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
@@ -176,14 +177,45 @@ if (!fs.existsSync(APP_DEMO)) {
   console.error(`✗ app demo not found: ${APP_DEMO}`);
   process.exit(1);
 }
-const args = process.argv.slice(2);
+// optional `--campaign <name>` ties this run's trace into the campaign too
+const rawArgs = process.argv.slice(2);
+let campaignId = null;
+const args = [];
+for (let i = 0; i < rawArgs.length; i++) {
+  if (rawArgs[i] === "--campaign") campaignId = rawArgs[++i];
+  else args.push(rawArgs[i]);
+}
 const folders = args.length
   ? args.map((a) => a.replace(/\/$/, ""))
   : fs
       .readdirSync(ROOT)
       .filter((d) => /^\d+-transformation-/.test(d) && fs.statSync(path.join(ROOT, d)).isDirectory());
 
+const tracer = new Tracer({
+  campaignId,
+  metadata: { step: "build_transformations", format: "before-and-after-reels" },
+});
+
 console.log(`Rebuilding ${folders.length} transformation reel(s): before→after photos + app-demo promo…\n`);
 let ok = 0;
-for (const d of folders) if (buildFolder(d)) ok++;
-console.log(`\nDone. Rebuilt ${ok}/${folders.length}.`);
+(async () => {
+  for (const d of folders) {
+    const built = await tracer.span(
+      `build_reel.${d}`,
+      async (span) => {
+        span.input = d;
+        span.model = "ffmpeg+chrome";
+        const done = buildFolder(d);
+        // buildFolder returns false only when before/after photos are missing
+        if (!done) span.status = "skipped";
+        else span.output = path.join(d, "transformation-video.mp4");
+        return done;
+      },
+      { metadata: { deck: d } }
+    );
+    if (built) ok++;
+  }
+  console.log(`\nDone. Rebuilt ${ok}/${folders.length}.`);
+  const s = tracer.summary();
+  console.log(`trace ${s.traceId}: ${s.spans} span(s) → ${s.files.map((f) => path.relative(ROOT + "/..", f)).join(", ")}`);
+})();

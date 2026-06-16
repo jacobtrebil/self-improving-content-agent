@@ -1,0 +1,68 @@
+{
+  "key": "25-eat-more-fiber",
+  "eyebrow": "Fiber",
+  "spec": "campaigns/2026-06-13-health-everyday-nutrition-batch-001/approved/25-eat-more-fiber.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-13-health-everyday-nutrition-batch-001/approved/25-eat-more-fiber.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/25-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/25-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"You're not eating *enough fiber*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "267/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": true,
+    "reason": "skipped via --no-judge"
+  },
+  "evaluatedAt": "2026-06-16T05:01:08.225Z"
+}

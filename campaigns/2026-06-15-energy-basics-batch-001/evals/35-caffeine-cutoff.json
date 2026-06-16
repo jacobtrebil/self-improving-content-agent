@@ -1,0 +1,114 @@
+{
+  "key": "35-caffeine-cutoff",
+  "eyebrow": "Caffeine",
+  "spec": "campaigns/2026-06-15-energy-basics-batch-001/approved/35-caffeine-cutoff.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-15-energy-basics-batch-001/approved/35-caffeine-cutoff.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/35-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/35-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your 3pm coffee is *wrecking your sleep*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "299/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Wrecking your sleep' is punchy and specific, but '3pm coffee' is a well-worn hook — slightly familiar territory dulls the scroll-stop.",
+      "clarity": "Each slide is one tight idea with a concrete number or action; the 2pm rule and 30-min taper are immediately usable.",
+      "audience_fit": "Directly targets the tired-by-3pm crowd who reach for coffee and then wonder why they can't sleep — dead-on for the 20–35 demo.",
+      "novelty": "Half-life of caffeine and the 2pm cutoff have been circulating for years; the 30-min taper is the only genuinely fresh angle here.",
+      "brand_fit": "Claims are hedged ('still working,' 'sleep notices'), voice is plain and direct, CTA ties to a real in-app behavior, zero hypey language.",
+      "predicted_performance": "High save potential — it's actionable and reinforces a behavior many already half-believe; shares limited by the topic's familiarity ceiling."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25950,
+    "tokensOut": 282,
+    "costUsd": 0.0648595,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Wrecking your sleep' is punchy and specific, but '3pm coffee' is a well-worn hook — slightly familiar territory dulls the scroll-stop."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one tight idea with a concrete number or action; the 2pm rule and 30-min taper are immediately usable."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Directly targets the tired-by-3pm crowd who reach for coffee and then wonder why they can't sleep — dead-on for the 20–35 demo."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Half-life of caffeine and the 2pm cutoff have been circulating for years; the 30-min taper is the only genuinely fresh angle here."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('still working,' 'sleep notices'), voice is plain and direct, CTA ties to a real in-app behavior, zero hypey language."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — it's actionable and reinforces a behavior many already half-believe; shares limited by the topic's familiarity ceiling."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-16T05:00:36.113Z"
+}

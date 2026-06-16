@@ -9,6 +9,7 @@
 const fs = require("fs");
 const path = require("path");
 const { execFile } = require("child_process");
+const { Tracer } = require("../observability/tracer");
 
 const REPO = path.join(__dirname, "..");
 const camp = path.resolve(REPO, process.argv[2] || "");
@@ -19,6 +20,12 @@ if (!fs.existsSync(approved)) {
   process.exit(1);
 }
 fs.mkdirSync(aiBg, { recursive: true });
+
+// Trace this run; spans land in traces/ and campaigns/<camp>/traces/.
+const tracer = new Tracer({
+  campaignId: path.basename(camp),
+  metadata: { step: "gen-bg-from-specs" },
+});
 
 const jobs = [];
 for (const f of fs.readdirSync(approved).filter((x) => x.endsWith(".json"))) {
@@ -32,7 +39,7 @@ for (const f of fs.readdirSync(approved).filter((x) => x.endsWith(".json"))) {
       console.log(`skip ${num}-${which} (exists)`);
       continue;
     }
-    jobs.push({ name: `${num}-${which}`, prompt, out });
+    jobs.push({ name: `${num}-${which}`, prompt, out, which, format: s.format || null });
   }
 }
 console.log(`${jobs.length} background(s) to generate\n`);
@@ -41,8 +48,10 @@ const CONC = 4;
 let done = 0,
   fail = 0;
 
-function run(job) {
-  return new Promise((res) => {
+// Fire the Higgsfield generate + download; resolves with the image url or
+// throws on failure so the surrounding span records status="error".
+function generate(job) {
+  return new Promise((resolve, reject) => {
     execFile(
       "higgsfield",
       ["generate", "create", "gpt_image_2", "--prompt", job.prompt,
@@ -51,15 +60,43 @@ function run(job) {
       (err, stdout) => {
         let url = "";
         try { url = (JSON.parse(stdout)[0] || {}).result_url || ""; } catch {}
-        if (!url) { console.log(`✗ ${job.name}: no url (credits/error)`); fail++; return res(); }
+        if (!url) return reject(new Error("no url (credits/error)"));
         execFile("curl", ["-fsSL", url, "-o", job.out], (e2) => {
-          if (e2) { console.log(`✗ ${job.name}: download failed`); fail++; }
-          else { console.log(`✓ ${job.name}`); done++; }
-          res();
+          if (e2) return reject(new Error("download failed"));
+          resolve(url);
         });
       }
     );
   });
+}
+
+// One traced span per background. Swallows the error after tracing so a single
+// failed job doesn't abort the rest of the batch (matches prior behavior).
+function run(job) {
+  return tracer
+    .span(
+      `generate_bg.${job.name}`,
+      async (span) => {
+        span.input = job.prompt;
+        span.model = "gpt_image_2";
+        span.config = { aspect_ratio: "3:4", resolution: "2k", quality: "high" };
+        span.promptVersion = "health-carousel/prompt.md#bg_prompts";
+        const url = await generate(job);
+        span.output = url;
+        span.artifacts = [
+          { label: "image", url },
+          { label: "file", path: path.relative(REPO, job.out) },
+        ];
+        console.log(`✓ ${job.name}`);
+        done++;
+        return url;
+      },
+      { metadata: { which: job.which, format: job.format } }
+    )
+    .catch((err) => {
+      console.log(`✗ ${job.name}: ${err.message}`);
+      fail++;
+    });
 }
 
 (async () => {
@@ -71,4 +108,6 @@ function run(job) {
   }
   await Promise.all(running);
   console.log(`\nbackgrounds: ${done} ok, ${fail} failed, ${jobs.length} attempted`);
+  const s = tracer.summary();
+  console.log(`trace ${s.traceId}: ${s.spans} span(s), $${s.costUsd} → ${s.files.map((f) => path.relative(REPO, f)).join(", ")}`);
 })();

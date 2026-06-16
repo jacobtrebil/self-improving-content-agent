@@ -1,0 +1,114 @@
+{
+  "key": "38-hidden-sugar",
+  "eyebrow": "Sugar",
+  "spec": "campaigns/2026-06-15-energy-basics-batch-001/approved/38-hidden-sugar.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-15-energy-basics-batch-001/approved/38-hidden-sugar.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/38-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/38-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"'Healthy' foods that *crash your energy*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "299/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "Specific foods named in the cover create instant recognition, but 'crash your energy' is a well-worn frame — a punchier contrast (e.g. the calorie count or sugar gram) would sharpen it.",
+      "clarity": "Each slide owns exactly one idea and hands the reader a concrete next action — check label, pair protein, read 'added sugars' — no slide tries to do two things.",
+      "audience_fit": "Tired-by-3pm is literally the crash this deck describes, and busy 25-year-olds eating granola bars at their desk are the exact person being called out.",
+      "novelty": "Hidden-sugar content is one of the most saturated niches on health TikTok — the specific gram ranges and health-halo framing add modest texture but the angle itself is not fresh.",
+      "brand_fit": "Claims are hedged ('can hit like', 'can pack'), voice is flat and direct, no banned words, and the CTA ties the feature to the problem without AI-cringe.",
+      "predicted_performance": "High save potential because slide 5's '6g rule' is a portable heuristic, but low share ceiling because the topic feels familiar — expect above-average saves, average shares."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25952,
+    "tokensOut": 323,
+    "costUsd": 0.0654885,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "Specific foods named in the cover create instant recognition, but 'crash your energy' is a well-worn frame — a punchier contrast (e.g. the calorie count or sugar gram) would sharpen it."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one idea and hands the reader a concrete next action — check label, pair protein, read 'added sugars' — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Tired-by-3pm is literally the crash this deck describes, and busy 25-year-olds eating granola bars at their desk are the exact person being called out."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Hidden-sugar content is one of the most saturated niches on health TikTok — the specific gram ranges and health-halo framing add modest texture but the angle itself is not fresh."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('can hit like', 'can pack'), voice is flat and direct, no banned words, and the CTA ties the feature to the problem without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because slide 5's '6g rule' is a portable heuristic, but low share ceiling because the topic feels familiar — expect above-average saves, average shares."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-16T05:00:49.430Z"
+}

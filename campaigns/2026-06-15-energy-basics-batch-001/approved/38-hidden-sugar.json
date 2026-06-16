@@ -1,0 +1,58 @@
+{
+  "key": "38-hidden-sugar",
+  "theme": "health",
+  "eyebrow": "Sugar",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "'Healthy' foods that *crash your energy*.",
+      "sub": "Granola, smoothies, and flavored yogurt can hit like dessert — then drop you an hour later.",
+      "bg": "ai-bg/38-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The trap",
+      "title": "Health-halo labels",
+      "body": "'Natural' and 'low-fat' often means *added sugar* to fix the taste. The label hides it well."
+    },
+    {
+      "type": "content",
+      "kicker": "Usual suspects",
+      "title": "Check these first",
+      "body": "Granola, flavored yogurt, smoothies, and 'protein' bars can pack *20–40g of sugar* a serving."
+    },
+    {
+      "type": "content",
+      "kicker": "Why you crash",
+      "title": "Spike then drop",
+      "body": "A fast sugar rush spikes blood sugar, then the dip *leaves you tired* and hungry an hour later."
+    },
+    {
+      "type": "content",
+      "kicker": "Read it",
+      "title": "Find added sugars",
+      "body": "Flip the label and read *'added sugars'* — under 6g a serving is a solid rule of thumb."
+    },
+    {
+      "type": "content",
+      "kicker": "Swap it",
+      "title": "Build a steadier plate",
+      "body": "Pair carbs with *protein or fiber* to blunt the spike — plain yogurt and berries beats the sweetened cup."
+    },
+    {
+      "type": "cta",
+      "title": "Spot hidden sugar *in a snap*.",
+      "body": "Snap your meals and Vibe Health breaks down the sugar for you, so the sneaky stuff stops surprising you.",
+      "button": "Download Vibe Health →",
+      "tag": "see the sugar you miss",
+      "bg": "ai-bg/38-cta.png"
+    }
+  ],
+  "caption": "Your 'healthy' breakfast might be hitting like dessert. 🍩\n\nGranola, smoothies and flavored yogurt can carry 20–40g of sugar — that's the spike-then-crash. Read 'added sugars' and pair carbs with protein. Save this. 🔖\n\nSnap a meal and Vibe Health breaks down the hidden sugar for you → link in bio.",
+  "hashtags": ["#hiddensugar", "#addedsugar", "#bloodsugar", "#healthyeating", "#nutritiontips", "#energy", "#wellness", "#healthapp", "#foodlabels", "#vibehealthapp"],
+  "youtube_title": "The 'Healthy' Foods Quietly Crashing Your Energy",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person in a kitchen reading a food label with a skeptical look, side light across the face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a hand turning a yogurt cup to read the nutrition panel, hard rim light on the edge."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "key": "36-walk-after-meals",
+  "theme": "health",
+  "eyebrow": "Energy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Beat the *post-lunch crash* with a walk.",
+      "sub": "Ten minutes of walking after you eat can flatten the energy dip that wrecks your afternoon.",
+      "bg": "ai-bg/36-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The dip",
+      "title": "Why lunch makes you tired",
+      "body": "A big meal sends blood sugar up, then down. That crash *feels like exhaustion* by 2pm."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Walk for ten minutes",
+      "body": "A *10-minute walk* after eating helps your muscles soak up glucose — so the spike is gentler."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Muscles use the sugar",
+      "body": "Moving muscles pull glucose from your blood without extra insulin, which *can support* steadier energy."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it small",
+      "title": "No gym required",
+      "body": "This isn't a workout. A slow loop around the block or the office is *enough to count*."
+    },
+    {
+      "type": "content",
+      "kicker": "Stack it",
+      "title": "Attach it to lunch",
+      "body": "Tie the walk to a meal you already eat. *Same time, every day* makes it automatic."
+    },
+    {
+      "type": "cta",
+      "title": "Turn lunch into *steady energy*.",
+      "body": "Vibe Health counts those post-meal steps toward your daily score, so the small walks actually add up.",
+      "button": "Download Vibe Health →",
+      "tag": "walk off the crash",
+      "bg": "ai-bg/36-cta.png"
+    }
+  ],
+  "caption": "That 2pm wall after lunch? You can walk right through it. 🚶\n\nTen easy minutes after you eat smooths out the blood-sugar spike that makes you crash. No gym, no sweat. Save this one. 🔖\n\nVibe Health turns those post-meal steps into points on your daily score → link in bio.",
+  "hashtags": ["#walkingworkout", "#bloodsugar", "#postmealwalk", "#energy", "#healthyhabits", "#stepcount", "#wellnesstips", "#healthapp", "#afternoonslump", "#vibehealthapp"],
+  "youtube_title": "The 10-Minute Walk That Kills the Afternoon Crash",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person walking outdoors on a quiet path after a meal, mid-stride in casual clothes, side light catching the motion.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of walking shoes on pavement caught in motion, hard side light raking across the texture."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "key": "34-morning-light",
+  "theme": "health",
+  "eyebrow": "Energy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Tired by 3pm? Start with *morning light*.",
+      "sub": "The fix for afternoon crashes might be the first 10 minutes of your day.",
+      "bg": "ai-bg/34-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The trap",
+      "title": "Coffee before daylight",
+      "body": "Caffeine on a dark brain borrows energy you haven't made yet. *Light comes first* — then coffee."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Get outside early",
+      "body": "Aim for *10 minutes of daylight* within an hour of waking — no sunglasses, no window glass."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It sets your clock",
+      "body": "Morning light anchors your circadian rhythm, which *can support* steadier energy and easier sleep that night."
+    },
+    {
+      "type": "content",
+      "kicker": "Cloudy day?",
+      "title": "Still go out",
+      "body": "Overcast morning light is still *10x brighter* than indoor lighting. Step out anyway."
+    },
+    {
+      "type": "content",
+      "kicker": "Stack it",
+      "title": "Pair it with a walk",
+      "body": "Walk while you get your light. *Two wins at once* — movement and a reset body clock."
+    },
+    {
+      "type": "cta",
+      "title": "Make morning light a *daily streak*.",
+      "body": "Vibe Health logs your light, sleep, and steps into one daily Health Score — so you can see the habit pay off.",
+      "button": "Download Vibe Health →",
+      "tag": "wake up with more energy",
+      "bg": "ai-bg/34-cta.png"
+    }
+  ],
+  "caption": "If you're wired at night and dead by 3pm, your morning might be the problem. ☀️\n\nGet 10 minutes of daylight before coffee, skip the sunglasses, pair it with a short walk. Small habit, big shift. Save this for tomorrow morning. 🔖\n\nVibe Health scores your light, sleep, steps and food into one number so you can watch it climb → link in bio.",
+  "hashtags": ["#morninglight", "#circadianrhythm", "#energy", "#healthhabits", "#sleepbetter", "#wellnesstips", "#healthylifestyle", "#healthapp", "#morningroutine", "#vibehealthapp"],
+  "youtube_title": "Why Morning Light Beats Coffee for Energy",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person stepping onto a balcony at sunrise, eyes closed and face turned up to the early light, soft glow rimming one side.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a person walking at sunrise, long hard shadows stretching across the ground."
+  }
+}

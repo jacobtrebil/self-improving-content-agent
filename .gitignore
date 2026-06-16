@@ -17,7 +17,14 @@ dashboard/dashboard.html
 # Manually-logged posts the Postiz API doesn't return (live metrics, local-only)
 dashboard/*.local.tsv
 
+# Traces: the top-level traces/ stream is the repo-wide run log (mostly
+# duplicates of the per-campaign copies + non-campaign runs) — keep the folder,
+# the example, and the README; ignore live run files.
+traces/*.jsonl
+!traces/example-run.jsonl
+
 # Campaigns: commit briefs/specs/decisions + results; never the live post IDs.
+# Per-campaign traces/ ARE committed — they record how each batch was produced.
 campaigns/**/scheduled.tsv
 # rendered/ holds local build outputs + symlinks to gitignored media — keep the
 # folder, ignore its contents.
