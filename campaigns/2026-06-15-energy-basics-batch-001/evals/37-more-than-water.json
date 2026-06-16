@@ -71,44 +71,44 @@
       "predicted_performance": 4
     },
     "rationales": {
-      "hook_strength": "'Plain water isn't hydrating you' is a specific, counterintuitive claim that earns the stop — loses a point because the sub-headline over-explains before the reader swipes.",
-      "clarity": "Each slide is a single, actionable idea with a clear label and one concrete takeaway — no bloat.",
-      "audience_fit": "Afternoon brain fog, chugging water with no result, a dead-simple fix — this is written directly at the tired 20–35 who already thinks they're doing the right thing.",
-      "novelty": "Electrolytes-in-water is a real insight but has become near-ubiquitous on health TikTok in the last two years — the pinch-of-salt angle is familiar.",
-      "brand_fit": "Voice is plain and direct, claims are appropriately hedged ('can all point to'), and the CTA ties naturally to Vibe's score mechanic — loses a point because 'hydrate so it actually counts' edges toward the kind of polished tagline that feels slightly off-brand.",
-      "predicted_performance": "High save potential because it's practical and specific, but the saturated electrolyte topic will cap organic reach unless the hook visual is strong enough to distinguish it in feed."
+      "hook_strength": "'Why plain water isn't hydrating you' is specific and counter-intuitive enough to stop a scroll, though the sub-headline over-explains what should stay mysterious.",
+      "clarity": "Each slide owns exactly one idea — myth, symptom, fix, food, balance — with a tight header and one actionable body line.",
+      "audience_fit": "'Afternoon brain fog' and 'chugging water and still tired' are precise pain points for the 20–35 busy-but-health-curious reader.",
+      "novelty": "Electrolytes-not-just-water is a well-circulated angle (LMNT has mainstreamed it), so the framing is familiar even if the execution is clean.",
+      "brand_fit": "Voice is plain and direct, health claims are hedged ('can all point to'), CTA ties naturally to the score mechanic — docks one point for 'actually counts' edging toward mild hype.",
+      "predicted_performance": "High save potential because of the concrete pinch-of-salt tip, but novelty ceiling limits viral upside versus a truly surprising hook."
     },
     "overall": 4.17,
     "model": "claude-sonnet-4-6",
-    "tokensIn": 25951,
-    "tokensOut": 324,
-    "costUsd": 0.0655065,
+    "tokensIn": 25954,
+    "tokensOut": 294,
+    "costUsd": 0.0650645,
     "raw": {
       "hook_strength": {
         "score": 4,
-        "why": "'Plain water isn't hydrating you' is a specific, counterintuitive claim that earns the stop — loses a point because the sub-headline over-explains before the reader swipes."
+        "why": "'Why plain water isn't hydrating you' is specific and counter-intuitive enough to stop a scroll, though the sub-headline over-explains what should stay mysterious."
       },
       "clarity": {
         "score": 5,
-        "why": "Each slide is a single, actionable idea with a clear label and one concrete takeaway — no bloat."
+        "why": "Each slide owns exactly one idea — myth, symptom, fix, food, balance — with a tight header and one actionable body line."
       },
       "audience_fit": {
         "score": 5,
-        "why": "Afternoon brain fog, chugging water with no result, a dead-simple fix — this is written directly at the tired 20–35 who already thinks they're doing the right thing."
+        "why": "'Afternoon brain fog' and 'chugging water and still tired' are precise pain points for the 20–35 busy-but-health-curious reader."
       },
       "novelty": {
         "score": 3,
-        "why": "Electrolytes-in-water is a real insight but has become near-ubiquitous on health TikTok in the last two years — the pinch-of-salt angle is familiar."
+        "why": "Electrolytes-not-just-water is a well-circulated angle (LMNT has mainstreamed it), so the framing is familiar even if the execution is clean."
       },
       "brand_fit": {
         "score": 4,
-        "why": "Voice is plain and direct, claims are appropriately hedged ('can all point to'), and the CTA ties naturally to Vibe's score mechanic — loses a point because 'hydrate so it actually counts' edges toward the kind of polished tagline that feels slightly off-brand."
+        "why": "Voice is plain and direct, health claims are hedged ('can all point to'), CTA ties naturally to the score mechanic — docks one point for 'actually counts' edging toward mild hype."
       },
       "predicted_performance": {
         "score": 4,
-        "why": "High save potential because it's practical and specific, but the saturated electrolyte topic will cap organic reach unless the hook visual is strong enough to distinguish it in feed."
+        "why": "High save potential because of the concrete pinch-of-salt tip, but novelty ceiling limits viral upside versus a truly surprising hook."
       }
     }
   },
-  "evaluatedAt": "2026-06-16T05:00:49.015Z"
+  "evaluatedAt": "2026-06-16T05:23:15.462Z"
 }

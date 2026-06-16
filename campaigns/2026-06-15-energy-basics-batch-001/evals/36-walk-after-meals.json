@@ -71,44 +71,44 @@
       "predicted_performance": 4
     },
     "rationales": {
-      "hook_strength": "'Post-lunch crash' is a felt pain point and the payoff is concrete, but the cover reads slightly explanatory rather than punchy enough to stop a fast scroll.",
-      "clarity": "Each slide is a single actionable idea with a clear header, and the mechanism (muscles absorb glucose) is explained without jargon overload.",
-      "audience_fit": "The 2pm crash is the exact daily frustration of the target demo, and 'no gym required' removes the most common objection from busy 20–35s.",
-      "novelty": "Post-meal walking for blood sugar is a well-circulated tip (popularized by glucose-goddess content) so the angle isn't fresh, though the office-loop framing adds a small twist.",
-      "brand_fit": "Claims are properly hedged ('can support'), voice is plain and direct, the CTA ties post-meal steps to the actual product score naturally without hype words.",
-      "predicted_performance": "High save potential because it's immediately actionable and solves a daily problem, but novelty ceiling will limit virality compared to a truly contrarian hook."
+      "hook_strength": "'Post-lunch crash' is a felt pain the audience names themselves, and the payoff is specific and believable — loses a point because 'beat the crash with a walk' isn't a surprising angle.",
+      "clarity": "Each slide is a single, actionable idea with a clear label; the muscle-glucose mechanism is explained without jargon.",
+      "audience_fit": "The 2pm wall is the exact daily frustration of the target demo, and 'no gym, slow loop around the office' removes every excuse a busy 28-year-old would reach for.",
+      "novelty": "Post-meal walks for blood sugar are well-circulated advice (especially post-glucose-goddess era), so the angle is familiar even if the execution is clean.",
+      "brand_fit": "Claims are properly hedged ('can support'), voice is plain and direct, CTA ties the habit to the Vibe score without being hypey, and no banned words appear.",
+      "predicted_performance": "High save potential because it's a concrete, repeatable micro-habit with a clear mechanism — shares are moderate since the concept isn't novel enough to feel like a revelation."
     },
     "overall": 4.33,
     "model": "claude-sonnet-4-6",
-    "tokensIn": 25905,
-    "tokensOut": 290,
-    "costUsd": 0.0646695,
+    "tokensIn": 25908,
+    "tokensOut": 297,
+    "costUsd": 0.0647975,
     "raw": {
       "hook_strength": {
         "score": 4,
-        "why": "'Post-lunch crash' is a felt pain point and the payoff is concrete, but the cover reads slightly explanatory rather than punchy enough to stop a fast scroll."
+        "why": "'Post-lunch crash' is a felt pain the audience names themselves, and the payoff is specific and believable — loses a point because 'beat the crash with a walk' isn't a surprising angle."
       },
       "clarity": {
         "score": 5,
-        "why": "Each slide is a single actionable idea with a clear header, and the mechanism (muscles absorb glucose) is explained without jargon overload."
+        "why": "Each slide is a single, actionable idea with a clear label; the muscle-glucose mechanism is explained without jargon."
       },
       "audience_fit": {
         "score": 5,
-        "why": "The 2pm crash is the exact daily frustration of the target demo, and 'no gym required' removes the most common objection from busy 20–35s."
+        "why": "The 2pm wall is the exact daily frustration of the target demo, and 'no gym, slow loop around the office' removes every excuse a busy 28-year-old would reach for."
       },
       "novelty": {
         "score": 3,
-        "why": "Post-meal walking for blood sugar is a well-circulated tip (popularized by glucose-goddess content) so the angle isn't fresh, though the office-loop framing adds a small twist."
+        "why": "Post-meal walks for blood sugar are well-circulated advice (especially post-glucose-goddess era), so the angle is familiar even if the execution is clean."
       },
       "brand_fit": {
         "score": 5,
-        "why": "Claims are properly hedged ('can support'), voice is plain and direct, the CTA ties post-meal steps to the actual product score naturally without hype words."
+        "why": "Claims are properly hedged ('can support'), voice is plain and direct, CTA ties the habit to the Vibe score without being hypey, and no banned words appear."
       },
       "predicted_performance": {
         "score": 4,
-        "why": "High save potential because it's immediately actionable and solves a daily problem, but novelty ceiling will limit virality compared to a truly contrarian hook."
+        "why": "High save potential because it's a concrete, repeatable micro-habit with a clear mechanism — shares are moderate since the concept isn't novel enough to feel like a revelation."
       }
     }
   },
-  "evaluatedAt": "2026-06-16T05:00:36.885Z"
+  "evaluatedAt": "2026-06-16T05:23:03.437Z"
 }

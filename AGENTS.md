@@ -13,6 +13,12 @@ For any generation task (e.g. "generate 10 posts in format X"):
 2. Read the relevant format folder in `/formats/<format>` (`format.md`,
    `prompt.md`, `schema.yaml`, `validation.md`, `examples/`).
 3. Fill in the campaign `brief.md` (goal, the N items, channels, cadence).
+3b. **Recall strategy memory — every time, before generating.**
+   `node memory/retrieve.js --campaign campaigns/<camp>` writes
+   `campaigns/<camp>/context.md` with the lessons distilled from past runs
+   (e.g. "push second-order mechanisms — novelty is the recurring weak spot").
+   **Read `context.md` and apply those strategies while writing specs.** This is
+   how the system adapts over time. See `/memory/README.md`.
 4. Generate one spec per item into the campaign's `generated/` folder.
 5. Validate each against `validation.md`. Passing specs → `approved/`,
    failing specs → `rejected/`.
@@ -25,6 +31,11 @@ For any generation task (e.g. "generate 10 posts in format X"):
    `campaigns/<camp>/evals/`. See `/evals/README.md`. Use `--no-judge` for a
    fast code-only pass. A code-eval FAIL is a render blocker; low judge scores
    are a quality signal to revise, not a hard block.
+5c. **Reflect — every time, after evals.** `node memory/reflect.js campaigns/<camp>`
+   writes a structured reflection (`memory/reflections/`) and distills it into
+   reusable strategy memories (`memory/strategies.json`) that step 3b recalls
+   next time. This closes the loop: eval feedback → reflection → strategy →
+   better next batch. See `/memory/README.md`.
 6. **Render automatically — do NOT ask for approval.** Generating AI
    backgrounds and rendering are always safe (they cost only Higgsfield credits
    and local time), so once specs are approved, run the whole pipeline without
@@ -71,6 +82,24 @@ record of how its media was produced. See `/observability/` (`tracer.js`,
 - Eval scores (from `evals/run-evals.js`) are traced as nested
   `eval.<key> → eval_code/eval_judge` spans and attached to each span's `evals`
   field with artifact links back to the spec + background images.
+
+# Strategy memory (Reflexion)
+
+The system learns across campaigns via a reflect→distill→recall loop in
+`/memory/` (see `/memory/README.md`):
+
+- **Reflect** (after evals, step 5c): `memory/reflect.js` reads the campaign's
+  eval scores + judge rationales, has an LLM synthesize lessons, and writes an
+  episodic reflection to `memory/reflections/`.
+- **Distill**: those lessons merge into `memory/strategies.json` by stable id —
+  repeated lessons bump a `support` count and confidence instead of duplicating,
+  so the store stays small and gets more confident over time.
+- **Recall** (before generating, step 3b): `memory/retrieve.js` ranks strategies
+  by support × confidence × topic overlap and writes `campaigns/<camp>/context.md`
+  for the generator to apply.
+
+Both reflect and recall are traced under the run's `TRACE_ID`. `memory/` is
+committed — it's the system's accumulated learning.
 - Wrapping a new step: `const { Tracer } = require("../observability/tracer")`,
   then `await tracer.span("step_id", async (span) => { span.input=…; span.model=…;
   const r = await work(); span.output=…; return r })`. It records `status:"error"`

@@ -71,44 +71,44 @@
       "predicted_performance": 4
     },
     "rationales": {
-      "hook_strength": "'Wrecking your sleep' is punchy and specific, but '3pm coffee' is a well-worn hook — slightly familiar territory dulls the scroll-stop.",
-      "clarity": "Each slide is one tight idea with a concrete number or action; the 2pm rule and 30-min taper are immediately usable.",
-      "audience_fit": "Directly targets the tired-by-3pm crowd who reach for coffee and then wonder why they can't sleep — dead-on for the 20–35 demo.",
-      "novelty": "Half-life of caffeine and the 2pm cutoff have been circulating for years; the 30-min taper is the only genuinely fresh angle here.",
-      "brand_fit": "Claims are hedged ('still working,' 'sleep notices'), voice is plain and direct, CTA ties to a real in-app behavior, zero hypey language.",
-      "predicted_performance": "High save potential — it's actionable and reinforces a behavior many already half-believe; shares limited by the topic's familiarity ceiling."
+      "hook_strength": "'Wrecking your sleep' is direct and contrarian enough to earn a pause, but '3pm coffee' is slightly expected territory for sleep content.",
+      "clarity": "Every slide is a single, actionable idea with a concrete number or step — half-life, 2pm cutoff, 30-minute taper — no slide tries to do two things.",
+      "audience_fit": "Tired-by-3pm 25-year-olds who reach for afternoon coffee are the exact person this deck is written for, and the taper slide respects that they won't just quit cold.",
+      "novelty": "The caffeine half-life angle is well-worn; the 'you can fall asleep but still lose deep sleep' slide is the freshest moment, but the overall frame has been done many times.",
+      "brand_fit": "Claims are hedged ('still working at 9pm' not 'destroys sleep'), voice is plain and never hypey, and the CTA ties caffeine timing directly to a scored output inside the app.",
+      "predicted_performance": "High save potential because of the concrete 2pm rule and taper tip, but novelty ceiling caps viral ceiling — strong performer, unlikely breakout."
     },
     "overall": 4.33,
     "model": "claude-sonnet-4-6",
-    "tokensIn": 25950,
-    "tokensOut": 282,
-    "costUsd": 0.0648595,
+    "tokensIn": 25953,
+    "tokensOut": 314,
+    "costUsd": 0.06536250000000002,
     "raw": {
       "hook_strength": {
         "score": 4,
-        "why": "'Wrecking your sleep' is punchy and specific, but '3pm coffee' is a well-worn hook — slightly familiar territory dulls the scroll-stop."
+        "why": "'Wrecking your sleep' is direct and contrarian enough to earn a pause, but '3pm coffee' is slightly expected territory for sleep content."
       },
       "clarity": {
         "score": 5,
-        "why": "Each slide is one tight idea with a concrete number or action; the 2pm rule and 30-min taper are immediately usable."
+        "why": "Every slide is a single, actionable idea with a concrete number or step — half-life, 2pm cutoff, 30-minute taper — no slide tries to do two things."
       },
       "audience_fit": {
         "score": 5,
-        "why": "Directly targets the tired-by-3pm crowd who reach for coffee and then wonder why they can't sleep — dead-on for the 20–35 demo."
+        "why": "Tired-by-3pm 25-year-olds who reach for afternoon coffee are the exact person this deck is written for, and the taper slide respects that they won't just quit cold."
       },
       "novelty": {
         "score": 3,
-        "why": "Half-life of caffeine and the 2pm cutoff have been circulating for years; the 30-min taper is the only genuinely fresh angle here."
+        "why": "The caffeine half-life angle is well-worn; the 'you can fall asleep but still lose deep sleep' slide is the freshest moment, but the overall frame has been done many times."
       },
       "brand_fit": {
         "score": 5,
-        "why": "Claims are hedged ('still working,' 'sleep notices'), voice is plain and direct, CTA ties to a real in-app behavior, zero hypey language."
+        "why": "Claims are hedged ('still working at 9pm' not 'destroys sleep'), voice is plain and never hypey, and the CTA ties caffeine timing directly to a scored output inside the app."
       },
       "predicted_performance": {
         "score": 4,
-        "why": "High save potential — it's actionable and reinforces a behavior many already half-believe; shares limited by the topic's familiarity ceiling."
+        "why": "High save potential because of the concrete 2pm rule and taper tip, but novelty ceiling caps viral ceiling — strong performer, unlikely breakout."
       }
     }
   },
-  "evaluatedAt": "2026-06-16T05:00:36.113Z"
+  "evaluatedAt": "2026-06-16T05:23:03.898Z"
 }

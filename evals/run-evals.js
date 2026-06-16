@@ -62,6 +62,22 @@ const tracer = new Tracer({
 // Audience defaults to the brief's if present; otherwise the campaign norm.
 const audience = flags.audience || "20–35, busy, tired-by-3pm, health-curious but overwhelmed by advice";
 
+// Guard: the judge MUST be a different model than the generator, or it's grading
+// its own work. The generator is this agent (Opus); the judge defaults to Sonnet.
+const GENERATOR_MODEL = process.env.GENERATOR_MODEL || "claude-opus-4-8";
+const family = (m) => (String(m).toLowerCase().match(/opus|sonnet|haiku/) || [])[0] || null;
+if (!flags.noJudge) {
+  const judgeModel = flags.judgeModel || process.env.JUDGE_MODEL || "sonnet";
+  if (family(judgeModel) && family(judgeModel) === family(GENERATOR_MODEL)) {
+    console.error(
+      `✗ judge model "${judgeModel}" is the same family as the generator "${GENERATOR_MODEL}".\n` +
+        `  The LLM-as-judge must be a DIFFERENT model than the one that wrote the specs.\n` +
+        `  Pick another with --judge-model <sonnet|haiku|…> or set JUDGE_MODEL.`
+    );
+    process.exit(1);
+  }
+}
+
 function artifactsFor(spec) {
   const num = String(spec.key).slice(0, 2);
   const links = [{ label: "spec", path: path.relative(REPO, path.join(srcDir, `${spec.key}.json`)) }];

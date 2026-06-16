@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-16T05:29:33.712Z",
+  "strategies": [
+    {
+      "id": "push-contrarian-novelty",
+      "title": "Pick the second-order mechanism, not the mainstream angle",
+      "guidance": "Before finalizing a topic, ask: has this angle been mainstreamed by a popular brand or creator (LMNT, Glucose Goddess, Huberman, etc.)? If yes, go one layer deeper — not 'electrolytes hydrate you' but 'your kidneys dump sodium when cortisol spikes, which is why stress dehydrates faster than heat'. The concept can be familiar; the mechanism should not be.",
+      "tag": "novelty",
+      "format": "health-carousel",
+      "support": 1,
+      "confidence": 0.92,
+      "createdAt": "2026-06-16T05:29:33.712Z",
+      "lastSeen": "2026-06-16T05:29:33.712Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-15-energy-basics-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-16T05:29:33.712Z"
+        }
+      ]
+    },
+    {
+      "id": "hook-no-early-reveal",
+      "title": "Let the hook tease — never name the answer in the sub-headline",
+      "guidance": "The hook slide should state the pain or the surprising claim; the sub-headline should deepen the mystery, not resolve it. Never list the culprits or the fix on slide 1. Replace 'here's why' with 'it's not what you think' or leave it as a bare question. The answer belongs on slide 3+.",
+      "tag": "hook",
+      "format": "health-carousel",
+      "support": 1,
+      "confidence": 0.88,
+      "createdAt": "2026-06-16T05:29:33.712Z",
+      "lastSeen": "2026-06-16T05:29:33.712Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-15-energy-basics-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-16T05:29:33.712Z"
+        }
+      ]
+    },
+    {
+      "id": "hook-declarative-not-hedged",
+      "title": "Make hook claims declarative, not hedged",
+      "guidance": "Replace 'might be', 'could be', 'may affect' with direct declarative statements. 'Morning light might fix your afternoon crash' → 'Morning light resets your energy clock'. If a claim needs a hedge to be accurate, reframe it as a mechanism ('Here's what happens when you skip morning light') rather than softening the hook.",
+      "tag": "hook",
+      "format": "health-carousel",
+      "support": 1,
+      "confidence": 0.85,
+      "createdAt": "2026-06-16T05:29:33.712Z",
+      "lastSeen": "2026-06-16T05:29:33.712Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-15-energy-basics-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-16T05:29:33.712Z"
+        }
+      ]
+    },
+    {
+      "id": "novelty-underexplored-inputs",
+      "title": "Source topics from underexplored inputs, not popular wellness pillars",
+      "guidance": "Avoid the five mainstream energy pillars (sleep, caffeine, walking, hydration, sugar) as primary angles for consecutive campaigns. Next batch should draw from less-covered inputs: nasal breathing vs mouth breathing on CO2 tolerance, meal timing relative to chronotype, thermal contrast (cold exposure timing), or CO2/oxygen ratio during desk work. These score higher on novelty without sacrificing the 'small input, big output' angle.",
+      "tag": "novelty",
+      "format": "health-carousel",
+      "support": 1,
+      "confidence": 0.8,
+      "createdAt": "2026-06-16T05:29:33.712Z",
+      "lastSeen": "2026-06-16T05:29:33.712Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-15-energy-basics-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-16T05:29:33.712Z"
+        }
+      ]
+    }
+  ]
+}

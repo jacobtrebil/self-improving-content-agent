@@ -138,7 +138,8 @@ class Tracer {
     if (!this.quiet) {
       const mark = rec.status === STATUS.SUCCESS ? "•" : rec.status === STATUS.ERROR ? "✗" : "–";
       const cost = rec.costUsd != null ? ` $${rec.costUsd}` : "";
-      console.log(`[trace ${this.traceId}] ${mark} ${rec.spanId} ${rec.latencyMs}ms${cost}`);
+      const ms = rec.latencyMs != null ? ` ${rec.latencyMs}ms` : "";
+      console.log(`[trace ${this.traceId}] ${mark} ${rec.spanId}${ms}${cost}`);
     }
   }
 

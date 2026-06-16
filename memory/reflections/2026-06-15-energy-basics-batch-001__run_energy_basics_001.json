@@ -1,0 +1,93 @@
+{
+  "campaign": "2026-06-15-energy-basics-batch-001",
+  "traceId": "run_energy_basics_001",
+  "format": "health-carousel",
+  "at": "2026-06-16T05:29:33.712Z",
+  "model": "claude-sonnet-4-6",
+  "goal": "Five \"daily energy\" decks that bust a common myth and give one this-week fix.\nAngle: small inputs (light, caffeine timing, a walk, electrolytes, hidden\nsugar) move energy more than people think — each ties to a Vibe Health feature.",
+  "signals": {
+    "decks": 5,
+    "judged": 5,
+    "dimAvg": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 4.8,
+      "predicted_performance": 4
+    },
+    "weakest": [
+      "novelty",
+      3
+    ],
+    "strongest": [
+      "audience_fit",
+      5
+    ],
+    "codeFails": [],
+    "weakNotes": {
+      "novelty": [
+        "34-morning-light: Morning light and circadian rhythm are well-covered territory; the 'coffee before daylight borrows energy' framing is the freshest angle but the overall concept won't feel new to health-curious followers.",
+        "35-caffeine-cutoff: The caffeine half-life angle is well-worn; the 'you can fall asleep but still lose deep sleep' slide is the freshest moment, but the overall frame has been done many times.",
+        "36-walk-after-meals: Post-meal walks for blood sugar are well-circulated advice (especially post-glucose-goddess era), so the angle is familiar even if the execution is clean.",
+        "37-more-than-water: Electrolytes-not-just-water is a well-circulated angle (LMNT has mainstreamed it), so the framing is familiar even if the execution is clean.",
+        "38-hidden-sugar: Hidden sugar in health-halo foods is well-worn territory; the 'added sugars' label tip and spike-then-crash mechanism add some depth but won't feel fresh to a health-curious feed."
+      ],
+      "hook_strength": [
+        "34-morning-light: 'Tired by 3pm' nails the pain point and 'morning light' is a specific, unexpected lever — loses a point because the payoff phrase 'might be' hedges the intrigue slightly.",
+        "35-caffeine-cutoff: 'Wrecking your sleep' is direct and contrarian enough to earn a pause, but '3pm coffee' is slightly expected territory for sleep content.",
+        "36-walk-after-meals: 'Post-lunch crash' is a felt pain the audience names themselves, and the payoff is specific and believable — loses a point because 'beat the crash with a walk' isn't a surprising angle.",
+        "37-more-than-water: 'Why plain water isn't hydrating you' is specific and counter-intuitive enough to stop a scroll, though the sub-headline over-explains what should stay mysterious.",
+        "38-hidden-sugar: 'Healthy foods that crash your energy' is specific and contrarian with a concrete payoff, though the sub-copy names the culprits too early, killing some curiosity."
+      ]
+    },
+    "hooks": [
+      "Tired by 3pm? Start with *morning light*.",
+      "Your 3pm coffee is *wrecking your sleep*.",
+      "Beat the *post-lunch crash* with a walk.",
+      "Why *plain water* isn't hydrating you.",
+      "'Healthy' foods that *crash your energy*."
+    ]
+  },
+  "summary": "The batch landed cleanly on execution — perfect clarity and audience resonance — but novelty dragged the ceiling down to a predicted 4. Every topic (morning light, caffeine cutoff, post-meal walks, electrolytes, hidden sugar) has been mainstreamed by the glucose-goddess / LMNT / sleep-influencer wave, so the angles felt familiar even when the slide copy was tight. Hook strength was solid but lost points from hedging language and sub-headlines that revealed the payoff too early.",
+  "what_worked": [
+    "Pain-point-first hooks that name a felt moment ('tired by 3pm', 'post-lunch crash') scored well on audience resonance",
+    "Single clear fix per deck kept clarity perfect — no dilution across slides",
+    "Brand attribution to Vibe Health features read naturally, not forced"
+  ],
+  "what_underperformed": [
+    "All five topics were already circulating widely — novelty scored 3 across the board",
+    "Sub-headlines over-explained the payoff, killing scroll-stop curiosity before slide 2",
+    "Hedging language in hooks ('might be') softened contrarian punches that should be declarative"
+  ],
+  "strategies": [
+    {
+      "id": "push-contrarian-novelty",
+      "title": "Pick the second-order mechanism, not the mainstream angle",
+      "guidance": "Before finalizing a topic, ask: has this angle been mainstreamed by a popular brand or creator (LMNT, Glucose Goddess, Huberman, etc.)? If yes, go one layer deeper — not 'electrolytes hydrate you' but 'your kidneys dump sodium when cortisol spikes, which is why stress dehydrates faster than heat'. The concept can be familiar; the mechanism should not be.",
+      "tag": "novelty",
+      "confidence": 0.92
+    },
+    {
+      "id": "hook-no-early-reveal",
+      "title": "Let the hook tease — never name the answer in the sub-headline",
+      "guidance": "The hook slide should state the pain or the surprising claim; the sub-headline should deepen the mystery, not resolve it. Never list the culprits or the fix on slide 1. Replace 'here's why' with 'it's not what you think' or leave it as a bare question. The answer belongs on slide 3+.",
+      "tag": "hook",
+      "confidence": 0.88
+    },
+    {
+      "id": "hook-declarative-not-hedged",
+      "title": "Make hook claims declarative, not hedged",
+      "guidance": "Replace 'might be', 'could be', 'may affect' with direct declarative statements. 'Morning light might fix your afternoon crash' → 'Morning light resets your energy clock'. If a claim needs a hedge to be accurate, reframe it as a mechanism ('Here's what happens when you skip morning light') rather than softening the hook.",
+      "tag": "hook",
+      "confidence": 0.85
+    },
+    {
+      "id": "novelty-underexplored-inputs",
+      "title": "Source topics from underexplored inputs, not popular wellness pillars",
+      "guidance": "Avoid the five mainstream energy pillars (sleep, caffeine, walking, hydration, sugar) as primary angles for consecutive campaigns. Next batch should draw from less-covered inputs: nasal breathing vs mouth breathing on CO2 tolerance, meal timing relative to chronotype, thermal contrast (cold exposure timing), or CO2/oxygen ratio during desk work. These score higher on novelty without sacrificing the 'small input, big output' angle.",
+      "tag": "novelty",
+      "confidence": 0.8
+    }
+  ]
+}

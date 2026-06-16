@@ -71,44 +71,44 @@
       "predicted_performance": 4
     },
     "rationales": {
-      "hook_strength": "'Tired by 3pm' nails the audience pain point and 'morning light' is a concrete, unexpected fix — loses a point because the payoff isn't quantified or punchy enough to feel urgent.",
-      "clarity": "Every slide is a single actionable idea with zero fluff — the cloudy-day objection slide is especially good at preempting excuses.",
-      "audience_fit": "Speaks directly to the busy, crash-prone 20–35 crowd with dead-simple instructions and no overwhelming science dump.",
-      "novelty": "Morning light and circadian rhythm are well-trodden wellness TikTok territory — the 'coffee before light borrows energy' framing is the only genuinely fresh angle.",
-      "brand_fit": "Hedged claims ('can support'), no hypey language, CTA ties directly to the Health Score product without being pushy — exactly the right voice.",
-      "predicted_performance": "High save potential from the objection-handling structure and the walk-stack tip, but the novelty ceiling will cap reach unless the cover visual is strong enough to stand out in a crowded niche."
+      "hook_strength": "'Tired by 3pm' nails the pain point and 'morning light' is a specific, unexpected lever — loses a point because the payoff phrase 'might be' hedges the intrigue slightly.",
+      "clarity": "Every slide is one actionable idea with a clear label ([trap], [do this], [why], [cloudy day?], [stack it]) — zero ambiguity about what to do.",
+      "audience_fit": "'Tired by 3pm' is the exact vocabulary of the target demo, the fix is cheap and takes 10 minutes, and the cloudy-day objection pre-handles the most common excuse.",
+      "novelty": "Morning light and circadian rhythm are well-covered territory; the 'coffee before daylight borrows energy' framing is the freshest angle but the overall concept won't feel new to health-curious followers.",
+      "brand_fit": "'Can support' hedges the claim correctly, banned words are absent, the CTA ties directly to the Health Score mechanic, and the voice stays plain and native throughout.",
+      "predicted_performance": "High save potential because it's a concrete tomorrow-morning action; shares limited because the hook isn't contrarian enough to trigger 'I need my friend to see this.'"
     },
     "overall": 4.33,
     "model": "claude-sonnet-4-6",
-    "tokensIn": 25932,
-    "tokensOut": 295,
-    "costUsd": 0.0649285,
+    "tokensIn": 25935,
+    "tokensOut": 325,
+    "costUsd": 0.0653965,
     "raw": {
       "hook_strength": {
         "score": 4,
-        "why": "'Tired by 3pm' nails the audience pain point and 'morning light' is a concrete, unexpected fix — loses a point because the payoff isn't quantified or punchy enough to feel urgent."
+        "why": "'Tired by 3pm' nails the pain point and 'morning light' is a specific, unexpected lever — loses a point because the payoff phrase 'might be' hedges the intrigue slightly."
       },
       "clarity": {
         "score": 5,
-        "why": "Every slide is a single actionable idea with zero fluff — the cloudy-day objection slide is especially good at preempting excuses."
+        "why": "Every slide is one actionable idea with a clear label ([trap], [do this], [why], [cloudy day?], [stack it]) — zero ambiguity about what to do."
       },
       "audience_fit": {
         "score": 5,
-        "why": "Speaks directly to the busy, crash-prone 20–35 crowd with dead-simple instructions and no overwhelming science dump."
+        "why": "'Tired by 3pm' is the exact vocabulary of the target demo, the fix is cheap and takes 10 minutes, and the cloudy-day objection pre-handles the most common excuse."
       },
       "novelty": {
         "score": 3,
-        "why": "Morning light and circadian rhythm are well-trodden wellness TikTok territory — the 'coffee before light borrows energy' framing is the only genuinely fresh angle."
+        "why": "Morning light and circadian rhythm are well-covered territory; the 'coffee before daylight borrows energy' framing is the freshest angle but the overall concept won't feel new to health-curious followers."
       },
       "brand_fit": {
         "score": 5,
-        "why": "Hedged claims ('can support'), no hypey language, CTA ties directly to the Health Score product without being pushy — exactly the right voice."
+        "why": "'Can support' hedges the claim correctly, banned words are absent, the CTA ties directly to the Health Score mechanic, and the voice stays plain and native throughout."
       },
       "predicted_performance": {
         "score": 4,
-        "why": "High save potential from the objection-handling structure and the walk-stack tip, but the novelty ceiling will cap reach unless the cover visual is strong enough to stand out in a crowded niche."
+        "why": "High save potential because it's a concrete tomorrow-morning action; shares limited because the hook isn't contrarian enough to trigger 'I need my friend to see this.'"
       }
     }
   },
-  "evaluatedAt": "2026-06-16T05:00:36.168Z"
+  "evaluatedAt": "2026-06-16T05:23:03.527Z"
 }
