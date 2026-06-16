@@ -82,6 +82,12 @@ record of how its media was produced. See `/observability/` (`tracer.js`,
 - Eval scores (from `evals/run-evals.js`) are traced as nested
   `eval.<key> → eval_code/eval_judge` spans and attached to each span's `evals`
   field with artifact links back to the spec + background images.
+- **LangSmith export (optional UI).** The local JSONL trace is the source of
+  truth; `observability/export-to-langsmith.js campaigns/<camp>` ships those spans
+  to a LangSmith project for the hosted UI. Credentials come from a gitignored
+  `.env` at the repo root (auto-loaded; standard `LANGSMITH_API_KEY` /
+  `LANGSMITH_PROJECT` / `LANGSMITH_ENDPOINT` vars) or the shell env. `--dry-run`
+  maps without sending; re-exports are idempotent (deterministic run UUIDs).
 
 # Strategy memory (Reflexion)
 

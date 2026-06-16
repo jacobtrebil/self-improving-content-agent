@@ -64,6 +64,15 @@ node observability/traceViewer.js campaigns --status error --all    # filter acr
 node observability/traceViewer.js --compare <campA> <campB>         # side-by-side rollup with deltas
 ```
 
+The JSONL trace is the source of truth and works offline with zero dependencies.
+A **LangSmith** exporter ships the same spans to the hosted UI when you want it —
+local-first by design, the network service is never on the generation path:
+
+```bash
+cp .env.example .env   # add LANGSMITH_API_KEY (gitignored; auto-loaded)
+node observability/export-to-langsmith.js campaigns/<campaign>   # → LangSmith project (idempotent)
+```
+
 ```
 span                           st model              ms       in      out     usd       eval
 generate_spec.34-morning-light • claude-opus-4-8     ·        ·       ·       ·

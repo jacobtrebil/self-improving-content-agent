@@ -4,8 +4,22 @@
 # Claude Code runtime state
 .claude/scheduled_tasks.lock
 
-# Local-only config — real Postiz channel IDs (see config/posting.yaml)
+# ─── SECRETS — this is a PUBLIC repo; never commit credentials ───────────────
+# LangSmith API key → .env (LANGSMITH_API_KEY). Postiz channel IDs →
+# config/posting.local.yaml. Broad patterns below are belt-and-suspenders so a
+# secret can't slip in from any directory.
 config/*.local.yaml
+*.local.yaml
+*.local.json
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*credentials*
+*secret*
+# Committed templates that are intentionally safe (no real values):
+!config/observability.example.yaml
 
 # Local-only operational records — live post IDs from schedule runs
 vibe-carousels/scheduled_*.tsv
