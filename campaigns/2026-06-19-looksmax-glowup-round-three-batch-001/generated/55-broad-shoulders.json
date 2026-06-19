@@ -1,0 +1,58 @@
+{
+  "key": "55-broad-shoulders",
+  "theme": "looksmax",
+  "eyebrow": "Frame",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Broad shoulders are the *ultimate looksmax*.",
+      "sub": "Unlike your bone width, the look of broad shoulders is trainable. It's posture, muscle and contrast.",
+      "bg": "ai-bg/55-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Build",
+      "title": "Side delts widen you",
+      "body": "*Lateral raises* widen the shoulder line far more than pressing. Slow but real — train them often."
+    },
+    {
+      "type": "content",
+      "kicker": "Open",
+      "title": "Posture collapses width",
+      "body": "Rounded shoulders fold your frame inward. *Pull them back and down* and you instantly read wider."
+    },
+    {
+      "type": "content",
+      "kicker": "Contrast",
+      "title": "A smaller waist helps",
+      "body": "Shoulders read wider against a *leaner waist* — the V-taper illusion does half the work."
+    },
+    {
+      "type": "content",
+      "kicker": "Carry",
+      "title": "Fill out the shirt",
+      "body": "Rows and pull-ups *thicken the upper back* so your shoulders fill a shirt from every angle."
+    },
+    {
+      "type": "content",
+      "kicker": "Time",
+      "title": "Width takes months",
+      "body": "Real shoulder width is *months of consistency*, not weeks. Size the timeline honestly and keep going."
+    },
+    {
+      "type": "cta",
+      "title": "Wider shoulders, *built honestly*.",
+      "body": "Vibe Health tracks the sleep, food, water and steps that fuel the training behind your frame — in one score.",
+      "button": "Download Vibe Health →",
+      "tag": "a broader frame, built",
+      "bg": "ai-bg/55-cta.png"
+    }
+  ],
+  "caption": "Broad shoulders are the looksmax everyone wants — and the look is trainable, not just genetics. 💪\n\nSide-delt raises, better posture, a leaner waist, a thicker back. Width takes months, so be patient. Save this. 🔖\n\nVibe Health tracks the sleep, food, water and steps that fuel the work → link in bio.",
+  "hashtags": ["#looksmaxing", "#broadshoulders", "#glowup", "#vtaper", "#posture", "#shouldertraining", "#selfimprovement", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "Broad Shoulders Are the Ultimate Looksmax — And They're Trainable",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A man with broad, well-developed shoulders and a clear V-taper, posture tall and open, light defining the width of his frame.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a broad, rounded shoulder cap and upper back, defined muscle under the skin, hard side light."
+  }
+}

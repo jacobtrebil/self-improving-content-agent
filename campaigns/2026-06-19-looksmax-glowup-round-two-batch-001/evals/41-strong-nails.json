@@ -1,0 +1,106 @@
+{
+  "key": "41-strong-nails",
+  "eyebrow": "Hands",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/41-strong-nails.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/41-strong-nails.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your nails are a *nutrition readout*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "284/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Nutrition readout' reframes nails as a body signal — specific and mildly contrarian, though not viscerally urgent enough to guarantee a stop.",
+      "clarity": "Each slide owns exactly one idea with a concrete action, no jargon, and the 3–6 month timeline anchor makes the payoff tangible.",
+      "audience_fit": "Busy 20–35s care about looking good efficiently — nails as a diet proxy lands well, though the handwashing/sanitizer angle skews slightly older.",
+      "novelty": "The biotin-debunk slide and iron-spoon callout are genuinely fresh angles most nail content skips; protein framing is less novel but still underused.",
+      "brand_fit": "Claims are appropriately hedged ('can signal', 'may help' implied), banned words are absent, CTA is functional not hype, and 'fed not faked' is sharp Vibe-voice copy.",
+      "predicted_performance": "High save potential — actionable, specific, debunks a popular supplement — but nails is a crowded niche so share velocity depends heavily on the cover visual."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26016,
+    "tokensOut": 300,
+    "costUsd": 0.0655865,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Nutrition readout' reframes nails as a body signal — specific and mildly contrarian, though not viscerally urgent enough to guarantee a stop."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one idea with a concrete action, no jargon, and the 3–6 month timeline anchor makes the payoff tangible."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s care about looking good efficiently — nails as a diet proxy lands well, though the handwashing/sanitizer angle skews slightly older."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The biotin-debunk slide and iron-spoon callout are genuinely fresh angles most nail content skips; protein framing is less novel but still underused."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are appropriately hedged ('can signal', 'may help' implied), banned words are absent, CTA is functional not hype, and 'fed not faked' is sharp Vibe-voice copy."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — actionable, specific, debunks a popular supplement — but nails is a crowded niche so share velocity depends heavily on the cover visual."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:24.130Z"
+}

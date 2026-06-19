@@ -1,0 +1,106 @@
+{
+  "key": "65-muscle-longevity",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/65-muscle-longevity.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/65-muscle-longevity.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Muscle is the organ of *longevity*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "328/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Organ of longevity' reframe is specific and contrarian, but 'nobody frames it this way' undersells itself — the framing is actually common in longevity circles.",
+      "clarity": "Each slide owns exactly one idea with a clear mechanism label and a single bolded takeaway — nothing to re-read.",
+      "audience_fit": "Steady blood sugar and two sessions/week lands well for busy 20–35s, but 'falls and frailty' skews toward a 50+ fear set rather than the tired-by-3pm crowd.",
+      "novelty": "'Muscle is your glucose sink' is a fresher angle, but protein-spreading and two-sessions-a-week advice is well-worn territory on health TikTok.",
+      "brand_fit": "Voice is plain and direct, claims are appropriately hedged ('can reverse much of that'), CTA ties the content to the score without hype.",
+      "predicted_performance": "High save potential on the mechanism slides; sharing is moderate because the hook, while solid, won't provoke the 'send this to someone' impulse."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26372,
+    "tokensOut": 295,
+    "costUsd": 0.0675865,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Organ of longevity' reframe is specific and contrarian, but 'nobody frames it this way' undersells itself — the framing is actually common in longevity circles."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one idea with a clear mechanism label and a single bolded takeaway — nothing to re-read."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Steady blood sugar and two sessions/week lands well for busy 20–35s, but 'falls and frailty' skews toward a 50+ fear set rather than the tired-by-3pm crowd."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "'Muscle is your glucose sink' is a fresher angle, but protein-spreading and two-sessions-a-week advice is well-worn territory on health TikTok."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Voice is plain and direct, claims are appropriately hedged ('can reverse much of that'), CTA ties the content to the score without hype."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential on the mechanism slides; sharing is moderate because the hook, while solid, won't provoke the 'send this to someone' impulse."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:07:03.410Z"
+}

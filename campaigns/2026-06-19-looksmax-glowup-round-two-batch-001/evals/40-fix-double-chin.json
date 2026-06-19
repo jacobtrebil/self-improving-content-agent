@@ -1,0 +1,106 @@
+{
+  "key": "40-fix-double-chin",
+  "eyebrow": "Profile",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/40-fix-double-chin.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/40-fix-double-chin.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A double chin is *rarely genetics*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "288/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Rarely genetics' is a solid contrarian opener with a concrete 3-part diagnosis, though it lacks a sharp number or visual provocation to truly spike curiosity.",
+      "clarity": "Each slide owns one lever (deficit, posture, hydration, sleep, exercise) with a single actionable takeaway and no filler.",
+      "audience_fit": "Hits the 20–35 looksmaxxing audience exactly — phone posture, tired face, overnight fixes they can start tonight.",
+      "novelty": "Fluid-pooling and tech-neck angles are fresher than the usual 'do neck rolls' advice, though calorie deficit and sleep tips are well-trodden.",
+      "brand_fit": "Claims are hedged ('may help' equivalent with 'real — if minor'), no hype language, CTA ties directly to the three tracked metrics.",
+      "predicted_performance": "High save potential from the multi-cause framing and actionable stack, but no dramatic visual hook or personal story limits viral share ceiling."
+    },
+    "overall": 4.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25986,
+    "tokensOut": 272,
+    "costUsd": 0.0649265,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Rarely genetics' is a solid contrarian opener with a concrete 3-part diagnosis, though it lacks a sharp number or visual provocation to truly spike curiosity."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns one lever (deficit, posture, hydration, sleep, exercise) with a single actionable takeaway and no filler."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Hits the 20–35 looksmaxxing audience exactly — phone posture, tired face, overnight fixes they can start tonight."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Fluid-pooling and tech-neck angles are fresher than the usual 'do neck rolls' advice, though calorie deficit and sleep tips are well-trodden."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('may help' equivalent with 'real — if minor'), no hype language, CTA ties directly to the three tracked metrics."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the multi-cause framing and actionable stack, but no dramatic visual hook or personal story limits viral share ceiling."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:23.486Z"
+}

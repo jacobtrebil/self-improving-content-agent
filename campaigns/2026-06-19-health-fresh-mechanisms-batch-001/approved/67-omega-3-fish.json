@@ -1,0 +1,58 @@
+{
+  "key": "67-omega-3-fish",
+  "theme": "health",
+  "eyebrow": "Omega-3",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your brain is starving for *one fat*.",
+      "sub": "Most people get almost none of it, and they feel the gap in their mood and focus.",
+      "bg": "ai-bg/67-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The gap",
+      "title": "The ratio is off",
+      "body": "Modern diets run heavy in omega-6 and low in omega-3. That *lopsided ratio* can drive inflammation."
+    },
+    {
+      "type": "content",
+      "kicker": "The source",
+      "title": "Eat the fatty fish",
+      "body": "*Fatty fish twice a week* (salmon, sardines, mackerel) is the most reliable way to close the gap."
+    },
+    {
+      "type": "content",
+      "kicker": "For the brain",
+      "title": "Feed the gray matter",
+      "body": "Your brain is mostly fat, and omega-3 may *support mood and focus*. Research suggests the supply matters."
+    },
+    {
+      "type": "content",
+      "kicker": "Bonus",
+      "title": "It reaches further",
+      "body": "Beyond the brain, omega-3 *may calm inflammation* showing up in skin and joints."
+    },
+    {
+      "type": "content",
+      "kicker": "If no fish",
+      "title": "Plants give you some",
+      "body": "Walnuts, chia, and flax provide *a weaker plant form*. Fish or an algae source is still better."
+    },
+    {
+      "type": "cta",
+      "title": "Close the *omega-3 gap*.",
+      "body": "Snap your meals and Vibe Health logs your food, so you can see how often fatty fish actually lands on your plate.",
+      "button": "Download Vibe Health →",
+      "tag": "the fat you're missing",
+      "bg": "ai-bg/67-cta.png"
+    }
+  ],
+  "caption": "Your brain is starving for one fat, and most people get almost none of it. 🐟\n\nModern diets run heavy in omega-6, so eat fatty fish twice a week. Omega-3 may support mood and focus, and walnuts and flax give a weaker plant form. Save this. 🔖\n\nSnap your meals and Vibe Health logs your food for you → link in bio.",
+  "hashtags": ["#omega3", "#fattyfish", "#brainhealth", "#antiinflammatory", "#nutrition", "#mood", "#salmon", "#wellness", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "The One Fat Your Brain Is Starving For",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. An ordinary person cooking a fillet of salmon in a dim home kitchen, steam rising, harsh side light on a focused everyday face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a cooked salmon fillet on a plain plate, flaking texture and skin caught by a hard edge of light."
+  }
+}

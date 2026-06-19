@@ -1,0 +1,58 @@
+{
+  "key": "40-fix-double-chin",
+  "theme": "looksmax",
+  "eyebrow": "Profile",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A double chin is *rarely genetics*.",
+      "sub": "For most people it's stored fat, trapped fluid and a forward head — and all three respond to habits.",
+      "bg": "ai-bg/40-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Lean down",
+      "title": "Under the chin fills first",
+      "body": "The submental area stores fat early and loses it late. A slow *calorie deficit* is what shrinks it — nothing spot-targets it."
+    },
+    {
+      "type": "content",
+      "kicker": "Phone",
+      "title": "Tech neck pushes it forward",
+      "body": "Looking down all day shortens the front of your neck. *Lift the screen to eye level* and the profile opens up instantly."
+    },
+    {
+      "type": "content",
+      "kicker": "Drain it",
+      "title": "Fluid pools under the jaw",
+      "body": "Low water and high salt leave fluid sitting in your neck. *Steady hydration* moves it out and tightens the look."
+    },
+    {
+      "type": "content",
+      "kicker": "Sleep",
+      "title": "How you sleep shows up",
+      "body": "Face-down on a flat pillow puffs the lower face by morning. *Sleeping on your back* lets the fluid drain overnight."
+    },
+    {
+      "type": "content",
+      "kicker": "Train it",
+      "title": "Chin tucks help posture",
+      "body": "Daily chin tucks strengthen the deep neck muscles that hold your head back. *Real — if minor*, but they stack with the rest."
+    },
+    {
+      "type": "cta",
+      "title": "Lean neck, *open profile*.",
+      "body": "Vibe Health tracks the food, water & sleep that flatten the area under your chin — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "a sharper profile, tracked",
+      "bg": "ai-bg/40-cta.png"
+    }
+  ],
+  "caption": "A double chin is rarely your genes — it's stored fat, trapped fluid and a forward head. 📐\n\nLean down slowly, lift your screen, hydrate, sleep on your back, throw in chin tucks. All habits, all yours. 🔖\n\nVibe Health tracks the food, water & sleep that open up your profile → link in bio.",
+  "hashtags": ["#doublechin", "#jawline", "#glowup", "#looksmaxing", "#facegains", "#posturecheck", "#selfimprovement", "#leanface", "#glowuptips", "#vibehealthapp"],
+  "youtube_title": "Fix a Double Chin Without Surgery",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person in clean side profile with the head held tall and back, a lean defined neck and chin line, hard side light along the jaw.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close side-profile detail of a lean neck and clean under-chin line, head held tall, rim light tracing the jaw."
+  }
+}

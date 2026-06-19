@@ -1,0 +1,58 @@
+{
+  "key": "49-plump-lips",
+  "theme": "looksmax",
+  "eyebrow": "Lips",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Fuller lips, *no filler*.",
+      "sub": "Most 'thin' lips are just dehydrated, chapped and sun-worn. That part is fixable at home.",
+      "bg": "ai-bg/49-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Daily",
+      "title": "Low water flattens lips",
+      "body": "Chronic low water leaves lips *flat and lined*. Sip through the day and they plump back up."
+    },
+    {
+      "type": "content",
+      "kicker": "Habit",
+      "title": "Stop licking your lips",
+      "body": "Licking feels soothing but *strips the lip barrier*, so they dry, crack and chap in a loop."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Breathe through your nose",
+      "body": "Mouth-breathing all night *dries and shrinks* your lips. Nose-breathing keeps them soft by morning."
+    },
+    {
+      "type": "content",
+      "kicker": "Protect",
+      "title": "Sun breaks lips down",
+      "body": "UV quietly *breaks down lip collagen* and darkens them. An SPF lip balm protects the volume you have."
+    },
+    {
+      "type": "content",
+      "kicker": "Feed",
+      "title": "Cracked corners are a clue",
+      "body": "Pale lips or cracked corners can flag *low iron or B vitamins*. Eat for it; see a doctor if it persists."
+    },
+    {
+      "type": "cta",
+      "title": "Hydrated, soft, *fuller*.",
+      "body": "Vibe Health tracks the water, food & sleep that keep your lips plump and healthy — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "fuller lips, from hydration",
+      "bg": "ai-bg/49-cta.png"
+    }
+  ],
+  "caption": "Most 'thin' lips aren't thin — they're dehydrated, chapped and sun-worn. That's fixable. 💧\n\nSip water all day, stop licking, nose-breathe at night, wear SPF balm, eat for it. Save this for later. 🔖\n\nVibe Health tracks the water, food & sleep that keep your lips full → link in bio.",
+  "hashtags": ["#looksmaxing", "#lipcare", "#glowup", "#fullerlips", "#selfcare", "#glowuptips", "#skinfromwithin", "#healthylifestyle", "#hydration", "#vibehealthapp"],
+  "youtube_title": "Fuller Lips Without Filler — The Real Fix",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A woman with naturally full, soft, healthy lips and a relaxed mouth, soft light catching the lip texture.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of healthy, supple, well-hydrated lips with fine natural texture, soft rim light."
+  }
+}

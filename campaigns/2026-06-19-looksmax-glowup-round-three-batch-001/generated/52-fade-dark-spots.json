@@ -1,0 +1,58 @@
+{
+  "key": "52-fade-dark-spots",
+  "theme": "looksmax",
+  "eyebrow": "Skin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "90% of dark spots are *the sun*.",
+      "sub": "People chase brightening serums for marks the sun made. The fix is mostly protection and patience.",
+      "bg": "ai-bg/52-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Daily",
+      "title": "Sunscreen is the whole game",
+      "body": "UV deepens old spots and creates new ones. *Daily SPF* does more than any serum on the shelf."
+    },
+    {
+      "type": "content",
+      "kicker": "Hands off",
+      "title": "Picking leaves marks",
+      "body": "Squeezing a spot leaves *post-inflammatory marks* that can linger for months. Honestly, just leave it alone."
+    },
+    {
+      "type": "content",
+      "kicker": "Feed",
+      "title": "Color on your plate",
+      "body": "Vitamin-C-rich, colorful produce *supports an even tone* slowly from the inside. Real, but minor on its own."
+    },
+    {
+      "type": "content",
+      "kicker": "Repair",
+      "title": "Sleep speeds turnover",
+      "body": "Skin *renews fastest in deep sleep*. Short nights slow the turnover that fades spots over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Time",
+      "title": "Consistency beats serums",
+      "body": "Pigment fades over *months, not days*. Stay consistent; see a dermatologist for stubborn or changing spots."
+    },
+    {
+      "type": "cta",
+      "title": "Even tone, *over time*.",
+      "body": "Vibe Health tracks the sleep, food & habits that help your skin fade spots and turn over — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "even skin tone, over time",
+      "bg": "ai-bg/52-cta.png"
+    }
+  ],
+  "caption": "Around 90% of dark spots come from the sun, not a serum you're missing. Protect first, then be patient. ☀️\n\nDaily SPF, hands off, eat colorful, sleep deep, give it months. Save this for later. 🔖\n\nVibe Health tracks the sleep, food & habits behind even skin → link in bio.",
+  "hashtags": ["#darkspots", "#skincare", "#looksmaxing", "#glowup", "#eventone", "#sunscreen", "#skinfromwithin", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "90% of Dark Spots Come From the Sun",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A woman with clear, even-toned, healthy skin and a smooth uniform complexion, soft beauty light on the face.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a smooth, even-toned cheek with no dark spots, fine healthy skin texture, soft light."
+  }
+}

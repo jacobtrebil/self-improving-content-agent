@@ -1,0 +1,106 @@
+{
+  "key": "67-omega-3-fish",
+  "eyebrow": "Omega-3",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/67-omega-3-fish.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/67-omega-3-fish.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your brain is starving for *one fat*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "313/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Your brain is starving for one fat' is specific and visceral, but 'one fat' is slightly vague — naming omega-3 in the sub would sharpen the payoff without killing curiosity.",
+      "clarity": "Every slide is one idea with a clear label and a single actionable takeaway — no slide tries to do two things.",
+      "audience_fit": "Mood, focus, inflammation, and a dead-simple twice-a-week action are exactly what a tired, overwhelmed 25-year-old needs to hear.",
+      "novelty": "Omega-3 is well-trodden territory; the omega-6 ratio framing and the plant-form caveat add some edge, but this won't feel new to health-curious followers.",
+      "brand_fit": "Claims are consistently hedged ('may support', 'research suggests'), voice is plain and direct, no banned words, and the CTA ties naturally to food logging.",
+      "predicted_performance": "High save potential because it's practical and has a clear action (twice-a-week fish), but the familiar topic caps viral upside versus a more contrarian hook."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26364,
+    "tokensOut": 298,
+    "costUsd": 0.0675805,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Your brain is starving for one fat' is specific and visceral, but 'one fat' is slightly vague — naming omega-3 in the sub would sharpen the payoff without killing curiosity."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one idea with a clear label and a single actionable takeaway — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Mood, focus, inflammation, and a dead-simple twice-a-week action are exactly what a tired, overwhelmed 25-year-old needs to hear."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Omega-3 is well-trodden territory; the omega-6 ratio framing and the plant-form caveat add some edge, but this won't feel new to health-curious followers."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are consistently hedged ('may support', 'research suggests'), voice is plain and direct, no banned words, and the CTA ties naturally to food logging."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because it's practical and has a clear action (twice-a-week fish), but the familiar topic caps viral upside versus a more contrarian hook."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:07:08.902Z"
+}

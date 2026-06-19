@@ -1,0 +1,106 @@
+{
+  "key": "53-fresh-breath",
+  "eyebrow": "Breath",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/53-fresh-breath.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/53-fresh-breath.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Mints hide bad breath, *not fix it*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "280/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Mints hide bad breath, not fix it' is specific and contrarian — stops the scroll, but the payoff (saliva/gut) is slightly abstract for a cover.",
+      "clarity": "Each slide owns exactly one mechanism with a single actionable takeaway, no slide tries to do two jobs.",
+      "audience_fit": "Busy 25-year-olds definitely care about fresh breath but the tongue-scraper and gut angles feel slightly more 'wellness nerd' than mass 20–35.",
+      "novelty": "Tongue scraping and gut-breath connection are fresher than standard 'brush more' advice, though the dry-mouth and flossing slides are familiar territory.",
+      "brand_fit": "Voice is plain and direct throughout, health claims are appropriately hedged ('can leak'), CTA ties naturally to water and meal tracking without cringe.",
+      "predicted_performance": "High save potential — actionable, specific, multi-step fix — but the gut slide may lose casual scrollers before the CTA lands."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26369,
+    "tokensOut": 273,
+    "costUsd": 0.0672355,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Mints hide bad breath, not fix it' is specific and contrarian — stops the scroll, but the payoff (saliva/gut) is slightly abstract for a cover."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one mechanism with a single actionable takeaway, no slide tries to do two jobs."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 25-year-olds definitely care about fresh breath but the tongue-scraper and gut angles feel slightly more 'wellness nerd' than mass 20–35."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Tongue scraping and gut-breath connection are fresher than standard 'brush more' advice, though the dry-mouth and flossing slides are familiar territory."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Voice is plain and direct throughout, health claims are appropriately hedged ('can leak'), CTA ties naturally to water and meal tracking without cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — actionable, specific, multi-step fix — but the gut slide may lose casual scrollers before the CTA lands."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:04.312Z"
+}

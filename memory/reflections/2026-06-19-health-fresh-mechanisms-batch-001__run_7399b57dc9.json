@@ -1,0 +1,103 @@
+{
+  "campaign": "2026-06-19-health-fresh-mechanisms-batch-001",
+  "traceId": "run_7399b57dc9",
+  "format": "health-carousel",
+  "at": "2026-06-19T19:09:00.053Z",
+  "model": "claude-sonnet-4-6",
+  "goal": "Ten health decks (keys 59–68) built on the second-order mechanism most creators\nskip, drawn from UNDEREXPLORED parent topics — directly answering the standing\nnovelty problem (novelty has been the weakest score 3 batches running). Hard\nrule from memory: NO oversaturated fitness topics as the primary angle (zone 2,\nprogressive overload, calories-in/out, NEAT, sleep basics, protein-per-meal,\nelectrolytes). Each hook is framed through a BROAD outcome (energy, focus, mood,\nsleep quality, longevity) so it escapes the fitness silo.",
+  "signals": {
+    "decks": 10,
+    "judged": 10,
+    "dimAvg": {
+      "hook_strength": 3.8,
+      "clarity": 4.9,
+      "audience_fit": 4.6,
+      "novelty": 3.1,
+      "brand_fit": 4.9,
+      "predicted_performance": 3.8
+    },
+    "weakest": [
+      "novelty",
+      3.1
+    ],
+    "strongest": [
+      "brand_fit",
+      4.9
+    ],
+    "codeFails": [],
+    "weakNotes": {
+      "novelty": [
+        "59-nasal-breathing: Nasal breathing content is saturated on TikTok health; CO2 tolerance and nitric oxide add a layer above the basics, but the overall angle is well-trodden.",
+        "60-meal-timing-clock: Meal timing and circadian rhythm are well-trodden territory; the clock-not-calories reframe is the freshest angle but the individual tips (3-hour cutoff, morning light) are widely circulated.",
+        "61-fix-your-gut: 30 plants, fermented foods, chew slowly — these are well-worn gut health talking points that circulate constantly; the meal-gap angle is slightly fresher.",
+        "62-cold-exposure: Cold shower content is saturated; the post-workout timing caveat and exhale tip add real value but the core angle is familiar.",
+        "63-sauna-heat: The sleep-cooling mechanism and the hedged heart-health framing are slightly fresh, but sauna carousels are saturated and this doesn't lead with a surprising or contrarian claim.",
+        "64-breath-for-stress: Physiological sigh content is saturated post-Huberman; the framing is clean but the angle isn't fresh enough to feel like a find.",
+        "65-muscle-longevity: 'Muscle is your glucose sink' is a fresher angle, but protein-spreading and two-sessions-a-week advice is well-worn territory on health TikTok.",
+        "66-active-couch-potato: The lipoprotein lipase angle is legitimately underexplained in mainstream content, though \"move every 30 minutes\" has been circulating for a few years.",
+        "67-omega-3-fish: Omega-3 is well-trodden territory; the omega-6 ratio framing and the plant-form caveat add some edge, but this won't feel new to health-curious followers.",
+        "68-magnesium-food: Magnesium-for-sleep is well-trodden territory; 'what burns through it' slide adds a small fresh angle but the overall frame is familiar."
+      ],
+      "hook_strength": [
+        "59-nasal-breathing: 'Quietly wrecking your sleep' is specific and mildly alarming without being hypey, though 'mouth-breathing' as the villain is familiar enough to slightly blunt the surprise.",
+        "60-meal-timing-clock: 'Late dinners are stealing your deep sleep' is specific and contrarian enough to pause a scroll, though 'stealing' edges toward mild hyperbole.",
+        "61-fix-your-gut: 'Gut runs your energy and skin' is familiar territory — the fiber pill jab is a decent contrarian hook but not specific or urgent enough to stop a scroll.",
+        "62-cold-exposure: 'beats your morning coffee' is a concrete, contrarian promise that earns a stop, but 'done at the wrong one, you waste it — or worse' is vague and slightly clickbaity.",
+        "63-sauna-heat: The cover reframes sauna as a sleep tool, which is a real angle, but 'does more than make you sweat' is a weak tease — too vague to stop a scroll competing against harder hooks.",
+        "64-breath-for-stress: 'One breath' is specific and the 'built-in calm button' sub adds intrigue, but 'switch off stress' edges toward promise-land — slightly safer than typical but not shocking enough to be a 5.",
+        "65-muscle-longevity: 'Organ of longevity' reframe is specific and contrarian, but 'nobody frames it this way' undersells itself — the framing is actually common in longevity circles.",
+        "66-active-couch-potato: \"Train and still be too sedentary\" is a genuine gotcha for gym-goers, and the enzyme tease earns the next swipe — docked one for no number in the headline.",
+        "67-omega-3-fish: 'Your brain is starving for one fat' is specific and visceral, but 'one fat' is slightly vague — naming omega-3 in the sub would sharpen the payoff without killing curiosity.",
+        "68-magnesium-food: Sleep + blame-shifting angle is specific and relatable, but 'bad sleep' is a familiar opener that stops short of a truly disruptive hook."
+      ]
+    },
+    "hooks": [
+      "Mouth-breathing is quietly wrecking your *sleep*.",
+      "Late dinners are stealing your *deep sleep*.",
+      "Your gut runs your *energy and skin*.",
+      "A cold shower beats your *morning coffee*.",
+      "A hot sauna does more than make you *sweat*.",
+      "You can switch off stress in *one breath*.",
+      "Muscle is the organ of *longevity*.",
+      "You can train and still be too *sedentary*.",
+      "Your brain is starving for *one fat*.",
+      "Low magnesium shows up as bad *sleep*."
+    ]
+  },
+  "summary": "Novelty dropped to 3.1 — the lowest recorded across all batches — despite an explicit brief mandating underexplored topics and second-order mechanisms. The root cause is structural: the generator selected Huberman-era wellness staples (nasal breathing, cold showers, sauna, physiological sigh, omega-3, magnesium-for-sleep) that have been mainstream for 2–4 years, meaning 'add a fresh angle' instructions produce marginally fresher tips inside fundamentally saturated decks. Clarity and brand fit remained near-perfect, confirming the format and voice are solid; the only lever left is pre-generation topic gating.",
+  "what_worked": [
+    "Clarity (4.9) and brand fit (4.9) — format, tone, and slide structure are consistently excellent across all health batches",
+    "Broad outcome framing (sleep, longevity, energy, focus) successfully escapes the fitness-only silo — audience fit held at 4.6",
+    "Hooks that named a specific mechanism outperformed vague teases within the batch (lipoprotein lipase in 66, glucose sink in 65 were the two highest-rated hooks)",
+    "Active-couch-potato structure (66) is the template: familiar behavior reframed through a mechanism most gym-goers haven't encountered"
+  ],
+  "what_underperformed": [
+    "Topic selection: nasal breathing, cold showers, sauna, physiological sigh, omega-3, magnesium-for-sleep are all Huberman/Rhonda Patrick canon — 2–4 years of mainstream podcast saturation",
+    "Vague hook teases: 'does more than make you sweat', 'one fat', 'bad sleep' tease without specificity and fail to stop a scroll competing against harder hooks",
+    "Tips within decks defaulted to well-circulated advice (30 plants, fermented foods, chew slowly, move every 30 min) even when the deck angle was slightly fresh",
+    "Novelty declined 3.2 → 3.1 despite a stronger explicit brief — confirms the problem is the topic-pool itself, not framing or instruction depth"
+  ],
+  "strategies": [
+    {
+      "id": "push-contrarian-novelty",
+      "title": "Block the wellness-podcast canon as primary deck topics",
+      "guidance": "Extend the existing topic blocklist to include the full Huberman/wellness-podcast canon for health-carousel: nasal breathing, cold exposure/showers, sauna/heat, physiological sigh or breath-work-for-stress, omega-3/fish oil, magnesium-for-sleep, circadian eating/meal-timing windows, and cortisol basics. These score ≤3.2 on novelty regardless of angle framing because the audience has seen them from 10 different creators. The generator cannot novelty-reframe its way out of a saturated topic. Redirect to genuinely underexplored territory: bile acid cycling and fat-soluble vitamin absorption, CO2 tolerance as a fatigue marker, oral microbiome and systemic inflammation cascades, sleep-stage core-temperature requirements, photoperiod effects on testosterone/cortisol ratio, or capillary insulin sensitivity decay from chair time. Ask: has this been a Huberman episode? Has it been a Rhonda Patrick paper breakdown? If yes, it is blocked.",
+      "tag": "novelty",
+      "confidence": 0.97
+    },
+    {
+      "id": "name-mechanism-in-hook",
+      "title": "Name the mechanism in the hook — never tease with 'one thing' or 'one fat'",
+      "guidance": "Hooks that obscured the mechanism with a vague noun ('one fat', 'one breath', 'does more than sweat') were consistently docked by the judge. Hooks that named the specific compound, enzyme, or process ('lipoprotein lipase', 'glucose sink') earned higher scores because they create curiosity through a named unknown rather than a vague unknown. For health-carousel: if the deck's novel claim involves a named compound, enzyme, hormone, or process, put that name in the hook or sub-headline. 'Your brain is starving for DHA' outperforms 'Your brain is starving for one fat' — the name is the intrigue. Only use vague teases when the mechanism name is genuinely obscure enough to feel alien.",
+      "tag": "hook",
+      "confidence": 0.88
+    },
+    {
+      "id": "tip-novelty-filter",
+      "title": "Every deck needs at least one tip that fails the Google top-5 test",
+      "guidance": "Before finalizing any health-carousel deck, scan each tip: if it appears in the top 5 Google results for that topic keyword, it is too common. At least one tip per deck must fail this test — i.e., require more than a basic search to surface. Tips that failed this batch: '30 plants per week', 'fermented foods for gut', 'chew slowly', 'move every 30 minutes'. Second-order replacements exist: phage diversity via plant-skin consumption rather than plant count, postbiotic timing from fermentation, cephalic-phase enzyme priming from smell and chewing, capillary recruitment patterns from low-intensity movement breaks vs. formal exercise.",
+      "tag": "novelty",
+      "confidence": 0.91
+    }
+  ]
+}

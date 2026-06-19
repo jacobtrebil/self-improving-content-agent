@@ -1,0 +1,58 @@
+{
+  "key": "63-sauna-heat",
+  "theme": "health",
+  "eyebrow": "Heat",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A hot sauna does more than make you *sweat*.",
+      "sub": "The real payoff doesn't show up in the heat — it shows up that night, in how you relax and how you sleep.",
+      "bg": "ai-bg/63-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Heat melts the tension",
+      "body": "Heat relaxes tight muscles and triggers *endorphin release*, which may support real stress relief once you cool back down."
+    },
+    {
+      "type": "content",
+      "kicker": "For sleep",
+      "title": "Heat up before bed",
+      "body": "A sauna or hot bath *1 to 2 hours before bed* helps your body cool afterward, which can help you fall asleep faster."
+    },
+    {
+      "type": "content",
+      "kicker": "For the heart",
+      "title": "A pattern worth noting",
+      "body": "Regular sauna use is *linked to heart health* in research — an association worth knowing, not a cure to count on."
+    },
+    {
+      "type": "content",
+      "kicker": "Recovery",
+      "title": "Loosen sore muscles",
+      "body": "Heat *boosts blood flow* to tired, sore muscles, which can support recovery on the days after a hard session."
+    },
+    {
+      "type": "content",
+      "kicker": "Caution",
+      "title": "Don't overdo it",
+      "body": "You lose fluid fast, so *rehydrate and keep it reasonable*. Ask a doctor first if you're pregnant or have heart issues."
+    },
+    {
+      "type": "cta",
+      "title": "Sweat now, *sleep better tonight*.",
+      "body": "Track your sauna sessions and sleep in Vibe Health, and the trend line shows whether heat is actually paying off in your recovery.",
+      "button": "Download Vibe Health →",
+      "tag": "deeper sleep, from heat",
+      "bg": "ai-bg/63-cta.png"
+    }
+  ],
+  "caption": "A hot sauna does more than make you sweat — the real payoff shows up that night. 🔥\n\nHeat 1–2 hours before bed for easier sleep, loosen sore muscles, note the heart-health link, and always rehydrate. Save this. 🔖\n\nTrack sauna and sleep in Vibe Health to see if the heat is paying off → link in bio.",
+  "hashtags": ["#sauna", "#heattherapy", "#recovery", "#sleeptips", "#relaxation", "#hearthealth", "#wellness", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "What a Sauna Really Does for Your Sleep and Recovery",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A real person sitting on a wooden sauna bench, sweat on ordinary skin, head tipped back in relaxation, soft steam and a single dim light source.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of sweat-beaded skin on a relaxed shoulder against dark sauna wood, faint steam catching hard rim light."
+  }
+}

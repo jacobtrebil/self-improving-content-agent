@@ -1,0 +1,95 @@
+{
+  "campaign": "2026-06-19-looksmax-glowup-round-two-batch-001",
+  "traceId": "run_f7f78f5fad",
+  "format": "looksmax-carousel",
+  "at": "2026-06-19T16:39:15.999Z",
+  "model": "claude-sonnet-4-6",
+  "goal": "Five looksmax decks that take a popular appearance goal and reframe it as a\nhealth outcome (\"the real fix is sleep, food, water, posture\"). Each opens on\nthe aesthetic payoff + a contrarian reframe, delivers 5 honest levers, and ties\nthe exact levers to Vibe Health tracking. Round-two of the looksmax line — all\ngoals are distinct from the live decks (jawline, clear skin, under-eyes, hair,\nleaner face, posture, beauty sleep, debloat, glow, tier list).",
+  "signals": {
+    "decks": 5,
+    "judged": 5,
+    "dimAvg": {
+      "hook_strength": 4,
+      "clarity": 4.8,
+      "audience_fit": 4.8,
+      "novelty": 3.8,
+      "brand_fit": 4.6,
+      "predicted_performance": 4
+    },
+    "weakest": [
+      "novelty",
+      3.8
+    ],
+    "strongest": [
+      "audience_fit",
+      4.8
+    ],
+    "codeFails": [],
+    "weakNotes": {
+      "novelty": [
+        "39-whiter-smile: The gum-framing angle and enamel-thinning warning are fresher than the usual 'oil pull and eat strawberries' content, though water-rinsing after coffee is widely circulated.",
+        "40-fix-double-chin: Fluid-pooling and tech-neck angles are fresher than the usual 'do neck rolls' advice, though calorie deficit and sleep tips are well-trodden.",
+        "41-strong-nails: The biotin-debunk slide and iron-spoon callout are genuinely fresh angles most nail content skips; protein framing is less novel but still underused.",
+        "42-clear-body-skin: The sweat/friction framing is fresher than typical skincare carousels, though the individual tips (shower after gym, clean sheets) are familiar.",
+        "43-brighter-eyes: The individual tips (sleep, hydrate, blink rule) are well-known; the angle of framing it through eye-white clarity is a mild fresh spin but not a genuinely surprising reframe."
+      ],
+      "hook_strength": [
+        "39-whiter-smile: 'Starts with your gums' is a specific, contrarian reframe that subverts the obvious strip-bleaching assumption — solid scroll-stopper, but lacks a punchy number or concrete promise.",
+        "40-fix-double-chin: 'Rarely genetics' is a solid contrarian opener with a concrete 3-part diagnosis, though it lacks a sharp number or visual provocation to truly spike curiosity.",
+        "41-strong-nails: 'Nutrition readout' reframes nails as a body signal — specific and mildly contrarian, though not viscerally urgent enough to guarantee a stop.",
+        "42-clear-body-skin: 'It's not dirt' is a direct myth-bust that earns a second look, though it lacks a concrete outcome promise to fully seal the stop.",
+        "43-brighter-eyes: 'Bright white eyes read as healthy' is concrete and vanity-driven — stops scrollers who care about appearance, though it's not aggressively contrarian."
+      ]
+    },
+    "hooks": [
+      "A whiter smile starts *with your gums*.",
+      "A double chin is *rarely genetics*.",
+      "Your nails are a *nutrition readout*.",
+      "Clear up your back — *it's not dirt*.",
+      "Bright, white eyes *read as healthy*."
+    ]
+  },
+  "summary": "The batch landed strong on audience resonance and clarity — the health-reframe format is well-calibrated for the target audience and Vibe brand. Novelty (3.8) and hook strength (4.0) are the ceiling-limiters: angles are fresh but underlying tips are familiar, and hooks are contrarian without being urgent or specific enough to spike curiosity hard.",
+  "what_worked": [
+    "Health-outcome reframe angle earns high audience_fit and brand_fit — keep it as the structural spine",
+    "Myth-bust hook structure ('not dirt', 'rarely genetics') earns second looks and fits the contrarian voice",
+    "Slide clarity and Vibe tracking tie-in are consistently well-executed",
+    "Biotin-debunk and gum-first framing are cited as genuinely fresh — mechanism-level novelty pays off when present"
+  ],
+  "what_underperformed": [
+    "Individual tips default to well-known advice (sleep, hydrate, deficit) even when the framing angle is fresh",
+    "Hooks lack a concrete number or measurable promise — contrarian reframes without specificity don't fully stop the scroll",
+    "Eye-whites deck barely reframed the mechanism; most tips were standard advice with a thin new label",
+    "No hook created visceral urgency or surprising visual provocation — all feel informational rather than alarming"
+  ],
+  "strategies": [
+    {
+      "id": "push-contrarian-novelty",
+      "title": "Surface the non-obvious mechanism, not just a fresh angle",
+      "guidance": "For each tip, ask: would a typical health creator say this? If yes, replace it. Target at least 3 of 5 tips per deck to be mechanism-level surprises (e.g. 'enamel thinning from whitening strips' not 'drink water after coffee'). The angle can be familiar if the underlying causal chain is not.",
+      "tag": "novelty",
+      "confidence": 0.88
+    },
+    {
+      "id": "hook-add-number-or-promise",
+      "title": "Anchor every hook with a concrete number or outcome promise",
+      "guidance": "Contrarian reframes alone score ~4.0. Add a specific number, timeframe, or measurable claim to the hook slide to push toward 4.5+. Example pattern: '[contrarian reframe] — [X days / X% / X steps]'. The number creates urgency the reframe alone doesn't.",
+      "tag": "hook",
+      "confidence": 0.85
+    },
+    {
+      "id": "hook-visceral-urgency",
+      "title": "Make hooks feel like a warning, not just a correction",
+      "guidance": "Hooks rated weakest when they were mildly surprising but not alarming. Rewrite hook candidates to carry mild threat or loss-framing ('you're making it worse', 'the thing most people do is backwards'). Informational hooks don't stop scrollers the way consequence hooks do.",
+      "tag": "hook",
+      "confidence": 0.78
+    },
+    {
+      "id": "tip-novelty-filter",
+      "title": "Run a 'would a doctor say this on TikTok' filter before finalizing tips",
+      "guidance": "Before locking a deck, review each tip: if it appears in the top 5 Google results for the topic, cut or deepen it. Each deck should contain at least one tip that addresses a less-obvious downstream cause (e.g. magnesium for jaw tension vs. 'reduce stress') to raise novelty without sacrificing credibility.",
+      "tag": "novelty",
+      "confidence": 0.82
+    }
+  ]
+}

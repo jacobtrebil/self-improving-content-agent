@@ -1,0 +1,58 @@
+{
+  "key": "46-zone-2-cardio",
+  "theme": "health",
+  "eyebrow": "Cardio",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The best cardio feels *almost too easy*.",
+      "sub": "If every session leaves you gassed, you're training the wrong system. The engine is built slow.",
+      "bg": "ai-bg/46-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Easy pace burns fat",
+      "body": "At a low heart rate your body runs mostly on *fat for fuel*. Push too hard and it switches to burning sugar instead."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "You build the engine",
+      "body": "Easy 'zone 2' work grows the *mitochondria* that power everything. A bigger engine means more stamina at every pace."
+    },
+    {
+      "type": "content",
+      "kicker": "The test",
+      "title": "Pass the talk test",
+      "body": "Zone 2 is *roughly 60–70% of max heart rate* — a pace where you can hold a full conversation but wouldn't want to sing."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "Most of your cardio, easy",
+      "body": "Aim for *two to three easy 30–45 min sessions* a week — a brisk walk, bike or jog. Save all-out efforts for once."
+    },
+    {
+      "type": "content",
+      "kicker": "The combo",
+      "title": "It protects your lifting",
+      "body": "Because it's low-stress, easy cardio *won't wreck your recovery* the way constant hard sessions do. It stacks with strength work."
+    },
+    {
+      "type": "cta",
+      "title": "Train easy, *get fitter*.",
+      "body": "Vibe Health tracks your steps and movement so you can keep most of your cardio in the easy zone — and see it add up.",
+      "button": "Download Vibe Health →",
+      "tag": "build the engine, not the burnout",
+      "bg": "ai-bg/46-cta.png"
+    }
+  ],
+  "caption": "If every cardio session leaves you destroyed, you're training the wrong system. 🚶\n\nEasy 'zone 2' pace burns fat and builds the mitochondria that power everything. Keep most sessions conversational — you should be able to talk, not sing. 🔖\n\nVibe Health tracks your movement so you can keep cardio in the easy zone → link in bio.",
+  "hashtags": ["#zone2", "#cardio", "#fatloss", "#running", "#fitnesstips", "#endurance", "#healthylifestyle", "#heartrate", "#trainingtips", "#vibehealthapp"],
+  "youtube_title": "The Cardio That Actually Works (And Feels Easy)",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person jogging at an easy relaxed pace down a dim empty street at dawn, candid everyday running clothes, soft side light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a wrist with a basic fitness watch mid-walk, hard rim light, blurred pavement behind."
+  }
+}

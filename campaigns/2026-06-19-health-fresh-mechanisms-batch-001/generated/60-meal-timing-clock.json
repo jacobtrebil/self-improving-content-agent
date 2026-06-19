@@ -1,0 +1,58 @@
+{
+  "key": "60-meal-timing-clock",
+  "theme": "health",
+  "eyebrow": "Meal timing",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Late dinners are stealing your *deep sleep*.",
+      "sub": "It's not the calories — it's the clock. The hour you eat is talking to your body in a language you've been ignoring.",
+      "bg": "ai-bg/60-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Your body keeps time",
+      "body": "Late meals fight rising melatonin, which can mean *worse sleep and glucose* — your gut handles food best earlier in the day."
+    },
+    {
+      "type": "content",
+      "kicker": "Front-load",
+      "title": "Eat big earlier",
+      "body": "Shift more food to *breakfast and lunch*, less at night. Many people report steadier energy that actually matches their day."
+    },
+    {
+      "type": "content",
+      "kicker": "The cutoff",
+      "title": "Stop eating before bed",
+      "body": "Finishing *3 hours before bed* may help you fall into deeper sleep with less late-night reflux."
+    },
+    {
+      "type": "content",
+      "kicker": "Anchor it",
+      "title": "Use morning light",
+      "body": "*Morning light plus breakfast* set your internal clock, telling your body the day has started so night comes easier."
+    },
+    {
+      "type": "content",
+      "kicker": "Be consistent",
+      "title": "Keep meals on schedule",
+      "body": "Random eating times confuse the rhythm. *Eating on a schedule* keeps energy and sleep predictable instead of all over the place."
+    },
+    {
+      "type": "cta",
+      "title": "Time your meals, *win the night*.",
+      "body": "Log your meals and sleep in Vibe Health and the trend line shows how dinner timing moves your morning energy.",
+      "button": "Download Vibe Health →",
+      "tag": "energy that matches your day",
+      "bg": "ai-bg/60-cta.png"
+    }
+  ],
+  "caption": "Late dinners are stealing your deep sleep — and it's the clock, not the calories. 🕗\n\nFront-load your food earlier, stop eating about 3 hours before bed, anchor with morning light, keep meals on a schedule. Save it. 🔖\n\nLog meals and sleep in Vibe Health and watch the trend line connect them → link in bio.",
+  "hashtags": ["#mealtiming", "#circadianrhythm", "#sleeptips", "#energy", "#metabolism", "#bodyclock", "#wellness", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Why Late Dinners Steal Your Deep Sleep",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A real person eating a late dinner alone at a dim kitchen table, a wall clock faintly visible behind them, ordinary plate and soft side light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a hand setting down a fork beside a finished plate in low evening light, clock hands blurred in the background."
+  }
+}

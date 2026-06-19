@@ -1,0 +1,106 @@
+{
+  "key": "51-control-oily-skin",
+  "eyebrow": "Skin",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/51-control-oily-skin.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/51-control-oily-skin.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Washing more makes you *oilier*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "278/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "Contrarian and specific — 'washing more makes you oilier' is a genuine counter-intuition that earns a pause, though the phrasing is slightly passive rather than punchy.",
+      "clarity": "Each slide is one mechanism with one actionable fix, no filler, no bloat.",
+      "audience_fit": "Oily midday skin is a real pain point for the 20–35 crowd and the sleep/sugar angle ties into their existing overwhelm, though the audience skews slightly more female than the broad target.",
+      "novelty": "Rebound oil and barrier theory are well-circulated in skincare communities already, so this lands as solid reminder content rather than a fresh take.",
+      "brand_fit": "Voice is plain and direct, health claims are appropriately hedged ('may raise sebum', 'keeps skin calmer'), CTA connects naturally to the app's food and sleep tracking without being hypey.",
+      "predicted_performance": "High save potential — checklist structure with actionable fixes drives saves, though the lack of a truly novel hook limits viral share ceiling."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26371,
+    "tokensOut": 285,
+    "costUsd": 0.0674295,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "Contrarian and specific — 'washing more makes you oilier' is a genuine counter-intuition that earns a pause, though the phrasing is slightly passive rather than punchy."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one mechanism with one actionable fix, no filler, no bloat."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Oily midday skin is a real pain point for the 20–35 crowd and the sleep/sugar angle ties into their existing overwhelm, though the audience skews slightly more female than the broad target."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Rebound oil and barrier theory are well-circulated in skincare communities already, so this lands as solid reminder content rather than a fresh take."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, health claims are appropriately hedged ('may raise sebum', 'keeps skin calmer'), CTA connects naturally to the app's food and sleep tracking without being hypey."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — checklist structure with actionable fixes drives saves, though the lack of a truly novel hook limits viral share ceiling."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:05:53.268Z"
+}

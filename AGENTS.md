@@ -1,6 +1,8 @@
 # Content Harness Instructions
 
-This repo generates Vibe Health short-form content for TikTok, Instagram Reels, YouTube Shorts, and carousel posts.
+This repo generates Vibe Health short-form content for TikTok and YouTube Shorts
+(carousels and reels). Instagram is retired — we no longer generate or schedule
+any IG content.
 
 # Core workflow 
 
@@ -42,9 +44,9 @@ For any generation task (e.g. "generate 10 posts in format X"):
    pausing:
    - Carousels: `node vibe-carousels/gen-bg-from-specs.js campaigns/<camp>`
      (cover/CTA backgrounds), then
-     `node vibe-carousels/build.js && FMT=tt node vibe-carousels/build.js`
-     (writes slide HTML — auto-picks up approved campaign specs), then
-     `bash vibe-carousels/render.sh --stale-only` (PNGs, 4:5 + 9:16), then
+     `node vibe-carousels/build.js`
+     (writes slide HTML, 9:16 — auto-picks up approved campaign specs), then
+     `bash vibe-carousels/render.sh --stale-only` (9:16 PNGs), then
      `bash vibe-carousels/build_shorts.sh <keys>` (YouTube MP4s).
    - Reels: `node vibe-carousels/build_transformations.js`.
    - Symlink the rendered deck folders into the campaign's `rendered/`.
@@ -82,6 +84,13 @@ record of how its media was produced. See `/observability/` (`tracer.js`,
 - Eval scores (from `evals/run-evals.js`) are traced as nested
   `eval.<key> → eval_code/eval_judge` spans and attached to each span's `evals`
   field with artifact links back to the spec + background images.
+- **Bash steps are traced too.** `observability/trace.sh` (sourced by the
+  schedule/render scripts) defines a transparent `postiz()` wrapper — every
+  `postiz upload/posts:create/posts:delete` auto-logs a span (no IDs in the
+  span; live IDs are redacted by `scrub()` anyway) — plus `trace_span` for
+  render steps (`render.slides`, `build_short.*`). `dashboard/build.js` traces
+  every Postiz analytics call. So generation, evals, reflection, rendering,
+  scheduling, and analytics are all covered.
 - **LangSmith export (optional UI).** The local JSONL trace is the source of
   truth; `observability/export-to-langsmith.js campaigns/<camp>` ships those spans
   to a LangSmith project for the hosted UI. Credentials come from a gitignored
@@ -124,7 +133,7 @@ committed — it's the system's accumulated learning.
 ## Rules
 
 - Do not make unsupported medical claims.
-- Keep hooks short and native to TikTok/IG.
+- Keep hooks short and native to TikTok.
 - Favor curiosity, transformation, and concrete visual payoff.
 - Never reuse the exact same hook twice in one campaign.
 - Avoid cringe AI-sounding phrasing.

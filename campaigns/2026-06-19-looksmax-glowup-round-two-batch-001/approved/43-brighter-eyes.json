@@ -1,0 +1,58 @@
+{
+  "key": "43-brighter-eyes",
+  "theme": "looksmax",
+  "eyebrow": "Eyes",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Bright, white eyes *read as healthy*.",
+      "sub": "Clear whites signal rest and recovery. Red, tired, dull eyes quietly age your whole face.",
+      "bg": "ai-bg/43-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Sleep clears the whites",
+      "body": "Short sleep leaves the whites pink and bloodshot. *7–9 hours* lets the tiny vessels settle so the eyes look clear."
+    },
+    {
+      "type": "content",
+      "kicker": "Hydrate",
+      "title": "Dry eyes look dull",
+      "body": "Low water and dry air leave eyes tired and irritated. *Steady hydration* keeps the surface bright instead of flat."
+    },
+    {
+      "type": "content",
+      "kicker": "Ease off",
+      "title": "Alcohol reddens them",
+      "body": "Booze dilates the vessels and dehydrates you — that's the morning redness. *Less alcohol* keeps the whites whiter."
+    },
+    {
+      "type": "content",
+      "kicker": "Screens",
+      "title": "Remember to blink",
+      "body": "Staring at screens cuts your blink rate and dries the eyes. *Look away every 20 minutes* and let them rewet."
+    },
+    {
+      "type": "content",
+      "kicker": "Triggers",
+      "title": "Hunt the irritation",
+      "body": "Dust, smoke and rubbing keep eyes red. *Clean air and hands off* lets the irritation calm down."
+    },
+    {
+      "type": "cta",
+      "title": "Clear whites, *brighter eyes*.",
+      "body": "Vibe Health tracks the sleep, water & alcohol your eyes report back on — in one simple daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "brighter eyes, tracked",
+      "bg": "ai-bg/43-cta.png"
+    }
+  ],
+  "caption": "Clear, white eyes read as rested — red and dull ones age your whole face. 👁️\n\nSleep enough, hydrate, ease off the booze, blink at your screen, dodge the irritants. Small stuff, big difference. 🔖\n\nVibe Health tracks the sleep, water & alcohol behind brighter eyes → link in bio.",
+  "hashtags": ["#brightereyes", "#glowup", "#looksmaxing", "#eyecare", "#selfimprovement", "#sleephealth", "#hydration", "#glowuptips", "#healthyhabits", "#vibehealthapp"],
+  "youtube_title": "How to Get Brighter, Whiter Eyes Naturally",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person looking toward the camera with clear bright rested eyes, calm and alert, soft catchlight in the eyes.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a clear bright rested eye, crisp white and sharp catchlight, hard side light on the lashes."
+  }
+}

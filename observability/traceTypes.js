@@ -102,6 +102,7 @@ const REDACTIONS = [
   [/sk-ant-[A-Za-z0-9_-]{8,}/g, "sk-ant-REDACTED"], // Anthropic key
   [/sk-[A-Za-z0-9]{20,}/g, "sk-REDACTED"], // generic OpenAI-style key
   [/AKIA[0-9A-Z]{16}/g, "AKIA-REDACTED"], // AWS access key id
+  [/cm[a-z0-9]{20,}/g, "cm-REDACTED"], // Postiz post / integration ids (cuid)
 ];
 function scrub(v) {
   if (typeof v === "string") { let s = v; for (const [re, rep] of REDACTIONS) s = s.replace(re, rep); return s; }

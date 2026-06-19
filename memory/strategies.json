@@ -1,22 +1,136 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T05:29:33.712Z",
+  "updatedAt": "2026-06-19T19:09:00.053Z",
   "strategies": [
     {
       "id": "push-contrarian-novelty",
-      "title": "Pick the second-order mechanism, not the mainstream angle",
-      "guidance": "Before finalizing a topic, ask: has this angle been mainstreamed by a popular brand or creator (LMNT, Glucose Goddess, Huberman, etc.)? If yes, go one layer deeper — not 'electrolytes hydrate you' but 'your kidneys dump sodium when cortisol spikes, which is why stress dehydrates faster than heat'. The concept can be familiar; the mechanism should not be.",
+      "title": "Pick the second-order mechanism AND an underexplored parent topic",
+      "guidance": "Extend the existing topic blocklist to include the full Huberman/wellness-podcast canon for health-carousel: nasal breathing, cold exposure/showers, sauna/heat, physiological sigh or breath-work-for-stress, omega-3/fish oil, magnesium-for-sleep, circadian eating/meal-timing windows, and cortisol basics. These score ≤3.2 on novelty regardless of angle framing because the audience has seen them from 10 different creators. The generator cannot novelty-reframe its way out of a saturated topic. Redirect to genuinely underexplored territory: bile acid cycling and fat-soluble vitamin absorption, CO2 tolerance as a fatigue marker, oral microbiome and systemic inflammation cascades, sleep-stage core-temperature requirements, photoperiod effects on testosterone/cortisol ratio, or capillary insulin sensitivity decay from chair time. Ask: has this been a Huberman episode? Has it been a Rhonda Patrick paper breakdown? If yes, it is blocked.",
       "tag": "novelty",
       "format": "health-carousel",
-      "support": 1,
-      "confidence": 0.92,
+      "support": 6,
+      "confidence": 1,
       "createdAt": "2026-06-16T05:29:33.712Z",
-      "lastSeen": "2026-06-16T05:29:33.712Z",
+      "lastSeen": "2026-06-19T19:09:00.053Z",
       "evidence": [
         {
           "campaign": "2026-06-15-energy-basics-batch-001",
           "weakest": "novelty",
           "at": "2026-06-16T05:29:33.712Z"
+        },
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:15.999Z"
+        },
+        {
+          "campaign": "2026-06-19-health-myths-training-batch-001",
+          "weakest": "novelty",
+          "novelty_score": 3.2,
+          "at": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "campaign": "2026-06-19-health-myths-training-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:47.569Z"
+        },
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-three-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:07:33.540Z"
+        },
+        {
+          "campaign": "2026-06-19-health-fresh-mechanisms-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:09:00.053Z"
+        }
+      ]
+    },
+    {
+      "id": "avoid-saturated-fitness-topics",
+      "title": "Block oversaturated fitness topics as primary deck angles",
+      "guidance": "Do not use these as the hook premise or primary deck angle: zone 2 cardio, progressive overload, calories in/out or diet-beats-exercise, NEAT, sleep basics, protein-per-meal. They may appear as supporting evidence inside a slide but cannot drive the deck. Redirect to adjacent underexplored angles: lactate shuttling and brain BDNF instead of zone 2; deload timing and nervous system recovery instead of progressive overload; thermic effect variation by food matrix instead of diet vs exercise.",
+      "tag": "novelty",
+      "format": "health-carousel",
+      "support": 2,
+      "confidence": 0.95,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "lastSeen": "2026-06-19T16:39:47.569Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-health-myths-training-batch-001",
+          "note": "Zone 2 called 'wellness internet's favorite topic for two years'; progressive overload carousels 'saturated'; diet-beats-exercise 'well-worn'",
+          "novelty_score": 3.2,
+          "at": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "campaign": "2026-06-19-health-myths-training-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:47.569Z"
+        }
+      ]
+    },
+    {
+      "id": "tip-novelty-filter",
+      "title": "Run a 'would a doctor say this on TikTok' filter before finalizing tips",
+      "guidance": "Before finalizing any health-carousel deck, scan each tip: if it appears in the top 5 Google results for that topic keyword, it is too common. At least one tip per deck must fail this test — i.e., require more than a basic search to surface. Tips that failed this batch: '30 plants per week', 'fermented foods for gut', 'chew slowly', 'move every 30 minutes'. Second-order replacements exist: phage diversity via plant-skin consumption rather than plant count, postbiotic timing from fermentation, cephalic-phase enzyme priming from smell and chewing, capillary recruitment patterns from low-intensity movement breaks vs. formal exercise.",
+      "tag": "novelty",
+      "format": "looksmax-carousel",
+      "support": 2,
+      "confidence": 0.92,
+      "createdAt": "2026-06-19T16:39:15.999Z",
+      "lastSeen": "2026-06-19T19:09:00.053Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:15.999Z"
+        },
+        {
+          "campaign": "2026-06-19-health-fresh-mechanisms-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:09:00.053Z"
+        }
+      ]
+    },
+    {
+      "id": "broaden-audience-framing",
+      "title": "Frame outcomes broadly so decks escape the fitness silo",
+      "guidance": "Before finalizing each hook, ask: does this only resonate with someone already trying to lose fat or build muscle? If yes, reframe through a broader outcome — energy, cognitive performance, longevity, sleep quality, or mood. The mechanism stays the same; only the outcome language widens. Example: 'alcohol pauses fat burning' → 'alcohol cuts your deep sleep by 25% and tanks next-day focus'. Broader framing lifts predicted performance by increasing share rate beyond the fitness audience.",
+      "tag": "audience",
+      "format": "health-carousel",
+      "support": 2,
+      "confidence": 0.9,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "lastSeen": "2026-06-19T16:39:47.569Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-health-myths-training-batch-001",
+          "note": "44-alcohol-truth: 'fat-loss framing narrowing audience vs a pure sleep angle'; predicted_performance 3.6 batch avg",
+          "at": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "campaign": "2026-06-19-health-myths-training-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:47.569Z"
+        }
+      ]
+    },
+    {
+      "id": "fresh-angle-leads-deck",
+      "title": "When you find the novel angle, make it the hook — not slide 4",
+      "guidance": "Before finalizing any deck, identify the single freshest mechanism in the spec. If it appears in slide 4 or later, restructure: that mechanism becomes the hook premise or slide-2 reveal, and the familiar angles (hydration, SPF, stress, protein) drop to supporting-evidence roles only. Example from this batch: the sleep-skin collagen connection was the only differentiating angle in 52-fade-dark-spots but appeared on slide 5 — it should have been the cover claim. A fresh angle buried past slide 3 is novelty wasted on an audience that may never reach it.",
+      "tag": "novelty",
+      "format": "looksmax-carousel",
+      "support": 1,
+      "confidence": 0.9,
+      "createdAt": "2026-06-19T19:07:33.540Z",
+      "lastSeen": "2026-06-19T19:07:33.540Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-three-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:07:33.540Z"
         }
       ]
     },
@@ -39,6 +153,60 @@
       ]
     },
     {
+      "id": "hook-shareable-to-friend",
+      "title": "Design hooks that prompt forwarding to a friend, not just saving",
+      "guidance": "Before locking a hook, ask: 'Would someone send this to a specific friend, or just bookmark it for themselves?' Personal/aesthetic hooks (jaw shape, leg leanness, collarbone definition) cap at saves; socially relevant hooks (crash diet is shedding your hair, your skincare makes redness worse) earn shares because they describe something you'd urgently pass on. Prioritize hooks where the revelation is embarrassing, alarming, or counterintuitive enough to warrant a tag or DM. This is the direct mechanism limiting predicted performance (3.9) despite strong save intent across the batch.",
+      "tag": "hook",
+      "format": "looksmax-carousel",
+      "support": 1,
+      "confidence": 0.88,
+      "createdAt": "2026-06-19T19:07:33.540Z",
+      "lastSeen": "2026-06-19T19:07:33.540Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-three-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:07:33.540Z"
+        }
+      ]
+    },
+    {
+      "id": "name-mechanism-in-hook",
+      "title": "Name the mechanism in the hook — never tease with 'one thing' or 'one fat'",
+      "guidance": "Hooks that obscured the mechanism with a vague noun ('one fat', 'one breath', 'does more than sweat') were consistently docked by the judge. Hooks that named the specific compound, enzyme, or process ('lipoprotein lipase', 'glucose sink') earned higher scores because they create curiosity through a named unknown rather than a vague unknown. For health-carousel: if the deck's novel claim involves a named compound, enzyme, hormone, or process, put that name in the hook or sub-headline. 'Your brain is starving for DHA' outperforms 'Your brain is starving for one fat' — the name is the intrigue. Only use vague teases when the mechanism name is genuinely obscure enough to feel alien.",
+      "tag": "hook",
+      "format": "health-carousel",
+      "support": 1,
+      "confidence": 0.88,
+      "createdAt": "2026-06-19T19:09:00.053Z",
+      "lastSeen": "2026-06-19T19:09:00.053Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-health-fresh-mechanisms-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:09:00.053Z"
+        }
+      ]
+    },
+    {
+      "id": "avoid-saturated-looksmax-angles",
+      "title": "Block oversaturated skincare and looksmax angles as primary deck frames",
+      "guidance": "Do not use these as the hook premise or organizing frame for looksmax carousels: skin barrier damage theory, rebound oiliness from over-washing, SPF-first for dark spots, tongue scraping for breath, lateral raises for shoulder width, spot-reduction myth for leg leanness. They may appear as supporting slides but cannot drive the deck. Redirect to adjacent underexplored angles: circadian rhythm effects on overnight skin-barrier repair, lymphatic drainage timing and facial puffiness, ferritin thresholds by sex for hair cycling, sleep-stage specificity for collagen synthesis, nasal breathing and mid-face bone remodeling.",
+      "tag": "novelty",
+      "format": "looksmax-carousel",
+      "support": 1,
+      "confidence": 0.87,
+      "createdAt": "2026-06-19T19:07:33.540Z",
+      "lastSeen": "2026-06-19T19:07:33.540Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-three-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T19:07:33.540Z"
+        }
+      ]
+    },
+    {
       "id": "hook-declarative-not-hedged",
       "title": "Make hook claims declarative, not hedged",
       "guidance": "Replace 'might be', 'could be', 'may affect' with direct declarative statements. 'Morning light might fix your afternoon crash' → 'Morning light resets your energy clock'. If a claim needs a hedge to be accurate, reframe it as a mechanism ('Here's what happens when you skip morning light') rather than softening the hook.",
@@ -57,6 +225,24 @@
       ]
     },
     {
+      "id": "hook-add-number-or-promise",
+      "title": "Anchor every hook with a concrete number or outcome promise",
+      "guidance": "Contrarian reframes alone score ~4.0. Add a specific number, timeframe, or measurable claim to the hook slide to push toward 4.5+. Example pattern: '[contrarian reframe] — [X days / X% / X steps]'. The number creates urgency the reframe alone doesn't.",
+      "tag": "hook",
+      "format": "looksmax-carousel",
+      "support": 1,
+      "confidence": 0.85,
+      "createdAt": "2026-06-19T16:39:15.999Z",
+      "lastSeen": "2026-06-19T16:39:15.999Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:15.999Z"
+        }
+      ]
+    },
+    {
       "id": "novelty-underexplored-inputs",
       "title": "Source topics from underexplored inputs, not popular wellness pillars",
       "guidance": "Avoid the five mainstream energy pillars (sleep, caffeine, walking, hydration, sugar) as primary angles for consecutive campaigns. Next batch should draw from less-covered inputs: nasal breathing vs mouth breathing on CO2 tolerance, meal timing relative to chronotype, thermal contrast (cold exposure timing), or CO2/oxygen ratio during desk work. These score higher on novelty without sacrificing the 'small input, big output' angle.",
@@ -71,6 +257,24 @@
           "campaign": "2026-06-15-energy-basics-batch-001",
           "weakest": "novelty",
           "at": "2026-06-16T05:29:33.712Z"
+        }
+      ]
+    },
+    {
+      "id": "hook-visceral-urgency",
+      "title": "Make hooks feel like a warning, not just a correction",
+      "guidance": "Hooks rated weakest when they were mildly surprising but not alarming. Rewrite hook candidates to carry mild threat or loss-framing ('you're making it worse', 'the thing most people do is backwards'). Informational hooks don't stop scrollers the way consequence hooks do.",
+      "tag": "hook",
+      "format": "looksmax-carousel",
+      "support": 1,
+      "confidence": 0.78,
+      "createdAt": "2026-06-19T16:39:15.999Z",
+      "lastSeen": "2026-06-19T16:39:15.999Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-19-looksmax-glowup-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-19T16:39:15.999Z"
         }
       ]
     }

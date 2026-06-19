@@ -1,0 +1,58 @@
+{
+  "key": "50-calm-redness",
+  "theme": "looksmax",
+  "eyebrow": "Skin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your skincare *makes redness worse*.",
+      "sub": "Most facial redness isn't a product you're missing. It's heat, alcohol and a barrier you've stripped.",
+      "bg": "ai-bg/50-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Barrier",
+      "title": "Stop over-exfoliating",
+      "body": "Strong actives and daily scrubs *wreck your skin barrier*, and a raw barrier reads as redness. Do far less."
+    },
+    {
+      "type": "content",
+      "kicker": "Cut back",
+      "title": "Alcohol flushes the face",
+      "body": "Alcohol *dilates facial vessels*, and repeated flushing can settle into a persistent ruddy tone. Drink less."
+    },
+    {
+      "type": "content",
+      "kicker": "Triggers",
+      "title": "Cool the heat down",
+      "body": "Hot showers, saunas and spicy food *flush reactive skin*. Go lukewarm and notice your own triggers."
+    },
+    {
+      "type": "content",
+      "kicker": "Inside",
+      "title": "Some redness starts in the gut",
+      "body": "For some people, redness tracks gut irritation. *More fiber, fewer triggers* may calm it. Minor and individual."
+    },
+    {
+      "type": "content",
+      "kicker": "Repair",
+      "title": "Sleep lowers inflammation",
+      "body": "Poor sleep *raises inflammation* and leaves skin ruddier. Deep, regular sleep drops the baseline flush."
+    },
+    {
+      "type": "cta",
+      "title": "Calmer, even, *less red*.",
+      "body": "Vibe Health tracks the sleep, food & water that lower the inflammation behind redness — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "calmer skin, from within",
+      "bg": "ai-bg/50-cta.png"
+    }
+  ],
+  "caption": "Plot twist: the redness might be your skincare. Stripped barriers, heat and alcohol flush the face more than they fix it. 🔥\n\nDo less, cool your showers, drink less, sleep deep. Save this before your next routine. 🔖\n\nVibe Health tracks the sleep, food & water that calm inflammation → link in bio.",
+  "hashtags": ["#skincare", "#looksmaxing", "#glowup", "#redness", "#skinbarrier", "#sensitiveskin", "#skinfromwithin", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "Why Your Skincare Is Making Redness Worse",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A woman with calm, even, healthy skin and a relaxed face, soft light showing smooth uniform complexion.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a calm, even-toned cheek with soft healthy skin and no flushing, gentle side light."
+  }
+}

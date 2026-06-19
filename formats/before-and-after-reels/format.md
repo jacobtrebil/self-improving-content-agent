@@ -6,7 +6,7 @@ branded end card. Unlike the carousel formats, the deliverable is a single
 rendered video assembled from AI-generated stills/footage and HTML overlay
 frames — there are no slides to swipe.
 
-Runs on: Instagram Reels, TikTok (video), YouTube Shorts.
+Runs on: TikTok (video), YouTube Shorts. Instagram is retired.
 Reference finals: `vibe-carousels/reels/vibe-health-reel-01..10.mp4`
 (11s transformation cuts also exist in `vibe-carousels/<NN>-transformation-*/`).
 

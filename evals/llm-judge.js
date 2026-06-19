@@ -25,7 +25,7 @@ const DIMENSIONS = [
 
 const BRAND = `Vibe Health is an AI health coach app (vibehealthapp.com) that scores sleep,
 food, water and steps into one daily Health Score. Voice: plain, direct, native to
-TikTok/IG, mildly contrarian, never hypey ("unlock/elevate/game-changer" are banned),
+TikTok, mildly contrarian, never hypey ("unlock/elevate/game-changer" are banned),
 health claims are hedged ("may help", "can support"), never guaranteed.`;
 
 function deckToText(spec) {
@@ -41,7 +41,7 @@ function deckToText(spec) {
 
 function buildPrompt(spec, audience) {
   const dims = DIMENSIONS.map(([k, d]) => `- ${k}: ${d}`).join("\n");
-  return `You are a senior short-form content editor grading a health carousel for Instagram/TikTok.
+  return `You are a senior short-form content editor grading a health carousel for TikTok/YouTube Shorts.
 
 BRAND:
 ${BRAND}

@@ -1,0 +1,58 @@
+{
+  "key": "68-magnesium-food",
+  "theme": "health",
+  "eyebrow": "Magnesium",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Low magnesium shows up as bad *sleep*.",
+      "sub": "Most people run low on it and blame everything else. The signs are quieter than you'd think.",
+      "bg": "ai-bg/68-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "It runs the relaxation",
+      "body": "Magnesium powers hundreds of reactions, including *muscle and nerve relaxation*, and many people quietly under-eat it."
+    },
+    {
+      "type": "content",
+      "kicker": "For sleep",
+      "title": "The off-switch mineral",
+      "body": "Getting enough magnesium *may support deeper sleep* and a calmer wind-down at night."
+    },
+    {
+      "type": "content",
+      "kicker": "Bonus",
+      "title": "Ease the tension",
+      "body": "It *may ease muscle cramps* and the everyday tension you carry, including a clenched jaw."
+    },
+    {
+      "type": "content",
+      "kicker": "Food first",
+      "title": "Eat it before you pill it",
+      "body": "Leafy greens, nuts, seeds, beans, and dark chocolate are loaded with it. *Food before supplements*."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "What burns through it",
+      "body": "*Heavy alcohol and chronic stress* drain magnesium faster, so the more stressed you are, the more you need."
+    },
+    {
+      "type": "cta",
+      "title": "Eat your way to *calmer nights*.",
+      "body": "Snap your meals and Vibe Health logs your food, so you can spot whether magnesium-rich foods are actually showing up.",
+      "button": "Download Vibe Health →",
+      "tag": "calmer, better-rested",
+      "bg": "ai-bg/68-cta.png"
+    }
+  ],
+  "caption": "Low magnesium often shows up as bad sleep, and most people blame everything else. 🌙\n\nIt runs muscle and nerve relaxation, may support deeper sleep, and may ease cramps and a clenched jaw. Get it from greens, nuts, seeds and beans first. Save this. 🔖\n\nSnap your meals and Vibe Health logs your food for you → link in bio.",
+  "hashtags": ["#magnesium", "#sleepsupport", "#magnesiumdeficiency", "#nutrition", "#relaxation", "#musclecramps", "#wellness", "#calm", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "How Low Magnesium Wrecks Your Sleep",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. An ordinary person lying awake in a dim bedroom, eyes open and restless, soft window light across crumpled sheets.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a hand scattering pumpkin seeds and dark leafy greens onto a plain plate, hard side light on the texture."
+  }
+}

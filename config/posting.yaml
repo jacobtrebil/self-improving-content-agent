@@ -10,11 +10,8 @@ scheduler:
   tool: postiz   # `postiz upload <file>` then create post against integration
   # Channel IDs are NOT committed. Real IDs live in config/posting.local.yaml
   # (gitignored, flat `key: id` format). Recreate it via `postiz integrations:list`.
-  integrations:  # all 5 connected Vibe Health channels — IDs in posting.local.yaml
-    instagram:
-      key: instagram
-      handle: vibehealthapp
-      name: Vibe Health - AI Coach
+  integrations:  # connected Vibe Health channels — IDs in posting.local.yaml
+    # Instagram is retired — we no longer generate or schedule IG content.
     tiktok_main:
       key: tiktok_main
       handle: vibehealthapp
@@ -37,7 +34,7 @@ scheduler:
 cadence:
   default: 1 post per deck per platform per day
   time_utc: "17:00"          # 12 PM CDT — the slot used by every campaign so far
-  same_content_same_day: true # IG + TikTok + YouTube get the same deck on the same date
+  same_content_same_day: true # TikTok + YouTube get the same deck on the same date
 
 captions:
   source: vibe-carousels/CAPTIONS.md   # per-deck captions + hashtags
@@ -49,12 +46,11 @@ captions:
     - Never reuse the exact same hook twice in one campaign.
 
 per_platform_media:
-  instagram: 4:5 PNGs (no suffix)
-  tiktok: 9:16 PNGs (-tt suffix) or 9:16 MP4 reels
+  tiktok: 9:16 PNGs (-tt suffix, downscaled to 1080x1920) or 9:16 MP4 reels
   youtube: 9:16 MP4s (shorts/)
 
 reference_scripts:   # working examples of the full upload+schedule flow
-  - vibe-carousels/schedule_ig.sh
   - vibe-carousels/reschedule_tt.sh
   - vibe-carousels/schedule_youtube.sh
+  - vibe-carousels/schedule_ttyt.sh        # carousels → TikTok + YouTube
   - vibe-carousels/schedule_looksmax.sh

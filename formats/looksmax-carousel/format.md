@@ -5,9 +5,9 @@ A 7-slide black-and-white typographic carousel that takes one appearance goal
 glow) and reframes it as a health outcome — "the real fix is sleep, food,
 water, steps" — ending with a Vibe Health CTA.
 
-Runs on: Instagram feed (4:5 PNGs), TikTok photo mode (9:16 PNGs **downscaled
-to 1080×1920** — see TikTok rule below), and YouTube Shorts (9:16 PNGs stitched
-into an MP4 by `build_shorts.sh`).
+Runs on: TikTok photo mode (9:16 PNGs **downscaled to 1080×1920** — see TikTok
+rule below) and YouTube Shorts (9:16 PNGs stitched into an MP4 by
+`build_shorts.sh`). Instagram is retired — no 4:5 set is produced.
 Reference live decks: `01-glowup-is-health`, `02-looksmaxing-mistakes`,
 `14-sharpen-jawline` … `23-looksmax-tier-list`.
 
@@ -15,8 +15,8 @@ Reference live decks: `01-glowup-is-health`, `02-looksmaxing-mistakes`,
 > 2× `-tt` master (2160×3840) fails with *"Video must be at least 720p, Picture
 > must no exceed 1080p"*. Before scheduling to TikTok, run
 > `bash make_tt1080.sh <deck>` and upload the `slide-NN-tt1080.png` (1080×1920)
-> copies. IG (4:5) and YouTube (MP4) upload their normal files. Videos must be
-> ≥720p (our 1080×1920 reels already comply). Canonical: `/config/platforms.yaml`.
+> copies. YouTube (MP4) uploads its normal file. Videos must be ≥720p (our
+> 1080×1920 reels already comply). Canonical: `/config/platforms.yaml`.
 
 ## The angle (what makes this format distinct)
 
@@ -51,7 +51,7 @@ because Vibe Health tracks exactly those levers.
 Identical pipeline to the health carousel — JSON spec (see `schema.yaml`) →
 `decks` entry in `vibe-carousels/build.js` → Higgsfield backgrounds in
 `ai-bg/` (`<NN>-cover.png` / `<NN>-cta.png`, generated in the style of
-`vibe-carousels/ai-bg/gen-bg.sh`) → `node build.js` + `FMT=tt node build.js`
+`vibe-carousels/ai-bg/gen-bg.sh`) → `node build.js` (9:16)
 → `render.sh` → `build_shorts.sh` → caption in `CAPTIONS.md`. Scheduling is a
 separate, explicitly human-approved step. Full reference:
 `vibe-carousels/FORMAT.md`. All rendered media is gitignored.

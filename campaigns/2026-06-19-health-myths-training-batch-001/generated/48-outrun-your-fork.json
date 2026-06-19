@@ -1,0 +1,58 @@
+{
+  "key": "48-outrun-your-fork",
+  "theme": "health",
+  "eyebrow": "Fat loss",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "You can't *outrun your fork*.",
+      "sub": "Exercise is doing less for your waistline than you think. The math is brutal once you see it.",
+      "bg": "ai-bg/48-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The math",
+      "title": "Workouts burn less than you hope",
+      "body": "A hard hour might burn *300–500 calories* — undone by one muffin in ninety seconds. Out-eating a workout is effortless."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Most of your burn is living",
+      "body": "Exercise is a *small slice of daily calories* — breathing, organs and basic movement run the rest. You can't train that slice big enough."
+    },
+    {
+      "type": "content",
+      "kicker": "The trap",
+      "title": "The watch lies upward",
+      "body": "Machines and trackers *overcount calories burned*, often by a lot. Then you 'earn' a treat and erase the session."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Hard training makes you hungry",
+      "body": "Big sessions can leave you *hungrier and more sedentary* the rest of the day. Your body quietly claws the calories back."
+    },
+    {
+      "type": "content",
+      "kicker": "The reframe",
+      "title": "Diet for fat, train for muscle",
+      "body": "Lift and move for *health, muscle and mood* — build the calorie deficit in the kitchen. That's where the waistline actually changes."
+    },
+    {
+      "type": "cta",
+      "title": "Win it *at the table*.",
+      "body": "Vibe Health makes the food side easy — snap meals to see intake, and watch your weight trend — so the deficit is real, not guessed.",
+      "button": "Download Vibe Health →",
+      "tag": "fat loss is built in the kitchen",
+      "bg": "ai-bg/48-cta.png"
+    }
+  ],
+  "caption": "You really can't outrun your fork. A hard hour burns maybe 300–500 calories — one muffin erases it. 🍩\n\nExercise is a small slice of your daily burn, and trackers overcount it. Train for muscle and mood; build the deficit with food. 🔖\n\nVibe Health makes the food side simple — snap meals, watch the trend → link in bio.",
+  "hashtags": ["#fatloss", "#caloriedeficit", "#weightlosstips", "#nutrition", "#fitnessmyths", "#fitnesstips", "#healthylifestyle", "#diettips", "#mindfuleating", "#vibehealthapp"],
+  "youtube_title": "Why You Can't Outrun a Bad Diet",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A fork resting beside a plate of food on a dim table, hard side light raking across the texture, no people.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of hands plating a simple balanced meal in a dim kitchen, rim light on the food, dark background."
+  }
+}

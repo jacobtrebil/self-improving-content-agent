@@ -1,0 +1,58 @@
+{
+  "key": "53-fresh-breath",
+  "theme": "looksmax",
+  "eyebrow": "Breath",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Mints hide bad breath, *not fix it*.",
+      "sub": "A mint covers the smell for ten minutes. Real fresh breath is about saliva, bacteria and your gut.",
+      "bg": "ai-bg/53-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Saliva",
+      "title": "Dry mouth smells",
+      "body": "Saliva is your built-in cleaner, and a *dry mouth lets odor bacteria* thrive. Sip water all day."
+    },
+    {
+      "type": "content",
+      "kicker": "Clean it",
+      "title": "Scrape your tongue",
+      "body": "Most odor bacteria live on the *back of your tongue*. A daily scrape clears more smell than any rinse."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Beat morning breath",
+      "body": "Mouth-breathing all night *dries you out* into morning breath. Nose-breathe and hydrate before bed."
+    },
+    {
+      "type": "content",
+      "kicker": "Inside",
+      "title": "Your gut talks too",
+      "body": "Skipped meals, 'keto breath' and gut issues can *leak odor onto your breath*. Eat regularly; note triggers."
+    },
+    {
+      "type": "content",
+      "kicker": "Base",
+      "title": "Trapped plaque smells",
+      "body": "Plaque between teeth and *early gum disease* smell. Floss daily and see a dentist for regular cleanings."
+    },
+    {
+      "type": "cta",
+      "title": "Fresh breath, *fixed at the root*.",
+      "body": "Vibe Health tracks the water and regular meals that keep your mouth fresh from the inside — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "fresh breath, fixed at the root",
+      "bg": "ai-bg/53-cta.png"
+    }
+  ],
+  "caption": "Mints just cover bad breath for ten minutes. Real freshness comes from saliva, a clean tongue and your gut. 🌿\n\nSip water, scrape your tongue, nose-breathe, eat regularly, floss daily. Save this. 🔖\n\nVibe Health tracks the water and meals that keep your mouth fresh → link in bio.",
+  "hashtags": ["#freshbreath", "#oralhealth", "#looksmaxing", "#glowup", "#hygiene", "#selfcare", "#healthylifestyle", "#glowuptips", "#hydration", "#vibehealthapp"],
+  "youtube_title": "Mints Hide Bad Breath — Here's the Real Fix",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A man with a confident, fresh, healthy smile and clean teeth, relaxed expression, soft light on a healthy face.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a clean, healthy smile with bright natural teeth and soft healthy lips, gentle side light."
+  }
+}

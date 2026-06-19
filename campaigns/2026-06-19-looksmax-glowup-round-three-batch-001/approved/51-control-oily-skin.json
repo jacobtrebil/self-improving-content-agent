@@ -1,0 +1,58 @@
+{
+  "key": "51-control-oily-skin",
+  "theme": "looksmax",
+  "eyebrow": "Skin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Washing more makes you *oilier*.",
+      "sub": "Oily, shiny skin usually isn't dirty skin. It's skin fighting back against everything you strip off it.",
+      "bg": "ai-bg/51-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Barrier",
+      "title": "Over-washing backfires",
+      "body": "Strip your skin too often and it *pumps out rebound oil* to recover. Wash twice a day, gently."
+    },
+    {
+      "type": "content",
+      "kicker": "Ditch harsh",
+      "title": "Drop the stripping toners",
+      "body": "Alcohol-based toners feel tight and clean, then *trigger more oil* an hour later. Skip them entirely."
+    },
+    {
+      "type": "content",
+      "kicker": "Counter",
+      "title": "Skipping moisturizer backfires",
+      "body": "Leave oily skin bare and it overcompensates. A *light moisturizer* signals your skin to ease off."
+    },
+    {
+      "type": "content",
+      "kicker": "Food",
+      "title": "Sugar raises sebum",
+      "body": "Big blood-sugar spikes *raise sebum production*. Cutting added sugar visibly drops the midday shine."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Stress and sleep drive oil",
+      "body": "Poor sleep *bumps stress hormones* that crank up oil. Deep sleep keeps your skin calmer and matte."
+    },
+    {
+      "type": "cta",
+      "title": "Balanced, matte, *less shine*.",
+      "body": "Vibe Health tracks the food & sleep that quietly drive your oil — connected to one simple daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "less shine, from balance",
+      "bg": "ai-bg/51-cta.png"
+    }
+  ],
+  "caption": "If you fight oily skin by washing more, you're feeding the problem. Strip it and it pumps out rebound oil. 🫧\n\nWash twice gently, ditch harsh toners, moisturize light, cut sugar, sleep deep. Save this. 🔖\n\nVibe Health tracks the food & sleep that drive your shine → link in bio.",
+  "hashtags": ["#oilyskin", "#skincare", "#looksmaxing", "#glowup", "#skincaretips", "#sebum", "#skinfromwithin", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "Why Washing Your Face More Makes It Oilier",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A man with balanced, matte, healthy skin and a clear even complexion, soft light, no harsh shine.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a smooth, balanced, low-shine forehead and cheek with fine natural texture, soft light."
+  }
+}

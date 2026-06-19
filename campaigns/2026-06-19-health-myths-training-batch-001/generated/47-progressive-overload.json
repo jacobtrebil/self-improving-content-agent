@@ -1,0 +1,58 @@
+{
+  "key": "47-progressive-overload",
+  "theme": "health",
+  "eyebrow": "Strength",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your workouts stopped working *for one reason*.",
+      "sub": "It's not your genetics or your split. The stimulus stopped changing — so your body stopped adapting.",
+      "bg": "ai-bg/47-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Muscle adapts to new demand",
+      "body": "Your body only builds muscle when a workout is *harder than what it's used to*. Same weights, same reps = a maintenance signal."
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "Add a little, often",
+      "body": "Progressive overload means slowly doing more: *an extra rep or a little more weight*. That tiny upward pressure is the whole game."
+    },
+    {
+      "type": "content",
+      "kicker": "The blind spot",
+      "title": "You can't beat what you forget",
+      "body": "Nobody remembers last week's numbers. *Write down your sets and reps* — without a record you can't tell if you're progressing."
+    },
+    {
+      "type": "content",
+      "kicker": "Not this",
+      "title": "Soreness isn't the goal",
+      "body": "Chasing soreness or 'muscle confusion' just adds random fatigue. *Progress beats novelty* — the boring plan you can measure wins."
+    },
+    {
+      "type": "content",
+      "kicker": "The patience",
+      "title": "Recover, then push",
+      "body": "Muscle grows on rest days, not in the gym. *Sleep and protein* are what let next week's numbers actually go up."
+    },
+    {
+      "type": "cta",
+      "title": "Add a rep. *Then add another.*",
+      "body": "Vibe Health helps you track training, protein and sleep together — so progressive overload and recovery actually line up.",
+      "button": "Download Vibe Health →",
+      "tag": "small wins, logged and stacked",
+      "bg": "ai-bg/47-cta.png"
+    }
+  ],
+  "caption": "If your workouts stopped working, the stimulus probably stopped changing. 🏋️\n\nMuscle only adapts to more than it's used to — so add a rep or a little weight, write it down, and let sleep and protein cash it in. Boring beats fancy. 🔖\n\nVibe Health ties your training, protein and sleep together → link in bio.",
+  "hashtags": ["#progressiveoverload", "#strengthtraining", "#buildmuscle", "#gymtips", "#fitnesstips", "#liftingtips", "#musclegrowth", "#workouttips", "#trainingtips", "#vibehealthapp"],
+  "youtube_title": "Why Your Workouts Stopped Working",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person loading a small plate onto a barbell in a dim gym, hands and forearms in focus, hard side light on the steel.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a hand gripping a loaded barbell bar with chalk, knurling and rim light visible, dark background."
+  }
+}

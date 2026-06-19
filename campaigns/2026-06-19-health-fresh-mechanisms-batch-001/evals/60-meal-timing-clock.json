@@ -1,0 +1,106 @@
+{
+  "key": "60-meal-timing-clock",
+  "eyebrow": "Meal timing",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/60-meal-timing-clock.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/60-meal-timing-clock.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Late dinners are stealing your *deep sleep*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "307/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Late dinners are stealing your deep sleep' is specific and contrarian enough to pause a scroll, though 'stealing' edges toward mild hyperbole.",
+      "clarity": "Each slide is one actionable idea with a clear mechanism label and concrete framing — no slide tries to do two things.",
+      "audience_fit": "Tired-by-3pm, overwhelmed 20–35s will immediately recognize the late-dinner habit and the payoff (better sleep, steadier energy) is directly relevant to their daily pain.",
+      "novelty": "Meal timing and circadian rhythm are well-trodden territory; the clock-not-calories reframe is the freshest angle but the individual tips (3-hour cutoff, morning light) are widely circulated.",
+      "brand_fit": "Claims are consistently hedged ('may help', 'many people report'), voice is plain and direct, CTA ties to actual in-app data rather than a vague promise.",
+      "predicted_performance": "High save potential because the schedule format is actionable and the sleep hook is evergreen, but novelty ceiling limits viral sharing upside."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26359,
+    "tokensOut": 291,
+    "costUsd": 0.06743049999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Late dinners are stealing your deep sleep' is specific and contrarian enough to pause a scroll, though 'stealing' edges toward mild hyperbole."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one actionable idea with a clear mechanism label and concrete framing — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Tired-by-3pm, overwhelmed 20–35s will immediately recognize the late-dinner habit and the payoff (better sleep, steadier energy) is directly relevant to their daily pain."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Meal timing and circadian rhythm are well-trodden territory; the clock-not-calories reframe is the freshest angle but the individual tips (3-hour cutoff, morning light) are widely circulated."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are consistently hedged ('may help', 'many people report'), voice is plain and direct, CTA ties to actual in-app data rather than a vague promise."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because the schedule format is actionable and the sleep hook is evergreen, but novelty ceiling limits viral sharing upside."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:40.365Z"
+}

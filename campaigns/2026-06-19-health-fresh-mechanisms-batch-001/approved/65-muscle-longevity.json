@@ -1,0 +1,58 @@
+{
+  "key": "65-muscle-longevity",
+  "theme": "health",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Muscle is the organ of *longevity*.",
+      "sub": "This isn't about looking jacked. It's about how well you age, and almost nobody frames it this way.",
+      "bg": "ai-bg/65-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Muscle is your glucose sink",
+      "body": "Muscle is where you store and burn blood sugar. More muscle means *steadier blood sugar* across the day."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "You lose it with age",
+      "body": "Muscle quietly fades with age, leading to *falls and frailty* later. Strength training can reverse much of that."
+    },
+    {
+      "type": "content",
+      "kicker": "The fuel",
+      "title": "Feed it through the day",
+      "body": "Muscle is built from protein, so spread *protein across your meals* instead of cramming it into one."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "Start with two sessions",
+      "body": "*Two strength sessions a week* is enough to start building and protecting muscle. You don't need a gym."
+    },
+    {
+      "type": "content",
+      "kicker": "Use it",
+      "title": "Load life, not just weights",
+      "body": "Carry the groceries, climb the stairs, squat to the floor. *Everyday loading counts* toward staying strong."
+    },
+    {
+      "type": "cta",
+      "title": "Build strength for the *long game*.",
+      "body": "Vibe Health tracks your training and movement and rolls it into your daily score, so the work you put in is visible on the trend line.",
+      "button": "Download Vibe Health →",
+      "tag": "strength for the long game",
+      "bg": "ai-bg/65-cta.png"
+    }
+  ],
+  "caption": "Muscle is the organ of longevity, and it's about how you age, not looking jacked. 💪\n\nIt's where you store blood sugar, you lose it with age, and two strength sessions a week starts rebuilding it. Carry, climb, squat to the floor. Save this. 🔖\n\nVibe Health tracks your training and rolls it into your daily score → link in bio.",
+  "hashtags": ["#longevity", "#strengthtraining", "#healthspan", "#sarcopenia", "#aginggracefully", "#bloodsugar", "#musclehealth", "#wellness", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Why Muscle Is the Organ of Longevity",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. An older ordinary person mid-rep lifting a dumbbell in a dim home, real soft body and effort on the face, harsh side light on the forearm.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of weathered hands gripping a kettlebell handle, veins and texture lit by a hard rim of light."
+  }
+}

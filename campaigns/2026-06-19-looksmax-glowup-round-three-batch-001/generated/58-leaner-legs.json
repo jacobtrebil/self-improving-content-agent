@@ -1,0 +1,58 @@
+{
+  "key": "58-leaner-legs",
+  "theme": "looksmax",
+  "eyebrow": "Legs",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "You can't *spot-train lean legs*.",
+      "sub": "No amount of squats melts fat off your thighs alone. Leaner legs come from the whole body and your daily steps.",
+      "bg": "ai-bg/58-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Reveal",
+      "title": "Definition follows fat loss",
+      "body": "Leg definition shows as your *overall body fat drops*. No move spot-reduces one area."
+    },
+    {
+      "type": "content",
+      "kicker": "Move",
+      "title": "Steps do more than you think",
+      "body": "*Daily walking and steps* lean and tone legs more than most people expect. Aim higher each week."
+    },
+    {
+      "type": "content",
+      "kicker": "Drain",
+      "title": "Sitting and salt pool fluid",
+      "body": "Long sitting and *too much sodium* pool fluid in your legs. Move often and cut the salt."
+    },
+    {
+      "type": "content",
+      "kicker": "Build",
+      "title": "Shape under the fat",
+      "body": "Some *resistance work* shapes the muscle showing through as you lean down. Real — if slow."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Recover and rebalance",
+      "body": "*Deep sleep* restores fluid balance and recovery, so legs look tighter and less puffy by morning."
+    },
+    {
+      "type": "cta",
+      "title": "Leaner legs, *step by step*.",
+      "body": "Vibe Health tracks the steps, food, water and sleep that actually lean your legs — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "leaner legs, tracked",
+      "bg": "ai-bg/58-cta.png"
+    }
+  ],
+  "caption": "You can't squat the fat off your thighs alone — leaner legs are a whole-body job, and steps do the quiet work. 🦵\n\nLean out overall, walk more, drain the fluid, build a little muscle, sleep deep. Save this. 🔖\n\nVibe Health tracks the steps, food, water and sleep that lean them → link in bio.",
+  "hashtags": ["#looksmaxing", "#legday", "#glowup", "#leanlegs", "#stepcount", "#debloat", "#selfimprovement", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "Why You Can't Spot-Train Lean Legs",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A lean athletic woman with toned, defined legs, standing tall and confident, light skimming the length of her legs.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a lean, defined calf and thigh with subtle muscle tone, smooth skin texture, hard side light."
+  }
+}

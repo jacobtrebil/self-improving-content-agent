@@ -12,16 +12,12 @@ video:   # reels / shorts (vibe-carousels/reels, vibe-carousels/shorts)
       audio from the existing final and verify segment sums match.
 
 carousels:   # vibe-carousels/<NN>-<slug> decks, generated from build.js
-  instagram:
-    aspect_ratio: "4:5"
-    css_size: 1080x1350
-    final_png: 2160x2700        # Chrome renders at 2x device scale
-    file_suffix: ""             # slide-01.png
+  # Instagram (the 4:5 set) is retired — every deck renders 9:16 only.
   tiktok:
     aspect_ratio: "9:16"
     css_size: 1080x1920
     final_png: 2160x3840        # 2x retina MASTER — never upload this to TikTok
-    file_suffix: "-tt"          # slide-01-tt.png  (FMT=tt node build.js)
+    file_suffix: "-tt"          # slide-01-tt.png  (node build.js — 9:16 is the only ratio)
     upload_png: 1080x1920       # REQUIRED: downscale the master before posting
     upload_suffix: "-tt1080"    # slide-01-tt1080.png  (bash make_tt1080.sh <deck>)
     # TikTok REJECTS photos over 1080p. The 2x master (2160x3840) fails with:
@@ -30,8 +26,9 @@ carousels:   # vibe-carousels/<NN>-<slug> decks, generated from build.js
   youtube_shorts:
     source: 9:16 PNGs stitched to MP4 via build_shorts.sh (crossfades)
   rule: >
-    Each deck ships in BOTH ratios — TikTok cover-crops 4:5 and clips
-    headlines; Instagram feed wants 4:5. Never cross-post the wrong ratio.
+    Every deck renders 9:16 only — TikTok carousel (-tt PNGs, downscaled to
+    1080x1920) and YouTube Shorts (MP4 from the same PNGs). The 4:5 Instagram
+    set is no longer produced.
 
 platforms:
   tiktok:
@@ -47,9 +44,6 @@ platforms:
       comment: true
       autoAddMusic: "yes"
       content_posting_method: DIRECT_POST
-  instagram:
-    formats: [reels, carousel-4:5]
-    post_type: post
   youtube:
     formats: [shorts]
     needs: per-video title (see schedule_youtube.sh ROWS for style)

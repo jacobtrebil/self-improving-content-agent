@@ -6,8 +6,8 @@ generated from code — there are no hand-edited image files.
 ## Pipeline at a glance
 
 ```
-build.js  →  per-slide .html  →  render.sh (headless Chrome, 2×)  →  .png
-                                                                      ├─ Postiz → Instagram (4:5) / TikTok (9:16)
+build.js  →  per-slide .html  →  render.sh (headless Chrome, 2×)  →  .png (9:16)
+                                                                      ├─ Postiz → TikTok (9:16, downscaled to 1080×1920)
                                                                       └─ build_shorts.sh (ffmpeg) → .mp4 → YouTube Shorts
 ```
 
@@ -17,33 +17,30 @@ build.js  →  per-slide .html  →  render.sh (headless Chrome, 2×)  →  .png
 | `render.sh` | Screenshots each `.html` → `.png` via headless Chrome at 2× scale. |
 | `build_shorts.sh` | Stitches a deck's 9:16 PNGs into a vertical MP4 with crossfades. |
 | `reschedule_tt.sh` | Uploads 9:16 PNGs + schedules/refreshes the TikTok posts. |
-| `schedule_ig.sh` | Uploads 4:5 PNGs + schedules the Instagram posts. |
+| `schedule_ttyt.sh` | Uploads a carousel batch to TikTok + YouTube. |
 | `schedule_youtube.sh` | Uploads MP4s + schedules the YouTube Shorts. |
 | `CAPTIONS.md` | Per-deck captions + hashtags used when scheduling. |
 
 ## Dimensions & formats
 
-One env flag controls the aspect ratio. Chrome renders at 2× device scale, so
-final PNGs are double the CSS pixel size.
+Every deck renders 9:16 only. Chrome renders at 2× device scale, so the final
+PNG is double the CSS pixel size.
 
 | Format | Command | CSS size | Final PNG | File suffix | Used for |
 |--------|---------|----------|-----------|-------------|----------|
-| **4:5** (default) | `node build.js` | 1080×1350 | 2160×2700 | *(none)* — `slide-01.png` | Instagram feed |
-| **9:16** | `FMT=tt node build.js` | 1080×1920 | 2160×3840 | `-tt` — `slide-01-tt.png` | TikTok + YouTube Shorts |
+| **9:16** | `node build.js` | 1080×1920 | 2160×3840 | `-tt` — `slide-01-tt.png` | TikTok + YouTube Shorts |
 
-`render.sh` picks the right window height per file automatically (files ending
-in `-tt.html` render at 1080×1920, everything else at 1080×1350).
-
-> **Why two sets?** TikTok's player is 9:16 and "cover"-crops a 4:5 image,
-> clipping the headline edges. Instagram's feed is happiest at 4:5. So each deck
-> is generated in both ratios and the right set goes to the right platform.
+> **Why 9:16 only?** TikTok and YouTube Shorts are both vertical 9:16. Instagram
+> (which wanted a 4:5 set) is retired, so the 4:5 ratio is no longer produced —
+> `build.js` always emits the `-tt` 9:16 files and `render.sh` always shoots them
+> at 1080×1920.
 
 > ⚠️ **TikTok 1080p rule (must follow or the post fails).** TikTok photo mode
 > **rejects images over 1080p** — the 2× master `slide-NN-tt.png` (2160×3840)
 > fails with *"Video must be at least 720p, Picture must no exceed 1080p"*.
 > Before scheduling to TikTok, downscale to **1080×1920**:
-> `bash make_tt1080.sh <deck>` → uploads `slide-NN-tt1080.png`. Instagram (4:5
-> master) and YouTube (MP4) are unaffected; videos already ship ≥720p. See
+> `bash make_tt1080.sh <deck>` → uploads `slide-NN-tt1080.png`. YouTube (MP4) is
+> unaffected; videos already ship ≥720p. See
 > `config/platforms.yaml` → `platforms.tiktok.limits`.
 
 ## File / naming convention
@@ -55,7 +52,6 @@ vibe-carousels/
   ai-bg/                      # AI-generated background images (768×1024)
     04-cover.png  04-cta.png  ...
   04-hit-your-protein/        # one folder per deck, keyed "<NN>-<slug>"
-    slide-01.html   slide-01.png       # 4:5  (Instagram)
     slide-01-tt.html slide-01-tt.png   # 9:16 (TikTok / YouTube)
     ... slide-07 ...
   shorts/
@@ -142,9 +138,8 @@ Decks may also pass `bg:` explicitly inside `cover()`/`cta()` (decks 01–03 and
 ## Rebuild commands
 
 ```bash
-# 1. Generate HTML for both ratios
-node build.js            # 4:5  (Instagram)
-FMT=tt node build.js     # 9:16 (TikTok / YouTube)
+# 1. Generate HTML (9:16 — TikTok / YouTube)
+node build.js
 
 # 2. Render only the slides whose HTML changed
 bash render.sh --stale-only      # or: bash render.sh  (re-render everything)

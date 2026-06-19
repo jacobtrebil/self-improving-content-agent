@@ -1,0 +1,106 @@
+{
+  "key": "68-magnesium-food",
+  "eyebrow": "Magnesium",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/68-magnesium-food.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/68-magnesium-food.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Low magnesium shows up as bad *sleep*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "322/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "Sleep + blame-shifting angle is specific and relatable, but 'bad sleep' is a familiar opener that stops short of a truly disruptive hook.",
+      "clarity": "Each slide owns one idea with a clean label, tight body copy, and no slide tries to do two things.",
+      "audience_fit": "Clenched jaw, chronic stress, tired-by-3pm tension — hits the exact symptoms a busy 25-year-old carries and blames on other things.",
+      "novelty": "Magnesium-for-sleep is well-trodden territory; 'what burns through it' slide adds a small fresh angle but the overall frame is familiar.",
+      "brand_fit": "Claims are hedged throughout, voice is flat and direct, CTA is functional not hype, and the food-before-pills line is genuinely contrarian without being preachy.",
+      "predicted_performance": "High save potential due to the food list and stress-drain angle, but the topic saturation on magnesium limits breakout share velocity."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26358,
+    "tokensOut": 275,
+    "costUsd": 0.0671785,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "Sleep + blame-shifting angle is specific and relatable, but 'bad sleep' is a familiar opener that stops short of a truly disruptive hook."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns one idea with a clean label, tight body copy, and no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Clenched jaw, chronic stress, tired-by-3pm tension — hits the exact symptoms a busy 25-year-old carries and blames on other things."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Magnesium-for-sleep is well-trodden territory; 'what burns through it' slide adds a small fresh angle but the overall frame is familiar."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged throughout, voice is flat and direct, CTA is functional not hype, and the food-before-pills line is genuinely contrarian without being preachy."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential due to the food list and stress-drain angle, but the topic saturation on magnesium limits breakout share velocity."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:07:14.870Z"
+}

@@ -1,0 +1,88 @@
+{
+  "campaign": "2026-06-19-health-myths-training-batch-001",
+  "traceId": "run_3aafcaa794",
+  "format": "health-carousel",
+  "at": "2026-06-19T16:39:47.569Z",
+  "model": "claude-sonnet-4-6",
+  "goal": "Five health decks that bust a popular fitness/nutrition myth and replace it with\nthe second-order mechanism most creators skip. Theme: training & metabolism\ntruths. Each lands one this-week fix tied to a Vibe Health feature. Distinct from\nthe live decks (protein, scale, fat loss, steps, sleep, liquid calories, labels,\nwater, fiber, hunger, snacking, meal prep, eating out, cardio-vs-lifting, stress,\nenergy basics).",
+  "signals": {
+    "decks": 5,
+    "judged": 5,
+    "dimAvg": {
+      "hook_strength": 4.4,
+      "clarity": 5,
+      "audience_fit": 4.6,
+      "novelty": 3.2,
+      "brand_fit": 4.8,
+      "predicted_performance": 3.6
+    },
+    "weakest": [
+      "novelty",
+      3.2
+    ],
+    "strongest": [
+      "clarity",
+      5
+    ],
+    "codeFails": [],
+    "weakNotes": {
+      "novelty": [
+        "44-alcohol-truth: The 'your body burns alcohol first so fat-burning pauses' angle is less common than calorie-counting takes, but the REM slide is well-trodden territory.",
+        "45-metabolism-myth: NEAT and muscle-loss are well-trodden in fitness content; the framing is tighter than average but won't feel revelatory to anyone who follows health creators.",
+        "46-zone-2-cardio: Zone 2 has been the wellness internet's favorite topic for two years — the angle is solid but not fresh enough to stand out without a more surprising framing or data point.",
+        "47-progressive-overload: Progressive overload is well-trodden gym content; the 'soreness isn't the goal' reframe adds a minor fresh angle but won't surprise anyone who follows fitness accounts.",
+        "48-outrun-your-fork: The core insight (diet matters more than exercise for fat loss) is well-worn; the tracker-overcounting angle and NEAT compensation add texture but won't feel new to anyone who follows fitness creators."
+      ],
+      "predicted_performance": [
+        "44-alcohol-truth: High save potential because the mechanism is genuinely surprising and actionable; share rate may be limited by the fat-loss framing narrowing the audience versus a pure sleep angle.",
+        "45-metabolism-myth: High save potential from the actionable mechanism breakdown; shares limited because the NEAT angle isn't surprising enough to trigger 'send to a friend' urgency.",
+        "46-zone-2-cardio: High save potential from the actionable dose slide, but the saturated zone-2 topic and lack of a truly scroll-stopping visual hook will limit organic reach against established fitness accounts.",
+        "47-progressive-overload: Strong saves from gym-goers already on this path, but the topic ceiling is moderate — progressive overload carousels are saturated and this won't break out of the fitness silo.",
+        "48-outrun-your-fork: High save potential from the reframe slide and the 'watch lies upward' hook, but novelty ceiling will limit viral sharing compared to a truly contrarian take."
+      ]
+    },
+    "hooks": [
+      "Alcohol is sabotaging your *fat loss*.",
+      "Your metabolism isn't *broken*.",
+      "The best cardio feels *almost too easy*.",
+      "Your workouts stopped working *for one reason*.",
+      "You can't *outrun your fork*."
+    ]
+  },
+  "summary": "This batch achieved perfect clarity (5.0) and strong brand fit (4.8) but landed novelty at 3.2 for the third consecutive campaign — revealing that the problem has shifted from mechanism shallowness to topic saturation. Zone 2, progressive overload, and diet-beats-exercise are fitness-internet clichés that no mechanism framing can rescue. Predicted performance (3.6) was dragged down by a second compounding issue: fat-loss-centric framing trapped multiple decks inside the fitness silo, capping share potential even when save intent was high.",
+  "what_worked": [
+    "Perfect clarity (5.0) — tight slide-by-slide mechanism explanations are landing cleanly",
+    "Strong brand fit (4.8) — Vibe feature tie-ins felt natural and non-forced",
+    "Hook strength held at 4.4 — declarative, consequence-forward hook format is working",
+    "Actionable dose/fix slides reliably drove high save intent per judge rationales"
+  ],
+  "what_underperformed": [
+    "Topic saturation: zone 2, progressive overload, and diet-vs-exercise are fitness-content staples that score low on novelty regardless of mechanism depth",
+    "Narrow audience framing (fat-loss angle on alcohol deck) limits shares vs saves — decks stayed inside the fitness silo",
+    "Mechanism depth without topic freshness is insufficient — three campaigns now show novelty as the consistent floor",
+    "Predicted performance (3.6) suffered because siloed fitness content hits a share ceiling even with strong save potential"
+  ],
+  "strategies": [
+    {
+      "id": "push-contrarian-novelty",
+      "title": "Require both fresh mechanism AND fresh parent topic",
+      "guidance": "Mechanism depth alone isn't enough — the parent topic must also be underexplored. For each deck ask two questions: (1) would a typical health creator say this? (2) has this topic been fitness-internet mainstream for >18 months? Both must be 'no' to clear the novelty bar. This is now the third campaign where novelty is the weakest score; the pattern is structural, not random.",
+      "tag": "novelty",
+      "confidence": 0.97
+    },
+    {
+      "id": "avoid-saturated-fitness-topics",
+      "title": "Block oversaturated fitness topics as primary deck angles",
+      "guidance": "Do not use these as the hook premise or primary deck angle: zone 2 cardio, progressive overload, calories in/out or diet-beats-exercise, NEAT, sleep basics, protein-per-meal. They may appear as supporting evidence inside a slide but cannot drive the deck. Redirect to adjacent underexplored angles: lactate shuttling and brain BDNF instead of zone 2; deload timing and nervous system recovery instead of progressive overload; thermic effect variation by food matrix instead of diet vs exercise.",
+      "tag": "novelty",
+      "confidence": 0.9
+    },
+    {
+      "id": "broaden-audience-framing",
+      "title": "Frame outcomes broadly so decks escape the fitness silo",
+      "guidance": "Before finalizing each hook, ask: does this only resonate with someone already trying to lose fat or build muscle? If yes, reframe through a broader outcome — energy, cognitive performance, longevity, sleep quality, or mood. The mechanism stays the same; only the outcome language widens. Example: 'alcohol pauses fat burning' → 'alcohol cuts your deep sleep by 25% and tanks next-day focus'. Broader framing lifts predicted performance by increasing share rate beyond the fitness audience.",
+      "tag": "audience",
+      "confidence": 0.85
+    }
+  ]
+}

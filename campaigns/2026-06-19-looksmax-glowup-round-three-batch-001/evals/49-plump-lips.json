@@ -1,0 +1,106 @@
+{
+  "key": "49-plump-lips",
+  "eyebrow": "Lips",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/49-plump-lips.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/49-plump-lips.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Fuller lips, *no filler*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "283/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Fuller lips, no filler' is specific, contrarian and concrete — strong pattern interrupt, though the sub headline slightly over-explains the payoff.",
+      "clarity": "Every slide is one tight idea with a clear mechanism — nothing vague, nothing doubled up.",
+      "audience_fit": "Dehydration, sleep, nutrition — all daily-habit levers a busy 25-year-old can actually pull, though lip aesthetics skew slightly more female in this demo.",
+      "novelty": "Nose-breathing and micronutrient flags are fresh angles; the hydration/SPF beats are familiar but the lip-specific framing sharpens them enough.",
+      "brand_fit": "Claims are hedged ('can flag'), voice is plain and direct, CTA ties naturally to Vibe's water/food/sleep tracking pillars with no cringe.",
+      "predicted_performance": "High save potential — the 'no filler' hook plus actionable slide-by-slide habits make this easy to screenshot and revisit, which drives saves over shares."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26380,
+    "tokensOut": 277,
+    "costUsd": 0.0673675,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Fuller lips, no filler' is specific, contrarian and concrete — strong pattern interrupt, though the sub headline slightly over-explains the payoff."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one tight idea with a clear mechanism — nothing vague, nothing doubled up."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Dehydration, sleep, nutrition — all daily-habit levers a busy 25-year-old can actually pull, though lip aesthetics skew slightly more female in this demo."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Nose-breathing and micronutrient flags are fresh angles; the hydration/SPF beats are familiar but the lip-specific framing sharpens them enough."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('can flag'), voice is plain and direct, CTA ties naturally to Vibe's water/food/sleep tracking pillars with no cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — the 'no filler' hook plus actionable slide-by-slide habits make this easy to screenshot and revisit, which drives saves over shares."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:05:52.563Z"
+}

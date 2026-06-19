@@ -1,0 +1,58 @@
+{
+  "key": "41-strong-nails",
+  "theme": "looksmax",
+  "eyebrow": "Hands",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your nails are a *nutrition readout*.",
+      "sub": "Peeling, ridged, brittle nails usually aren't a polish problem. They're a slow report on what you eat.",
+      "bg": "ai-bg/41-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Build it",
+      "title": "Nails are made of protein",
+      "body": "Nails are keratin — pure protein. Chronically under-eating it leaves them thin and bendy. *Hit your protein* and new growth comes in harder."
+    },
+    {
+      "type": "content",
+      "kicker": "Iron",
+      "title": "Spoon-shaped means look closer",
+      "body": "Brittle, scooped nails can signal *low iron*. Worth iron-rich food and a doctor's blood test before you blame the polish."
+    },
+    {
+      "type": "content",
+      "kicker": "Moisture",
+      "title": "Dry nails snap",
+      "body": "Hand sanitizer and hot water strip the natural oils. *Water plus a hand balm* keeps the nail flexible instead of cracking."
+    },
+    {
+      "type": "content",
+      "kicker": "Patience",
+      "title": "Growth is slow, not instant",
+      "body": "A fingernail takes *3–6 months* to fully regrow. Today's diet shows up next season — so the habit has to stick."
+    },
+    {
+      "type": "content",
+      "kicker": "Skip the hype",
+      "title": "Biotin only helps if you're low",
+      "body": "Biotin pills do little unless you're actually deficient. *Real food beats the gummy* for almost everyone."
+    },
+    {
+      "type": "cta",
+      "title": "Stronger nails, *fed not faked*.",
+      "body": "Vibe Health tracks the protein, iron-rich food & water your nails are quietly reporting on — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "stronger nails, from within",
+      "bg": "ai-bg/41-cta.png"
+    }
+  ],
+  "caption": "Peeling, brittle nails are usually a diet readout, not a polish problem. 💅\n\nHit your protein, mind your iron, keep them moisturized, and be patient — nails grow back over months. Save this. 🔖\n\nVibe Health tracks the protein, iron-rich food & water behind strong nails → link in bio.",
+  "hashtags": ["#healthynails", "#nailcare", "#glowup", "#looksmaxing", "#nutrition", "#selfcare", "#glowuptips", "#healthyhabits", "#groomingtips", "#vibehealthapp"],
+  "youtube_title": "Why Your Nails Keep Breaking (It's Your Diet)",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person's clean healthy hands resting near the face, smooth strong natural nails, soft directional light on the fingers.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of healthy natural fingernails on a relaxed hand, smooth and strong, hard rim light on the texture."
+  }
+}

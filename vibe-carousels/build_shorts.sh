@@ -5,6 +5,7 @@ set -uo pipefail
 
 D=4; T=0.5; FPS=30
 ROOT="$(cd "$(dirname "$0")" && pwd)"
+source "$ROOT/../observability/trace.sh"   # one span per short
 mkdir -p "$ROOT/shorts"
 
 DECKS=("$@")
@@ -16,9 +17,10 @@ fi
 
 count=0; failed=0
 for dir in "${DECKS[@]}"; do
+  __t="$(trace_now)"
   imgs=(); for f in "$ROOT/$dir"/slide-*-tt.png; do [ -f "$f" ] && imgs+=("$f"); done
   n=${#imgs[@]}
-  if [ "$n" -lt 2 ]; then echo "✗ $dir: need >=2 slides (found $n)"; failed=$((failed+1)); continue; fi
+  if [ "$n" -lt 2 ]; then echo "✗ $dir: need >=2 slides (found $n)"; failed=$((failed+1)); trace_span "build_short.$dir" "$__t" error "need>=2 slides (found $n)" model=ffmpeg step=build_shorts; continue; fi
 
   inputs=(); filt=""
   for ((i=0;i<n;i++)); do
@@ -39,8 +41,10 @@ for dir in "${DECKS[@]}"; do
        "$ROOT/shorts/$dir.mp4" </dev/null >/dev/null 2>&1; then
     dur=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$ROOT/shorts/$dir.mp4" 2>/dev/null)
     echo "✓ $dir.mp4  (${dur}s, $n slides)"; count=$((count+1))
+    trace_span "build_short.$dir" "$__t" success "${dur}s, $n slides" model=ffmpeg step=build_shorts
   else
     echo "✗ $dir: ffmpeg failed"; failed=$((failed+1))
+    trace_span "build_short.$dir" "$__t" error "ffmpeg failed" model=ffmpeg step=build_shorts
   fi
 done
 echo "Built $count. Failed: $failed."

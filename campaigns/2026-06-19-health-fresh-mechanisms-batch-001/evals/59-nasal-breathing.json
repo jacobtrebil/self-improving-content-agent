@@ -1,0 +1,106 @@
+{
+  "key": "59-nasal-breathing",
+  "eyebrow": "Breathing",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/59-nasal-breathing.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/59-nasal-breathing.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Mouth-breathing is quietly wrecking your *sleep*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "304/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Quietly wrecking your sleep' is specific and mildly alarming without being hypey, though 'mouth-breathing' as the villain is familiar enough to slightly blunt the surprise.",
+      "clarity": "Each slide owns exactly one mechanism or habit cue, labeled with a context tag, making it immediately actionable.",
+      "audience_fit": "Tired-by-3pm and poor sleep are dead-center for this audience, and the tongue posture tip is tactile enough to try today without gear or a gym.",
+      "novelty": "Nasal breathing content is saturated on TikTok health; CO2 tolerance and nitric oxide add a layer above the basics, but the overall angle is well-trodden.",
+      "brand_fit": "Every claim is hedged ('may help', 'can support', 'ask a doctor'), voice is plain and direct, and the CTA ties breathing to the actual product metric rather than generic wellness.",
+      "predicted_performance": "High save potential because it stacks multiple specific habits in one deck; shares are moderate because the topic lacks the visceral hook of food or body composition content."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26387,
+    "tokensOut": 295,
+    "costUsd": 0.0676865,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Quietly wrecking your sleep' is specific and mildly alarming without being hypey, though 'mouth-breathing' as the villain is familiar enough to slightly blunt the surprise."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one mechanism or habit cue, labeled with a context tag, making it immediately actionable."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Tired-by-3pm and poor sleep are dead-center for this audience, and the tongue posture tip is tactile enough to try today without gear or a gym."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Nasal breathing content is saturated on TikTok health; CO2 tolerance and nitric oxide add a layer above the basics, but the overall angle is well-trodden."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Every claim is hedged ('may help', 'can support', 'ask a doctor'), voice is plain and direct, and the CTA ties breathing to the actual product metric rather than generic wellness."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because it stacks multiple specific habits in one deck; shares are moderate because the topic lacks the visceral hook of food or body composition content."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:40.591Z"
+}

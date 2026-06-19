@@ -1,0 +1,106 @@
+{
+  "key": "54-defined-collarbones",
+  "eyebrow": "Frame",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/54-defined-collarbones.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/54-defined-collarbones.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Sharp collarbones are a *leanness signal*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "292/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Sharp collarbones are a leanness signal' is specific and contrarian (no exercise myth-bust), but 'leanness signal' reads slightly clinical for TikTok.",
+      "clarity": "Every slide is one actionable idea with a clear mechanism — posture, sodium, sleep, fat loss — no slide tries to do two things.",
+      "audience_fit": "Bloat, sleep, and the 'frame was there all along' framing lands perfectly for the tired-and-overwhelmed 25-year-old, though collarbone aesthetics skew female.",
+      "novelty": "The posture and cortisol-overnight angles are underused; the sodium/booze slide is familiar but earns its place as a fast win.",
+      "brand_fit": "Hedged where needed ('Real — if minor'), zero hype words, and the CTA ties features directly to the deck's promise without overselling.",
+      "predicted_performance": "High save potential from the multi-lever framework; shares depend on whether the audience self-identifies with the aesthetic goal, which narrows reach."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26356,
+    "tokensOut": 287,
+    "costUsd": 0.0673595,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Sharp collarbones are a leanness signal' is specific and contrarian (no exercise myth-bust), but 'leanness signal' reads slightly clinical for TikTok."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one actionable idea with a clear mechanism — posture, sodium, sleep, fat loss — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Bloat, sleep, and the 'frame was there all along' framing lands perfectly for the tired-and-overwhelmed 25-year-old, though collarbone aesthetics skew female."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The posture and cortisol-overnight angles are underused; the sodium/booze slide is familiar but earns its place as a fast win."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedged where needed ('Real — if minor'), zero hype words, and the CTA ties features directly to the deck's promise without overselling."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the multi-lever framework; shares depend on whether the audience self-identifies with the aesthetic goal, which narrows reach."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:04.378Z"
+}

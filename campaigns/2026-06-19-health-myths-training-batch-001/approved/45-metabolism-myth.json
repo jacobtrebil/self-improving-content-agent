@@ -1,0 +1,58 @@
+{
+  "key": "45-metabolism-myth",
+  "theme": "health",
+  "eyebrow": "Metabolism",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your metabolism isn't *broken*.",
+      "sub": "The thing people call a 'slow metabolism' is almost always something quieter — and fixable.",
+      "bg": "ai-bg/45-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The real cause",
+      "title": "Your NEAT crashed",
+      "body": "When you eat less, your body unconsciously moves less — fewer steps, less fidgeting. This 'NEAT' can quietly swing *200–400 calories a day*."
+    },
+    {
+      "type": "content",
+      "kicker": "The spiral",
+      "title": "Less food, less movement",
+      "body": "Crash diets make it worse: you slash food, your body slashes movement to match, and the scale *stops moving while you're starving*."
+    },
+    {
+      "type": "content",
+      "kicker": "The engine",
+      "title": "Muscle sets your floor",
+      "body": "Muscle is metabolically active tissue. Lose it and your resting burn drops. *Keeping muscle* protects your metabolism for life."
+    },
+    {
+      "type": "content",
+      "kicker": "The blind spot",
+      "title": "You're eating more than you think",
+      "body": "Most people underestimate intake by *hundreds of calories* — bites, oils, drinks. It feels like slow metabolism; it's untracked food."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Move more, eat enough",
+      "body": "Hit a step target, lift to keep muscle, and *don't crash your calories*. That restores the burn far better than another cleanse."
+    },
+    {
+      "type": "cta",
+      "title": "Your metabolism, *back online*.",
+      "body": "Vibe Health tracks your steps, food and weight trend together — so you can see your NEAT and intake instead of guessing.",
+      "button": "Download Vibe Health →",
+      "tag": "stop blaming your metabolism",
+      "bg": "ai-bg/45-cta.png"
+    }
+  ],
+  "caption": "Almost nobody has a truly 'broken' metabolism. What they have is crashed NEAT — moving less without noticing — plus untracked food. 🔥\n\nThe fix isn't a cleanse. It's steps, enough protein, lifting to keep muscle, and not slashing calories to zero. 🔖\n\nVibe Health shows your steps, food and weight trend in one place → link in bio.",
+  "hashtags": ["#metabolism", "#fatloss", "#caloriedeficit", "#NEAT", "#fitnessmyths", "#strengthtraining", "#healthylifestyle", "#weightlosstips", "#nutrition", "#vibehealthapp"],
+  "youtube_title": "Your Metabolism Isn't Broken — Here's What Is",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person mid-stride walking briskly up a dim stairwell, candid everyday clothing, hard side light on the motion.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a pair of worn walking shoes on pavement mid-step, low raking light casting a long shadow."
+  }
+}

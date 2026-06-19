@@ -57,7 +57,7 @@ printf 'key\tformat\taccount\tdate\tviews\tlikes\treach\tpulled_at\n' > "$DIR/re
 - **Format:** ${FORMAT}  · see /formats/${FORMAT}/
 - **Count:** ${COUNT} posts
 - **Status:** draft   # draft → generating → review → approved → scheduled → live
-- **Channels:** instagram, tiktok_alt, youtube_alt   # edit; ids via vibe-carousels/channel_id.sh
+- **Channels:** tiktok_alt, youtube_alt   # edit; ids via vibe-carousels/channel_id.sh (Instagram retired)
 - **Cadence:** 1 post/day at 17:00Z   # edit
 
 ## Goal

@@ -1,0 +1,58 @@
+{
+  "key": "62-cold-exposure",
+  "theme": "health",
+  "eyebrow": "Cold",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A cold shower beats your *morning coffee*.",
+      "sub": "Done at the right moment, it hands you hours of clean alertness. Done at the wrong one, you waste it — or worse.",
+      "bg": "ai-bg/62-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Cold lifts your chemistry",
+      "body": "Brief cold raises *dopamine and noradrenaline*, which may support hours of clean alertness and a steadier mood afterward."
+    },
+    {
+      "type": "content",
+      "kicker": "Timing",
+      "title": "Use it in the morning",
+      "body": "Cold gives its biggest lift *early in the day*, so save it for when you actually want to feel switched on."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Not right after lifting",
+      "body": "Cold straight after a workout can *blunt muscle growth*. Wait a few hours if building strength is the goal."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "Keep it short",
+      "body": "You don't need an ice bath. *30 to 90 seconds* of cold at the end of a shower is plenty."
+    },
+    {
+      "type": "content",
+      "kicker": "Stay calm",
+      "title": "Control the exhale",
+      "body": "Don't gasp. *Slow, long exhales* keep you calm under the cold and help your body settle into it."
+    },
+    {
+      "type": "cta",
+      "title": "Trade the jitters for *clean energy*.",
+      "body": "Log cold showers as a habit in Vibe Health and watch how the mornings you do it move your daily score and mood.",
+      "button": "Download Vibe Health →",
+      "tag": "a cleaner morning lift",
+      "bg": "ai-bg/62-cta.png"
+    }
+  ],
+  "caption": "A cold shower can beat your morning coffee — but only if you time it right. 🚿\n\nUse it in the morning, not right after lifting, keep it to 30–90 seconds, and control your exhale instead of gasping. Save this. 🔖\n\nLog it as a habit in Vibe Health and watch it move your daily score → link in bio.",
+  "hashtags": ["#coldexposure", "#coldshower", "#dopamine", "#morningroutine", "#energy", "#mood", "#wellness", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "The Right Way to Use Cold Showers for Energy",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A real person standing under a cold shower in early morning light, water beading on ordinary skin, breathing slowly with eyes closed, steam absent and goosebumps visible.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of cold water running over a shoulder and collarbone, droplets and goosebumps on real skin, hard side light."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "key": "46-zone-2-cardio",
+  "eyebrow": "Cardio",
+  "spec": "campaigns/2026-06-19-health-myths-training-batch-001/approved/46-zone-2-cardio.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-myths-training-batch-001/approved/46-zone-2-cardio.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The best cardio feels *almost too easy*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "329/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Almost too easy' is a genuinely counterintuitive hook that earns the click, but 'The engine is built slow' as a sub risks losing readers who need a faster payoff promise.",
+      "clarity": "Each slide is a single, actionable idea with a clean header and one concrete takeaway — the talk test slide alone could change how someone trains tomorrow.",
+      "audience_fit": "Busy 25-year-olds who dread the gym will love the permission to go easy, though 'mitochondria' on slide 3 briefly crosses into science-class territory for the overwhelmed segment.",
+      "novelty": "Zone 2 has been the wellness internet's favorite topic for two years — the angle is solid but not fresh enough to stand out without a more surprising framing or data point.",
+      "brand_fit": "Voice is plain and direct throughout, claims are appropriately hedged ('won't wreck' rather than 'prevents'), and the CTA ties naturally to step/movement tracking without AI-cringe or banned hype words.",
+      "predicted_performance": "High save potential from the actionable dose slide, but the saturated zone-2 topic and lack of a truly scroll-stopping visual hook will limit organic reach against established fitness accounts."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26007,
+    "tokensOut": 321,
+    "costUsd": 0.0658235,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Almost too easy' is a genuinely counterintuitive hook that earns the click, but 'The engine is built slow' as a sub risks losing readers who need a faster payoff promise."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, actionable idea with a clean header and one concrete takeaway — the talk test slide alone could change how someone trains tomorrow."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 25-year-olds who dread the gym will love the permission to go easy, though 'mitochondria' on slide 3 briefly crosses into science-class territory for the overwhelmed segment."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Zone 2 has been the wellness internet's favorite topic for two years — the angle is solid but not fresh enough to stand out without a more surprising framing or data point."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Voice is plain and direct throughout, claims are appropriately hedged ('won't wreck' rather than 'prevents'), and the CTA ties naturally to step/movement tracking without AI-cringe or banned hype words."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "High save potential from the actionable dose slide, but the saturated zone-2 topic and lack of a truly scroll-stopping visual hook will limit organic reach against established fitness accounts."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:52.476Z"
+}

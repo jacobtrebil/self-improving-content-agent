@@ -1,15 +1,16 @@
 // Generates HTML slides for Vibe Health (vibehealthapp.com) carousels.
 // Brand: clean black & white, casual/enthusiastic. Tagline: "Building tools that help you flourish".
-// Output: 1080x1350 (4:5) HTML files, screenshotted to PNG by render.sh via headless Chrome.
+// Output: 1080x1920 (9:16) HTML files, screenshotted to PNG by render.sh via headless Chrome.
 
 const fs = require("fs");
 const path = require("path");
+const { Tracer } = require("../observability/tracer");
 
 const HANDLE = "@vibehealthapp";
-// FMT=tt → 9:16 (1080x1920) for TikTok; default → 4:5 (1080x1350) for Instagram.
-const TT = process.env.FMT === "tt";
-const W = 1080, H = TT ? 1920 : 1350;
-const SUF = TT ? "-tt" : "";
+// 9:16 (1080x1920) is the only ratio — TikTok + YouTube Shorts. Instagram (the
+// 4:5 set) has been retired, so every deck renders 9:16 with the -tt suffix.
+const W = 1080, H = 1920;
+const SUF = "-tt";
 
 // --- design system ---------------------------------------------------------
 const CSS = `
@@ -431,6 +432,9 @@ if (fs.existsSync(campRoot)) {
 
 // --- write files -----------------------------------------------------------
 const root = __dirname;
+const __tracer = new Tracer({ metadata: { step: "build-html", ratio: "9:16" }, quiet: true });
+const __t0 = process.hrtime.bigint();
+let __slides = 0;
 for (const [name, def] of Object.entries(decks)) {
   const dir = path.join(root, name);
   fs.mkdirSync(dir, { recursive: true });
@@ -449,5 +453,15 @@ for (const [name, def] of Object.entries(decks)) {
     fs.writeFileSync(path.join(dir, `slide-${String(i + 1).padStart(2, "0")}${SUF}.html`), out);
   });
   console.log(`${name}: ${html.length} slides`);
+  __slides += html.length;
 }
+__tracer.record({
+  spanId: `build_html${SUF}`,
+  model: "template",
+  input: `${Object.keys(decks).length} decks`,
+  output: `${__slides} slide HTML files (9:16)`,
+  status: "success",
+  latencyMs: Number((process.hrtime.bigint() - __t0) / 1000000n),
+  metadata: { ratio: "9:16", decks: Object.keys(decks).length },
+});
 console.log("done");

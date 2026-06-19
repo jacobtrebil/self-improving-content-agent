@@ -1,0 +1,106 @@
+{
+  "key": "56-stop-hair-shedding",
+  "eyebrow": "Hair",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/56-stop-hair-shedding.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/56-stop-hair-shedding.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your crash diet is *shedding your hair*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "317/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "Crash diet → hair shedding is specific and counterintuitive enough to stop a scroll, though the visual relies heavily on the copy doing the work.",
+      "clarity": "Every slide is one tight idea with a concrete action — eat enough, get bloodwork, hit protein, sleep, handle gently — no fluff.",
+      "audience_fit": "Crash diets and stress-driven shedding land squarely for the 25–35 tired-and-overwhelmed crowd who've tried the serums and are ready for a real answer.",
+      "novelty": "Telogen effluvium framing and the ferritin call-out are genuinely underserved angles; the stress and protein slides are familiar but earn their place.",
+      "brand_fit": "Claims are hedged, CTA is practical not hypey, and the 'from within' framing ties cleanly to the app's food-sleep-water core without AI-cringe.",
+      "predicted_performance": "High save potential — actionable checklist format with a surprising mechanism (crash diet → 3-month lag) that prompts sharing to friends who've complained about shedding."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26379,
+    "tokensOut": 300,
+    "costUsd": 0.0677155,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "Crash diet → hair shedding is specific and counterintuitive enough to stop a scroll, though the visual relies heavily on the copy doing the work."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one tight idea with a concrete action — eat enough, get bloodwork, hit protein, sleep, handle gently — no fluff."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Crash diets and stress-driven shedding land squarely for the 25–35 tired-and-overwhelmed crowd who've tried the serums and are ready for a real answer."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Telogen effluvium framing and the ferritin call-out are genuinely underserved angles; the stress and protein slides are familiar but earn their place."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged, CTA is practical not hypey, and the 'from within' framing ties cleanly to the app's food-sleep-water core without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — actionable checklist format with a surprising mechanism (crash diet → 3-month lag) that prompts sharing to friends who've complained about shedding."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:15.612Z"
+}

@@ -1,0 +1,58 @@
+{
+  "key": "64-breath-for-stress",
+  "theme": "health",
+  "eyebrow": "Stress",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "You can switch off stress in *one breath*.",
+      "sub": "Your body already has a built-in calm button. Most people breathe the exact opposite way.",
+      "bg": "ai-bg/64-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The tool",
+      "title": "The physiological sigh",
+      "body": "Two short inhales through the nose, then one long exhale. It's the *fastest way to calm down* on demand."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "The exhale runs the brakes",
+      "body": "A long exhale slows your heart through the *vagus nerve*. Make the out-breath longer than the in-breath."
+    },
+    {
+      "type": "content",
+      "kicker": "For sleep",
+      "title": "Sigh yourself to sleep",
+      "body": "A few slow sighs in bed quiet a racing mind and can *drop you into sleep faster*."
+    },
+    {
+      "type": "content",
+      "kicker": "Before stress",
+      "title": "Reset before it starts",
+      "body": "*One sigh before* a meeting or a hard email resets your baseline so you respond instead of react."
+    },
+    {
+      "type": "content",
+      "kicker": "Daily",
+      "title": "Practice the calm",
+      "body": "About *5 minutes of slow breathing* a day can lower resting stress over a few weeks."
+    },
+    {
+      "type": "cta",
+      "title": "Make calm a *daily habit*.",
+      "body": "Vibe Health lets you track a breathing habit and ties it to your daily score, so you can see stress trend down over time.",
+      "button": "Download Vibe Health →",
+      "tag": "less stress, one breath away",
+      "bg": "ai-bg/64-cta.png"
+    }
+  ],
+  "caption": "You can switch off stress in one breath, and most people breathe the exact opposite way. 😮‍💨\n\nTwo inhales, one long exhale. The exhale slows your heart through the vagus nerve. Use it in bed, before a meeting, and 5 minutes a day. Save this. 🔖\n\nVibe Health tracks your breathing habit and ties it to your daily score → link in bio.",
+  "hashtags": ["#stressrelief", "#breathwork", "#nervoussystem", "#physiologicalsigh", "#calm", "#vagusnerve", "#mentalhealth", "#wellness", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Switch Off Stress in One Breath",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. An ordinary person sitting by a window with eyes closed mid-exhale, shoulders dropping, soft side light on a calm tired face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a relaxed parted mouth and chest mid-exhale, faint breath visible in dim light."
+  }
+}

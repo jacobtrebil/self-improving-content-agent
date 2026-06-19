@@ -9,11 +9,27 @@ Every visual is produced from code and config; nothing is hand-designed.
 
 What makes it more than a generation script is the instrumentation wrapped around it:
 
-- **Observability** — every important LLM/tool step is traced to JSONL with latency, tokens, cost, inputs/outputs, and parent/child structure.
+- **Observability** — every LLM/tool step is traced to JSONL with latency, tokens, cost, inputs/outputs, and parent/child structure: generation, evals, reflection, AI image gen, HTML/PNG/video rendering, **and** the Postiz scheduling + analytics calls (bash steps included, via a transparent `postiz()` wrapper).
 - **Evals** — each output is graded by deterministic code checks *and* an LLM-as-judge running on a **different model than the generator** (Opus writes, Sonnet grades).
 - **Reflexion memory** — after every run the system reflects on its eval scores, distills reusable strategies, and recalls them before the next campaign. The loop closes.
 
 It runs on the headless Claude Code CLI — **no API key, no separate inference service** — and treats cost, reproducibility, and guardrails as first-class.
+
+## Demo
+
+<!-- ───────────────────────────────────────────────────────────────────────────
+  GitHub plays video from an UPLOADED-ASSET url, not from a committed file path.
+  To make the player below work:
+    1. On GitHub, open a new Issue (or draft a Release) in this repo.
+    2. Drag  vibe-health-harness-demo-wide.mp4  into the comment box; wait for upload.
+    3. Copy the resulting  https://github.com/user-attachments/assets/<id>  url.
+    4. Replace BOTH placeholders below with that url. (You can discard the issue.)
+  No need to commit the mp4 — this keeps the repo lean (it stays gitignored).
+──────────────────────────────────────────────────────────────────────────── -->
+
+https://github.com/user-attachments/assets/REPLACE_WITH_UPLOADED_VIDEO_URL
+
+<sub>▶︎ 34-second walkthrough — generate a batch, eval it, inspect the trace, reflect into memory. <em>(If you don't see a player yet, the upload URL above hasn't been filled in — see the comment in the source.)</em></sub>
 
 ---
 
@@ -139,7 +155,7 @@ The substance underneath the instrumentation. Everything visual is built from co
 config/ (brand, platforms, models, posting)
    │
    ▼
-generate specs ─► HTML frames ─► headless Chrome ─► PNG slides (4:5 + 9:16)
+generate specs ─► HTML frames ─► headless Chrome ─► PNG slides (9:16)
    │                  └─► ffmpeg ─► 9:16 reels & shorts (30fps, 1080×1920)
    └─► Higgsfield (GPT Image 2 / Nano Banana / Seedance) ─► photoreal people,
        before/after pairs, image-to-video footage
@@ -147,7 +163,7 @@ generate specs ─► HTML frames ─► headless Chrome ─► PNG slides (4:5 
 
 - **Hooks are sacred** — the opening frame is always a real visual (photo, footage, UI mockup), never a flat color card.
 - **People look real** — amateur-phone-photo aesthetic, believable bodies and progress, never AI-glossy.
-- **Dual-ratio** — every deck renders 4:5 (Instagram) and 9:16 (TikTok/YouTube); the wrong ratio never crosses platforms.
+- **Vertical-native** — every deck renders 9:16 for TikTok and YouTube Shorts (Instagram is retired, so the old 4:5 set is no longer produced).
 - **Publishing is a human call** — the agent generates, evals, and renders freely, but never schedules a post unless explicitly asked.
 
 ## Repo layout

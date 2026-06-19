@@ -1,0 +1,58 @@
+{
+  "key": "39-whiter-smile",
+  "theme": "looksmax",
+  "eyebrow": "Smile",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A whiter smile starts *with your gums*.",
+      "sub": "Strips bleach the surface. Pink, healthy gums and less staining are what actually read as 'clean'.",
+      "bg": "ai-bg/39-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Frame it",
+      "title": "Healthy gums frame the teeth",
+      "body": "Puffy, red gums make teeth look dingy. *Floss daily* and the whole smile looks brighter — for free."
+    },
+    {
+      "type": "content",
+      "kicker": "Rinse",
+      "title": "Water beats a quick brush",
+      "body": "Coffee, wine and dark soda stain. *Sip water after* and swish — it clears pigment before it sets."
+    },
+    {
+      "type": "content",
+      "kicker": "Cut back",
+      "title": "Sugar feeds the dull film",
+      "body": "Sugar feeds the bacteria behind plaque and that yellow film. *Less added sugar* keeps enamel clearer."
+    },
+    {
+      "type": "content",
+      "kicker": "Protect",
+      "title": "Don't scrub enamel away",
+      "body": "Thin enamel shows the yellow underneath. Skip charcoal scrubs — *soft brush, gentle pressure* protects the white."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Stop the night-time dry mouth",
+      "body": "Saliva is your enamel's defense. Booze and mouth-breathing dry it out — *hydrate and sleep well* to keep it flowing."
+    },
+    {
+      "type": "cta",
+      "title": "Brighter smile, *from healthy habits*.",
+      "body": "Vibe Health tracks the water, sugar & sleep behind a clean, bright smile — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "a brighter smile, tracked",
+      "bg": "ai-bg/39-cta.png"
+    }
+  ],
+  "caption": "A whiter smile is less about strips and more about pink gums and less staining. 🦷\n\nFloss daily, rinse after coffee, cut the sugar, go easy on the enamel, fix the night-time dry mouth. Save this. 🔖\n\nVibe Health tracks the water, sugar & sleep behind a clean smile → link in bio.",
+  "hashtags": ["#whiteteeth", "#smilemakeover", "#glowup", "#looksmaxing", "#oralhealth", "#selfimprovement", "#glowuptips", "#healthyhabits", "#groomingtips", "#vibehealthapp"],
+  "youtube_title": "A Whiter Smile Starts With Your Gums",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person with a relaxed, confident closed-lip-to-soft smile and clean healthy teeth, soft light on the mouth and jaw.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a healthy bright smile, clean teeth and firm gums, soft rim light catching the lips."
+  }
+}

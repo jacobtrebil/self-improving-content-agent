@@ -1,0 +1,106 @@
+{
+  "key": "52-fade-dark-spots",
+  "eyebrow": "Skin",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/52-fade-dark-spots.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/52-fade-dark-spots.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"90% of dark spots are *the sun*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "272/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'90% of dark spots are the sun' is specific and mildly contrarian against the serum-chasing norm, though the payoff ('protection and patience') is a bit soft for a cover.",
+      "clarity": "Every slide is a single actionable idea with a clear label, concrete body copy, and appropriate hedging — no slide tries to do two things.",
+      "audience_fit": "Busy 20–35s who've spent money on brightening serums will recognize themselves in slide 1 immediately, and the 'just leave it alone' tone matches their patience level.",
+      "novelty": "SPF-first framing is well-worn skincare content; the sleep-skin connection on slide 5 is the freshest angle but isn't leaned into enough to differentiate the deck.",
+      "brand_fit": "Claims are hedged throughout ('may help', 'supports', 'slowly'), banned words are absent, the CTA ties sleep/food/habits to the Health Score naturally without AI-cringe.",
+      "predicted_performance": "Strong save bait ('save this for later' in caption is well-placed) and a relatable premise should beat average health carousels, but the novelty ceiling limits viral upside."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26359,
+    "tokensOut": 322,
+    "costUsd": 0.06789549999999998,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'90% of dark spots are the sun' is specific and mildly contrarian against the serum-chasing norm, though the payoff ('protection and patience') is a bit soft for a cover."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is a single actionable idea with a clear label, concrete body copy, and appropriate hedging — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s who've spent money on brightening serums will recognize themselves in slide 1 immediately, and the 'just leave it alone' tone matches their patience level."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "SPF-first framing is well-worn skincare content; the sleep-skin connection on slide 5 is the freshest angle but isn't leaned into enough to differentiate the deck."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged throughout ('may help', 'supports', 'slowly'), banned words are absent, the CTA ties sleep/food/habits to the Health Score naturally without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save bait ('save this for later' in caption is well-placed) and a relatable premise should beat average health carousels, but the novelty ceiling limits viral upside."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:04.958Z"
+}

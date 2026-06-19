@@ -1,0 +1,106 @@
+{
+  "key": "58-leaner-legs",
+  "eyebrow": "Legs",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/58-leaner-legs.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/58-leaner-legs.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"You can't *spot-train lean legs*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "292/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 4,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'You can't spot-train lean legs' is a direct myth-bust with a concrete payoff, though the sub-copy slightly over-explains and dilutes the punch.",
+      "clarity": "Each slide owns one mechanism (fat loss, steps, fluid, muscle, sleep) and the labels (Reveal/Move/Drain/Build/Overnight) create a clean mental map.",
+      "audience_fit": "Hits the exact 20–35 tired-by-3pm profile — walking over gym grind, debloat angle, sleep recovery — no intimidating lifting jargon.",
+      "novelty": "Spot-reduction myth is well-worn territory; the fluid/salt and sleep slides add a fresher angle but the overall frame is familiar.",
+      "brand_fit": "Voice is plain and direct, health claims are appropriately hedged ('more than most people expect', 'Real — if slow'), CTA ties every slide mechanism back to the app score naturally.",
+      "predicted_performance": "Strong save-bait structure with the fluid/sleep slides as shareable surprises, but the cover myth is common enough that scroll-stop rate will depend heavily on visual execution."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26348,
+    "tokensOut": 301,
+    "costUsd": 0.06750850000000001,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'You can't spot-train lean legs' is a direct myth-bust with a concrete payoff, though the sub-copy slightly over-explains and dilutes the punch."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide owns one mechanism (fat loss, steps, fluid, muscle, sleep) and the labels (Reveal/Move/Drain/Build/Overnight) create a clean mental map."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Hits the exact 20–35 tired-by-3pm profile — walking over gym grind, debloat angle, sleep recovery — no intimidating lifting jargon."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Spot-reduction myth is well-worn territory; the fluid/salt and sleep slides add a fresher angle but the overall frame is familiar."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, health claims are appropriately hedged ('more than most people expect', 'Real — if slow'), CTA ties every slide mechanism back to the app score naturally."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save-bait structure with the fluid/sleep slides as shareable surprises, but the cover myth is common enough that scroll-stop rate will depend heavily on visual execution."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:27.007Z"
+}

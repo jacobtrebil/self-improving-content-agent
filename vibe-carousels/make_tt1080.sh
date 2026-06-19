@@ -8,8 +8,8 @@
 # So every TikTok photo carousel must upload a downscaled 1080x1920 copy.
 #
 # This script writes slide-NN-tt1080.png next to each slide-NN-tt.png.
-# TikTok scheduling uploads the -tt1080 files; IG (4:5) and YouTube (mp4) are
-# unaffected. Videos already ship at 1080x1920 (>=720p), so they need no change.
+# TikTok scheduling uploads the -tt1080 files; YouTube (mp4) is unaffected.
+# Videos already ship at 1080x1920 (>=720p), so they need no change.
 #
 # Usage:
 #   bash make_tt1080.sh <deck-dir> [<deck-dir> ...]   # specific decks

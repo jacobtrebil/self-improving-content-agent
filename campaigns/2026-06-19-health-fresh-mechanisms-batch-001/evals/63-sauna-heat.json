@@ -1,0 +1,106 @@
+{
+  "key": "63-sauna-heat",
+  "eyebrow": "Heat",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/63-sauna-heat.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/63-sauna-heat.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A hot sauna does more than make you *sweat*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "299/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "The cover reframes sauna as a sleep tool, which is a real angle, but 'does more than make you sweat' is a weak tease — too vague to stop a scroll competing against harder hooks.",
+      "clarity": "Each slide lands one idea with a concrete mechanism or timeframe; the caution slide earns its place without being preachy.",
+      "audience_fit": "Sleep, recovery, and stress relief hit the tired-by-3pm 25-year-old directly, and the skeptical framing ('an association worth knowing, not a cure') respects their BS detector.",
+      "novelty": "The sleep-cooling mechanism and the hedged heart-health framing are slightly fresh, but sauna carousels are saturated and this doesn't lead with a surprising or contrarian claim.",
+      "brand_fit": "Hedges are precise ('linked to,' 'may support,' 'can help'), banned words are absent, the CTA ties to an actual tracking feature rather than a vague lifestyle promise.",
+      "predicted_performance": "Solid saves from sauna enthusiasts but unlikely to break out — the hook doesn't create enough tension to drive shares beyond an already health-interested audience."
+    },
+    "overall": 3.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26382,
+    "tokensOut": 309,
+    "costUsd": 0.0678665,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "The cover reframes sauna as a sleep tool, which is a real angle, but 'does more than make you sweat' is a weak tease — too vague to stop a scroll competing against harder hooks."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide lands one idea with a concrete mechanism or timeframe; the caution slide earns its place without being preachy."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Sleep, recovery, and stress relief hit the tired-by-3pm 25-year-old directly, and the skeptical framing ('an association worth knowing, not a cure') respects their BS detector."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "The sleep-cooling mechanism and the hedged heart-health framing are slightly fresh, but sauna carousels are saturated and this doesn't lead with a surprising or contrarian claim."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedges are precise ('linked to,' 'may support,' 'can help'), banned words are absent, the CTA ties to an actual tracking feature rather than a vague lifestyle promise."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Solid saves from sauna enthusiasts but unlikely to break out — the hook doesn't create enough tension to drive shares beyond an already health-interested audience."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:52.288Z"
+}

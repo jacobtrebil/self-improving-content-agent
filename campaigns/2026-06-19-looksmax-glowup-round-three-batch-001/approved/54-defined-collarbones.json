@@ -1,0 +1,58 @@
+{
+  "key": "54-defined-collarbones",
+  "theme": "looksmax",
+  "eyebrow": "Frame",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Sharp collarbones are a *leanness signal*.",
+      "sub": "There's no exercise that carves them. They appear when the body fat and bloat hiding them are gone.",
+      "bg": "ai-bg/54-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Reveal",
+      "title": "Fat loss does the work",
+      "body": "Collarbone definition shows up as you *lose body fat*. No move targets the area directly."
+    },
+    {
+      "type": "content",
+      "kicker": "Drain",
+      "title": "Salt and booze puff it",
+      "body": "*Sodium and alcohol* hold fluid across the chest. Cut them and the frame sharpens in days."
+    },
+    {
+      "type": "content",
+      "kicker": "Open up",
+      "title": "Rounded shoulders hide them",
+      "body": "Slumping rolls the collarbones forward and buries them. *Roll your shoulders back* and they reappear."
+    },
+    {
+      "type": "content",
+      "kicker": "Build it",
+      "title": "Frame the neck line",
+      "body": "A little *upper-back and rear-delt* work shapes the neck-to-shoulder line. Real — if minor."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "Wake up tighter",
+      "body": "Fluid and cortisol soften the area overnight. *Deep sleep* keeps the chest looking tight by morning."
+    },
+    {
+      "type": "cta",
+      "title": "Lean, drained, *defined*.",
+      "body": "Vibe Health tracks the sleep, food, water and steps that reveal your frame — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "a sharper frame, tracked",
+      "bg": "ai-bg/54-cta.png"
+    }
+  ],
+  "caption": "Sharp collarbones aren't an exercise — they're what's left when bloat and body fat clear out. 🦴\n\nLean out, cut the salt and booze, open your shoulders, sleep deep. The frame was there all along. Save this. 🔖\n\nVibe Health tracks the sleep, food, water and steps that reveal it → link in bio.",
+  "hashtags": ["#looksmaxing", "#collarbones", "#glowup", "#leanbody", "#posture", "#debloat", "#selfimprovement", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "Defined Collarbones Are a Leanness Signal, Not an Exercise",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A lean woman with elegant, clearly defined collarbones and an open chest, shoulders back, light skimming across the frame.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a sharp, lean collarbone and neckline, soft skin texture, hard side light raking across the bone."
+  }
+}

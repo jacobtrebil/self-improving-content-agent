@@ -1,0 +1,106 @@
+{
+  "key": "45-metabolism-myth",
+  "eyebrow": "Metabolism",
+  "spec": "campaigns/2026-06-19-health-myths-training-batch-001/approved/45-metabolism-myth.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-myths-training-batch-001/approved/45-metabolism-myth.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your metabolism isn't *broken*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "331/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Your metabolism isn't broken' is a direct myth-bust that earns the scroll, but the sub-text over-explains and softens the punch before they swipe.",
+      "clarity": "Each slide is a single named mechanism (NEAT, spiral, muscle, blind spot, fix) — scannable and immediately actionable.",
+      "audience_fit": "NEAT crash and untracked bites are exactly the invisible saboteurs a busy 28-year-old blames on 'bad genetics' — this reframes their lived experience precisely.",
+      "novelty": "NEAT and muscle-loss are well-trodden in fitness content; the framing is tighter than average but won't feel revelatory to anyone who follows health creators.",
+      "brand_fit": "Claims are hedged, voice is plain and direct, CTA ties naturally to the app's core tracking features without hype or AI-cringe.",
+      "predicted_performance": "High save potential from the actionable mechanism breakdown; shares limited because the NEAT angle isn't surprising enough to trigger 'send to a friend' urgency."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26013,
+    "tokensOut": 285,
+    "costUsd": 0.06530549999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Your metabolism isn't broken' is a direct myth-bust that earns the scroll, but the sub-text over-explains and softens the punch before they swipe."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single named mechanism (NEAT, spiral, muscle, blind spot, fix) — scannable and immediately actionable."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "NEAT crash and untracked bites are exactly the invisible saboteurs a busy 28-year-old blames on 'bad genetics' — this reframes their lived experience precisely."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "NEAT and muscle-loss are well-trodden in fitness content; the framing is tighter than average but won't feel revelatory to anyone who follows health creators."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged, voice is plain and direct, CTA ties naturally to the app's core tracking features without hype or AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the actionable mechanism breakdown; shares limited because the NEAT angle isn't surprising enough to trigger 'send to a friend' urgency."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:51.985Z"
+}

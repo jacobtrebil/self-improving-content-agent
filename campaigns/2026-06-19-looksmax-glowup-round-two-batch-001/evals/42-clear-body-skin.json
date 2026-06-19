@@ -1,0 +1,106 @@
+{
+  "key": "42-clear-body-skin",
+  "eyebrow": "Skin",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/42-clear-body-skin.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/42-clear-body-skin.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Clear up your back — *it's not dirt*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "297/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'It's not dirt' is a direct myth-bust that earns a second look, though it lacks a concrete outcome promise to fully seal the stop.",
+      "clarity": "Each slide owns exactly one lever (sweat, fabric, scrubbing, laundry, sleep/sugar) with a single actionable takeaway.",
+      "audience_fit": "Busy 20–35s who train and wonder why their back won't clear up is a precise, underserved pain point — not vague 'wellness.'",
+      "novelty": "The sweat/friction framing is fresher than typical skincare carousels, though the individual tips (shower after gym, clean sheets) are familiar.",
+      "brand_fit": "Voice is plain and direct, claims are hedged, CTA ties neatly to the sleep/food/water score — 'Calm the whole system' is the one phrase that edges toward vague.",
+      "predicted_performance": "High save potential from the myth-bust hook and the list format; shares depend on whether the audience identifies with the problem strongly enough to tag someone."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25997,
+    "tokensOut": 284,
+    "costUsd": 0.06518349999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'It's not dirt' is a direct myth-bust that earns a second look, though it lacks a concrete outcome promise to fully seal the stop."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one lever (sweat, fabric, scrubbing, laundry, sleep/sugar) with a single actionable takeaway."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Busy 20–35s who train and wonder why their back won't clear up is a precise, underserved pain point — not vague 'wellness.'"
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The sweat/friction framing is fresher than typical skincare carousels, though the individual tips (shower after gym, clean sheets) are familiar."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, claims are hedged, CTA ties neatly to the sleep/food/water score — 'Calm the whole system' is the one phrase that edges toward vague."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the myth-bust hook and the list format; shares depend on whether the audience identifies with the problem strongly enough to tag someone."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:34.465Z"
+}

@@ -1,0 +1,58 @@
+{
+  "key": "59-nasal-breathing",
+  "theme": "health",
+  "eyebrow": "Breathing",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Mouth-breathing is quietly wrecking your *sleep*.",
+      "sub": "It's not just snoring. The way you breathe all day is shaping your nights — and your calm. Here's why.",
+      "bg": "ai-bg/59-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Your nose does more",
+      "body": "Nasal breathing raises *CO2 tolerance and nitric oxide*, which helps your blood actually deliver the oxygen it carries."
+    },
+    {
+      "type": "content",
+      "kicker": "At night",
+      "title": "Breathe through your nose",
+      "body": "Mouth-breathing drives snoring, dry mouth, and lighter sleep. *Nose-breathing at night* can support deeper rest — ask a doctor before taping."
+    },
+    {
+      "type": "content",
+      "kicker": "For focus",
+      "title": "Slow it down",
+      "body": "Slow nasal breaths flip on your *rest-and-digest state*, which may help trade scattered energy for calmer, steadier focus."
+    },
+    {
+      "type": "content",
+      "kicker": "On walks",
+      "title": "Train the tolerance",
+      "body": "Nose-breathe on easy walks and slow runs to *build CO2 tolerance*. Start gentle and let the pace come back over weeks."
+    },
+    {
+      "type": "content",
+      "kicker": "Set-up",
+      "title": "Mind your tongue",
+      "body": "Rest your *tongue on the roof* of your mouth between breaths. It supports a more open airway, day and night."
+    },
+    {
+      "type": "cta",
+      "title": "Better breathing, *deeper sleep*.",
+      "body": "Vibe Health tracks your sleep and ties it to how you feel, so the nights you breathe better show up on your trend line.",
+      "button": "Download Vibe Health →",
+      "tag": "calmer days, deeper sleep",
+      "bg": "ai-bg/59-cta.png"
+    }
+  ],
+  "caption": "Mouth-breathing is quietly wrecking your sleep — and it's not just the snoring. 😮‍💨\n\nNose-breathe at night, slow it down for focus, train the tolerance on easy walks, rest your tongue on the roof of your mouth. Save this one. 🔖\n\nVibe Health tracks your sleep and ties it to how you feel → link in bio.",
+  "hashtags": ["#breathing", "#nasalbreathing", "#sleeptips", "#nervoussystem", "#calm", "#focus", "#wellness", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Why Nose Breathing Fixes Your Sleep and Focus",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A real person lying still in a dim bedroom breathing calmly through their nose, mouth gently closed, soft window light across an ordinary unmade bed.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a relaxed face on a pillow at night, nostrils softly lit, eyes closed, ordinary skin texture."
+  }
+}

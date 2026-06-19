@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
-# Upload each deck's Short and schedule it to YouTube, same dates as TikTok/IG.
+# Upload each deck's Short and schedule it to YouTube, same dates as TikTok.
 set -uo pipefail
 
 source "$(dirname "$0")/channel_id.sh"
+source "$(dirname "$0")/../observability/trace.sh"   # auto-traces postiz calls
 INTEGRATION=$(channel_id youtube_alt) || exit 1   # YouTube - Vibe Health App
 POSTS="/tmp/posts.json"
 

@@ -1,0 +1,106 @@
+{
+  "key": "64-breath-for-stress",
+  "eyebrow": "Stress",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/64-breath-for-stress.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/64-breath-for-stress.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"You can switch off stress in *one breath*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "334/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'One breath' is specific and the 'built-in calm button' sub adds intrigue, but 'switch off stress' edges toward promise-land — slightly safer than typical but not shocking enough to be a 5.",
+      "clarity": "Each slide is a single, discrete use case (sleep, pre-meeting, daily habit) with one actionable instruction — no slide tries to do two things.",
+      "audience_fit": "Stress-before-meetings and tired-by-3pm are exactly this audience's reality, and the technique takes zero equipment and under 10 seconds.",
+      "novelty": "Physiological sigh content is saturated post-Huberman; the framing is clean but the angle isn't fresh enough to feel like a find.",
+      "brand_fit": "Voice is plain and direct, claims are hedged ('can drop you into sleep faster', 'may lower resting stress'), CTA ties breathing to the score feature naturally — minor ding for 'switch off' feeling slightly overconfident.",
+      "predicted_performance": "High save potential because it's a technique people will want to reference, but share rate may be middling given how many physio-sigh carousels already exist."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26360,
+    "tokensOut": 311,
+    "costUsd": 0.06773749999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'One breath' is specific and the 'built-in calm button' sub adds intrigue, but 'switch off stress' edges toward promise-land — slightly safer than typical but not shocking enough to be a 5."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, discrete use case (sleep, pre-meeting, daily habit) with one actionable instruction — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Stress-before-meetings and tired-by-3pm are exactly this audience's reality, and the technique takes zero equipment and under 10 seconds."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Physiological sigh content is saturated post-Huberman; the framing is clean but the angle isn't fresh enough to feel like a find."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, claims are hedged ('can drop you into sleep faster', 'may lower resting stress'), CTA ties breathing to the score feature naturally — minor ding for 'switch off' feeling slightly overconfident."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because it's a technique people will want to reference, but share rate may be middling given how many physio-sigh carousels already exist."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:55.134Z"
+}

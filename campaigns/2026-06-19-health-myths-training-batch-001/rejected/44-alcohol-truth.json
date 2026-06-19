@@ -1,0 +1,58 @@
+{
+  "key": "44-alcohol-truth",
+  "theme": "health",
+  "eyebrow": "Alcohol",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Alcohol stalls fat loss — *but not how you think*.",
+      "sub": "It's not really the liquid calories. It's what your body does the second the drink hits.",
+      "bg": "ai-bg/44-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Your body burns it first",
+      "body": "Alcohol is a toxin, so your body *burns it before anything else*. Fat-burning pauses until the booze is cleared."
+    },
+    {
+      "type": "content",
+      "kicker": "Meanwhile",
+      "title": "The rest gets stored",
+      "body": "While it handles the alcohol, the food you ate alongside it *has nowhere to go but storage*. The pizza isn't the problem — the timing is."
+    },
+    {
+      "type": "content",
+      "kicker": "Overnight",
+      "title": "It wrecks your REM",
+      "body": "A nightcap knocks you out but *blocks deep and REM sleep*. You wake unrested even after eight hours."
+    },
+    {
+      "type": "content",
+      "kicker": "Next day",
+      "title": "Then you're starving",
+      "body": "Poor sleep plus a blood-sugar dip leaves you *ravenous and craving carbs* the whole next day. The damage is the day after."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Cap it, don't quit it",
+      "body": "You don't have to go dry. *A couple of alcohol-free days a week* can support steadier sleep, hunger and progress."
+    },
+    {
+      "type": "cta",
+      "title": "Drink smarter, *recover faster*.",
+      "body": "Vibe Health logs your drinks and connects them to your sleep and next-day hunger — so you see the real cost in one score.",
+      "button": "Download Vibe Health →",
+      "tag": "see what the drink really costs",
+      "bg": "ai-bg/44-cta.png"
+    }
+  ],
+  "caption": "Alcohol doesn't stall fat loss because of the calories — it's that your body burns it first and parks everything else. 🍺\n\nIt also flattens your REM and leaves you starving the next day. The fix isn't quitting — it's a couple of dry days a week. 🔖\n\nVibe Health connects your drinks to your sleep and next-day hunger → link in bio.",
+  "hashtags": ["#alcohol", "#fatloss", "#sleephealth", "#drymonth", "#fitnesstips", "#caloriedeficit", "#healthylifestyle", "#recovery", "#weightlosstips", "#vibehealthapp"],
+  "youtube_title": "What Alcohol Really Does to Fat Loss",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A single glass of beer or wine sitting on a dim bar counter, condensation and hard side light, no people.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person sleeping restlessly in a dark bedroom, half-lit by a phone screen, tangled sheets."
+  }
+}

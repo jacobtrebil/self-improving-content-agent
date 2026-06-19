@@ -1,0 +1,106 @@
+{
+  "key": "39-whiter-smile",
+  "eyebrow": "Smile",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/39-whiter-smile.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/39-whiter-smile.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A whiter smile starts *with your gums*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "279/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 4,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Starts with your gums' is a specific, contrarian reframe that subverts the obvious strip-bleaching assumption — solid scroll-stopper, but lacks a punchy number or concrete promise.",
+      "clarity": "Each slide is one actionable idea with a clear micro-habit, though the overnight/dry-mouth slide packs two causes and two fixes into limited space.",
+      "audience_fit": "Busy 20–35s who've bought whitening strips but skipped flossing is a dead-on target — low-effort habits framed as smarter, not harder.",
+      "novelty": "The gum-framing angle and enamel-thinning warning are fresher than the usual 'oil pull and eat strawberries' content, though water-rinsing after coffee is widely circulated.",
+      "brand_fit": "Voice is plain and direct, claims are appropriately hedged, and the CTA ties water/sugar/sleep back to the Health Score naturally — 'brighter smile from healthy habits' lands without hype.",
+      "predicted_performance": "High save potential because it reframes a desired outcome (white teeth) around free daily habits, but the topic skews grooming over health so shares may stay lower than a sleep or energy carousel."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26009,
+    "tokensOut": 325,
+    "costUsd": 0.0659025,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Starts with your gums' is a specific, contrarian reframe that subverts the obvious strip-bleaching assumption — solid scroll-stopper, but lacks a punchy number or concrete promise."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide is one actionable idea with a clear micro-habit, though the overnight/dry-mouth slide packs two causes and two fixes into limited space."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Busy 20–35s who've bought whitening strips but skipped flossing is a dead-on target — low-effort habits framed as smarter, not harder."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The gum-framing angle and enamel-thinning warning are fresher than the usual 'oil pull and eat strawberries' content, though water-rinsing after coffee is widely circulated."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, claims are appropriately hedged, and the CTA ties water/sugar/sleep back to the Health Score naturally — 'brighter smile from healthy habits' lands without hype."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because it reframes a desired outcome (white teeth) around free daily habits, but the topic skews grooming over health so shares may stay lower than a sleep or energy carousel."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:23.877Z"
+}

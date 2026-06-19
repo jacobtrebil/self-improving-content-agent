@@ -1,0 +1,6 @@
+## Strategy memory — apply while generating
+_Distilled from 3 past run(s). Higher support = more runs backed this lesson._
+
+- **[hook] Anchor every hook with a concrete number or outcome promise** — Contrarian reframes alone score ~4.0. Add a specific number, timeframe, or measurable claim to the hook slide to push toward 4.5+. Example pattern: '[contrarian reframe] — [X days / X% / X steps]'. The number creates urgency the reframe alone doesn't.  _(support 1, confidence 0.85)_
+- **[novelty] Run a 'would a doctor say this on TikTok' filter before finalizing tips** — Before locking a deck, review each tip: if it appears in the top 5 Google results for the topic, cut or deepen it. Each deck should contain at least one tip that addresses a less-obvious downstream cause (e.g. magnesium for jaw tension vs. 'reduce stress') to raise novelty without sacrificing credibility.  _(support 1, confidence 0.82)_
+- **[hook] Make hooks feel like a warning, not just a correction** — Hooks rated weakest when they were mildly surprising but not alarming. Rewrite hook candidates to carry mild threat or loss-framing ('you're making it worse', 'the thing most people do is backwards'). Informational hooks don't stop scrollers the way consequence hooks do.  _(support 1, confidence 0.78)_

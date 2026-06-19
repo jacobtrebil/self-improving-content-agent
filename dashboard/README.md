@@ -45,7 +45,8 @@ to spot-check a single post.
 
 ## Honest caveats (also shown in the dashboard footer)
 
-- **Per-post metrics exist only for published Instagram & YouTube posts.**
+- **Per-post metrics exist only for published YouTube posts** (and legacy
+  Instagram posts — IG is retired, so only historical IG data still shows up).
   TikTok exposes no per-post analytics through this API, so TikTok appears in
   inventory and account-level growth (followers, account views) but not in
   per-post view/like sums.

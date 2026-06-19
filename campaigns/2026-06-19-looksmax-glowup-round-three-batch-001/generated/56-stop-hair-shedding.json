@@ -1,0 +1,58 @@
+{
+  "key": "56-stop-hair-shedding",
+  "theme": "looksmax",
+  "eyebrow": "Hair",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your crash diet is *shedding your hair*.",
+      "sub": "Sudden hair fall is rarely about your shampoo. It's usually a signal from what you're not eating.",
+      "bg": "ai-bg/56-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Fuel",
+      "title": "Crash diets trigger shedding",
+      "body": "Very low calories shock hair into a *shedding wave* about 3 months later. Eat enough to hold it."
+    },
+    {
+      "type": "content",
+      "kicker": "Test",
+      "title": "Check your iron stores",
+      "body": "*Low ferritin* is a common, missed cause of shedding, especially for women. Ask for a blood test."
+    },
+    {
+      "type": "content",
+      "kicker": "Build",
+      "title": "Hair is made of protein",
+      "body": "Chronically *under-eating protein* weakens new strands. Hit your protein before you buy another serum."
+    },
+    {
+      "type": "content",
+      "kicker": "Calm",
+      "title": "Stress pushes hair out",
+      "body": "Major stress shifts hair into shedding. *Sleep and lower stress* matter more than any oil."
+    },
+    {
+      "type": "content",
+      "kicker": "Protect",
+      "title": "Be gentle with strands",
+      "body": "*Tight styles and hot tools* snap strands you already have. Handle hair gently. Minor, but it adds up."
+    },
+    {
+      "type": "cta",
+      "title": "Less shedding, *from within*.",
+      "body": "Vibe Health tracks the food, sleep and water behind a fuller head of hair — in one daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "less shedding, from within",
+      "bg": "ai-bg/56-cta.png"
+    }
+  ],
+  "caption": "Sudden hair fall is rarely your shampoo's fault. A crash diet 3 months ago is a far more likely culprit. 🧬\n\nEat enough, check your ferritin, hit your protein, lower stress, handle hair gently. If it persists, see a doctor. Save this. 🔖\n\nVibe Health tracks the food, sleep and water behind fuller hair → link in bio.",
+  "hashtags": ["#looksmaxing", "#hairloss", "#glowup", "#hairgrowth", "#hairhealth", "#telogeneffluvium", "#selfimprovement", "#glowuptips", "#healthylifestyle", "#vibehealthapp"],
+  "youtube_title": "Why Your Crash Diet Is Shedding Your Hair",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A woman with thick, healthy, full hair catching soft rim light, scalp visibly strong, calm and confident.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of dense, healthy hair strands and a strong hairline, fine realistic texture, soft directional light."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "key": "44-alcohol-truth",
+  "eyebrow": "Alcohol",
+  "spec": "campaigns/2026-06-19-health-myths-training-batch-001/approved/44-alcohol-truth.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-myths-training-batch-001/approved/44-alcohol-truth.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Alcohol is sabotaging your *fat loss*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "331/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 5,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Alcohol is sabotaging your fat loss' + the mechanism tease is specific, mildly contrarian, and promises a non-obvious payoff beyond 'calories in beer.'",
+      "clarity": "Each slide is a single domino in a causal chain — mechanism → storage → sleep → hunger → fix — readable in one glance.",
+      "audience_fit": "Speaks directly to the busy 25-year-old who drinks socially, is trying to lose weight, and keeps waking up tired without knowing why.",
+      "novelty": "The 'your body burns alcohol first so fat-burning pauses' angle is less common than calorie-counting takes, but the REM slide is well-trodden territory.",
+      "brand_fit": "Voice is plain and direct, the fix is hedged ('can support'), CTA ties drinks to the actual score — only minor issue is 'recover faster' in the CTA verges on a guarantee rather than a hedge.",
+      "predicted_performance": "High save potential because the mechanism is genuinely surprising and actionable; share rate may be limited by the fat-loss framing narrowing the audience versus a pure sleep angle."
+    },
+    "overall": 4.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26006,
+    "tokensOut": 302,
+    "costUsd": 0.0655115,
+    "raw": {
+      "hook_strength": {
+        "score": 5,
+        "why": "'Alcohol is sabotaging your fat loss' + the mechanism tease is specific, mildly contrarian, and promises a non-obvious payoff beyond 'calories in beer.'"
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single domino in a causal chain — mechanism → storage → sleep → hunger → fix — readable in one glance."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Speaks directly to the busy 25-year-old who drinks socially, is trying to lose weight, and keeps waking up tired without knowing why."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The 'your body burns alcohol first so fat-burning pauses' angle is less common than calorie-counting takes, but the REM slide is well-trodden territory."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, the fix is hedged ('can support'), CTA ties drinks to the actual score — only minor issue is 'recover faster' in the CTA verges on a guarantee rather than a hedge."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because the mechanism is genuinely surprising and actionable; share rate may be limited by the fat-loss framing narrowing the audience versus a pure sleep angle."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:52.075Z"
+}

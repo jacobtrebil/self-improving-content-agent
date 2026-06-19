@@ -8,7 +8,6 @@ CUR="/tmp/posts_current.json"
 MAN="${1:-/tmp/refresh_manifest.tsv}"
 
 source "$ROOT/channel_id.sh"
-IG_INT=$(channel_id instagram)   || exit 1
 TT_INT=$(channel_id tiktok_alt)  || exit 1
 YT_INT=$(channel_id youtube_alt) || exit 1
 TT_SET='{"privacy_level":"PUBLIC_TO_EVERYONE","duet":false,"stitch":false,"comment":true,"autoAddMusic":"yes","brand_content_toggle":false,"brand_organic_toggle":false,"content_posting_method":"DIRECT_POST"}'
@@ -50,7 +49,6 @@ while IFS=$'\t' read -r id plat date folder deck; do
   [ -n "$content" ] || { echo "✗ $folder/$plat: no content for $id"; fail=$((fail+1)); continue; }
 
   case "$plat" in
-    instagram-standalone) INT="$IG_INT"; SET='{"post_type":"post"}'; KIND=img; SUF="";;
     tiktok)               INT="$TT_INT"; SET="$TT_SET";              KIND=img; SUF="-tt";;
     youtube)              INT="$YT_INT"; KIND=vid;
                           SET=$(jq -nc --arg t "$(yt_title "$deck")" '{title:$t,type:"public",selfDeclaredMadeForKids:"no"}');;

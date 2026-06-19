@@ -1,0 +1,58 @@
+{
+  "key": "61-fix-your-gut",
+  "theme": "health",
+  "eyebrow": "Gut",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your gut runs your *energy and skin*.",
+      "sub": "The microbes down there shape how you feel, look, and fight off bugs. And they want something other than another fiber pill.",
+      "bg": "ai-bg/61-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Feed the variety",
+      "body": "Your microbes thrive on diversity. Aim for *30 different plants a week* — not just more of the same fiber."
+    },
+    {
+      "type": "content",
+      "kicker": "Add cultures",
+      "title": "Eat something fermented",
+      "body": "Yogurt, kefir, kimchi, and sauerkraut add *live cultures*. A little every day can support a richer gut community."
+    },
+    {
+      "type": "content",
+      "kicker": "Slow down",
+      "title": "Chew your food",
+      "body": "Digestion starts in the mouth. *Chewing slowly* breaks food down further and may help cut the bloating you blame on meals."
+    },
+    {
+      "type": "content",
+      "kicker": "Leave gaps",
+      "title": "Stop constant snacking",
+      "body": "Grazing all day never rests your gut. *Spacing your meals* lets the cleanup wave sweep things through between them."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it moving",
+      "title": "Walk after eating",
+      "body": "*Water and a short walk* after meals keep digestion moving and can ease that heavy post-meal slump."
+    },
+    {
+      "type": "cta",
+      "title": "Feed your gut, *feel the difference*.",
+      "body": "Log your meals and water in Vibe Health to see your plant variety and fiber add up across the week, not just one good day.",
+      "button": "Download Vibe Health →",
+      "tag": "better digestion, tracked",
+      "bg": "ai-bg/61-cta.png"
+    }
+  ],
+  "caption": "Your gut runs your energy, your skin, and your immune system — and it wants variety, not another fiber pill. 🥬\n\nAim for 30 plants a week, add a little fermented daily, chew slowly, leave gaps between meals, walk after eating. Save this. 🔖\n\nLog meals and water in Vibe Health to watch your plant variety add up → link in bio.",
+  "hashtags": ["#guthealth", "#microbiome", "#fermentedfoods", "#digestion", "#energy", "#skinhealth", "#wellness", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "How to Fix Your Gut for Energy and Clear Skin",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A real person building a colorful plate of many different vegetables and a jar of fermented food on a dim kitchen counter, ordinary hands and soft side light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a fork holding a bite of vegetables beside a small jar of kimchi, hard rim light catching the texture."
+  }
+}

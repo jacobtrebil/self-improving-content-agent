@@ -1,0 +1,106 @@
+{
+  "key": "62-cold-exposure",
+  "eyebrow": "Cold",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/62-cold-exposure.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/62-cold-exposure.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A cold shower beats your *morning coffee*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "295/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'beats your morning coffee' is a concrete, contrarian promise that earns a stop, but 'done at the wrong one, you waste it — or worse' is vague and slightly clickbaity.",
+      "clarity": "Each slide owns exactly one idea with a clear label, tight body copy, and an actionable takeaway a reader can apply this week.",
+      "audience_fit": "Speaks directly to the tired-by-3pm, coffee-dependent 20–35 crowd with zero jargon and immediately usable advice.",
+      "novelty": "Cold shower content is saturated; the post-workout timing caveat and exhale tip add real value but the core angle is familiar.",
+      "brand_fit": "Claims are hedged ('may support'), voice is plain and direct, CTA ties to the app naturally without hype words.",
+      "predicted_performance": "High save potential on the timing and dose slides, but novelty ceiling limits viral sharing compared to a truly fresh hook."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26359,
+    "tokensOut": 260,
+    "costUsd": 0.0669655,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'beats your morning coffee' is a concrete, contrarian promise that earns a stop, but 'done at the wrong one, you waste it — or worse' is vague and slightly clickbaity."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one idea with a clear label, tight body copy, and an actionable takeaway a reader can apply this week."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Speaks directly to the tired-by-3pm, coffee-dependent 20–35 crowd with zero jargon and immediately usable advice."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Cold shower content is saturated; the post-workout timing caveat and exhale tip add real value but the core angle is familiar."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('may support'), voice is plain and direct, CTA ties to the app naturally without hype words."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential on the timing and dose slides, but novelty ceiling limits viral sharing compared to a truly fresh hook."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:52.987Z"
+}

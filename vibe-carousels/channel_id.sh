@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # channel_id <key> — prints the Postiz integration id for a channel key
-# (instagram, tiktok_main, tiktok_alt, youtube_main, youtube_alt).
+# (tiktok_main, tiktok_alt, youtube_main, youtube_alt). Instagram is retired.
 # Real IDs live in config/posting.local.yaml (gitignored, flat `key: id`).
 # Recreate that file via `postiz integrations:list` — see config/posting.yaml.
 channel_id() {

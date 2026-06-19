@@ -1,0 +1,106 @@
+{
+  "key": "43-brighter-eyes",
+  "eyebrow": "Eyes",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/43-brighter-eyes.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-two-batch-001/approved/43-brighter-eyes.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Bright, white eyes *read as healthy*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "279/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Bright white eyes read as healthy' is concrete and vanity-driven — stops scrollers who care about appearance, though it's not aggressively contrarian.",
+      "clarity": "Each slide owns exactly one lever (sleep, water, alcohol, screens, irritants) with a single actionable takeaway — nothing muddled.",
+      "audience_fit": "Screen fatigue, alcohol, poor sleep, and the 'I look tired' complaint map directly to the 20–35 busy demographic.",
+      "novelty": "The individual tips (sleep, hydrate, blink rule) are well-known; the angle of framing it through eye-white clarity is a mild fresh spin but not a genuinely surprising reframe.",
+      "brand_fit": "Claims are hedged, voice is plain and direct, no banned words, and the CTA ties back to the Health Score naturally without AI-cringe.",
+      "predicted_performance": "Vanity + concrete visual payoff (eye whites) drives saves; novelty ceiling keeps it from being a breakout, but it should outperform a generic hydration carousel."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25977,
+    "tokensOut": 287,
+    "costUsd": 0.0650835,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Bright white eyes read as healthy' is concrete and vanity-driven — stops scrollers who care about appearance, though it's not aggressively contrarian."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one lever (sleep, water, alcohol, screens, irritants) with a single actionable takeaway — nothing muddled."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Screen fatigue, alcohol, poor sleep, and the 'I look tired' complaint map directly to the 20–35 busy demographic."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "The individual tips (sleep, hydrate, blink rule) are well-known; the angle of framing it through eye-white clarity is a mild fresh spin but not a genuinely surprising reframe."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged, voice is plain and direct, no banned words, and the CTA ties back to the Health Score naturally without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Vanity + concrete visual payoff (eye whites) drives saves; novelty ceiling keeps it from being a breakout, but it should outperform a generic hydration carousel."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:38:38.644Z"
+}

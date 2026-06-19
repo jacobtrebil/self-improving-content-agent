@@ -1,0 +1,106 @@
+{
+  "key": "47-progressive-overload",
+  "eyebrow": "Strength",
+  "spec": "campaigns/2026-06-19-health-myths-training-batch-001/approved/47-progressive-overload.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-myths-training-batch-001/approved/47-progressive-overload.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your workouts stopped working *for one reason*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "309/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Stopped working for one reason' is specific and curiosity-driving, but 'one reason' is a mild oversell that edges toward clickbait.",
+      "clarity": "Each slide is a single, actionable idea with a clear mechanical through-line from stimulus to record to recovery.",
+      "audience_fit": "Busy 25-year-olds who lift casually will recognize the plateau frustration, though the logging angle assumes more gym commitment than some in this cohort have.",
+      "novelty": "Progressive overload is well-trodden gym content; the 'soreness isn't the goal' reframe adds a minor fresh angle but won't surprise anyone who follows fitness accounts.",
+      "brand_fit": "Voice is plain and direct, health claims are mechanistic not guaranteed, CTA ties all three tracked metrics together naturally, zero cringe phrasing.",
+      "predicted_performance": "Strong saves from gym-goers already on this path, but the topic ceiling is moderate — progressive overload carousels are saturated and this won't break out of the fitness silo."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26004,
+    "tokensOut": 281,
+    "costUsd": 0.06518249999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Stopped working for one reason' is specific and curiosity-driving, but 'one reason' is a mild oversell that edges toward clickbait."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, actionable idea with a clear mechanical through-line from stimulus to record to recovery."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 25-year-olds who lift casually will recognize the plateau frustration, though the logging angle assumes more gym commitment than some in this cohort have."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Progressive overload is well-trodden gym content; the 'soreness isn't the goal' reframe adds a minor fresh angle but won't surprise anyone who follows fitness accounts."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Voice is plain and direct, health claims are mechanistic not guaranteed, CTA ties all three tracked metrics together naturally, zero cringe phrasing."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong saves from gym-goers already on this path, but the topic ceiling is moderate — progressive overload carousels are saturated and this won't break out of the fitness silo."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:39:03.210Z"
+}

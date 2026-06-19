@@ -1,0 +1,106 @@
+{
+  "key": "48-outrun-your-fork",
+  "eyebrow": "Fat loss",
+  "spec": "campaigns/2026-06-19-health-myths-training-batch-001/approved/48-outrun-your-fork.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-myths-training-batch-001/approved/48-outrun-your-fork.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"You can't *outrun your fork*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "320/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 5,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'You can't outrun your fork' is a known phrase but the sub reframes it with 'brutal math' — concrete, slightly threatening, earns the click.",
+      "clarity": "Each slide is one mechanism with a named label and a single takeaway — no slide tries to do two things.",
+      "audience_fit": "Speaks directly to people who gym but wonder why they're not leaner — exactly the tired, busy, confused 20–35 demo.",
+      "novelty": "The core insight (diet matters more than exercise for fat loss) is well-worn; the tracker-overcounting angle and NEAT compensation add texture but won't feel new to anyone who follows fitness creators.",
+      "brand_fit": "Plain language, hedged framing ('may burn', 'often by a lot'), no hype words, and the CTA ties directly to Vibe's food-tracking feature without being cringe.",
+      "predicted_performance": "High save potential from the reframe slide and the 'watch lies upward' hook, but novelty ceiling will limit viral sharing compared to a truly contrarian take."
+    },
+    "overall": 4.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26024,
+    "tokensOut": 287,
+    "costUsd": 0.0654175,
+    "raw": {
+      "hook_strength": {
+        "score": 5,
+        "why": "'You can't outrun your fork' is a known phrase but the sub reframes it with 'brutal math' — concrete, slightly threatening, earns the click."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one mechanism with a named label and a single takeaway — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Speaks directly to people who gym but wonder why they're not leaner — exactly the tired, busy, confused 20–35 demo."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "The core insight (diet matters more than exercise for fat loss) is well-worn; the tracker-overcounting angle and NEAT compensation add texture but won't feel new to anyone who follows fitness creators."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Plain language, hedged framing ('may burn', 'often by a lot'), no hype words, and the CTA ties directly to Vibe's food-tracking feature without being cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the reframe slide and the 'watch lies upward' hook, but novelty ceiling will limit viral sharing compared to a truly contrarian take."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T16:39:03.839Z"
+}

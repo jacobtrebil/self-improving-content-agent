@@ -1,0 +1,110 @@
+{
+  "campaign": "2026-06-19-looksmax-glowup-round-three-batch-001",
+  "traceId": "run_d384402de8",
+  "format": "looksmax-carousel",
+  "at": "2026-06-19T19:07:33.540Z",
+  "model": "claude-sonnet-4-6",
+  "goal": "Ten looksmax decks (keys 49–58) reframing a popular appearance goal as a health\noutcome. Round three of the looksmax line — every goal is distinct from the 17\nlive looksmax decks (jawline, clear skin/acne, under-eyes, hair, leaner face,\nposture, beauty sleep, debloat, glow, tier-list, smile, double-chin, nails,\nbody-skin/bacne, brighter-eyes). Push past the obvious: each deck needs ≥1\nnon-obvious mechanism lever, hooks anchored with a concrete number or warning.",
+  "signals": {
+    "decks": 10,
+    "judged": 10,
+    "dimAvg": {
+      "hook_strength": 4,
+      "clarity": 4.9,
+      "audience_fit": 4.1,
+      "novelty": 3.5,
+      "brand_fit": 4.7,
+      "predicted_performance": 3.9
+    },
+    "weakest": [
+      "novelty",
+      3.5
+    ],
+    "strongest": [
+      "clarity",
+      4.9
+    ],
+    "codeFails": [],
+    "weakNotes": {
+      "novelty": [
+        "49-plump-lips: Nose-breathing and micronutrient flags are fresh angles; the hydration/SPF beats are familiar but the lip-specific framing sharpens them enough.",
+        "50-calm-redness: Barrier damage and alcohol flushing are standard skincare-creator fare; the gut-redness tie-in is the only genuinely fresh angle here.",
+        "51-control-oily-skin: Rebound oil and barrier theory are well-circulated in skincare communities already, so this lands as solid reminder content rather than a fresh take.",
+        "52-fade-dark-spots: SPF-first framing is well-worn skincare content; the sleep-skin connection on slide 5 is the freshest angle but isn't leaned into enough to differentiate the deck.",
+        "53-fresh-breath: Tongue scraping and gut-breath connection are fresher than standard 'brush more' advice, though the dry-mouth and flossing slides are familiar territory.",
+        "54-defined-collarbones: The posture and cortisol-overnight angles are underused; the sodium/booze slide is familiar but earns its place as a fast win.",
+        "55-broad-shoulders: Lateral raises, posture, V-taper — solid fundamentals, but anyone who's watched a fitness reel has heard all five of these beats before.",
+        "56-stop-hair-shedding: Telogen effluvium framing and the ferritin call-out are genuinely underserved angles; the stress and protein slides are familiar but earn their place.",
+        "57-relax-your-jaw: Jaw tension as a face-shape and sleep issue is a fresher angle than the usual \"do jaw exercises\" content, though bruxism itself isn't new.",
+        "58-leaner-legs: Spot-reduction myth is well-worn territory; the fluid/salt and sleep slides add a fresher angle but the overall frame is familiar."
+      ],
+      "predicted_performance": [
+        "49-plump-lips: High save potential — the 'no filler' hook plus actionable slide-by-slide habits make this easy to screenshot and revisit, which drives saves over shares.",
+        "50-calm-redness: High save potential — checklist format with a guilt-inducing hook drives bookmarks — but limited share upside given the familiar core advice.",
+        "51-control-oily-skin: High save potential — checklist structure with actionable fixes drives saves, though the lack of a truly novel hook limits viral share ceiling.",
+        "52-fade-dark-spots: Strong save bait ('save this for later' in caption is well-placed) and a relatable premise should beat average health carousels, but the novelty ceiling limits viral upside.",
+        "53-fresh-breath: High save potential — actionable, specific, multi-step fix — but the gut slide may lose casual scrollers before the CTA lands.",
+        "54-defined-collarbones: High save potential from the multi-lever framework; shares depend on whether the audience self-identifies with the aesthetic goal, which narrows reach.",
+        "55-broad-shoulders: Strong saves from looksmax-curious viewers, but the well-worn advice angles limit share potential versus a truly fresh take.",
+        "56-stop-hair-shedding: High save potential — actionable checklist format with a surprising mechanism (crash diet → 3-month lag) that prompts sharing to friends who've complained about shedding.",
+        "57-relax-your-jaw: High save potential from the actionable checklist format; shares limited because the hook is personal/vain rather than shareable-to-a-friend.",
+        "58-leaner-legs: Strong save-bait structure with the fluid/sleep slides as shareable surprises, but the cover myth is common enough that scroll-stop rate will depend heavily on visual execution."
+      ]
+    },
+    "hooks": [
+      "Fuller lips, *no filler*.",
+      "Your skincare *makes redness worse*.",
+      "Washing more makes you *oilier*.",
+      "90% of dark spots are *the sun*.",
+      "Mints hide bad breath, *not fix it*.",
+      "Sharp collarbones are a *leanness signal*.",
+      "Broad shoulders are the *ultimate looksmax*.",
+      "Your crash diet is *shedding your hair*.",
+      "Clenching your jaw is *aging your face*.",
+      "You can't *spot-train lean legs*."
+    ]
+  },
+  "summary": "Round three delivered near-perfect clarity (4.9) and brand fit (4.7) but landed at 3.5 novelty — the fourth consecutive campaign where novelty is the weakest dimension, confirming this is a structural generator issue, not a topic-dependent one. Nearly every deck uncovered a genuinely fresh angle (gut-redness, ferritin, telogen effluvium lag, sleep-skin connection) but buried it in slides 4–5 while the hook and opening slides leaned on well-circulated skincare-creator fare. Predicted performance (3.9) is capped by a share ceiling: hooks are personal save-bait that scrollers bookmark for themselves rather than forward to a friend.",
+  "what_worked": [
+    "Clarity near-perfect (4.9) — checklist format and actionable slide-by-slide structure executed cleanly across all 10 decks",
+    "Brand fit held at 4.7 — health-as-mechanism reframe stayed consistent with the looksmax line identity",
+    "Several decks found genuinely novel sub-angles: gut-redness link, ferritin-hair threshold, telogen effluvium 3-month lag, sleep-collagen connection",
+    "Contrarian myth-bust hooks drove strong save intent — checklist save potential rated high on nearly every deck"
+  ],
+  "what_underperformed": [
+    "Novel angles consistently buried in slides 4–5 rather than anchoring the hook and opening frame",
+    "Hooks are personal/vain save-bait — limited share ceiling because they don't prompt forwarding to a friend",
+    "Several decks organized around well-worn skincare-creator pillars (barrier theory, rebound oiliness, SPF-first, tongue scraping) as the primary frame",
+    "Predicted performance (3.9) capped by share ceiling despite high save intent across the batch"
+  ],
+  "strategies": [
+    {
+      "id": "push-contrarian-novelty",
+      "title": "Pick the second-order mechanism AND an underexplored parent topic",
+      "guidance": "Mechanism depth alone isn't enough — the parent topic must also be underexplored. Ask two questions per deck: (1) would a typical skincare or fitness creator say this? (2) has this topic been wellness-internet mainstream for >18 months? Both must be 'no' to clear the novelty bar. This is the FOURTH campaign in a row where novelty is the weakest score; the pattern is structural. For looksmax specifically, block barrier theory, rebound oiliness, SPF-first dark-spot framing, tongue scraping, and spot-reduction myth as primary deck angles — push to second-order mechanisms the genre hasn't overexposed (e.g. circadian skin-barrier repair timing, ferritin thresholds by sex, nasal breathing and mid-face structure).",
+      "tag": "novelty",
+      "confidence": 1
+    },
+    {
+      "id": "fresh-angle-leads-deck",
+      "title": "When you find the novel angle, make it the hook — not slide 4",
+      "guidance": "Before finalizing any deck, identify the single freshest mechanism in the spec. If it appears in slide 4 or later, restructure: that mechanism becomes the hook premise or slide-2 reveal, and the familiar angles (hydration, SPF, stress, protein) drop to supporting-evidence roles only. Example from this batch: the sleep-skin collagen connection was the only differentiating angle in 52-fade-dark-spots but appeared on slide 5 — it should have been the cover claim. A fresh angle buried past slide 3 is novelty wasted on an audience that may never reach it.",
+      "tag": "novelty",
+      "confidence": 0.9
+    },
+    {
+      "id": "hook-shareable-to-friend",
+      "title": "Design hooks that prompt forwarding to a friend, not just saving",
+      "guidance": "Before locking a hook, ask: 'Would someone send this to a specific friend, or just bookmark it for themselves?' Personal/aesthetic hooks (jaw shape, leg leanness, collarbone definition) cap at saves; socially relevant hooks (crash diet is shedding your hair, your skincare makes redness worse) earn shares because they describe something you'd urgently pass on. Prioritize hooks where the revelation is embarrassing, alarming, or counterintuitive enough to warrant a tag or DM. This is the direct mechanism limiting predicted performance (3.9) despite strong save intent across the batch.",
+      "tag": "hook",
+      "confidence": 0.88
+    },
+    {
+      "id": "avoid-saturated-looksmax-angles",
+      "title": "Block oversaturated skincare and looksmax angles as primary deck frames",
+      "guidance": "Do not use these as the hook premise or organizing frame for looksmax carousels: skin barrier damage theory, rebound oiliness from over-washing, SPF-first for dark spots, tongue scraping for breath, lateral raises for shoulder width, spot-reduction myth for leg leanness. They may appear as supporting slides but cannot drive the deck. Redirect to adjacent underexplored angles: circadian rhythm effects on overnight skin-barrier repair, lymphatic drainage timing and facial puffiness, ferritin thresholds by sex for hair cycling, sleep-stage specificity for collagen synthesis, nasal breathing and mid-face bone remodeling.",
+      "tag": "novelty",
+      "confidence": 0.87
+    }
+  ]
+}

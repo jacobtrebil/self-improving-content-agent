@@ -1,7 +1,7 @@
-# Vibe — Carousel Captions (IG & TikTok)
+# Vibe — Carousel Captions (TikTok & YouTube)
 
 Handle: @vibehealthapp · Site: vibehealthapp.com
-Format: 2160×2700 (4:5) PNGs — perfect for IG carousels, uploads to TikTok photo mode.
+Format: 2160×3840 (9:16) PNGs — TikTok photo mode (downscaled to 1080×1920) + YouTube Shorts. Instagram is retired.
 Cover + CTA slides use AI-generated monochrome photo backgrounds (Higgsfield FLUX.2) under a dark gradient; inner slides are clean typographic black.
 
 ---
@@ -329,6 +329,5 @@ Vibe turns the S-tier basics — sleep, food, water, steps — into one score yo
 ---
 
 ### Posting tips
-- **IG:** upload the slides in order as a single carousel (4:5 shows biggest in feed). Lead the caption with the hook line.
 - **TikTok:** use Photo Mode, add the slides in order, set a trending audio, and put the hook as on-screen text on slide 1's hold.
 - First comment: drop the App Store link (keeps the caption clean).

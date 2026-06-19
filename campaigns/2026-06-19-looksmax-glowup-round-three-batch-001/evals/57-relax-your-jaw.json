@@ -1,0 +1,106 @@
+{
+  "key": "57-relax-your-jaw",
+  "eyebrow": "Jaw",
+  "spec": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/57-relax-your-jaw.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-looksmax-glowup-round-three-batch-001/approved/57-relax-your-jaw.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Clenching your jaw is *aging your face*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "320/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "\"Aging your face\" is concrete and mildly contrarian — stops the scroll, though \"aging\" skews slightly older than the 20–35 core.",
+      "clarity": "Each slide owns exactly one mechanism with a single actionable takeaway; no slide tries to do two jobs.",
+      "audience_fit": "Stress-clenching and tired mornings land perfectly for the target; the dentist/night-guard slide is practical, not preachy.",
+      "novelty": "Jaw tension as a face-shape and sleep issue is a fresher angle than the usual \"do jaw exercises\" content, though bruxism itself isn't new.",
+      "brand_fit": "Claims are hedged (\"may ease\"), no hype words, CTA ties sleep/food/habits directly to the score — textbook Vibe Health voice.",
+      "predicted_performance": "High save potential from the actionable checklist format; shares limited because the hook is personal/vain rather than shareable-to-a-friend."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26391,
+    "tokensOut": 271,
+    "costUsd": 0.0673595,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "\"Aging your face\" is concrete and mildly contrarian — stops the scroll, though \"aging\" skews slightly older than the 20–35 core."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one mechanism with a single actionable takeaway; no slide tries to do two jobs."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Stress-clenching and tired mornings land perfectly for the target; the dentist/night-guard slide is practical, not preachy."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Jaw tension as a face-shape and sleep issue is a fresher angle than the usual \"do jaw exercises\" content, though bruxism itself isn't new."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged (\"may ease\"), no hype words, CTA ties sleep/food/habits directly to the score — textbook Vibe Health voice."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the actionable checklist format; shares limited because the hook is personal/vain rather than shareable-to-a-friend."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:15.595Z"
+}

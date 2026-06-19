@@ -1,0 +1,106 @@
+{
+  "key": "66-active-couch-potato",
+  "eyebrow": "Sitting",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/66-active-couch-potato.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/66-active-couch-potato.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"You can train and still be too *sedentary*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "329/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "\"Train and still be too sedentary\" is a genuine gotcha for gym-goers, and the enzyme tease earns the next swipe — docked one for no number in the headline.",
+      "clarity": "Every slide is one idea with a specific, actionable takeaway; the 2–3 minute / 30–60 minute cadence is concrete enough to act on today.",
+      "audience_fit": "Afternoon energy crash, desk job, already working out — this is a perfect mirror of the 20–35 tired-by-3pm persona.",
+      "novelty": "The lipoprotein lipase angle is legitimately underexplained in mainstream content, though \"move every 30 minutes\" has been circulating for a few years.",
+      "brand_fit": "Claims are hedged (\"can blunt\"), no hypey verbs, CTA is functional and tied directly to the score product without cringe.",
+      "predicted_performance": "High save potential — actionable, specific mechanism — but the visual hook depends heavily on cover design to stop the scroll against saturated \"sitting is the new smoking\" content."
+    },
+    "overall": 4.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26367,
+    "tokensOut": 295,
+    "costUsd": 0.0675565,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "\"Train and still be too sedentary\" is a genuine gotcha for gym-goers, and the enzyme tease earns the next swipe — docked one for no number in the headline."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one idea with a specific, actionable takeaway; the 2–3 minute / 30–60 minute cadence is concrete enough to act on today."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Afternoon energy crash, desk job, already working out — this is a perfect mirror of the 20–35 tired-by-3pm persona."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The lipoprotein lipase angle is legitimately underexplained in mainstream content, though \"move every 30 minutes\" has been circulating for a few years."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged (\"can blunt\"), no hypey verbs, CTA is functional and tied directly to the score product without cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — actionable, specific mechanism — but the visual hook depends heavily on cover design to stop the scroll against saturated \"sitting is the new smoking\" content."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:07:05.016Z"
+}

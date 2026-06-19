@@ -4,6 +4,7 @@
 set -uo pipefail
 
 source "$(dirname "$0")/channel_id.sh"
+source "$(dirname "$0")/../observability/trace.sh"   # auto-traces postiz calls
 INTEGRATION=$(channel_id tiktok_alt) || exit 1
 SETTINGS='{"privacy_level":"PUBLIC_TO_EVERYONE","duet":false,"stitch":false,"comment":true,"autoAddMusic":"yes","brand_content_toggle":false,"brand_organic_toggle":false,"content_posting_method":"DIRECT_POST"}'
 POSTS="/tmp/posts.json"

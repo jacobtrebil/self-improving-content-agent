@@ -1,0 +1,58 @@
+{
+  "key": "42-clear-body-skin",
+  "theme": "looksmax",
+  "eyebrow": "Skin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Clear up your back — *it's not dirt*.",
+      "sub": "Body breakouts aren't about scrubbing harder. They're mostly trapped sweat, friction and fabric.",
+      "bg": "ai-bg/42-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "First",
+      "title": "Don't sit in sweat",
+      "body": "Sweat plus bacteria under a damp shirt is the main trigger. *Shower soon after training*, don't lounge in gym clothes."
+    },
+    {
+      "type": "content",
+      "kicker": "Fabric",
+      "title": "Friction makes it worse",
+      "body": "Tight synthetic shirts and a heavy backpack rub pores raw. *Loose, breathable cotton* cuts the friction that inflames them."
+    },
+    {
+      "type": "content",
+      "kicker": "Easy does it",
+      "title": "Scrubbing backfires",
+      "body": "Harsh loofahs and aggressive scrubbing inflame the skin more. *Gentle wash, then leave it alone* beats attacking it."
+    },
+    {
+      "type": "content",
+      "kicker": "Laundry",
+      "title": "Wash what touches skin",
+      "body": "Old sheets and unwashed gym gear re-coat your back nightly. *Clean sheets weekly* removes the buildup you can't see."
+    },
+    {
+      "type": "content",
+      "kicker": "Inside out",
+      "title": "Calm the whole system",
+      "body": "Skin anywhere settles when you *sleep enough and spike less sugar*. The body isn't separate from the face."
+    },
+    {
+      "type": "cta",
+      "title": "Clear skin, *shoulders to back*.",
+      "body": "Vibe Health tracks the sleep, food & water that calm your skin everywhere — not just your face — in one score.",
+      "button": "Download Vibe Health →",
+      "tag": "clear skin, head to toe",
+      "bg": "ai-bg/42-cta.png"
+    }
+  ],
+  "caption": "\"Bacne\" usually isn't dirt — it's trapped sweat, friction and fabric. 🚿\n\nShower after you train, ditch the tight synthetics, stop scrubbing, wash your sheets, and calm the whole system with sleep. Save this. 🔖\n\nVibe Health tracks the sleep, food & water that clear skin everywhere → link in bio.",
+  "hashtags": ["#bacne", "#clearskin", "#glowup", "#looksmaxing", "#skintips", "#bodycare", "#selfimprovement", "#glowuptips", "#skincaretips", "#vibehealthapp"],
+  "youtube_title": "How to Clear Body Acne (It's Not Dirt)",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person's bare shoulders and upper back with smooth clear healthy skin, turned slightly away, soft side light raking across the skin texture.",
+    "cta": "Black-and-white cinematic editorial beauty portrait. Dramatic low-key Rembrandt lighting, deep shadows, dark charcoal background. Glowing dewy skin with fine realistic texture, shallow depth of field, 85mm lens look. Single subject, calm confident mood. No text, no logos, no props. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of smooth clear skin across a shoulder and upper back, healthy and even, hard rim light on the contour."
+  }
+}

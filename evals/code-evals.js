@@ -6,9 +6,13 @@
 // Each check returns { name, pass, score (0..1), detail }.
 // runCodeEvals(spec) aggregates them.
 
-const HOUSE_PREFIX = "Black-and-white cinematic editorial photograph";
+// House background style differs by format: health uses a "photograph" prefix,
+// looksmax uses a "beauty portrait" prefix (see each format's prompt.md). Both
+// share this leading stem, which is enough to confirm the house monochrome style.
+const HOUSE_PREFIX = "Black-and-white cinematic editorial";
+const VALID_THEMES = ["health", "looksmax"];
 const CTA_BUTTON = "Download Vibe Health →";
-const CAPTION_MAX = 2200; // Instagram caption hard cap
+const CAPTION_MAX = 2200; // TikTok caption cap (conservative shared limit across TikTok + YouTube)
 const hasHighlight = (s) => typeof s === "string" && /\*[^*]+\*/.test(s);
 const slidesOf = (spec) => (Array.isArray(spec.slides) ? spec.slides : []);
 
@@ -61,7 +65,7 @@ function captionUnderLimit(spec) {
 function followsJsonSchema(spec) {
   const problems = [];
   if (!/^[0-9]{2}-[a-z0-9-]+$/.test(spec.key || "")) problems.push("key");
-  if (spec.theme !== "health") problems.push("theme!=health");
+  if (!VALID_THEMES.includes(spec.theme)) problems.push(`theme not in ${VALID_THEMES.join("/")}`);
   if (!spec.eyebrow) problems.push("eyebrow");
   if (!Array.isArray(spec.hashtags) || spec.hashtags.length !== 10) problems.push("hashtags!=10");
   else if (spec.hashtags[spec.hashtags.length - 1] !== "#vibehealthapp") problems.push("last hashtag");

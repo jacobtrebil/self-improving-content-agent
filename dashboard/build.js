@@ -12,7 +12,8 @@
 //       node dashboard/build.js --days 90
 //
 // Notes / honest caveats baked into the output:
-//   * Per-post metrics exist only for PUBLISHED Instagram + YouTube posts.
+//   * Per-post metrics exist only for PUBLISHED YouTube posts (plus legacy
+//     Instagram posts — IG is retired, so only historical IG data appears).
 //     TikTok exposes no per-post analytics through this API, so TikTok is
 //     counted in inventory + account-level growth only.
 //   * Most content is still QUEUE (future-dated); numbers grow as it publishes.
@@ -21,8 +22,17 @@ const { execSync } = require("child_process");
 const fs = require("fs");
 const path = require("path");
 const { parseDecks, classify, FORMATS } = require("./classify");
+const { Tracer } = require("../observability/tracer");
 
 const REPO = path.join(__dirname, "..");
+
+// Trace every Postiz CLI call (analytics + listing). Not campaign-scoped, so
+// spans land in the repo-wide traces/ stream; shares a run id if TRACE_ID is set.
+const tracer = new Tracer({ metadata: { step: "dashboard" }, quiet: true });
+process.on("exit", () => {
+  const s = tracer.summary();
+  if (s.spans) console.log(`▸ trace ${s.traceId}: ${s.spans} Postiz call(s), ${s.failed} failed → traces/${s.traceId}.jsonl`);
+});
 const DATA = path.join(__dirname, "data");
 const OUT_HTML = path.join(__dirname, "dashboard.html");
 
@@ -35,19 +45,29 @@ const DAYS = (() => {
 // --- Postiz CLI helper ------------------------------------------------------
 // The CLI prints a human header line, then JSON. Strip the first line + parse.
 function pz(cmd) {
-  let out;
+  const t0 = process.hrtime.bigint();
+  let out, status = "success", error = null, result = null;
   try {
     out = execSync(`postiz ${cmd}`, { maxBuffer: 1e8, encoding: "utf8" });
+    const body = out.replace(/^[^\n]*\n/, "").trim();
+    if (body) {
+      try { result = JSON.parse(body); } catch { status = "error"; error = "non-JSON response"; }
+    }
   } catch (e) {
-    return null; // network / auth / empty — caller decides fallback
+    status = "error"; error = e.message; // network / auth / empty
   }
-  const body = out.replace(/^[^\n]*\n/, "").trim();
-  if (!body) return null;
-  try {
-    return JSON.parse(body);
-  } catch {
-    return null;
-  }
+  const verb = cmd.split(/\s+/).slice(0, 2).join(".").replace(/[^A-Za-z0-9.:_-]/g, "");
+  tracer.record({
+    spanId: `postiz.${verb}`,
+    model: "postiz",
+    input: cmd,
+    output: result == null ? (status === "error" ? error : "empty/non-json") : Array.isArray(result) ? `${result.length} items` : "object",
+    status,
+    error,
+    latencyMs: Number((process.hrtime.bigint() - t0) / 1000000n),
+    metadata: { tool: "postiz-cli", command: cmd },
+  });
+  return result;
 }
 
 // Platform-aware "audience" stat: IG/TikTok expose a follower total; YouTube

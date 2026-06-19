@@ -1,0 +1,58 @@
+{
+  "key": "66-active-couch-potato",
+  "theme": "health",
+  "eyebrow": "Sitting",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "You can train and still be too *sedentary*.",
+      "sub": "One gym hour doesn't undo nine hours in a chair. A single enzyme explains why.",
+      "bg": "ai-bg/66-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Sitting flips a switch",
+      "body": "Sit still and an enzyme that processes fat *switches off in your legs* within about an hour, even on a training day."
+    },
+    {
+      "type": "content",
+      "kicker": "Break it up",
+      "title": "Move every half hour",
+      "body": "Stand or walk *2–3 minutes* every 30 to 60 minutes. Frequent breaks beat one big workout for this."
+    },
+    {
+      "type": "content",
+      "kicker": "Why",
+      "title": "Smooth out the dips",
+      "body": "Those short movement breaks can *blunt post-meal glucose* and soften the afternoon energy crash."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it default",
+      "title": "Engineer the movement in",
+      "body": "Take *standing calls*, walk to refill water, set a timer. Make moving the easy default, not a decision."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Still train, just don't coast",
+      "body": "Keep your workouts, but *don't let them excuse* the other fifteen hours in a chair."
+    },
+    {
+      "type": "cta",
+      "title": "Movement that *actually adds up*.",
+      "body": "Vibe Health tracks your steps and movement through the day and feeds it into your daily score, so you see the breaks you're missing.",
+      "button": "Download Vibe Health →",
+      "tag": "movement that adds up",
+      "bg": "ai-bg/66-cta.png"
+    }
+  ],
+  "caption": "You can work out and still be too sedentary. One gym hour doesn't undo nine in a chair. 🪑\n\nSitting switches off a fat-processing enzyme in your legs within an hour. Stand or walk 2–3 minutes every half hour to blunt the glucose dips. Save this. 🔖\n\nVibe Health tracks your steps and movement into your daily score → link in bio.",
+  "hashtags": ["#sittingdisease", "#sedentary", "#movemore", "#metabolichealth", "#dailymovement", "#bloodsugar", "#energy", "#wellness", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Why You Can Train and Still Be Too Sedentary",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. An ordinary office worker slumped at a desk in a dim room, hunched over a laptop, harsh side light on a tired posture.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of legs standing up from a chair mid-motion, wrinkled trousers and shoes catching a hard edge of light."
+  }
+}

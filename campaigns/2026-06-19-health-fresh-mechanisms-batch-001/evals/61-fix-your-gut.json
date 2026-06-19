@@ -1,0 +1,106 @@
+{
+  "key": "61-fix-your-gut",
+  "eyebrow": "Gut",
+  "spec": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/61-fix-your-gut.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-19-health-fresh-mechanisms-batch-001/approved/61-fix-your-gut.json"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your gut runs your *energy and skin*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "326/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": true,
+        "score": 1,
+        "detail": "ok"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "pass": true,
+    "score": 1
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Gut runs your energy and skin' is familiar territory — the fiber pill jab is a decent contrarian hook but not specific or urgent enough to stop a scroll.",
+      "clarity": "Each slide is a single, named, immediately actionable tip with zero ambiguity.",
+      "audience_fit": "Tired-by-3pm crowd will recognize themselves in the energy/skin framing, and the tips are low-lift enough to feel doable for a busy person.",
+      "novelty": "30 plants, fermented foods, chew slowly — these are well-worn gut health talking points that circulate constantly; the meal-gap angle is slightly fresher.",
+      "brand_fit": "Voice is plain and direct, health claims are properly hedged ('may help', 'can support'), CTA ties naturally to the app's meal and water logging without cringe.",
+      "predicted_performance": "Strong save candidate for health-curious users but the generic hook and familiar tips limit reach — unlikely to break out past the existing audience."
+    },
+    "overall": 3.83,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 26382,
+    "tokensOut": 267,
+    "costUsd": 0.0672315,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'Gut runs your energy and skin' is familiar territory — the fiber pill jab is a decent contrarian hook but not specific or urgent enough to stop a scroll."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, named, immediately actionable tip with zero ambiguity."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Tired-by-3pm crowd will recognize themselves in the energy/skin framing, and the tips are low-lift enough to feel doable for a busy person."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "30 plants, fermented foods, chew slowly — these are well-worn gut health talking points that circulate constantly; the meal-gap angle is slightly fresher."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Voice is plain and direct, health claims are properly hedged ('may help', 'can support'), CTA ties naturally to the app's meal and water logging without cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong save candidate for health-curious users but the generic hook and familiar tips limit reach — unlikely to break out past the existing audience."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-19T19:06:40.196Z"
+}
