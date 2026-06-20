@@ -1,0 +1,55 @@
+{
+  "key": "106-resting-heart-rate",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Two free longevity vitals are *on your wrist*.",
+      "sub": "Resting heart rate and heart-rate variability are simple daily signals of how you are aging.",
+      "bg": "ai-bg/106-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Two simple daily signals",
+      "body": "Resting heart rate and heart-rate variability, RHR and HRV, are easy at-home numbers *worth watching*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Lower resting rate, fitter heart",
+      "body": "A lower resting heart rate generally reflects a *more efficient, fitter heart* doing the same work with less effort."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Higher HRV, better recovery",
+      "body": "More variability between beats reflects good recovery and *a resilient nervous system* that adapts well to stress."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "What moves the numbers",
+      "body": "Cardio fitness, sleep and stress all shift them. Better habits *can nudge both* in the right direction."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Read the trend, not one day",
+      "body": "Any single reading is noisy. Watch the trend over weeks, because *direction matters more* than one number."
+    },
+    {
+      "type": "cta",
+      "title": "Watch the *trend that matters*.",
+      "body": "Vibe Health pulls your daily signals into one calm Health Score so you can follow the trend, not chase one reading.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "know your numbers"
+    }
+  ],
+  "caption": "Two of the simplest longevity vitals are already on your wrist: resting heart rate and heart-rate variability. ⌚\n\nA lower resting rate reflects a fitter heart, higher variability reflects good recovery, and sleep, stress and cardio move them both. Watch the trend over weeks. 🔖\n\nVibe Health turns your daily signals into one calm score → link in bio.",
+  "hashtags": ["#longevity", "#restingheartrate", "#hrv", "#healthspan", "#healthyaging", "#hearthealth", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Two Free Longevity Vitals on Your Wrist",
+  "cover_query": "fitness watch wrist"
+}

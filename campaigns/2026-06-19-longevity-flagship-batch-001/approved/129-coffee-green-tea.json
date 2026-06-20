@@ -1,0 +1,55 @@
+{
+  "key": "129-coffee-green-tea",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Coffee and green tea, in *gentle moderation*.",
+      "sub": "Both are linked to longevity in large studies. A few cups a day suits many people, though it is individual.",
+      "bg": "ai-bg/129-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Linked to longevity",
+      "body": "Coffee and green tea are *linked to longevity* in large studies. Two of the world's favorite drinks may quietly help."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Rich in plant compounds",
+      "body": "Both are *rich in polyphenols and antioxidants*. These plant compounds are part of why the studies look favorable."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Skip the sugar and late cups",
+      "body": "Keep them mostly unsweetened, and *mind late-day caffeine* so your sleep stays good. Sugar and bad sleep cancel the benefit."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "A few cups a day",
+      "body": "A few cups a day *suits many people*, though caffeine is individual. Listen to your own body and adjust."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "An easy habit to keep",
+      "body": "This is a *pleasant, low-effort habit* to keep. No new routine to force, just a small daily ritual you already enjoy."
+    },
+    {
+      "type": "cta",
+      "title": "Keep the small habits that *support longevity*.",
+      "body": "Vibe Health scores your sleep, food, water and steps together, so good daily habits show up in one clear Health Score.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, scored"
+    }
+  ],
+  "caption": "Coffee and green tea are linked to longevity in large studies, thanks in part to their polyphenols and antioxidants. ☕\n\nKeep them mostly unsweetened and mind late-day caffeine so sleep stays good. A few cups a day suits many people, though it is individual. A pleasant, low-effort habit. Save this. 🔖\n\nVibe Health turns your daily habits into one Health Score → link in bio.",
+  "hashtags": ["#longevity", "#greentea", "#coffeelovers", "#antioxidants", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Coffee and Green Tea: Longevity Drinks in Moderation",
+  "cover_query": "cup of green tea"
+}

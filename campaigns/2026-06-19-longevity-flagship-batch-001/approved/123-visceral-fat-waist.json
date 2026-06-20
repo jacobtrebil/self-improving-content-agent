@@ -1,0 +1,55 @@
+{
+  "key": "123-visceral-fat-waist",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your waist can *beat the scale*.",
+      "sub": "Waist size often predicts health risk better than BMI. A simple tape measure tells you a lot.",
+      "bg": "ai-bg/123-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Waist beats BMI",
+      "body": "Waist size often predicts health risk *better than BMI*, because where you carry fat really matters."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The dangerous kind",
+      "body": "Visceral fat, the kind packed *around your organs*, is the type most strongly linked to long-term risk."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "A tape tells you",
+      "body": "A simple tape measure around the waist *tracks it over time*, no clinic or fancy scan required."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "Habits move it",
+      "body": "It responds to sleep, steps, protein and *less ultra-processed food* and alcohol, the everyday basics done well."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "No spot reducing",
+      "body": "You cannot target one area, so *overall habits shrink it*. Consistency, not crunches, is what moves the tape."
+    },
+    {
+      "type": "cta",
+      "title": "Track the number that *really matters*.",
+      "body": "Vibe Health scores the sleep, steps, food and movement behind a healthy waist, all in one calm daily number.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Your waist can beat the scale. Waist size often predicts health risk better than BMI, because visceral fat around your organs is the dangerous kind. 📏\n\nA simple tape measure tracks it, and it responds to sleep, steps, protein and less ultra-processed food and alcohol. You can't spot-reduce, so overall habits shrink it. Save this. 🔖\n\nVibe Health turns those daily habits into one calm score → link in bio.",
+  "hashtags": ["#longevity", "#visceralfat", "#waistsize", "#healthspan", "#healthyaging", "#metabolichealth", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Why Your Waist Can Beat BMI for Health",
+  "cover_query": "measuring tape waist"
+}

@@ -1,0 +1,68 @@
+{
+  "key": "115-deep-sleep-brain",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your brain runs a *wash cycle* while you sleep.",
+      "sub": "Deep sleep is when it cleans itself. Protecting it may protect your mind for decades.",
+      "bg": "ai-bg/115-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "An overnight rinse",
+      "body": "In deep sleep your brain opens a drainage system, the glymphatic system, and *flushes out waste* it collected all day."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It clears the residue",
+      "body": "That rinse removes waste proteins that are *linked to cognitive decline*. Skipping deep sleep leaves more of them behind."
+    },
+    {
+      "type": "content",
+      "kicker": "The risk",
+      "title": "Short sleep adds up",
+      "body": "Chronically short nights are *linked to faster brain aging*. The cost is quiet, building over years rather than days."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Set the room first",
+      "body": "Protect deep sleep with a *cool, dark room* and no late alcohol or caffeine. Both can blunt your deepest stages."
+    },
+    {
+      "type": "content",
+      "kicker": "The detail",
+      "title": "The early hours win",
+      "body": "Deep sleep clusters *early in the night*. Going to bed on time matters more than sleeping in to catch up."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the sleep that *clears your mind*.",
+      "body": "Vibe Health scores your sleep alongside food, water and steps, so the nights that protect your brain show up in one number.",
+      "screens": [
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, scored"
+    }
+  ],
+  "caption": "Deep sleep is when your brain runs an overnight wash cycle, clearing out the waste it built up all day. 🌙\n\nIt removes proteins linked to cognitive decline, so a cool dark room and no late alcohol or caffeine are worth protecting. The deep sleep early in the night matters most. Save this. 🔖\n\nVibe Health turns your sleep into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#deepsleep",
+    "#brainhealth",
+    "#sleephealth",
+    "#healthspan",
+    "#healthyaging",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How Deep Sleep Cleans Your Brain Every Night",
+  "cover_query": "woman sleeping"
+}

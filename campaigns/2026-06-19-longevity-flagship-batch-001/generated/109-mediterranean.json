@@ -1,0 +1,55 @@
+{
+  "key": "109-mediterranean",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The most *evidence-backed* way to eat for longevity.",
+      "sub": "The Mediterranean pattern is one of the best studied for a long, healthy life. It is also a joy.",
+      "bg": "ai-bg/109-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "What the pattern is",
+      "body": "It centers olive oil, fish, legumes, nuts, vegetables and whole grains, with *real food at the heart*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Linked to better aging",
+      "body": "This way of eating *is linked to lower inflammation* and better heart and brain health over the long run."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "A pattern, not a diet",
+      "body": "It is flexible rather than strict, which is exactly why it *tends to be sustainable* for years, not weeks."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Start with small swaps",
+      "body": "Use olive oil instead of butter, eat fish twice a week. *Small changes add up* without an overhaul."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Built to enjoy",
+      "body": "Shared meals, good food, real flavor. It lasts because *people actually like it*, not just tolerate it."
+    },
+    {
+      "type": "cta",
+      "title": "Eat a pattern you can *keep for years*.",
+      "body": "Vibe Health turns your food, movement and sleep into one calm daily Health Score you can follow over time.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat the mediterranean way"
+    }
+  ],
+  "caption": "If you pick one way to eat for a long, healthy life, the Mediterranean pattern is among the most evidence-backed. 🫒\n\nOlive oil, fish, legumes, nuts and vegetables are linked to lower inflammation and better heart and brain health. Small swaps work, and it is built to enjoy. 🔖\n\nVibe Health turns your habits into one calm daily score → link in bio.",
+  "hashtags": ["#longevity", "#mediterraneandiet", "#hearthealth", "#healthspan", "#healthyaging", "#nutrition", "#vibehealth", "#wellness", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "The Most Evidence-Backed Diet for Longevity",
+  "cover_query": "mediterranean food olive oil"
+}

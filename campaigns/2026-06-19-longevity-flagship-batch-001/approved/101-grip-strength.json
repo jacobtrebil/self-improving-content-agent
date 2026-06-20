@@ -1,0 +1,55 @@
+{
+  "key": "101-grip-strength",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your grip may be a *quiet predictor* of lifespan.",
+      "sub": "Grip strength quietly reflects your whole-body health. The good news: you can train it.",
+      "bg": "ai-bg/101-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Grip tracks with lifespan",
+      "body": "In research, grip strength *is linked to* all-cause mortality. It works as a simple proxy for whole-body strength."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It reflects more than hands",
+      "body": "Grip mirrors your *total muscle and nervous system*. A strong grip often means a strong, resilient body."
+    },
+    {
+      "type": "content",
+      "kicker": "Build it",
+      "title": "Carry heavier things",
+      "body": "Farmer's walks, dead hangs and *heavier groceries* all build grip. Hold a little longer each week."
+    },
+    {
+      "type": "content",
+      "kicker": "Track it",
+      "title": "Test it at home",
+      "body": "Grip is easy to test and *watch over time*. Small, steady gains tell you the whole body is holding up."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "It shows up later",
+      "body": "A strong grip turns into *real independence*: opening jars, carrying bags, getting up off the floor at 80."
+    },
+    {
+      "type": "cta",
+      "title": "Track the strength that *adds years*.",
+      "body": "Vibe Health turns your movement and recovery into one daily score, so you can watch your strength trend the right way.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "know your number"
+    }
+  ],
+  "caption": "One of the strongest predictors of how long you'll live is something simple: your grip. 🤝\n\nIn research it tracks with longevity, a proxy for your whole body. Build it with carries, dead hangs and heavier groceries. 🔖\n\nVibe Health turns the habits behind your strength into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#gripstrength", "#healthspan", "#healthyaging", "#strengthtraining", "#vibehealth", "#agewell", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Grip Strength Predicts How Long You'll Live",
+  "cover_query": "hands carrying groceries"
+}

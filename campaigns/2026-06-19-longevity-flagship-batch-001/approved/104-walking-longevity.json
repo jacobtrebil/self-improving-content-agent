@@ -1,0 +1,55 @@
+{
+  "key": "104-walking-longevity",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The simplest tool for a longer life: *a daily walk*.",
+      "sub": "There is a step sweet spot, and it is lower than you think. Here is what the research suggests.",
+      "bg": "ai-bg/104-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Walking is the tool",
+      "body": "Walking is the *most accessible* longevity tool there is. No gym, no gear, no learning curve, just steps."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Aim for the sweet spot",
+      "body": "Benefits climb up to *about 7,000 to 8,000 steps* a day, then mostly plateau. You don't need 20k."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Even a little helps",
+      "body": "Even around 4,000 steps *beats being sedentary*. The biggest gains come when you go from very few to some."
+    },
+    {
+      "type": "content",
+      "kicker": "Level up",
+      "title": "Pick up the pace",
+      "body": "A *brisker pace* adds a little more. Walk like you're a few minutes late and your heart gets the message."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Stack steps into your day",
+      "body": "Park farther, take calls walking, loop the block after dinner. *Build steps* into the day you already have."
+    },
+    {
+      "type": "cta",
+      "title": "Turn daily steps into *real years*.",
+      "body": "Vibe Health tracks your steps and movement and turns your whole day into one simple, encouraging score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "every step counts"
+    }
+  ],
+  "caption": "The simplest longevity tool isn't a supplement. It's a daily walk. 🚶\n\nBenefits climb to about 7,000 to 8,000 steps a day, then plateau, so you don't need 20k. Even 4,000 beats sitting, and a brisker pace adds a bit more. 🔖\n\nVibe Health tracks the steps behind your day and turns them into one score → link in bio.",
+  "hashtags": ["#longevity", "#walking", "#10000steps", "#healthspan", "#healthyaging", "#vibehealth", "#dailywalk", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Daily Step Count That's Linked to a Longer Life",
+  "cover_query": "people walking park"
+}

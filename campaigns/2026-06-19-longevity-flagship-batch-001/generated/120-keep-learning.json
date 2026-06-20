@@ -1,0 +1,55 @@
+{
+  "key": "120-keep-learning",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your brain stays sharp when you *keep learning*.",
+      "sub": "Mentally challenging activity builds a buffer that helps the brain resist age-related decline.",
+      "bg": "ai-bg/120-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Build cognitive reserve",
+      "body": "Challenging mental activity is thought to build *cognitive reserve*, a buffer the brain can draw on later in life."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "A buffer against decline",
+      "body": "That reserve is linked to *better resistance* to age-related decline, helping the mind cope as the brain changes."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Learn something new",
+      "body": "Pick up a language, an instrument or a real skill. *New and effortful* matters more than easy and familiar."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Novelty beats autopilot",
+      "body": "Routine asks little of the brain. Keep it *slightly hard*, because the stretch is where the benefit lives."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Pair it with people",
+      "body": "Learning alongside *social and physical activity* appears to compound the benefit, so combine them when you can."
+    },
+    {
+      "type": "cta",
+      "title": "Keep your mind *in training*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one calm daily score and a simple plan for tomorrow.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "build your reserve"
+    }
+  ],
+  "caption": "A sharp mind isn't only luck. Challenging your brain builds cognitive reserve, a buffer that helps it resist age-related decline. 🧠\n\nLearn something new and effortful, a language, an instrument, a skill, keep it slightly hard, and pair it with people and movement. Save this. 🔖\n\nVibe Health turns your daily habits into one calm score and a plan for tomorrow → link in bio.",
+  "hashtags": ["#longevity", "#brainhealth", "#cognitivereserve", "#healthspan", "#healthyaging", "#lifelonglearning", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Keep Learning to Protect Your Aging Brain",
+  "cover_query": "older person reading"
+}

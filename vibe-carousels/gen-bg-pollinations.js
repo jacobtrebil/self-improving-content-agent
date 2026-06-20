@@ -42,8 +42,10 @@ function fetchOne(job) {
       execFileSync("curl", ["-fsSL", "--max-time", "120", url, "-o", tmp], { stdio: "ignore" });
       const sz = fs.statSync(tmp).size;
       if (sz < 5000) throw new Error(`tiny file (${sz}b)`);
-      // normalize to PNG and a consistent 1080x1440 (upscale if Pollinations returned smaller)
-      execFileSync("sips", ["-s", "format", "png", "-z", "1440", "1080", tmp, "--out", job.out], { stdio: "ignore" });
+      // Convert to PNG and resize PROPORTIONALLY to ~1080 wide (never force an
+      // exact W×H — that stretches/squeezes the image). The renderer uses
+      // background-size:cover, which crops to fit without distortion.
+      execFileSync("sips", ["-s", "format", "png", "--resampleWidth", "1080", tmp, "--out", job.out], { stdio: "ignore" });
       fs.unlinkSync(tmp);
       return true;
     } catch (e) {

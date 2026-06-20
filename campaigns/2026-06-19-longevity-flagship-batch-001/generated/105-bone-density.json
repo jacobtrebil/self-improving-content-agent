@@ -1,0 +1,68 @@
+{
+  "key": "105-bone-density",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your bones are *alive*, and you can build them.",
+      "sub": "Bone is living tissue that responds to how you move. The time to strengthen it is now.",
+      "bg": "ai-bg/105-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Bone is living tissue",
+      "body": "It constantly rebuilds itself in response to load. The right stress *signals it to stay strong*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Density slips with age",
+      "body": "Bone mass tends to decline after about age 30. In later life, a fracture *can be genuinely dangerous*."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Load tells bone to stay",
+      "body": "Resistance training and impact, like brisk walking or light jumping, *signal bone to stay dense*."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Feed the building work",
+      "body": "Enough protein, calcium and vitamin D *give bone what it needs*. Movement provides the signal, food the materials."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Start before you need it",
+      "body": "You cannot wait until a break to begin. Weight-bearing movement now *can protect you* for decades."
+    },
+    {
+      "type": "cta",
+      "title": "Build the bone that *holds you up*.",
+      "body": "Vibe Health turns your movement, steps and habits into one daily score and a simple plan for tomorrow.",
+      "screens": [
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "build it before you need it"
+    }
+  ],
+  "caption": "Your bones are alive. They rebuild in response to how you move, which means you can make them stronger. 🦴\n\nResistance training, a little impact, and enough protein, calcium and vitamin D can support the bone that prevents late-life fractures. Start before you need it. 🔖\n\nVibe Health turns your daily movement into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#bonedensity",
+    "#bonehealth",
+    "#healthspan",
+    "#healthyaging",
+    "#strengthtraining",
+    "#vibehealth",
+    "#agewell",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Build Stronger Bones Before You Need Them",
+  "cover_query": "dumbbells"
+}

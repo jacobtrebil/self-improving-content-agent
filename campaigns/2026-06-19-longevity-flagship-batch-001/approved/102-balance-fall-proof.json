@@ -1,0 +1,55 @@
+{
+  "key": "102-balance-fall-proof",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Balance is *a longevity skill*, and it's quietly trainable.",
+      "sub": "Falls end independence for many older adults. A few minutes a day can protect it.",
+      "bg": "ai-bg/102-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Falls end independence",
+      "body": "Falls are a leading cause of injury and *lost independence* in older age. Most of them are preventable."
+    },
+    {
+      "type": "content",
+      "kicker": "The test",
+      "title": "The ten-second stand",
+      "body": "Standing on one leg for ten seconds *is linked to* longevity in studies. It is a simple window into your balance."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Train it every day",
+      "body": "Stand on one leg while brushing your teeth. Walk *heel to toe* down the hallway. Small daily reps add up."
+    },
+    {
+      "type": "content",
+      "kicker": "The support",
+      "title": "Strength steadies you",
+      "body": "Balance leans on *strong legs and ankles*. Mobility and lower-body strength make every step more sure."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Start before you slip",
+      "body": "Balance declines quietly, so train it now. *A steady body* keeps your independence for the long run."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the balance that *keeps you free*.",
+      "body": "Vibe Health turns the movement and strength behind your balance into one calm daily plan you can actually follow.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "stay steady, stay free"
+    }
+  ],
+  "caption": "Balance is a longevity skill, and most of us never train it. 🧘\n\nThe ten-second single-leg stand is linked to longevity. Practice while you brush your teeth, walk heel-to-toe, and build strong legs. 🔖\n\nVibe Health turns the habits behind your balance into one daily plan → link in bio.",
+  "hashtags": ["#longevity", "#balance", "#fallprevention", "#healthspan", "#healthyaging", "#vibehealth", "#mobility", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Balance Test Linked to a Longer Life",
+  "cover_query": "person balancing yoga"
+}

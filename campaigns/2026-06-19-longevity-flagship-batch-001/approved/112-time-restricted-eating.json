@@ -1,0 +1,55 @@
+{
+  "key": "112-time-restricted-eating",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "It may not just be what you eat. It's *when*.",
+      "sub": "A consistent daily eating window can support metabolic health. Here is the calm version.",
+      "bg": "ai-bg/112-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Keep a steady window",
+      "body": "Eating within a consistent window, often *about ten to twelve hours*, may support metabolic health for many people."
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Late nights fight your clock",
+      "body": "Your body runs on a clock. Eating late, close to bed, *works against that rhythm* and your sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it helps",
+      "title": "Give the body a rest",
+      "body": "A longer overnight gap may *give the body a rest* between meals, time to recover instead of always digesting."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Keep it sustainable",
+      "body": "This is not an extreme fast. Pick a window you *can keep for life*, on most ordinary days."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Front-load the day",
+      "body": "Eat earlier and finish sooner when you can. A bigger breakfast and *an earlier dinner* fit the rhythm."
+    },
+    {
+      "type": "cta",
+      "title": "Build a rhythm that *lasts*.",
+      "body": "Vibe Health turns your meals, sleep and movement into one simple daily plan, so a steady routine is easy to keep.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your day, one plan"
+    }
+  ],
+  "caption": "When you eat may matter, not just what. A consistent daily eating window can support metabolic health. ⏳\n\nKeep it gentle: a window of about ten to twelve hours, finishing earlier in the evening. Sustainable beats extreme. 🔖\n\nVibe Health turns your meals and sleep into one calm plan → link in bio.",
+  "hashtags": ["#longevity", "#metabolichealth", "#healthspan", "#circadianrhythm", "#healthyaging", "#vibehealth", "#agewell", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why When You Eat May Matter for Longevity",
+  "cover_query": "breakfast morning table"
+}

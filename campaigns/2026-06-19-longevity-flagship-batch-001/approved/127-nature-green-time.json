@@ -1,0 +1,55 @@
+{
+  "key": "127-nature-green-time",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Time in nature is a *real longevity habit*.",
+      "sub": "Green space is linked to lower stress and a calmer body. About two hours a week seems to be the dose.",
+      "bg": "ai-bg/127-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Green time, less stress",
+      "body": "Time in green space is *linked to lower stress*, lower blood pressure and better mood. The effect is gentle but real."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "Two hours a week",
+      "body": "Research points to *about two hours a week* in nature as a helpful target. It can be split across several short visits."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Three things at once",
+      "body": "Nature blends *movement, daylight and calm*. Each supports healthy aging, and you get all three together."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "A park counts",
+      "body": "You do not need wilderness. *A city park counts*, and it is usually a short walk from home."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Make it a ritual",
+      "body": "Turn it into a *weekly ritual* you look forward to. Habits that feel good are the ones that actually last."
+    },
+    {
+      "type": "cta",
+      "title": "Build the calm habits that *add years*.",
+      "body": "Vibe Health scores the movement, daylight and recovery that support healthy aging, turning your whole day into one simple number.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your day, tracked"
+    }
+  ],
+  "caption": "Time in nature is a real longevity habit. Green space is linked to lower stress, lower blood pressure and a better mood. 🌳\n\nAbout two hours a week seems to be a helpful dose, and a city park counts. It blends gentle movement, daylight and calm in one. Save this. 🔖\n\nVibe Health turns the habits that support healthy aging into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#naturetherapy", "#greenspace", "#stressrelief", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Why Time in Nature Is a Longevity Habit",
+  "cover_query": "forest walk nature"
+}

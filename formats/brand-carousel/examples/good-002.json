@@ -1,0 +1,55 @@
+{
+  "key": "71-fitness-predicts-lifespan",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The *best predictor* of a long life isn't your weight.",
+      "sub": "It is your cardio fitness, your VO2 max. The good news: almost anyone can raise it.",
+      "bg": "ai-bg/71-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The metric",
+      "title": "Meet your VO2 max",
+      "body": "It is how well your body uses oxygen. Low fitness carries *a bigger risk* than smoking or diabetes."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Fitness buys you years",
+      "body": "Going from low to even average fitness is linked to *a dramatic drop* in early death. The first gains are biggest."
+    },
+    {
+      "type": "content",
+      "kicker": "Build it",
+      "title": "Most days, go easy",
+      "body": "Long, easy efforts build your aerobic base. Keep a pace where you can *still hold a conversation*."
+    },
+    {
+      "type": "content",
+      "kicker": "Build it",
+      "title": "Once a week, go hard",
+      "body": "Short, hard intervals lift your ceiling. A few *all out minutes* a week move the number."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Just keep moving",
+      "body": "Walk, cycle, swim, take the stairs. Consistency beats intensity, and *every bout counts*."
+    },
+    {
+      "type": "cta",
+      "title": "Train the number that *adds years*.",
+      "body": "Vibe Health tracks your movement and steps and turns your whole day into one simple score.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "know your number"
+    }
+  ],
+  "caption": "The single best predictor of how long you'll live isn't your weight. It's your cardio fitness. 🫀\n\nBuild your VO2 max with easy 'zone 2' movement most days, plus a little hard effort weekly. Almost anyone can raise it. 🔖\n\nVibe Health tracks the movement that moves your number → link in bio.",
+  "hashtags": ["#longevity", "#vo2max", "#cardiofitness", "#healthspan", "#healthyaging", "#vibehealth", "#zone2", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Fitness Number That Predicts Your Lifespan",
+  "cover_query": "man running"
+}

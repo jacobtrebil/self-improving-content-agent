@@ -1,0 +1,68 @@
+{
+  "key": "121-optimism-longevity",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your outlook is a *health behavior*.",
+      "sub": "Optimism is linked to a longer, healthier life. The good news: it can be practiced.",
+      "bg": "ai-bg/121-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Optimism and a long life",
+      "body": "In studies, a more optimistic outlook *is linked to* living longer and staying healthier into later years."
+    },
+    {
+      "type": "content",
+      "kicker": "Clearing it up",
+      "title": "Not toxic positivity",
+      "body": "This isn't ignoring problems. It is *expecting good*, and acting on it, while still facing what is real."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Better habits, less stress",
+      "body": "Optimism tends to support *healthier daily habits* and lower stress, two things that quietly shape how you age."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "You can practice it",
+      "body": "Gratitude and reframing are simple tools. Naming *one good thing* daily can slowly shift your default view."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "The future shapes today",
+      "body": "How you see tomorrow shapes what you do now. A hopeful view *quietly nudges* better choices each day."
+    },
+    {
+      "type": "cta",
+      "title": "Let a hopeful view *add up*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps behind a good day, all in one calm daily number.",
+      "screens": [
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "outlook, tracked"
+    }
+  ],
+  "caption": "Your outlook isn't just a mood. Optimism is linked to a longer, healthier life. 🌤️\n\nIt isn't toxic positivity, it's expecting good and acting on it. It supports better habits and lower stress, and you can practice it with gratitude and reframing. Save this. 🔖\n\nVibe Health turns the habits behind a good day into one calm score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#optimism",
+    "#mentalwellness",
+    "#healthspan",
+    "#healthyaging",
+    "#mindset",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Optimism Is Linked to a Longer Life",
+  "cover_query": "smiling woman"
+}

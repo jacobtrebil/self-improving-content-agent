@@ -1,0 +1,55 @@
+{
+  "key": "114-blood-sugar",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Steady blood sugar is linked to *slower aging*.",
+      "sub": "The goal is steadiness, not zero carbs. Here is how to smooth the spikes.",
+      "bg": "ai-bg/114-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Fewer big spikes",
+      "body": "Fewer sharp blood-sugar spikes *is linked to* slower metabolic aging. Steadier days seem to add up over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Spikes cost you twice",
+      "body": "Sharp spikes drive *energy crashes now* and may raise long-term risk over the years. The dips feel real."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Pair your carbs",
+      "body": "Pair carbs with protein, fiber and fat, and *eat vegetables first*. The same meal lands much more gently."
+    },
+    {
+      "type": "content",
+      "kicker": "The trick",
+      "title": "Walk after meals",
+      "body": "A short walk after eating *blunts the spike*. Ten easy minutes does more than you would expect."
+    },
+    {
+      "type": "content",
+      "kicker": "The mindset",
+      "title": "Aim for steady",
+      "body": "The goal is *steadiness, not zero carbs*. Smoother, calmer energy through the day, not a strict ban."
+    },
+    {
+      "type": "cta",
+      "title": "Track the steadiness that *adds years*.",
+      "body": "Vibe Health turns your food, movement and sleep into one daily score and plan, so steady days are easy to build.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your day, one number"
+    }
+  ],
+  "caption": "Steady blood sugar, with fewer big spikes, is linked to slower metabolic aging. 🥗\n\nPair carbs with protein, fiber and fat, eat your vegetables first, and take a short walk after meals. The goal is steadiness, not zero carbs. 🔖\n\nVibe Health turns it into one daily score and plan → link in bio.",
+  "hashtags": ["#longevity", "#bloodsugar", "#metabolichealth", "#healthspan", "#healthyaging", "#vibehealth", "#agewell", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Steady Blood Sugar Slows Metabolic Aging",
+  "cover_query": "balanced meal vegetables"
+}

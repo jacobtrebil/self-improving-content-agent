@@ -1,0 +1,55 @@
+{
+  "key": "124-inflammation",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Calm the *quiet fire* behind aging.",
+      "sub": "Chronic low-grade inflammation, sometimes called inflammaging, is linked to many age-related diseases. You can cool it.",
+      "bg": "ai-bg/124-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet inflammaging",
+      "body": "Chronic low-grade inflammation, sometimes called inflammaging, *is linked to* many of the diseases of aging."
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "What fuels the fire",
+      "body": "Poor sleep, ultra-processed food, inactivity and belly fat *tend to feed it*, keeping the body quietly on alert."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "How to cool it",
+      "body": "Colorful plants, omega-3s, movement and sleep *may help calm it*, the same basics that support whole-body health."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The common thread",
+      "body": "Inflammation is *the thread* running through most longevity levers, so calming it tends to help across the board."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Small choices, lower baseline",
+      "body": "No single fix matters most. *Small daily choices* add up to a lower baseline over months and years."
+    },
+    {
+      "type": "cta",
+      "title": "Lower the baseline, *one day at a time*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one calm daily score and a simple plan for tomorrow.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small choices, tracked"
+    }
+  ],
+  "caption": "There's a quiet fire behind a lot of aging. Chronic low-grade inflammation, sometimes called inflammaging, is linked to many age-related diseases. 🔥\n\nIt's fueled by poor sleep, ultra-processed food, inactivity and belly fat, and calmed by colorful plants, omega-3s, movement and sleep. It's the common thread, so small daily choices lower your baseline. Save this. 🔖\n\nVibe Health turns those choices into one calm score and a plan for tomorrow → link in bio.",
+  "hashtags": ["#longevity", "#inflammation", "#inflammaging", "#healthspan", "#healthyaging", "#antiinflammatory", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "How to Calm the Inflammation Behind Aging",
+  "cover_query": "berries healthy food"
+}

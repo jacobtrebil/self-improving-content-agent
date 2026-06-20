@@ -1,0 +1,55 @@
+{
+  "key": "116-sleep-consistency",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "*When* you sleep may matter as much as how much.",
+      "sub": "A regular schedule keeps your body clock steady. That rhythm is quietly tied to long-term health.",
+      "bg": "ai-bg/116-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "Regularity is a signal",
+      "body": "Irregular sleep timing is *linked to worse health outcomes*, even when the total number of hours looks fine on paper."
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Anchor your clock",
+      "body": "The same bed and wake time *anchors your body clock*. Your hormones, hunger and energy all settle around it."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Let morning light in",
+      "body": "Bright light soon after waking *locks the rhythm in*. A few minutes outside tells your clock the day has started."
+    },
+    {
+      "type": "content",
+      "kicker": "The shift",
+      "title": "Steady beats perfect",
+      "body": "Consistency beats *chasing a flawless eight* on the nights you can. A reliable rhythm does more than the occasional long sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "The detail",
+      "title": "Weekends count too",
+      "body": "Sleeping in late on weekends *resets your clock backward*. Keeping the times close all week keeps the rhythm steady."
+    },
+    {
+      "type": "cta",
+      "title": "Keep your clock *running on time*.",
+      "body": "Vibe Health turns your sleep, food, water and steps into one daily plan, so a steady routine is easy to keep.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "a steady rhythm"
+    }
+  ],
+  "caption": "When you sleep may matter as much as how long. A regular schedule keeps your body clock steady. ⏰\n\nSame bed and wake time, morning light to lock it in, and weekends that stay close to weekdays. Consistency beats chasing a perfect eight. Save this. 🔖\n\nVibe Health turns your day into one simple plan → link in bio.",
+  "hashtags": ["#longevity", "#sleepschedule", "#circadianrhythm", "#sleephealth", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why a Consistent Sleep Schedule Matters as Much as Hours",
+  "cover_query": "alarm clock bedside"
+}

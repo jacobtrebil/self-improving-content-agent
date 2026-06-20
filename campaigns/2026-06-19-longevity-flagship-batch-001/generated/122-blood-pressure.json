@@ -1,0 +1,55 @@
+{
+  "key": "122-blood-pressure",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Blood pressure is the *silent ager*.",
+      "sub": "It usually shows no symptoms, yet over time it quietly shapes how you age. Knowing it is half the battle.",
+      "bg": "ai-bg/122-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Often no symptoms",
+      "body": "High blood pressure usually feels like *nothing at all*, which is exactly why it goes unnoticed for years."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It adds up quietly",
+      "body": "Over time it is linked to *higher heart and stroke risk*, plus kidney and dementia risk."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Know your numbers",
+      "body": "Around 120 over 80 is often the target, but *ask your doctor* about the right range for you."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "Everyday levers help",
+      "body": "Movement, less sodium, better sleep and less alcohol *can help lower it* over time. Small changes count."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Check it regularly",
+      "body": "A quick, regular reading means it *never sneaks up* on you. Tracking turns a silent risk into a visible one."
+    },
+    {
+      "type": "cta",
+      "title": "Keep the silent number *in view*.",
+      "body": "Vibe Health pulls your daily habits into one calm Health Score and a simple plan, so nothing slips by unnoticed.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "know your numbers"
+    }
+  ],
+  "caption": "High blood pressure is the silent ager. It usually has no symptoms, yet over time it's linked to higher heart, stroke, kidney and dementia risk. 🩺\n\nKnow your numbers, around 120 over 80 is often the target, ask your doctor. Movement, less sodium, better sleep and less alcohol can help, so check it regularly. Save this. 🔖\n\nVibe Health turns your daily habits into one calm score → link in bio.",
+  "hashtags": ["#longevity", "#bloodpressure", "#hearthealth", "#healthspan", "#healthyaging", "#prevention", "#vibehealth", "#aihealthcoach", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Blood Pressure: The Silent Ager Worth Knowing",
+  "cover_query": "blood pressure monitor"
+}

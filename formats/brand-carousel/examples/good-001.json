@@ -1,0 +1,55 @@
+{
+  "key": "70-add-healthy-years",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The goal isn't a longer life. It's a *stronger* one.",
+      "sub": "Healthspan is the years you stay capable, sharp and active. Here is how to extend it.",
+      "bg": "ai-bg/70-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Healthspan, not just lifespan",
+      "body": "Lifespan is how long you live. Healthspan is how long you live *well*. For many people the gap is a decade."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Build and keep muscle",
+      "body": "Strength is one of the clearest markers of aging well. Two sessions a week *can protect* your independence for decades."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Train your heart",
+      "body": "Cardio fitness is a powerful predictor of a long life. A brisk daily walk *does more than you think*."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever three",
+      "title": "Guard your sleep",
+      "body": "Deep sleep repairs the body and clears the brain. Years of short sleep *quietly speed up* aging."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever four",
+      "title": "Stay connected",
+      "body": "Strong relationships rival diet and exercise for longevity. Loneliness *is linked to* worse health and shorter lives."
+    },
+    {
+      "type": "cta",
+      "title": "Build years that *feel good*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps that protect your healthspan, all in one daily number.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your healthspan, tracked"
+    }
+  ],
+  "caption": "Living longer is the easy part. Staying strong, sharp and capable is the real goal. 🌿\n\nMuscle, cardio fitness, deep sleep and real connection are the levers that add good years, not just years. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#wellness", "#healthhabits", "#agewell", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How to Add Healthy Years to Your Life",
+  "cover_query": "senior woman walking"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "108-plant-forward",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The longest-lived people eat *mostly plants*.",
+      "sub": "Across the world's Blue Zones, the plate leans plant-forward. Here is the simple pattern to borrow.",
+      "bg": "ai-bg/108-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Look to the Blue Zones",
+      "body": "The world's longest-lived communities eat *mostly plants*, with meat as an occasional side, not the center."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Fiber feeds your gut",
+      "body": "Plants bring fiber that feeds a diverse gut microbiome, which *is linked to healthy aging* and steady energy."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Beans most days",
+      "body": "Aim for variety across the week, with beans or lentils most days as *a quiet longevity staple*."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Add before you subtract",
+      "body": "Think additive: crowd the plate with plants rather than only restricting. *Abundance beats deprivation* for sticking with it."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Eat the rainbow",
+      "body": "Different colors carry different protective compounds. Variety across the week *covers more bases* than any single food."
+    },
+    {
+      "type": "cta",
+      "title": "Make plants the *base of the plate*.",
+      "body": "Vibe Health scores your food, water and movement into one daily number and a Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat plant-forward"
+    }
+  ],
+  "caption": "The world's longest-lived people share one habit: they eat mostly plants. 🌿\n\nFiber feeds a diverse gut microbiome linked to healthy aging, beans most days help, and different colors bring different protective compounds. Add plants, don't just restrict. 🔖\n\nVibe Health turns your plate into one simple daily score → link in bio.",
+  "hashtags": ["#longevity", "#bluezones", "#plantforward", "#guthealth", "#healthspan", "#healthyaging", "#vibehealth", "#nutrition", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Eat Like the World's Longest-Lived People",
+  "cover_query": "colorful vegetables bowl"
+}

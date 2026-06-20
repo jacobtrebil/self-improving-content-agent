@@ -1,0 +1,55 @@
+{
+  "key": "119-stress-telomeres",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Chronic stress may age you *down to the cell*.",
+      "sub": "The constant low-grade kind is the problem. You cannot avoid stress, but you can get better at recovering.",
+      "bg": "ai-bg/119-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "Stress reaches your cells",
+      "body": "Long-term stress is *linked to faster cellular aging*, including shorter telomeres, the protective caps on your DNA."
+    },
+    {
+      "type": "content",
+      "kicker": "The nuance",
+      "title": "It's the slow burn",
+      "body": "It is the *constant low-grade kind* that does the damage, not the occasional rough week your body bounces back from."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Down-regulate daily",
+      "body": "Lower it most days with *slow breathing, nature and movement*. Small resets keep stress from quietly stacking up."
+    },
+    {
+      "type": "content",
+      "kicker": "The support",
+      "title": "Sleep and people help",
+      "body": "Good sleep and *real connection buffer stress*. Both make hard days land softer and clear faster."
+    },
+    {
+      "type": "content",
+      "kicker": "The shift",
+      "title": "Recover, don't avoid",
+      "body": "You cannot avoid stress, but you can *get better at recovering*. The goal is a quicker return to calm."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *help you recover*.",
+      "body": "Vibe Health scores your sleep, food, water and steps, so the habits that help you bounce back show up in one number.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "recover faster"
+    }
+  ],
+  "caption": "Chronic stress may age you down to the cell, with long-term stress linked to shorter telomeres. 🧘\n\nIt is the constant low-grade kind that does the damage. Down-regulate daily with slow breathing, nature and movement, and let sleep and connection buffer it. Save this. 🔖\n\nVibe Health turns your recovery habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#stressrelief", "#telomeres", "#cellularaging", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Chronic Stress Ages Your Cells, and How to Recover",
+  "cover_query": "person meditating calm"
+}

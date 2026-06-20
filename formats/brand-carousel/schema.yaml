@@ -1,0 +1,89 @@
+# Deck spec — one JSON file per deck:
+#   campaigns/<campaign>/generated/<NN>-<slug>.json
+#   (or formats/brand-carousel/examples/good-*.json for reference decks)
+# Field constraints below are what validation.md checks. This format renders via
+# vibe-carousels/build_brand.js (white/green, serif) — NOT build.js — and needs
+# NO AI backgrounds (so no bg_prompts).
+
+deck:
+  key:
+    required: true
+    pattern: "^[0-9]{2,3}-[a-z0-9-]+$"    # NN(N) unique across vibe-carousels/ (brand decks use 70+, batches use 100+)
+  theme:
+    required: true
+    const: brand                          # routes to build_brand.js, not build.js
+  eyebrow:
+    required: true
+    max_words: 2                          # small uppercase label ("Vibe Health", "Your score")
+  slides:
+    required: true
+    count: 7                              # 1 cover + 5 content + 1 cta (6–8 allowed)
+    order: [cover, content..., cta]
+
+  caption:
+    required: true
+    paragraphs: 3                         # hook / value recap + save nudge / Vibe pitch ending "→ link in bio"
+  hashtags:
+    required: true
+    count: 10
+    last: "#vibehealthapp"
+  youtube_title:
+    required: true
+    style: "plain, benefit-led, title case"  # used for the Shorts MP4 build
+  cover_query:
+    required: true
+    style: "2-4 word stock-photo search for the cover (e.g. 'man running', 'senior woman walking')"
+    # gen-bg-stock.js pulls a REAL royalty-free CC0/public-domain photo (no API key,
+    # no attribution) from Openverse into ai-bg/<NN>-cover.png. No AI generation.
+
+# COPY RULE (whole format): NO em dashes (—) anywhere. Use periods, commas, or
+# colons instead. build_brand.js also strips stray em dashes as a safety net.
+
+slide_cover:
+  type: { const: cover }
+  title:
+    required: true
+    max_words: 10
+    highlights: "0-1"                     # serif headline; *highlight* optional (renders a mint-green pill)
+  sub:
+    required: true
+    max_sentences: 2
+  bg:
+    required: true                        # "ai-bg/<NN>-cover.png" — slide 1 ONLY gets an image,
+                                          # shown in a top photo band fading into the green panel
+                                          # below (works with landscape stock). Set by gen-bg-stock.js.
+
+slide_content:
+  type: { const: content }
+  kicker:
+    required: true
+    max_words: 3                          # label ("The problem", "Step 01", "Why it works")
+  title:
+    required: true
+    max_words: 6
+  body:
+    required: true
+    max_words: 25
+    highlights: "0-1"
+
+slide_cta:
+  type: { const: cta }
+  title:
+    required: true
+    max_words: 8
+    highlights: "0-1"
+  body:
+    required: true
+    max_words: 30                         # ties the deck to the product
+  screens:
+    required: true
+    items: [plan, score]                  # 1–2 real product screenshots shown as phone mockups
+    min: 1
+    max: 2                                # plan = Today's Plan home, score = Health Wrapped card
+  cta_text:
+    required: true
+    style: "short, lowercase-ish action — e.g. 'search ‘Vibe Health’ — free on the App Store'"
+  tag:
+    required: false
+    style: "lowercase, benefit-led"
+  # No button — the product screenshots ARE the CTA. No bg field.

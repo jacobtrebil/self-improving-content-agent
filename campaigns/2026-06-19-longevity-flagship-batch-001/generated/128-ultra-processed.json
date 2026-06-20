@@ -1,0 +1,55 @@
+{
+  "key": "128-ultra-processed",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "One of the *biggest diet levers* is simple.",
+      "sub": "Cutting back on ultra-processed food may move your health more than any single superfood. No perfection required.",
+      "bg": "ai-bg/128-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "Less of the ultra-processed",
+      "body": "Reducing ultra-processed food is *one of the biggest levers* for longevity. It often beats chasing any single superfood."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Built to overeat",
+      "body": "These foods are *engineered to be overeaten* and are linked to worse health outcomes. The packaging hides how much you eat."
+    },
+    {
+      "type": "content",
+      "kicker": "The mindset",
+      "title": "Aim for most of the time",
+      "body": "You do not need perfection. Just *shift toward whole foods* most of the time, and let the occasional treat be a treat."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Read past the front",
+      "body": "Health claims on the front of the box sell. *Read the ingredient list instead*, where the real story sits."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Cooking does the work",
+      "body": "Cooking a little more at home *does most of the work* on its own. Simple meals quietly crowd out the processed stuff."
+    },
+    {
+      "type": "cta",
+      "title": "Track the food choices that *add up*.",
+      "body": "Vibe Health scores your food alongside sleep, water and steps, so eating more whole foods shows up in one daily Health Score.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your food, scored"
+    }
+  ],
+  "caption": "Cutting back on ultra-processed food is one of the biggest diet levers for longevity, often bigger than any single superfood. 🥦\n\nThese foods are engineered to overeat, so shift toward whole foods most of the time, read past the claims on the box, and cook a little more at home. No perfection needed. Save this. 🔖\n\nVibe Health turns your food and habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#wholefoods", "#ultraprocessed", "#nutrition", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Cutting Ultra-Processed Food Is a Top Diet Lever",
+  "cover_query": "fresh whole foods market"
+}

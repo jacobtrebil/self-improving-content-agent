@@ -1,0 +1,55 @@
+{
+  "key": "113-alcohol-longevity",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "For a long life, *less alcohol* is better.",
+      "sub": "The old story about a daily glass has weakened. Here is a calm way to rethink it.",
+      "bg": "ai-bg/113-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "The old story weakened",
+      "body": "The classic 'a glass of red is good for you' line *has not held up*. For longevity, less now looks better."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It touches a lot",
+      "body": "Alcohol can affect sleep, blood pressure and *long-term risk*. The effects build quietly over many years."
+    },
+    {
+      "type": "content",
+      "kicker": "The science",
+      "title": "It steals deep sleep",
+      "body": "Even a small amount *disrupts your deep sleep*. You may fall asleep faster but recover far less overnight."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "You don't have to quit",
+      "body": "Fewer drinks and *more alcohol-free days* both help. Small, steady changes move the needle over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Track it honestly",
+      "body": "Writing it down *shows you the pattern*. Honest tracking, not guilt, is what makes the shift stick."
+    },
+    {
+      "type": "cta",
+      "title": "See the patterns that *shape your years*.",
+      "body": "Vibe Health turns your sleep, habits and recovery into one daily score, so honest patterns are easy to spot.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "know your number"
+    }
+  ],
+  "caption": "The old 'a glass of red is good for you' story has weakened. For longevity, less alcohol is better. 🍷\n\nIt affects sleep, blood pressure and long-term risk, and it steals deep sleep even in small amounts. You don't have to quit: fewer drinks and more alcohol-free days help. 🔖\n\nVibe Health turns your habits into one honest score → link in bio.",
+  "hashtags": ["#longevity", "#alcoholfree", "#healthspan", "#sleephealth", "#healthyaging", "#vibehealth", "#agewell", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Rethinking Alcohol for a Longer, Healthier Life",
+  "cover_query": "wine glass table"
+}

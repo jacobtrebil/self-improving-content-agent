@@ -1,0 +1,68 @@
+{
+  "key": "111-portions-overeating",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The longest-lived people stop at *80 percent full*.",
+      "sub": "It is a gentle habit, not a diet. Here is the simple idea behind eating a little less.",
+      "bg": "ai-bg/111-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Stop at 80 percent",
+      "body": "In Okinawa, people practice *hara hachi bu*: stopping when they are roughly 80 percent full, not stuffed."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Overeating adds up",
+      "body": "Eating past full, meal after meal, *raises metabolic load* over the years. Small surpluses quietly accumulate."
+    },
+    {
+      "type": "content",
+      "kicker": "The science",
+      "title": "Fullness signals lag",
+      "body": "Your gut takes about *twenty minutes* to tell your brain you are full. Slowing down lets the signal catch up."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Lead with protein",
+      "body": "Start with protein and fiber, and use *smaller plates*. You feel satisfied on a little less, naturally."
+    },
+    {
+      "type": "content",
+      "kicker": "The mindset",
+      "title": "Gentle, not strict",
+      "body": "This is *a calm habit, not deprivation*. You leave the table comfortable, never hungry or counting."
+    },
+    {
+      "type": "cta",
+      "title": "Make better habits *easy to see*.",
+      "body": "Vibe Health turns your food, sleep and movement into one simple daily plan, so eating well becomes a calm routine.",
+      "screens": [
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat to 80 percent"
+    }
+  ],
+  "caption": "Some of the longest-lived people on earth share one quiet habit: they stop eating at about 80 percent full. 🍽️\n\nIt is called hara hachi bu. Slow down, lead with protein and fiber, use smaller plates. A gentle habit, not deprivation. 🔖\n\nVibe Health turns your day into one simple plan → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#bluezones",
+    "#healthspan",
+    "#healthyeating",
+    "#healthyaging",
+    "#vibehealth",
+    "#agewell",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why the Longest-Lived People Stop Eating at 80 Percent Full",
+  "cover_query": "healthy meal"
+}

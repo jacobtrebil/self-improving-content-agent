@@ -1,0 +1,55 @@
+{
+  "key": "125-hearing-health",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Protecting your hearing may *protect your brain*.",
+      "sub": "Untreated hearing loss is one of the largest changeable risks for dementia. The good news: you can act early.",
+      "bg": "ai-bg/125-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Hearing meets brain health",
+      "body": "Untreated hearing loss is *one of the largest* modifiable risk factors for dementia. It is also one of the most overlooked."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Straining tires the mind",
+      "body": "When hearing fades, the brain works harder to follow along, and people slowly *pull back from others*. Isolation follows."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Protect it now",
+      "body": "Turn the volume down and *use earplugs at loud events*. Concerts and tools can damage hearing in minutes."
+    },
+    {
+      "type": "content",
+      "kicker": "The step",
+      "title": "Get it checked",
+      "body": "A simple hearing test takes minutes. If you need them, modern hearing aids *can help you stay connected*."
+    },
+    {
+      "type": "content",
+      "kicker": "The point",
+      "title": "It is about the brain",
+      "body": "This is not only about your ears. Caring for your hearing is *caring for your long-term mind*."
+    },
+    {
+      "type": "cta",
+      "title": "Care for the senses that *keep you sharp*.",
+      "body": "Vibe Health scores the sleep, food, water and movement that support brain health, all in one daily number you can actually follow.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Untreated hearing loss is one of the largest changeable risk factors for dementia, and most people never think about it. 👂\n\nTurn the volume down, wear earplugs at loud events, and get a quick hearing test. If you need hearing aids, they can keep you connected. This is brain health, not just ears. Save this. 🔖\n\nVibe Health turns the habits that protect your brain into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#hearinghealth", "#brainhealth", "#dementiaprevention", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Protecting Your Hearing Protects Your Brain",
+  "cover_query": "older person listening"
+}

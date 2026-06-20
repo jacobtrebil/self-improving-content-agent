@@ -1,0 +1,68 @@
+{
+  "key": "103-mobility-sit-rise",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "How easily you *rise off the floor* reveals your aging.",
+      "sub": "Everyday mobility is freedom of movement. Here is how to keep it for life.",
+      "bg": "ai-bg/103-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The test",
+      "title": "The sit-to-rise test",
+      "body": "Getting up from the floor with *little support* is linked to longevity. It reads strength, balance and mobility at once."
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Mobility is freedom",
+      "body": "Mobility is the *freedom to move* through your life: kneeling, reaching, rising. It is quietly worth protecting."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Train your range",
+      "body": "Sit on the floor, hold *deep squats*, work your hips and ankles. Gentle daily range keeps joints willing."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Sitting stiffens you",
+      "body": "All-day sitting *quietly tightens* hips and ankles. Break it up often and move through your full range."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Keep your range for life",
+      "body": "Protect the motion *you'll want at 80*: rising, bending, playing on the floor with grandkids."
+    },
+    {
+      "type": "cta",
+      "title": "Keep the mobility that *keeps you young*.",
+      "body": "Vibe Health turns your daily movement and recovery into one simple score, so you can watch your habits trend up.",
+      "screens": [
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "move well, age well"
+    }
+  ],
+  "caption": "How easily you get off the floor says a lot about how you're aging. 🌿\n\nThe sit-to-rise test reads strength, balance and mobility at once. Train deep squats, floor sitting and hips, and break up all-day sitting. 🔖\n\nVibe Health turns the movement behind your mobility into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#mobility",
+    "#healthspan",
+    "#healthyaging",
+    "#flexibility",
+    "#vibehealth",
+    "#agewell",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Floor Test That Tracks How Well You're Aging",
+  "cover_query": "stretching"
+}

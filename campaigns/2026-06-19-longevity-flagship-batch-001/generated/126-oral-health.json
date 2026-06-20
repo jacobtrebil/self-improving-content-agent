@@ -1,0 +1,55 @@
+{
+  "key": "126-oral-health",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your mouth is *connected* to your heart and brain.",
+      "sub": "Gum health is quietly linked to whole-body longevity. The fix is the boring basics, done daily.",
+      "bg": "ai-bg/126-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Gums and longevity",
+      "body": "Gum health is *linked to heart and brain* longevity. The mouth is more connected to the body than it looks."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It does not stay put",
+      "body": "The same inflammation and bacteria from inflamed gums *may travel beyond the mouth*, reaching the heart and brain."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Floss and show up",
+      "body": "Floss daily and see a dentist on schedule. These are *the boring basics that work*, and most people skip them."
+    },
+    {
+      "type": "content",
+      "kicker": "The angle",
+      "title": "An overlooked lever",
+      "body": "Few longevity habits are *this easy and this ignored*. A few minutes a day is the whole ask."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Quietly whole-body",
+      "body": "Healthy gums *quietly support a healthier body*. The benefit reaches far past a brighter smile."
+    },
+    {
+      "type": "cta",
+      "title": "Track the small habits that *add up*.",
+      "body": "Vibe Health turns the daily basics, sleep, food, water and movement, into one clear Health Score so nothing falls through the cracks.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your basics, scored"
+    }
+  ],
+  "caption": "Your mouth is more connected to your heart and brain than you think. Gum health is quietly linked to whole-body longevity. 🦷\n\nThe same inflammation and bacteria may travel beyond the mouth, so floss daily and see a dentist. Boring basics, real payoff. Save this. 🔖\n\nVibe Health turns the small daily habits into one Health Score → link in bio.",
+  "hashtags": ["#longevity", "#oralhealth", "#gumhealth", "#hearthealth", "#healthspan", "#healthyaging", "#vibehealth", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Your Gum Health Is Linked to Longevity",
+  "cover_query": "toothbrush dental care"
+}

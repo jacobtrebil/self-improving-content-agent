@@ -1,0 +1,68 @@
+{
+  "key": "117-connection-longevity",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Connection may rival *diet and exercise* for a long life.",
+      "sub": "Strong relationships are one of the clearest predictors of healthy aging. The good news: small habits build them.",
+      "bg": "ai-bg/117-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "Ties add years",
+      "body": "Strong social ties are *linked to longer life*. In long studies they hold up alongside the usual health habits."
+    },
+    {
+      "type": "content",
+      "kicker": "The risk",
+      "title": "Loneliness has weight",
+      "body": "Loneliness carries a risk that researchers *compare to smoking*. It is a health factor, not just a mood."
+    },
+    {
+      "type": "content",
+      "kicker": "The nuance",
+      "title": "Quality over crowd",
+      "body": "It is *quality and regularity* that matter, not the size of the crowd. A few steady relationships go a long way."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Build small rituals",
+      "body": "Make connection a habit: a *weekly call or shared meal*. Routine keeps relationships alive without much planning."
+    },
+    {
+      "type": "content",
+      "kicker": "The bonus",
+      "title": "It softens stress",
+      "body": "Connection also *buffers everyday stress*. People you can lean on take the edge off ordinary hard days."
+    },
+    {
+      "type": "cta",
+      "title": "Tend the habits that *add good years*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps that support healthy aging, all in one calm daily number.",
+      "screens": [
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "live better, longer"
+    }
+  ],
+  "caption": "Strong connection may rival diet and exercise for a long life, and loneliness carries a risk researchers compare to smoking. 🤝\n\nIt is quality and regularity that matter, not crowd size. Build small rituals: a weekly call, a shared meal. Connection also buffers everyday stress. Save this. 🔖\n\nVibe Health turns your healthy habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#socialconnection",
+    "#healthyaging",
+    "#bluezones",
+    "#healthspan",
+    "#wellness",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Connection Rivals Diet and Exercise for a Long Life",
+  "cover_query": "friends laughing"
+}

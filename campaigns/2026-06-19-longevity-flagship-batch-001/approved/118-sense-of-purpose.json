@@ -1,0 +1,68 @@
+{
+  "key": "118-sense-of-purpose",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A reason to get up may *add years*.",
+      "sub": "A sense of purpose is quietly tied to living longer. It can be small, and it pulls the other habits along.",
+      "bg": "ai-bg/118-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "Purpose tracks longevity",
+      "body": "A sense of purpose, what some call ikigai, is *linked to living longer*. People with one tend to age better."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It lowers the load",
+      "body": "Purpose *lowers stress and motivates* healthy habits. With a reason to keep going, the daily basics feel easier to hold."
+    },
+    {
+      "type": "content",
+      "kicker": "The nuance",
+      "title": "It can be small",
+      "body": "Purpose can be *a hobby or a project*, or simply helping others. It does not need to be a grand mission."
+    },
+    {
+      "type": "content",
+      "kicker": "The example",
+      "title": "Stay useful and needed",
+      "body": "In Blue Zones, elders *stay useful and needed* well into old age. A role in the day keeps them engaged."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "It anchors the rest",
+      "body": "Purpose gives the other habits *something to serve*. Sleep, food and movement matter more when they support a life you want."
+    },
+    {
+      "type": "cta",
+      "title": "Give your habits *something to serve*.",
+      "body": "Vibe Health turns your sleep, food, water and steps into one daily plan, so the basics stay easy to keep up.",
+      "screens": [
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "a reason to keep going"
+    }
+  ],
+  "caption": "A reason to get up may add years. A sense of purpose, what some call ikigai, is linked to living longer. 🌱\n\nIt lowers stress and motivates healthy habits, and it can be small: a hobby, a project, helping others. In Blue Zones, elders stay useful and needed. Save this. 🔖\n\nVibe Health turns your daily habits into one simple plan → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#ikigai",
+    "#purpose",
+    "#bluezones",
+    "#healthspan",
+    "#healthyaging",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why a Sense of Purpose Is Linked to a Longer Life",
+  "cover_query": "gardening"
+}

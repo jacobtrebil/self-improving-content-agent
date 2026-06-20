@@ -1,0 +1,69 @@
+{
+  "key": "100-muscle-for-aging",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The muscle you keep is *the freedom* you'll have.",
+      "sub": "Strength is one of the clearest markers of aging well. Here is how to build it, at any age.",
+      "bg": "ai-bg/100-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Muscle fades with age",
+      "body": "From your 30s on you slowly lose muscle. It is called sarcopenia, and *it speeds up* in later decades."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Muscle isn't vanity",
+      "body": "Muscle means balance, independence and a *place to store glucose*, which can support steadier metabolic health."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Two sessions a week",
+      "body": "Two strength sessions weekly is enough to start, and *it is never too late*. Even 80-year-olds gain muscle in studies."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Lift, carry, climb",
+      "body": "Lift weights, carry the groceries, climb stairs, do sit-to-stands. Then *add a little* over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Then let it rebuild",
+      "body": "Muscle grows on the recovery, not the lift. *Protein and rest* are how the work pays off."
+    },
+    {
+      "type": "cta",
+      "title": "Build strength that *lasts decades*.",
+      "body": "Vibe Health scores the movement, food and recovery behind your strength, all in one simple daily number.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "strength, tracked"
+    }
+  ],
+  "caption": "The muscle you build now is the independence you'll have at 80. 💪\n\nTwo strength sessions a week is enough to start, and it's never too late: even 80-year-olds gain. Add protein and recovery and let it rebuild. 🔖\n\nVibe Health turns the work behind your strength into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#healthspan",
+    "#strengthtraining",
+    "#sarcopenia",
+    "#healthyaging",
+    "#vibehealth",
+    "#agewell",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Building Muscle Now Keeps You Independent at 80",
+  "cover_query": "weight training"
+}

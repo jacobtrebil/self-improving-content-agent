@@ -1,0 +1,55 @@
+{
+  "key": "110-hydration-aging",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Staying well-hydrated is linked to *slower aging*.",
+      "sub": "A simple daily habit may quietly protect your long-term health. Here is what the research suggests.",
+      "bg": "ai-bg/110-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Water and your biology",
+      "body": "In a large study, well-hydrated adults *aged more slowly* and had fewer chronic diseases than those who ran dry."
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Most run a little dry",
+      "body": "Many people are *mildly dehydrated* without noticing. Thirst lags, and busy days make it easy to forget."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It touches everything",
+      "body": "Good hydration can support energy, skin and the load on *your heart and kidneys* over the years."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Sip through the day",
+      "body": "Sip steadily instead of gulping all at once. Pale-yellow urine is a *simple, honest gauge*."
+    },
+    {
+      "type": "content",
+      "kicker": "Good to know",
+      "title": "Food and tea count",
+      "body": "Water-rich foods and *herbal tea also count*. Fruit, soup and vegetables quietly add to your total."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *add years*.",
+      "body": "Vibe Health turns your water, food, sleep and movement into one simple daily score, so steady habits are easy to see.",
+      "screens": ["score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your day, one number"
+    }
+  ],
+  "caption": "One of the simplest longevity habits is also the easiest to forget: staying well-hydrated. 💧\n\nIn research, well-hydrated adults aged more slowly. Sip steadily through the day, and let pale-yellow urine be your gauge. Food and herbal tea count too. 🔖\n\nVibe Health turns the small daily habits into one calm score → link in bio.",
+  "hashtags": ["#longevity", "#hydration", "#healthspan", "#healthyaging", "#wellness", "#vibehealth", "#agewell", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Staying Hydrated Is Linked to Slower Aging",
+  "cover_query": "glass of water"
+}

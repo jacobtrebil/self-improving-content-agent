@@ -1,0 +1,55 @@
+{
+  "key": "107-protein-with-age",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "As you age, you need *more protein*, not less.",
+      "sub": "Older bodies hold muscle less easily. Eating enough protein helps protect strength for the long run.",
+      "bg": "ai-bg/107-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Aging resists muscle",
+      "body": "Older bodies build muscle less efficiently, called anabolic resistance. That means *protein needs go up* with age."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Protein protects more",
+      "body": "Enough protein helps protect both muscle and bone, two things that *quietly decide* how independent you stay."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Spread it across meals",
+      "body": "Aim higher than the old baseline and split it through the day, roughly *25 to 40g per meal*."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Easy everyday sources",
+      "body": "Eggs, fish, dairy and beans make it simple. You rarely need powders, *just consistent meals*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Pair it with strength",
+      "body": "Protein gives muscle the materials. Strength training gives the signal to *actually use them*."
+    },
+    {
+      "type": "cta",
+      "title": "Hold the muscle that *keeps you strong*.",
+      "body": "Vibe Health scores your food, movement and habits into one daily number, with a simple plan for the next day.",
+      "screens": ["plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat to stay strong"
+    }
+  ],
+  "caption": "Here is the counterintuitive part: as you age, you need more protein, not less. 🍳\n\nOlder bodies build muscle less easily, so aim higher than the old baseline, spread it across meals, and pair it with strength work. Eggs, fish, dairy and beans make it easy. 🔖\n\nVibe Health turns your food and movement into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#protein", "#muscle", "#healthspan", "#healthyaging", "#nutrition", "#vibehealth", "#agewell", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Why You Need More Protein as You Age",
+  "cover_query": "salmon healthy plate"
+}
