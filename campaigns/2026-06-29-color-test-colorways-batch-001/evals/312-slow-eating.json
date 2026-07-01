@@ -1,0 +1,114 @@
+{
+  "key": "312-slow-eating",
+  "eyebrow": "Slow Eating",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/312-slow-eating.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/312-slow-eating.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/31-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/31-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Your stomach is *20 minutes behind*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "308/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 4,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'20 minutes behind' is specific and counter-intuitive enough to earn a pause, though it lacks a sharper emotional stake (hunger, overeating guilt) that would make it unmissable.",
+      "clarity": "Each slide advances a single mechanical step — delay → hormones → trap → fix → payoff — with no detours or jargon overload.",
+      "audience_fit": "The busy 25-year-old who eats lunch in 8 minutes at their desk will recognize themselves immediately; 'no willpower required' is exactly the frame they need.",
+      "novelty": "The 20-minute rule is one of the most repeated nutrition facts on TikTok — the hormone framing (ghrelin/GLP-1) adds a thin layer but won't feel fresh to a health-curious feed.",
+      "brand_fit": "Claims are hedged ('roughly', 'naturally'), voice is plain and direct, CTA ties cleanly to meal snapping and the Health Score without AI-cringe or hype words.",
+      "predicted_performance": "Strong saves potential from the actionable hook, but the well-worn topic will suppress shares and algorithmic push unless a novel visual angle compensates on the cover."
+    },
+    "overall": 3.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25804,
+    "tokensOut": 314,
+    "costUsd": 0.0702082,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'20 minutes behind' is specific and counter-intuitive enough to earn a pause, though it lacks a sharper emotional stake (hunger, overeating guilt) that would make it unmissable."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide advances a single mechanical step — delay → hormones → trap → fix → payoff — with no detours or jargon overload."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "The busy 25-year-old who eats lunch in 8 minutes at their desk will recognize themselves immediately; 'no willpower required' is exactly the frame they need."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "The 20-minute rule is one of the most repeated nutrition facts on TikTok — the hormone framing (ghrelin/GLP-1) adds a thin layer but won't feel fresh to a health-curious feed."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Claims are hedged ('roughly', 'naturally'), voice is plain and direct, CTA ties cleanly to meal snapping and the Health Score without AI-cringe or hype words."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong saves potential from the actionable hook, but the well-worn topic will suppress shares and algorithmic push unless a novel visual angle compensates on the cover."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:18.313Z"
+}

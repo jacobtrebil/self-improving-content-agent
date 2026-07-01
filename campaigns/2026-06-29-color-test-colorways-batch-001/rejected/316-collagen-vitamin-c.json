@@ -1,0 +1,59 @@
+{
+  "key": "316-collagen-vitamin-c",
+  "theme": "health",
+  "colorway": "mint",
+  "eyebrow": "Collagen",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Collagen needs a *hidden cofactor*.",
+      "sub": "Your body can't build collagen without vitamin C. Take them together and you may better support skin, joints, and tendons.",
+      "bg": "ai-bg/316-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The gap",
+      "title": "Collagen alone falls short",
+      "body": "Collagen peptides give your body the raw material — but raw material *isn't the whole story*."
+    },
+    {
+      "type": "content",
+      "kicker": "The cofactor",
+      "title": "Vitamin C is required",
+      "body": "Vitamin C is the *cofactor for collagen synthesis* — without it, the enzymes that assemble collagen stall."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Pair them together",
+      "body": "Take collagen with a *vitamin C source* — citrus, berries, or peppers — so your body can actually use it."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Skin, joints, tendons",
+      "body": "Together they may support *skin elasticity and joints* — plus the tendons that keep you training pain-free."
+    },
+    {
+      "type": "content",
+      "kicker": "Be patient",
+      "title": "Give it weeks",
+      "body": "This isn't overnight — most studies ran *8 to 12 weeks* before measuring changes. Consistency beats dose."
+    },
+    {
+      "type": "cta",
+      "title": "Support skin and joints *the smart way*.",
+      "body": "Vibe Health lets you log supplements and meals, then tracks them on a trend line — so you can stay consistent for the weeks it takes.",
+      "button": "Download Vibe Health →",
+      "tag": "consistency your skin can see",
+      "bg": "ai-bg/316-cta.png"
+    }
+  ],
+  "caption": "Taking collagen but seeing nothing? You might be missing its cofactor. ✨\n\nYour body can't assemble collagen without vitamin C — so pair your peptides with citrus, berries, or peppers. Give it 8 to 12 weeks and stay consistent. Save this. 🔖\n\nVibe Health helps you log supplements and stay consistent on a trend line → link in bio.",
+  "hashtags": ["#collagen", "#vitaminc", "#skinhealth", "#jointhealth", "#supplements", "#healthtips", "#wellness", "#antiaging", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Collagen Won't Work Without This One Cofactor",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close candid portrait of a woman's face and shoulder in low light, natural skin texture, calm and unretouched.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A hand stirring collagen powder into a glass beside fresh citrus on a dark counter, soft side light."
+  }
+}

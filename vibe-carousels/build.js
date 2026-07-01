@@ -13,40 +13,73 @@ const W = 1080, H = 1920;
 const SUF = "-tt";
 
 // --- design system ---------------------------------------------------------
-const CSS = `
+// Colorways. The black-on-white "mono" palette is the original look and the
+// default for every existing deck. A campaign spec can opt into another palette
+// via a top-level "colorway" field (see formats/health-carousel/schema.yaml).
+// Each palette carries every color token the CSS needs plus `ovr` (the rgb the
+// photo-background gradient fades to) and `shadow` (the rgb used for the
+// text halo over photos — light themes use a white halo behind dark text).
+const PALETTES = {
+  // control — original black/white
+  mono: { bg: "#0a0a0a", ink: "#fafafa", faint: "#7c7c7c", muted: "#9a9a9a", body: "#c4c4c4",
+    ghost: "#1c1c1c", hair: "#1e1e1e", pillBg: "#fafafa", pillFg: "#0a0a0a", kicker: "#fafafa",
+    btnBg: "#fafafa", btnFg: "#0a0a0a", subImg: "#d6d6d6", ovr: "10,10,10", shadow: "0,0,0" },
+  // soft white → brand green ink
+  mint: { bg: "#f6fcf8", ink: "#0e3b24", faint: "#6f9a7e", muted: "#3f6b50", body: "#2f5a40",
+    ghost: "#e2f4e9", hair: "#cdeeda", pillBg: "#22c55e", pillFg: "#06230f", kicker: "#15803d",
+    btnBg: "#0e3b24", btnFg: "#f6fcf8", subImg: "#0e3b24", ovr: "246,252,248", shadow: "255,255,255" },
+  // deep green panel, light text
+  "deep-green": { bg: "#0e3b24", ink: "#f6fcf8", faint: "#7fae93", muted: "#b9d8c6", body: "#cfe7d8",
+    ghost: "#15492f", hair: "#1c5538", pillBg: "#22c55e", pillFg: "#06230f", kicker: "#9be8b8",
+    btnBg: "#f6fcf8", btnFg: "#0e3b24", subImg: "#cfe7d8", ovr: "14,59,36", shadow: "0,0,0" },
+  // warm cream, near-black green ink
+  cream: { bg: "#f4ecd8", ink: "#06230f", faint: "#9c8f6f", muted: "#5c5238", body: "#3f3a28",
+    ghost: "#e7dcc0", hair: "#ddd0b0", pillBg: "#06230f", pillFg: "#f4ecd8", kicker: "#15803d",
+    btnBg: "#06230f", btnFg: "#f4ecd8", subImg: "#06230f", ovr: "244,236,216", shadow: "255,255,255" },
+  // charcoal with amber accent
+  charcoal: { bg: "#1c1c1c", ink: "#f5f0e6", faint: "#8a8276", muted: "#b8b0a2", body: "#d8d0c2",
+    ghost: "#2a2a2a", hair: "#333029", pillBg: "#f5c451", pillFg: "#1c1c1c", kicker: "#f5c451",
+    btnBg: "#f5c451", btnFg: "#1c1c1c", subImg: "#d8d0c2", ovr: "28,28,28", shadow: "0,0,0" },
+};
+const DEFAULT_PALETTE = "mono";
+
+function cssFor(p) {
+  return `
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:${W}px;height:${H}px}
-.slide{width:${W}px;height:${H}px;background:#0a0a0a;color:#fafafa;
+.slide{width:${W}px;height:${H}px;background:${p.bg};color:${p.ink};
   font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",system-ui,sans-serif;
   padding:96px;display:flex;flex-direction:column;position:relative;overflow:hidden;
   -webkit-font-smoothing:antialiased}
 .row{display:flex;align-items:center;justify-content:space-between}
-.eyebrow{font-size:24px;font-weight:700;letter-spacing:5px;text-transform:uppercase;color:#7c7c7c}
-.prog{font-size:24px;font-weight:700;letter-spacing:2px;color:#7c7c7c}
+.eyebrow{font-size:24px;font-weight:700;letter-spacing:5px;text-transform:uppercase;color:${p.faint}}
+.prog{font-size:24px;font-weight:700;letter-spacing:2px;color:${p.faint}}
 .spacer{flex:1}
-.idx{font-size:240px;font-weight:800;line-height:0.85;letter-spacing:-4px;color:#1c1c1c;margin-bottom:8px}
+.idx{font-size:240px;font-weight:800;line-height:0.85;letter-spacing:-4px;color:${p.ghost};margin-bottom:8px}
 .h-cover{font-size:88px;font-weight:800;line-height:1.04;letter-spacing:-2px}
 .h-content{font-size:60px;font-weight:800;line-height:1.08;letter-spacing:-1px;margin-bottom:30px}
-.sub{font-size:32px;font-weight:500;line-height:1.45;color:#9a9a9a;margin-top:34px;max-width:840px}
-.body{font-size:32px;font-weight:400;line-height:1.5;color:#c4c4c4;max-width:840px}
-.hl{background:#fafafa;color:#0a0a0a;padding:2px 14px;border-radius:10px;font-weight:600;
+.sub{font-size:32px;font-weight:500;line-height:1.45;color:${p.muted};margin-top:34px;max-width:840px}
+.body{font-size:32px;font-weight:400;line-height:1.5;color:${p.body};max-width:840px}
+.hl{background:${p.pillBg};color:${p.pillFg};padding:2px 14px;border-radius:10px;font-weight:600;
   white-space:nowrap;line-height:1.5}
-.swipe{font-size:30px;font-weight:600;color:#fafafa}
-.handle{font-size:26px;font-weight:600;color:#6f6f6f;letter-spacing:1px}
-.tag{font-size:24px;font-weight:600;color:#6f6f6f}
-.btn{display:inline-block;background:#fafafa;color:#0a0a0a;font-size:34px;font-weight:700;
+.swipe{font-size:30px;font-weight:600;color:${p.ink}}
+.handle{font-size:26px;font-weight:600;color:${p.faint};letter-spacing:1px}
+.tag{font-size:24px;font-weight:600;color:${p.faint}}
+.btn{display:inline-block;background:${p.btnBg};color:${p.btnFg};font-size:34px;font-weight:700;
   padding:26px 52px;border-radius:999px;letter-spacing:0.5px}
-.hairline{height:2px;background:#1e1e1e;margin:38px 0}
-.kicker{font-size:34px;font-weight:700;color:#fafafa;margin-bottom:16px}
+.hairline{height:2px;background:${p.hair};margin:38px 0}
+.kicker{font-size:34px;font-weight:700;color:${p.kicker};margin-bottom:16px}
 .slide.onimg{background-size:cover;background-position:center center}
-.slide.onimg .h-cover,.slide.onimg .h-content{text-shadow:0 2px 34px rgba(0,0,0,0.65)}
-.slide.onimg .sub{text-shadow:0 2px 20px rgba(0,0,0,0.8);color:#d6d6d6}
-.slide.onimg .eyebrow,.slide.onimg .tag,.slide.onimg .handle,.slide.onimg .swipe,.slide.onimg .prog{text-shadow:0 1px 14px rgba(0,0,0,0.9)}
+.slide.onimg .h-cover,.slide.onimg .h-content{text-shadow:0 2px 34px rgba(${p.shadow},0.65)}
+.slide.onimg .sub{text-shadow:0 2px 20px rgba(${p.shadow},0.8);color:${p.subImg}}
+.slide.onimg .eyebrow,.slide.onimg .tag,.slide.onimg .handle,.slide.onimg .swipe,.slide.onimg .prog{text-shadow:0 1px 14px rgba(${p.shadow},0.9)}
 `;
+}
 
-// dark gradient overlay so text stays legible over a photo background
-function bgStyle(img) {
-  return `background-image:linear-gradient(180deg,rgba(10,10,10,0.80) 0%,rgba(10,10,10,0.40) 40%,rgba(10,10,10,0.55) 66%,rgba(10,10,10,0.96) 100%),url('${img}');background-size:cover;background-repeat:no-repeat;background-position:center center`;
+// gradient overlay (palette-tinted) so text stays legible over a photo background
+function bgStyle(img, p = PALETTES[DEFAULT_PALETTE]) {
+  const o = p.ovr;
+  return `background-image:linear-gradient(180deg,rgba(${o},0.80) 0%,rgba(${o},0.40) 40%,rgba(${o},0.55) 66%,rgba(${o},0.96) 100%),url('${img}');background-size:cover;background-repeat:no-repeat;background-position:center center`;
 }
 
 // turn *word* into a highlighted pill
@@ -54,22 +87,22 @@ function hl(text) {
   return text.replace(/\*(.+?)\*/g, '<span class="hl">$1</span>');
 }
 
-function doc(inner, { cls = "", style = "" } = {}) {
+function doc(inner, { cls = "", style = "", p = PALETTES[DEFAULT_PALETTE] } = {}) {
   const attrs = `class="slide${cls ? " " + cls : ""}"${style ? ` style="${style}"` : ""}`;
-  return `<!doctype html><html><head><meta charset="utf-8"><style>${CSS}</style></head><body><div ${attrs}>${inner}</div></body></html>`;
+  return `<!doctype html><html><head><meta charset="utf-8"><style>${cssFor(p)}</style></head><body><div ${attrs}>${inner}</div></body></html>`;
 }
 
-function cover({ eyebrow, title, sub, bg }) {
+function cover({ eyebrow, title, sub, bg, p = PALETTES[DEFAULT_PALETTE] }) {
   return doc(`
     <div class="spacer"></div>
     <h1 class="h-cover">${hl(title)}</h1>
     ${sub ? `<p class="sub">${hl(sub)}</p>` : ""}
     <div class="spacer"></div>
     <div class="row"><span class="swipe">Swipe →</span><span class="handle">${HANDLE}</span></div>
-  `, bg ? { cls: "onimg", style: bgStyle(bg) } : {});
+  `, bg ? { cls: "onimg", style: bgStyle(bg, p), p } : { p });
 }
 
-function content({ eyebrow, idx, total, kicker, title, body }) {
+function content({ eyebrow, idx, total, kicker, title, body, p = PALETTES[DEFAULT_PALETTE] }) {
   return doc(`
     <div class="spacer"></div>
     <div class="idx">${String(idx-1).padStart(2,"0")}</div>
@@ -78,10 +111,10 @@ function content({ eyebrow, idx, total, kicker, title, body }) {
     <p class="body">${hl(body)}</p>
     <div class="spacer"></div>
     <div class="row"><span class="handle">${HANDLE}</span></div>
-  `);
+  `, { p });
 }
 
-function cta({ eyebrow, title, body, button, bg, tag }) {
+function cta({ eyebrow, title, body, button, bg, tag, p = PALETTES[DEFAULT_PALETTE] }) {
   return doc(`
     <div class="spacer"></div>
     <h1 class="h-cover">${hl(title)}</h1>
@@ -90,7 +123,7 @@ function cta({ eyebrow, title, body, button, bg, tag }) {
     <div>${`<span class="btn">${button}</span>`}</div>
     <div class="spacer"></div>
     <div class="row"><span class="handle">${HANDLE}</span><span class="tag">${tag || "Building tools that help you flourish"}</span></div>
-  `, bg ? { cls: "onimg", style: bgStyle(bg) } : {});
+  `, bg ? { cls: "onimg", style: bgStyle(bg, p), p } : { p });
 }
 
 // --- deck definitions ------------------------------------------------------
@@ -402,14 +435,17 @@ const decks = {
 // so new campaigns need no edits here. Cover/CTA backgrounds auto-attach from
 // ai-bg/<NN>-cover|cta.png (see the write loop below).
 function specToDeck(spec) {
+  const colorway = spec.colorway && PALETTES[spec.colorway] ? spec.colorway : DEFAULT_PALETTE;
+  const p = PALETTES[colorway];
   return {
     eyebrow: spec.eyebrow,
+    colorway,
     slides: (E, T) =>
       spec.slides.map((s, i) => {
-        if (s.type === "cover") return cover({ eyebrow: E, title: s.title, sub: s.sub });
+        if (s.type === "cover") return cover({ eyebrow: E, title: s.title, sub: s.sub, p });
         if (s.type === "cta")
-          return cta({ eyebrow: E, title: s.title, body: s.body, button: s.button, tag: s.tag });
-        return content({ eyebrow: E, idx: i + 1, total: T, kicker: s.kicker, title: s.title, body: s.body });
+          return cta({ eyebrow: E, title: s.title, body: s.body, button: s.button, tag: s.tag, p });
+        return content({ eyebrow: E, idx: i + 1, total: T, kicker: s.kicker, title: s.title, body: s.body, p });
       }),
   };
 }
@@ -441,13 +477,14 @@ for (const [name, def] of Object.entries(decks)) {
   const total = def.slides(def.eyebrow, 0).length;
   const html = def.slides(def.eyebrow, total);
   const num = (name.match(/^(\d+)/) || [])[1];
+  const pal = PALETTES[def.colorway] || PALETTES[DEFAULT_PALETTE];
   html.forEach((h, i) => {
     let out = h;
     // auto-attach AI background to cover (first) + CTA (last) when an image exists
     if (num && !out.includes('class="slide onimg"')) {
       const img = i === 0 ? `${num}-cover.png` : i === html.length - 1 ? `${num}-cta.png` : null;
       if (img && fs.existsSync(path.join(root, "ai-bg", img))) {
-        out = out.replace('<div class="slide">', `<div class="slide onimg" style="${bgStyle(`../ai-bg/${img}`)}">`);
+        out = out.replace('<div class="slide">', `<div class="slide onimg" style="${bgStyle(`../ai-bg/${img}`, pal)}">`);
       }
     }
     fs.writeFileSync(path.join(dir, `slide-${String(i + 1).padStart(2, "0")}${SUF}.html`), out);

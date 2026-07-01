@@ -1,0 +1,55 @@
+{
+  "key": "451-foot-strength-barefoot",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your balance starts at the *floor*.",
+      "sub": "Strong feet rebuild your arch and the sensory feedback that keeps you steady. Here is why it matters.",
+      "bg": "ai-bg/451-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Feet are foundations",
+      "body": "Inside each foot are small muscles that hold the arch and *sense the ground*. Cushioned shoes let them quietly go to sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Strength rebuilds the arch",
+      "body": "Training the intrinsic foot muscles can *restore arch support* from the inside, rather than leaning on padding and inserts to do the job."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Better sensory feedback",
+      "body": "Those same muscles report your position back to the brain. Sharper feedback *is linked to* steadier standing balance as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "Start simple",
+      "title": "Spend time barefoot",
+      "body": "Walk barefoot at home, rise onto your toes, and try to *spread your toes* wide. A few minutes a day can wake the feet up."
+    },
+    {
+      "type": "content",
+      "kicker": "The thread",
+      "title": "Balance is a habit",
+      "body": "Steady feet show up in your daily steps and movement. The progress is *easy to miss* unless you are actually tracking it."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *keep you steady*.",
+      "body": "Vibe Health turns your daily movement, steps, sleep and food into one Health Score, so the small habits that build balance stay easy to see.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "balance, tracked"
+    }
+  ],
+  "caption": "Steady balance does not start in your core. It starts at your feet. 🦶🌿\n\nThe small muscles inside your feet hold your arch and feed your brain the sense of where you stand. Strengthen them with barefoot time, toe spreads and calf raises, and steadier balance can follow. Save this. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#footstrength", "#balancetraining", "#healthyaging", "#barefoot", "#wellness", "#healthhabits", "#mobility", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Strong Feet Keep Your Balance Steady",
+  "cover_query": "bare feet floor"
+}

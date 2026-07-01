@@ -1,0 +1,72 @@
+{
+  "key": "303-dietary-nitrates",
+  "theme": "health",
+  "colorway": "cream",
+  "eyebrow": "Nitrates",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The nutrient that *widens your arteries*.",
+      "sub": "It comes down to nitric oxide — the molecule that relaxes your blood vessels. May lower blood pressure and lift your endurance.",
+      "bg": "ai-bg/303-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Nitrates become nitric oxide",
+      "body": "Your body converts *dietary nitrates* into nitric oxide, which signals blood vessels to relax and widen."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Wider vessels, lower pressure",
+      "body": "Relaxed vessels mean easier blood flow. Studies link nitrate-rich diets to *modestly lower blood pressure*."
+    },
+    {
+      "type": "content",
+      "kicker": "Best sources",
+      "title": "Eat the deep greens",
+      "body": "Beets, arugula, spinach and rocket are the richest sources. A *daily handful of greens* adds up."
+    },
+    {
+      "type": "content",
+      "kicker": "For endurance",
+      "title": "Cheaper than pre-workout",
+      "body": "More nitric oxide can mean better oxygen use. Beet juice may boost *stamina by a few percent*."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Time it right",
+      "body": "Effects peak *2–3 hours* after eating. A beet salad before a walk or workout stacks the benefit."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for *steadier energy*.",
+      "body": "Vibe Health logs your meals and ties what you eat to your daily energy and Health Score — so the wins get obvious.",
+      "button": "Download Vibe Health →",
+      "tag": "fuel your heart and stamina",
+      "bg": "ai-bg/303-cta.png"
+    }
+  ],
+  "caption": "Your blood vessels have a natural dilator, and it lives in your salad bowl. 🥬\n\nDietary nitrates turn into nitric oxide, beets and leafy greens are the richest sources, and effects peak 2–3 hours after you eat. Save this for your next grocery run. 🔖\n\nVibe Health ties what you eat to how much energy you actually have → link in bio.",
+  "hashtags": [
+    "#nitricoxide",
+    "#beets",
+    "#leafygreens",
+    "#bloodpressure",
+    "#endurance",
+    "#hearthealth",
+    "#nutrition",
+    "#healthylifestyle",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Vegetable That Widens Your Arteries",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person on a dim kitchen counter slicing raw beets and arugula into a bowl, side light catching the leafy edges.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of hands lifting a glass of fresh beet juice, hard rim light on the dark liquid."
+  },
+  "cover_query": "beetroot",
+  "cta_query": "arugula salad"
+}

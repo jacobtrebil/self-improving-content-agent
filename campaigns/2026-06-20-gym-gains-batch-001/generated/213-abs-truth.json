@@ -1,0 +1,68 @@
+{
+  "key": "213-abs-truth",
+  "theme": "gym",
+  "eyebrow": "Nutrition",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Get visible *abs*.",
+      "sub": "It's not crunches.",
+      "img": "ai-bg/213-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Truth",
+      "title": "Made in the *kitchen*",
+      "body": "You can't crunch off belly fat."
+    },
+    {
+      "type": "content",
+      "kicker": "Get lean",
+      "title": "Get *lean*",
+      "body": "Abs show around 10 to 15% body fat.",
+      "stat": "<15%"
+    },
+    {
+      "type": "content",
+      "kicker": "Deficit",
+      "title": "Eat in a *deficit*",
+      "body": "Spot reduction isn't real. Lose fat overall."
+    },
+    {
+      "type": "content",
+      "kicker": "Train",
+      "title": "Train them *direct*",
+      "body": "Weighted abs build the look once you're lean."
+    },
+    {
+      "type": "content",
+      "kicker": "Patience",
+      "title": "Stay *consistent*",
+      "body": "It's months of a deficit, not a 6-minute routine."
+    },
+    {
+      "type": "cta",
+      "title": "Unhide your *abs*.",
+      "body": "Vibe Health tracks the deficit that actually reveals them.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Get visible abs. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks the deficit that actually reveals them. → link in bio.",
+  "hashtags": [
+    "#abs",
+    "#sixpack",
+    "#gymtok",
+    "#fatloss",
+    "#getlean",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#coreworkout",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Get Visible Abs"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "471-flow-state",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Deep focus may *protect* the aging brain.",
+      "sub": "Flow is the state where time disappears and the work feels effortless. It does more for your mind than it feels like.",
+      "bg": "ai-bg/471-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Flow quiets the inner critic",
+      "body": "In deep flow the brain's *default-mode network* goes quiet. That is the chatter behind self-doubt, rumination and worry."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Focus chemistry takes over",
+      "body": "Absorbed attention can flood the brain with focus chemistry. The constant background noise *finally settles down*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Lower stress, clearer mind",
+      "body": "Less mental chatter is linked to *lower stress*. Flow is one of the calmest, most restorative states the brain can reach."
+    },
+    {
+      "type": "content",
+      "kicker": "The long game",
+      "title": "A shield for cognition",
+      "body": "Regular deep focus may help *protect long-term cognition*. The way you spend attention now shapes the brain you keep."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Design for one task",
+      "body": "Pick one task, clear the distractions, and give it a real block of time. Flow tends to *follow uninterrupted attention*."
+    },
+    {
+      "type": "cta",
+      "title": "Build a life that *finds flow*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps behind sharp focus, turning your daily habits into one Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your focus, tracked"
+    }
+  ],
+  "caption": "Flow is more than productivity. It is one of the calmest, most protective states your brain can reach. 🌿🧠\n\nDeep focus can quiet the mental chatter, lower stress and may help shield long-term cognition. The trick is protecting your attention. Save this. 🔖\n\nVibe Health turns sleep, food and movement into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#flowstate", "#brainhealth", "#focus", "#deepwork", "#wellness", "#healthhabits", "#cognition", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Flow State Protects Your Brain",
+  "cover_query": "potter at wheel"
+}

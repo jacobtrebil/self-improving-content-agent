@@ -1,0 +1,114 @@
+{
+  "key": "317-cocoa-flavanols",
+  "eyebrow": "Cocoa Flavanols",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/317-cocoa-flavanols.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/317-cocoa-flavanols.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/31-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/31-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Dark chocolate for a *sharper brain*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "286/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Dark chocolate for a sharper brain' is concrete and has a feel-good payoff, but the mechanism sub-line is dense for a cover — slightly overwrites the hook.",
+      "clarity": "Every slide is one idea with a clear label, logical progression from compound → mechanism → payoff → how-to → dose, nothing to re-read.",
+      "audience_fit": "'Tired by 3pm' audience will latch onto focus/memory angle, and the '≥70%, one square' instruction is low-effort to act on — good fit, though not urgency-driven.",
+      "novelty": "Dark chocolate brain benefits are a well-worn content category; the nitric-oxide framing adds a layer but won't feel fresh to anyone who follows health accounts.",
+      "brand_fit": "Claims are properly hedged ('linked to', 'is linked to'), no hypey words, the CTA ties directly to the Health Score feature without AI-cringe.",
+      "predicted_performance": "Saves likely on the dose/choice slides, but the topic is saturated enough that shares will be modest unless the hook thumbnail leans harder into the chocolate visual."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25799,
+    "tokensOut": 299,
+    "costUsd": 0.0699582,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Dark chocolate for a sharper brain' is concrete and has a feel-good payoff, but the mechanism sub-line is dense for a cover — slightly overwrites the hook."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one idea with a clear label, logical progression from compound → mechanism → payoff → how-to → dose, nothing to re-read."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "'Tired by 3pm' audience will latch onto focus/memory angle, and the '≥70%, one square' instruction is low-effort to act on — good fit, though not urgency-driven."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Dark chocolate brain benefits are a well-worn content category; the nitric-oxide framing adds a layer but won't feel fresh to anyone who follows health accounts."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('linked to', 'is linked to'), no hypey words, the CTA ties directly to the Health Score feature without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Saves likely on the dose/choice slides, but the topic is saturated enough that shares will be modest unless the hook thumbnail leans harder into the chocolate visual."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:34.419Z"
+}

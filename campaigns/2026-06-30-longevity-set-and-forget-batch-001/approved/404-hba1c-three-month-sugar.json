@@ -1,0 +1,55 @@
+{
+  "key": "404-hba1c-three-month-sugar",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your blood keeps a *three-month* sugar diary.",
+      "sub": "HbA1c reads the glucose stuck to your red blood cells. It can reveal what a single test misses.",
+      "bg": "ai-bg/404-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Sugar that sticks",
+      "body": "Glucose binds *permanently* to your red blood cells. The more sugar in your blood, the more of it gets coated over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "A built-in three-month log",
+      "body": "Red blood cells live about three months. So HbA1c reflects your *average glucose* over that whole window, not just one moment."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Fasting tests can hide it",
+      "body": "A single fasting number can look fine while your average is creeping up. HbA1c is much *harder to fool*."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Catching it early",
+      "body": "A rising HbA1c *is linked to* prediabetes years before symptoms. Caught early, the trend can often be turned around."
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "Daily habits move the number",
+      "body": "Your A1c reflects months of small choices. Steadier meals, movement and sleep *can support* a healthier average."
+    },
+    {
+      "type": "cta",
+      "title": "Steady days, *steadier* numbers.",
+      "body": "Vibe Health tracks the food, movement, steps and sleep behind your glucose, and rolls them into one daily Health Score you can actually act on.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your average, tracked"
+    }
+  ],
+  "caption": "One fasting test can say you're fine while your three-month average quietly climbs. HbA1c tells the fuller story. 🩸🌿\n\nGlucose sticks to your red blood cells for months, so your A1c is a tamper-proof average that can flag prediabetes early. The good news: daily habits move it. Save this. 🔖\n\nVibe Health turns the food, movement and sleep behind your glucose into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#bloodsugar", "#hba1c", "#prediabetes", "#metabolichealth", "#healthyaging", "#wellness", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "HbA1c: The Three-Month Blood Sugar Test That Fasting Misses",
+  "cover_query": "doctor blood draw"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "439-dead-hangs",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Just *hang there*. Your spine will thank you.",
+      "sub": "A passive hang from a bar decompresses the spine and trains the grip. Here is why that matters more than it looks.",
+      "bg": "ai-bg/439-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Hang, don't pull",
+      "body": "A dead hang is simply letting your body weight *pull you long*. No reps, no strain, just decompression and a steady grip."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Space for the spine",
+      "body": "Hanging gently lengthens the spine and opens the shoulders. Many people find it *can ease stiffness* from a day spent sitting."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Grip is a vital sign",
+      "body": "Grip strength is one of the simplest markers we have. Weaker grip *is linked to* higher all-cause mortality across large studies."
+    },
+    {
+      "type": "content",
+      "kicker": "The build",
+      "title": "Train it by holding",
+      "body": "Every hang quietly builds the forearms, hands and shoulders. Strong hands *can support* an active, independent later life."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Seconds, then minutes",
+      "body": "Begin with a few short holds a day. Add a little time each week and a *minute total* becomes an easy daily habit."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *tracked daily*.",
+      "body": "Vibe Health turns your movement, sleep, food and steps into one daily Health Score, so simple habits like this actually stick.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your daily habits, tracked"
+    }
+  ],
+  "caption": "The simplest longevity move might be the one you walk past at the gym: just hang from the bar. 🌿\n\nHanging can decompress the spine and build grip strength, and grip is one of the strongest simple predictors of how well we age. Start with seconds and build from there. Save this. 🔖\n\nVibe Health turns small daily habits into one clear score → link in bio.",
+  "hashtags": ["#longevity", "#gripstrength", "#deadhang", "#healthspan", "#healthyaging", "#mobility", "#wellness", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "Why You Should Hang From a Bar Every Day",
+  "cover_query": "pull up bar gym"
+}

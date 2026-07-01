@@ -1,0 +1,55 @@
+{
+  "key": "490-cut-microplastics",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The hidden cost of heating food in *plastic*",
+      "sub": "Warm plastic can release compounds that quietly interfere with your hormones. A few swaps may help.",
+      "bg": "ai-bg/490-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Heat changes plastic",
+      "body": "When plastic gets hot, it can leach phthalates and BPA into your food. Heat *speeds up* that transfer."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "These act on hormones",
+      "body": "Phthalates and BPA are *endocrine disruptors*. They can mimic or block the hormones that regulate your body."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Hormones shape aging",
+      "body": "This interference is linked to *metabolic and hormonal shifts* tied to aging. Lowering exposure is a sensible hedge."
+    },
+    {
+      "type": "content",
+      "kicker": "The swap",
+      "title": "Reheat in glass or steel",
+      "body": "Move hot food and leftovers into *glass or stainless steel*. Skip microwaving in plastic tubs and takeout containers."
+    },
+    {
+      "type": "content",
+      "kicker": "Easy wins",
+      "title": "Small habits, real margin",
+      "body": "Let food cool before it touches plastic, and choose *fresh over heavily packaged* when you can. Tiny changes compound."
+    },
+    {
+      "type": "cta",
+      "title": "Small swaps, *tracked daily*.",
+      "body": "Vibe Health turns the food, sleep, movement and steps that protect long-term health into one simple daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Reheating dinner in a plastic tub feels harmless. The heat may be doing more than warming your food. 🌿\n\nWarm plastic can leach phthalates and BPA, hormone disruptors linked to metabolic shifts of aging. Swap to glass and steel. Save this. 🔖\n\nVibe Health turns the habits that protect you into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthyaging", "#hormonehealth", "#wellness", "#endocrinehealth", "#healthhabits", "#agewell", "#metabolichealth", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why You Should Stop Heating Food in Plastic",
+  "cover_query": "plastic food containers"
+}

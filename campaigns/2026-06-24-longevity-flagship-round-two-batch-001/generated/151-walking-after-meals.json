@@ -1,0 +1,18 @@
+{
+  "key": "151-walking-after-meals",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    { "type": "cover", "title": "A short walk *after meals* changes everything.", "sub": "It isn't about more steps. It's about timing. A gentle walk after eating steadies your blood sugar.", "bg": "ai-bg/151-cover.png" },
+    { "type": "content", "kicker": "The idea", "title": "Eating raises blood sugar", "body": "Every meal sends a wave of glucose into your blood. How smoothly your body handles it *matters* for aging well." },
+    { "type": "content", "kicker": "The move", "title": "Ten minutes blunts the rise", "body": "Walking soon after eating helps your muscles use that glucose. A short stroll *may help* soften the post-meal spike." },
+    { "type": "content", "kicker": "Why it works", "title": "Timing beats intensity here", "body": "You don't need a hard workout. A relaxed walk in the right window *does more* than the same walk hours later." },
+    { "type": "content", "kicker": "The habit", "title": "Make it a ritual", "body": "Tie the walk to a meal you eat daily. Pairing it with dinner *can turn* a tip into an effortless routine." },
+    { "type": "content", "kicker": "The takeaway", "title": "Walk a little, often", "body": "A few quiet minutes after meals can support steadier energy and healthier aging. Small, well timed, repeatable." },
+    { "type": "cta", "title": "Turn meals into *easy wins*.", "body": "Vibe Health folds your movement, food and steps into one daily score, so simple habits like a post-meal walk add up.", "screens": ["plan", "score"], "cta_text": "search ‘Vibe Health’ on the App Store", "tag": "your habits, tracked" }
+  ],
+  "caption": "The secret isn't more steps. It's when you take them. 🌿\n\nA meal sends glucose into your blood, and a gentle ten-minute walk soon after may help blunt the rise. Timing beats intensity. Tie it to dinner and it sticks. Save this. 🔖\n\nVibe Health turns small, well-timed habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#bloodsugar", "#walking", "#healthyaging", "#vibehealth", "#aihealthcoach", "#metabolichealth", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "How a Short Walk After Meals Steadies Your Blood Sugar",
+  "cover_query": "couple walking evening"
+}

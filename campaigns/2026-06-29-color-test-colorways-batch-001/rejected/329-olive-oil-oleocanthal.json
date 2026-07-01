@@ -1,0 +1,59 @@
+{
+  "key": "329-olive-oil-oleocanthal",
+  "theme": "health",
+  "colorway": "charcoal",
+  "eyebrow": "Olive Oil",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Good olive oil has a *natural anti-inflammatory* in it.",
+      "sub": "It's called oleocanthal — and it acts a little like ibuprofen. That peppery sting is the tell.",
+      "bg": "ai-bg/329-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The compound",
+      "title": "The peppery kick",
+      "body": "Oleocanthal is what makes fresh olive oil *sting the back of your throat*. That burn is the active part."
+    },
+    {
+      "type": "content",
+      "kicker": "What it does",
+      "title": "Calms inflammation",
+      "body": "It works on the *same pathway as ibuprofen* — gently, over time, not as a painkiller dose."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Slow inflammation ages you",
+      "body": "Chronic low-grade inflammation is tied to *heart and brain aging*. Food-level help adds up."
+    },
+    {
+      "type": "content",
+      "kicker": "Buy right",
+      "title": "Look for the sting",
+      "body": "Choose *extra-virgin in a dark bottle*, recent harvest date. A peppery finish means the good stuff survived."
+    },
+    {
+      "type": "content",
+      "kicker": "Use it",
+      "title": "Pour it raw",
+      "body": "Drizzle it *over finished food* — salads, veg, soup. Less heat keeps more of the compound intact."
+    },
+    {
+      "type": "cta",
+      "title": "Small daily swaps that *quietly compound*.",
+      "body": "Vibe Health logs your meals and turns your food, sleep, and movement into one daily score — so the small upgrades actually show up.",
+      "button": "Download Vibe Health →",
+      "tag": "eat for the long game",
+      "bg": "ai-bg/329-cta.png"
+    }
+  ],
+  "caption": "That peppery sting in good olive oil? It's a compound called oleocanthal. 🫒\n\nIt nudges the same inflammation pathway as ibuprofen — gently, over time. Buy extra-virgin in a dark bottle, look for a recent harvest, and pour it over finished food. 🔖\n\nVibe Health turns small food upgrades into one daily score → link in bio.",
+  "hashtags": ["#oliveoil", "#extravirgin", "#antiinflammatory", "#mediterraneandiet", "#hearthealth", "#longevity", "#nutrition", "#healthtips", "#wellness", "#vibehealthapp"],
+  "youtube_title": "The Anti-Inflammatory Hiding in Your Olive Oil",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of olive oil being drizzled from a dark bottle over a plate in a dim kitchen, light catching the stream.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person tasting a spoonful of olive oil by a window, considering the flavor, soft side light on the face."
+  }
+}

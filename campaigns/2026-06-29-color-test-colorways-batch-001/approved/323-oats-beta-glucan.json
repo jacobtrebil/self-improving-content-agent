@@ -1,0 +1,72 @@
+{
+  "key": "323-oats-beta-glucan",
+  "theme": "health",
+  "colorway": "cream",
+  "eyebrow": "Oats",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The fiber that *grabs your cholesterol*.",
+      "sub": "It's called beta-glucan — the soluble fiber in oats. It binds cholesterol in your gut and can help lower LDL.",
+      "bg": "ai-bg/323-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Beta-glucan forms a gel",
+      "body": "In your gut, *beta-glucan* turns into a gel that traps cholesterol and carries it out before it's absorbed."
+    },
+    {
+      "type": "content",
+      "kicker": "The heart win",
+      "title": "Lower LDL over weeks",
+      "body": "Eating oats daily can *modestly lower LDL* — the cholesterol tied to clogged arteries."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Aim for 3g a day",
+      "body": "Studies use about *3g of beta-glucan daily* — roughly one big bowl of oats or oat bran."
+    },
+    {
+      "type": "content",
+      "kicker": "Steady energy too",
+      "title": "Slow, even fuel",
+      "body": "That same gel slows digestion, so oats give *steady energy* instead of a sugar spike and crash."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Make it a default",
+      "body": "Whole or steel-cut oats beat instant. Add berries and nuts — skip the *sugar-loaded packets*."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for a *healthier heart*.",
+      "body": "Vibe Health logs your meals and habits into one daily Health Score — so heart-smart swaps like oats actually stick.",
+      "button": "Download Vibe Health →",
+      "tag": "steady energy, happier heart",
+      "bg": "ai-bg/323-cta.png"
+    }
+  ],
+  "caption": "There's a fiber in oats that literally grabs cholesterol on its way out. 🥣\n\nIt's beta-glucan: about 3g a day can modestly lower LDL, and the same gel slows digestion for steady energy. Skip the sugary instant packets and go whole or steel-cut. Save this. 🔖\n\nVibe Health folds swaps like this into one daily Health Score so they stick → link in bio.",
+  "hashtags": [
+    "#betaglucan",
+    "#oats",
+    "#cholesterol",
+    "#hearthealth",
+    "#solublefiber",
+    "#ldl",
+    "#nutrition",
+    "#healthylifestyle",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Fiber In Oats That Lowers Cholesterol",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person stirring a bowl of thick steel-cut oats at a dim morning counter, steam rising into soft side light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of a spoon lifting oats topped with berries, hard rim light on the texture."
+  },
+  "cover_query": "bowl of oatmeal",
+  "cta_query": "oats and breakfast"
+}

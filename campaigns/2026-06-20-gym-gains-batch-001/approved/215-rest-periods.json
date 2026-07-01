@@ -1,0 +1,69 @@
+{
+  "key": "215-rest-periods",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "How long to *rest*.",
+      "sub": "Between your sets.",
+      "img": "ai-bg/215-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Strength",
+      "title": "Heavy? Rest *long*",
+      "body": "3 to 5 minutes for big strength lifts.",
+      "stat": "3-5m"
+    },
+    {
+      "type": "content",
+      "kicker": "Hypertrophy",
+      "title": "Pump work, rest *less*",
+      "body": "1 to 2 minutes for accessories.",
+      "stat": "1-2m"
+    },
+    {
+      "type": "content",
+      "kicker": "Don't rush",
+      "title": "Don't *rush*",
+      "body": "Short rest tanks your next set."
+    },
+    {
+      "type": "content",
+      "kicker": "Don't stall",
+      "title": "Don't *scroll*",
+      "body": "5-minute phone breaks kill the session."
+    },
+    {
+      "type": "content",
+      "kicker": "Listen",
+      "title": "Recover, then *go*",
+      "body": "Rest until you can hit your reps again."
+    },
+    {
+      "type": "cta",
+      "title": "Rest *right*.",
+      "body": "Vibe Health keeps your training dialed in.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "How long to rest. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training dialed in. → link in bio.",
+  "hashtags": [
+    "#restperiods",
+    "#gymtips",
+    "#gymtok",
+    "#buildmuscle",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#liftingtips",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How Long to Rest Between Sets"
+}

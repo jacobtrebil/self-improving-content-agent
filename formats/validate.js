@@ -145,7 +145,7 @@ function validate(spec, prior) {
   const fmt = FORMAT_OF[spec.theme];
   if (spec.theme === "before-after-reel") return ["__REEL__"];
   if (!fmt) e.push(`theme must be health|looksmax (got ${spec.theme})`);
-  if (!/^[0-9]{2}-[a-z0-9-]+$/.test(spec.key || "")) e.push(`bad key: ${spec.key}`);
+  if (!/^[0-9]{2,}-[a-z0-9-]+$/.test(spec.key || "")) e.push(`bad key: ${spec.key}`);
 
   const s = spec.slides || [];
   if (s.length !== 7) e.push(`need 7 slides, got ${s.length}`);
@@ -154,7 +154,7 @@ function validate(spec, prior) {
   if (types[6] !== "cta") e.push("slide 7 must be cta");
   if (types.slice(1, 6).some((t) => t !== "content")) e.push("slides 2-6 must be content");
 
-  const num = (spec.key || "").slice(0, 2);
+  const num = (String(spec.key || "").match(/^(\d+)/) || [, ""])[1]; // full leading-number prefix (matches build.js)
   const c = s[0] || {};
   if (words(c.title) > 9) e.push(`cover title >9 words: "${c.title}"`);
   if (highlights(c.title) !== 1) e.push(`cover title needs exactly 1 *highlight*: "${c.title}"`);

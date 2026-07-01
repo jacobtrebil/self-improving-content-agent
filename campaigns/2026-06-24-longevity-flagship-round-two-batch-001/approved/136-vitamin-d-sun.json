@@ -1,0 +1,69 @@
+{
+  "key": "136-vitamin-d-sun",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A little morning sun *goes a long way*.",
+      "sub": "Vitamin D quietly supports your bones, immune system and how well you age. Most people run lower than they think.",
+      "bg": "ai-bg/136-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "What vitamin D supports",
+      "body": "It helps your body absorb calcium and *may support* immune health. Strong bones rely on it for decades."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Many people run low",
+      "body": "Indoor days, sunscreen and northern winters all lower it. Low levels are *linked to* weaker bones and immunity."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Sensible sun helps",
+      "body": "A short stretch of midday light on bare skin *can help* your body make its own. Never burn."
+    },
+    {
+      "type": "content",
+      "kicker": "On your plate",
+      "title": "Food and supplements",
+      "body": "Fatty fish, eggs and fortified foods add some. A simple supplement *may help* fill the gap in winter."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Check your level",
+      "body": "A quick blood test shows where you stand. Knowing your number *takes the guesswork* out of it."
+    },
+    {
+      "type": "cta",
+      "title": "Build habits that *hold up*.",
+      "body": "Vibe Health tracks the sunlight, food and movement behind aging well, all in one simple daily score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small habits, big years"
+    }
+  ],
+  "caption": "A little morning sun does more for your long game than you might guess. 🌿\n\nVitamin D supports your bones and immune system, yet most people run low. Sensible sun, the right foods and a quick test keep you on track. Save this. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#vitamind",
+    "#healthspan",
+    "#healthyaging",
+    "#bonehealth",
+    "#vibehealth",
+    "#immunehealth",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How Morning Sunlight and Vitamin D Help You Age Well",
+  "cover_query": "sunlight window"
+}

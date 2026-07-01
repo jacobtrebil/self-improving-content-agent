@@ -1,0 +1,114 @@
+{
+  "key": "307-theanine-caffeine",
+  "eyebrow": "Theanine",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/307-theanine-caffeine.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/307-theanine-caffeine.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/30-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/30-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Coffee without the *jitters or crash*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "304/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Coffee without the jitters or crash' is specific and relatable but the theanine angle isn't surprising enough to be truly scroll-stopping in a saturated nootropics feed.",
+      "clarity": "Every slide is one idea with a concrete action — problem, compound, pairing, dose, easy route — reader knows exactly what to do.",
+      "audience_fit": "Busy, tired-by-3pm people who rely on coffee are the exact target, and the matcha shortcut lowers the barrier for the overwhelmed.",
+      "novelty": "Theanine+caffeine stacking is well-trodden content; the green tea pivot is a useful simplification but won't feel fresh to anyone who follows health creators.",
+      "brand_fit": "Voice is plain and direct, health claims are appropriately hedged ('may promote', 'can smooth'), CTA ties back to the app without cringe.",
+      "predicted_performance": "High saves potential from the dose slide but low share ceiling because the topic is familiar — expect solid but not breakout numbers."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25797,
+    "tokensOut": 276,
+    "costUsd": 0.0696142,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Coffee without the jitters or crash' is specific and relatable but the theanine angle isn't surprising enough to be truly scroll-stopping in a saturated nootropics feed."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one idea with a concrete action — problem, compound, pairing, dose, easy route — reader knows exactly what to do."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Busy, tired-by-3pm people who rely on coffee are the exact target, and the matcha shortcut lowers the barrier for the overwhelmed."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Theanine+caffeine stacking is well-trodden content; the green tea pivot is a useful simplification but won't feel fresh to anyone who follows health creators."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Voice is plain and direct, health claims are appropriately hedged ('may promote', 'can smooth'), CTA ties back to the app without cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "High saves potential from the dose slide but low share ceiling because the topic is familiar — expect solid but not breakout numbers."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:07:54.322Z"
+}

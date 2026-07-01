@@ -1,0 +1,55 @@
+{
+  "key": "417-quercetin-senolytic",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The humble onion has a *quiet superpower*.",
+      "sub": "Quercetin is a plant compound found in onions and capers. Researchers are studying it for how the body ages.",
+      "bg": "ai-bg/417-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet quercetin",
+      "body": "Quercetin is a flavonoid: a colorful plant compound. It is one of the most studied antioxidants in the everyday diet."
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Cells that won't quit",
+      "body": "As we age, some cells stop dividing but refuse to die. These *senescent cells* linger and signal stress to their neighbors."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The slow burn of aging",
+      "body": "Those lingering cells can fuel low-grade, chronic inflammation. That quiet inflammation *is linked to* much of how we age."
+    },
+    {
+      "type": "content",
+      "kicker": "The science",
+      "title": "A senolytic candidate",
+      "body": "In early research, quercetin acts as a senolytic: a compound that *may help clear* worn-out cells and calm inflammation."
+    },
+    {
+      "type": "content",
+      "kicker": "On your plate",
+      "title": "Easy to eat more",
+      "body": "Red onions, capers, apples and kale are rich sources. Small, steady additions to real meals *add up over time*."
+    },
+    {
+      "type": "cta",
+      "title": "Small foods, *long game*.",
+      "body": "Vibe Health turns the food, sleep, movement and steps behind healthy aging into one daily Health Score, so the small choices stay easy to keep.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The onion in your fridge might be doing more than flavoring dinner. 🧅🌿\n\nQuercetin is a flavonoid in onions, capers and apples that researchers are studying as a senolytic: it may help clear worn-out 'zombie' cells and quiet the chronic inflammation behind aging. Save this for your next grocery run. 🔖\n\nVibe Health turns the food and habits behind healthy aging into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#quercetin", "#healthyaging", "#antiinflammatory", "#wellness", "#healthhabits", "#agewell", "#nutrition", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Quercetin: The Onion Compound Scientists Study for Aging",
+  "cover_query": "red onions"
+}

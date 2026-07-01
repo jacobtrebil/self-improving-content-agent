@@ -1,0 +1,55 @@
+{
+  "key": "484-pelvic-floor",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The hidden muscle that keeps you *confident*.",
+      "sub": "Your pelvic floor is a sling of muscle that quietly supports your core. Here is how to keep it strong.",
+      "bg": "ai-bg/484-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A sling, not a switch",
+      "body": "The pelvic floor is a hammock of muscle at the base of your core. It *holds everything in place* while you move and breathe."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it fades",
+      "title": "Age and childbirth take a toll",
+      "body": "Like any muscle, this sling weakens over time. Pregnancy, birth and the years after *can stretch and soften it*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It guards continence",
+      "body": "A strong pelvic floor is linked to better bladder control. Training it *may help prevent* leaks long before they start."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Your core's quiet anchor",
+      "body": "This sling works with your deep core to stabilize your spine. A stronger base *can support* posture, balance and easy movement."
+    },
+    {
+      "type": "content",
+      "kicker": "How to train",
+      "title": "Treat it like any muscle",
+      "body": "Slow, deliberate contractions, done daily, build it back. Consistency *matters more than intensity*, just like the rest of your body."
+    },
+    {
+      "type": "cta",
+      "title": "Build strength you can *feel*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the habits that keep your core strong actually stick.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The pelvic floor is the muscle almost no one trains, and it quietly decides how confident and mobile you feel as you age. 🌿\n\nIt is a sling that supports your core, weakens with age and childbirth, and responds to training like any other muscle. Save this for the days you remember to. 🔖\n\nVibe Health turns those small habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#pelvicfloor", "#corestrength", "#healthyaging", "#womenshealth", "#wellness", "#healthhabits", "#agewell", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Hidden Muscle That Keeps You Strong as You Age",
+  "cover_query": "woman yoga mat"
+}

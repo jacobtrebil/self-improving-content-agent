@@ -1,0 +1,59 @@
+{
+  "key": "302-resistant-starch",
+  "theme": "health",
+  "colorway": "deep-green",
+  "eyebrow": "Resistant Starch",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Cold rice beats *fresh-cooked rice*.",
+      "sub": "Cooling cooked starches creates resistant starch — a fiber that feeds your gut and steadies your energy.",
+      "bg": "ai-bg/302-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The switch",
+      "title": "Cooling rewrites the starch",
+      "body": "Once cooked starch cools, part of it becomes *resistant starch* — your gut digests it completely differently."
+    },
+    {
+      "type": "content",
+      "kicker": "Your gut",
+      "title": "Fuel for good bacteria",
+      "body": "Resistant starch feeds gut microbes that make *butyrate* — a compound linked to a calmer, healthier gut lining."
+    },
+    {
+      "type": "content",
+      "kicker": "Steady energy",
+      "title": "A gentler glucose curve",
+      "body": "Reheated, cooled rice can blunt the *blood-sugar spike* versus the same food eaten fresh and hot."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Cook, chill, reheat",
+      "body": "Make rice, potatoes, or pasta, chill *overnight in the fridge*, then reheat — the resistant starch sticks around."
+    },
+    {
+      "type": "content",
+      "kicker": "Easy wins",
+      "title": "Build it into meals",
+      "body": "Cold potato salad, sushi rice, next-day pasta. *Yesterday's carbs* quietly work in your favor."
+    },
+    {
+      "type": "cta",
+      "title": "Eat smarter, *one meal ahead*.",
+      "body": "Snap your meals and Vibe Health logs your food, water, sleep, and steps into one daily Health Score — so small swaps like this add up.",
+      "button": "Download Vibe Health →",
+      "tag": "smarter carbs, steady energy",
+      "bg": "ai-bg/302-cta.png"
+    }
+  ],
+  "caption": "Cooling cooked rice, potatoes, and pasta creates resistant starch — and your gut treats it completely differently. 🍚\n\nIt feeds the bacteria that make butyrate and can blunt the blood-sugar spike when you reheat it. Cook, chill overnight, reheat. Save this. 🔖\n\nSnap your meals and Vibe Health turns your food, sleep, and steps into one daily Health Score → link in bio.",
+  "hashtags": ["#resistantstarch", "#guthealth", "#butyrate", "#bloodsugar", "#healthyeating", "#nutrition", "#steadyenergy", "#microbiome", "#healthtips", "#vibehealthapp"],
+  "youtube_title": "Why Cold Rice Is Better For You",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person lifting the lid off a glass container of cold leftover rice from a home fridge, soft side light catching the grains.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a bowl of reheated rice with steam rising, hands holding a spoon at the edge of the light."
+  }
+}

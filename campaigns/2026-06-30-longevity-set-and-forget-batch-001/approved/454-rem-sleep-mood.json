@@ -1,0 +1,69 @@
+{
+  "key": "454-rem-sleep-mood",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The hours that *steady your mood*",
+      "sub": "REM sleep is concentrated in the last stretch of the night. It quietly tunes your emotions and your brain.",
+      "bg": "ai-bg/454-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "REM does the night shift",
+      "body": "Dreaming sleep clusters in the *final hours* before you wake. Cut the night short and that is the part you lose first."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It sorts your emotions",
+      "body": "REM helps the brain file emotional memories, so yesterday's stress *feels softer* by morning instead of sharp."
+    },
+    {
+      "type": "content",
+      "kicker": "The chemistry",
+      "title": "Stress hormones settle",
+      "body": "Overnight, REM is linked to *lower stress chemistry*, giving the brain a calmer window to recover and reset."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Mood and a sharper mind",
+      "body": "Protecting REM can support steadier mood and *healthier brain aging*, two things that compound over decades."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Protect the last hours",
+      "body": "A consistent wake time and a *full night* guard your REM. Cutting sleep short skims it off the top."
+    },
+    {
+      "type": "cta",
+      "title": "See your nights *add up*",
+      "body": "Vibe Health tracks your sleep alongside food, movement and steps, turning the habits that protect REM into one daily Health Score.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "The last hours of your night do the quiet work of steadying your mood. 🌙😌\n\nREM sleep sorts emotional memories and lets overnight stress chemistry settle, protecting your mood and your aging brain. Cut sleep short and it is the first thing you lose. Save this. 🔖\n\nVibe Health turns your sleep and daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#sleephealth",
+    "#remsleep",
+    "#healthyaging",
+    "#brainhealth",
+    "#wellness",
+    "#sleepbetter",
+    "#healthhabits",
+    "#vibehealth",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why the Last Hours of Sleep Protect Your Mood",
+  "cover_query": "woman sleeping"
+}

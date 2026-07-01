@@ -1,0 +1,55 @@
+{
+  "key": "424-gingerol-inflammation",
+  "theme": "brand",
+  "eyebrow": "Healthspan",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The quiet *anti-inflammatory* in your spice drawer",
+      "sub": "Gingerol is the active compound that gives ginger its bite. It also calms the body in some surprising ways.",
+      "bg": "ai-bg/424-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet gingerol",
+      "body": "Gingerol is the main bioactive compound in fresh ginger. It is *what gives ginger* its warmth, its sharpness and most of its effects."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It cools the fire",
+      "body": "Gingerol can dial down the COX and prostaglandin pathways your body uses to *drive inflammation*, the same targets many pain relievers act on."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Easier joints",
+      "body": "By quieting those signals, ginger is linked to *less joint pain* and stiffness, which is why it shows up in studies on osteoarthritis."
+    },
+    {
+      "type": "content",
+      "kicker": "Bonus",
+      "title": "A calmer stomach",
+      "body": "Ginger is one of the best studied natural remedies for nausea, and small servings *may help* steady blood sugar after a meal."
+    },
+    {
+      "type": "content",
+      "kicker": "How to use",
+      "title": "Fresh, daily, small",
+      "body": "A few grams of fresh ginger in tea, stir fry or a smoothie is plenty. Consistency *matters more* than any single big dose."
+    },
+    {
+      "type": "cta",
+      "title": "See what *actually moves* your numbers.",
+      "body": "Add ginger to a meal and Vibe Health logs it alongside your sleep, movement and steps, then shows the impact in one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small habits, tracked"
+    }
+  ],
+  "caption": "The sharp little kick in ginger is doing more than flavoring your tea. 🌿\n\nGingerol can calm the inflammatory pathways behind joint pain, settle a queasy stomach, and may steady post-meal blood sugar. A few grams of fresh ginger a day is all it takes. Save this for your next grocery run. 🔖\n\nVibe Health turns the small things you eat and do into one daily score → link in bio.",
+  "hashtags": ["#ginger", "#antiinflammatory", "#healthspan", "#longevity", "#gutHealth", "#wellness", "#healthhabits", "#nutrition", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Gingerol: The Anti-Inflammatory Compound in Ginger",
+  "cover_query": "fresh ginger root"
+}

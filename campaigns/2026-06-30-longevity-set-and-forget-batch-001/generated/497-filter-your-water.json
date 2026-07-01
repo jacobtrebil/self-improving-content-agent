@@ -1,0 +1,69 @@
+{
+  "key": "497-filter-your-water",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The water you drink may be *quietly aging you*.",
+      "sub": "Tap water can carry lead and PFAS forever chemicals. A simple filter is one of the easiest upgrades for your healthspan.",
+      "bg": "ai-bg/497-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Forever chemicals linger",
+      "body": "PFAS are called *forever chemicals* because they barely break down. They can build up in your body and water supply for years."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Lead has no safe level",
+      "body": "Old pipes can leach lead into tap water. There is *no safe amount*, and low-level exposure is linked to long-term harm."
+    },
+    {
+      "type": "content",
+      "kicker": "The cost",
+      "title": "It adds up over time",
+      "body": "PFAS exposure *is linked to* effects on hormones, kidneys and metabolism. The risk is the slow, daily accumulation."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Choose a certified filter",
+      "body": "Look for filters certified to reduce lead and PFAS. A good one *can cut chronic exposure* without changing your routine."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Make clean water default",
+      "body": "Keep filtered water within reach and your switch sticks. Small daily choices *compound into healthspan* over the years."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the *basics* that compound.",
+      "body": "Vibe Health turns small habits like hydration, sleep, food, movement and steps into one daily Health Score, so the basics never slip.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your healthspan, tracked"
+    }
+  ],
+  "caption": "You filter your coffee and your air. Your drinking water deserves the same. 💧🌿\n\nLead and PFAS forever chemicals can build up quietly over years, and a certified filter is one of the simplest ways to cut chronic exposure. Save this. 🔖\n\nVibe Health turns the daily basics into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#healthspan",
+    "#cleanwater",
+    "#pfas",
+    "#wellness",
+    "#healthhabits",
+    "#healthyliving",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why You Should Filter Your Tap Water",
+  "cover_query": "glass of water"
+}

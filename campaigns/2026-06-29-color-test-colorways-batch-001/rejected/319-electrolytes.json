@@ -1,0 +1,59 @@
+{
+  "key": "319-electrolytes",
+  "theme": "health",
+  "colorway": "charcoal",
+  "eyebrow": "Electrolytes",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Drinking more water but still *wiped out*?",
+      "sub": "Water alone isn't hydration. Without electrolytes, a lot of it runs straight through you.",
+      "bg": "ai-bg/319-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "They move the water",
+      "body": "*Sodium, potassium, magnesium* pull water into your cells. No minerals, no real hydration."
+    },
+    {
+      "type": "content",
+      "kicker": "The signs",
+      "title": "Cramps, headaches, fog",
+      "body": "Muscle cramps, afternoon headaches, and *low energy* are classic signs you're watered but not hydrated."
+    },
+    {
+      "type": "content",
+      "kicker": "Who needs more",
+      "title": "Sweat, heat, low-carb",
+      "body": "Heavy sweating, hot days, and *low-carb eating* all flush sodium faster than you replace it."
+    },
+    {
+      "type": "content",
+      "kicker": "The simple fix",
+      "title": "Add a pinch, eat the food",
+      "body": "A *pinch of salt* in water plus potassium from fruit and veg covers most people. Skip the sugary sports drinks."
+    },
+    {
+      "type": "content",
+      "kicker": "Don't overdo it",
+      "title": "Balance, not buckets",
+      "body": "More isn't better. Most people just need *steady minerals*, not a cabinet of powders."
+    },
+    {
+      "type": "cta",
+      "title": "Turn hydration into a *habit you can see*.",
+      "body": "Vibe Health tracks your water and food together — so you can spot the days you're running low before the headache hits.",
+      "button": "Download Vibe Health →",
+      "tag": "actually hydrated, not just wet",
+      "bg": "ai-bg/319-cta.png"
+    }
+  ],
+  "caption": "Chugging water and still dragging by 3pm? Water isn't hydration on its own. 💧\n\nSodium, potassium and magnesium are what pull water into your cells. A pinch of salt plus fruit and veg beats sugary sports drinks for most people. 🔖\n\nVibe Health tracks your water and food together → link in bio.",
+  "hashtags": ["#electrolytes", "#hydration", "#energy", "#sodium", "#potassium", "#magnesium", "#wellness", "#healthtips", "#performance", "#vibehealthapp"],
+  "youtube_title": "Why Drinking More Water Isn't Fixing Your Energy",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A sweaty person sitting on a gym floor holding a water bottle, drained, hard rim light catching the sweat.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of a hand adding a pinch of salt to a glass of water on a dim counter, light catching the falling grains."
+  }
+}

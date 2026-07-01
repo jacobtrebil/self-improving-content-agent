@@ -1,0 +1,69 @@
+{
+  "key": "479-lung-vital-capacity",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your lungs are *quietly aging*. You can slow it.",
+      "sub": "Elastic recoil fades and lung function drifts down after 30. The right habits keep your breath full for decades.",
+      "bg": "ai-bg/479-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Lung power peaks early",
+      "body": "Lung function tends to peak in your twenties, then *gently declines* each year as the tissue loses some of its springy elastic recoil."
+    },
+    {
+      "type": "content",
+      "kicker": "What changes",
+      "title": "FEV1 drifts downward",
+      "body": "FEV1, the air you can blow out in one second, falls a little every year after 30. Most people *never notice* until it adds up."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Vital capacity is reserve",
+      "body": "A larger vital capacity is your buffer. More reserve *is linked to* climbing stairs, hiking and laughing without feeling winded later in life."
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "Train the diaphragm",
+      "body": "The diaphragm is a muscle, so it responds to work. Slow nasal breathing and cardio *can support* stronger, more efficient breaths."
+    },
+    {
+      "type": "content",
+      "kicker": "Stay in motion",
+      "title": "Movement keeps lungs young",
+      "body": "Regular brisk activity keeps the chest and airways supple. Staying active *may help* hold your vital capacity higher for years."
+    },
+    {
+      "type": "cta",
+      "title": "Keep your breath *full* for life.",
+      "body": "Vibe Health tracks the movement, steps, sleep and food behind lasting lung health, then turns them into one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your breath, tracked"
+    }
+  ],
+  "caption": "Your lungs start aging in your thirties, but breathless old age is not a given. 🌿💨\n\nElastic recoil and FEV1 slowly decline, yet training your diaphragm and staying active can keep your vital capacity high. Save this. 🔖\n\nVibe Health turns daily movement and recovery into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#lunghealth",
+    "#breathwork",
+    "#healthyaging",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Keep Your Lungs Young After 30",
+  "cover_query": "runner"
+}

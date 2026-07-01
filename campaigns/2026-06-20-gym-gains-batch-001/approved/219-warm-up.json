@@ -1,0 +1,67 @@
+{
+  "key": "219-warm-up",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Warm up like *this*.",
+      "sub": "Skip it and you'll get hurt.",
+      "img": "ai-bg/219-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Raise temp",
+      "title": "Get *warm*",
+      "body": "5 minutes of light cardio raises your core temp."
+    },
+    {
+      "type": "content",
+      "kicker": "Ramp up",
+      "title": "Ramp the *weight*",
+      "body": "Build to your working weight with lighter sets."
+    },
+    {
+      "type": "content",
+      "kicker": "Mobilize",
+      "title": "Open the *joints*",
+      "body": "Dynamic stretches for what you're about to train."
+    },
+    {
+      "type": "content",
+      "kicker": "Activate",
+      "title": "Wake the *muscles*",
+      "body": "A few activation sets before the heavy work."
+    },
+    {
+      "type": "content",
+      "kicker": "Not static",
+      "title": "Save the *stretching*",
+      "body": "Long static stretches before lifting kill strength."
+    },
+    {
+      "type": "cta",
+      "title": "Warm up *right*.",
+      "body": "Vibe Health keeps your training on track.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Warm up like this. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training on track. → link in bio.",
+  "hashtags": [
+    "#warmup",
+    "#injuryprevention",
+    "#gymtok",
+    "#liftingtips",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#mobility",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Warm Up Before You Lift"
+}

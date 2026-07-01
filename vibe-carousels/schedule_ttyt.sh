@@ -10,8 +10,13 @@ cd "$ROOT"
 
 source "$ROOT/channel_id.sh"
 source "$ROOT/../observability/trace.sh"   # auto-traces postiz calls
-TT=$(channel_id tiktok_alt)  || exit 1
-YT=$(channel_id youtube_alt) || exit 1
+# Channel keys default to the alt accounts; override via TT_KEY / YT_KEY env vars
+# (e.g. YT_KEY=youtube_main to post to the "Vibe" channel instead of "Vibe Health App").
+TT=$(channel_id "${TT_KEY:-tiktok_alt}")  || exit 1
+YT=$(channel_id "${YT_KEY:-youtube_alt}") || exit 1
+# Which platforms to post to (space-separated). Default both; set PLATFORMS="tt"
+# or PLATFORMS="yt" to schedule a single channel on its own timeline.
+PLATFORMS="${PLATFORMS:-tt yt}"
 TT_SET='{"privacy_level":"PUBLIC_TO_EVERYONE","duet":false,"stitch":false,"comment":true,"autoAddMusic":"yes","brand_content_toggle":false,"brand_organic_toggle":false,"content_posting_method":"DIRECT_POST"}'
 POSTS="/tmp/posts2.json"
 REPO="$(cd "$ROOT/.." && pwd)"
@@ -33,6 +38,7 @@ for ((i=0;i<n;i++)); do
 
   # ---- TikTok: 9:16 carousel (-tt, downscaled to 1080x1920) ----
   # TikTok rejects photos >1080p; never upload the 2x -tt master (2160x3840).
+  if [[ " $PLATFORMS " == *" tt "* ]]; then
   tt_urls=""; ok=1
   for s in 01 02 03 04 05 06 07; do
     f="$dir/slide-${s}-tt.png"; [ -f "$f" ] || { echo "✗ $dir TT: missing $f"; ok=0; break; }
@@ -47,8 +53,10 @@ for ((i=0;i<n;i++)); do
     if [ -n "$id" ]; then echo "✓ $dir  $day  TT=$id"; printf '%s\t%s\ttiktok\t%s\n' "$dir" "$day" "$id" >> "$log";
     else echo "✗ $dir TT: create failed:"; echo "$out" | tail -2; fi
   fi
+  fi  # end PLATFORMS tt
 
   # ---- YouTube: Short (mp4) ----
+  if [[ " $PLATFORMS " == *" yt "* ]]; then
   mp4="shorts/$dir.mp4"
   if [ -f "$mp4" ]; then
     u=$(upload_path "$mp4")
@@ -61,5 +69,6 @@ for ((i=0;i<n;i++)); do
       else echo "✗ $dir YT: create failed:"; echo "$out" | tail -2; fi
     else echo "✗ $dir YT: video upload failed"; fi
   else echo "✗ $dir YT: missing $mp4"; fi
+  fi  # end PLATFORMS yt
 done
 echo "done"

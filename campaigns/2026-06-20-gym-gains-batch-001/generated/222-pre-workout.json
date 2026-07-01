@@ -1,0 +1,68 @@
+{
+  "key": "222-pre-workout",
+  "theme": "gym",
+  "eyebrow": "Nutrition",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "What to eat *before* you train.",
+      "sub": "Fuel the session.",
+      "img": "ai-bg/222-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Carbs",
+      "title": "Eat some *carbs*",
+      "body": "Carbs 1 to 2 hours before fuel your lifts."
+    },
+    {
+      "type": "content",
+      "kicker": "Protein",
+      "title": "Add *protein*",
+      "body": "A little protein primes muscle growth."
+    },
+    {
+      "type": "content",
+      "kicker": "Timing",
+      "title": "Time it *right*",
+      "body": "Big meal 1 to 2 hours out, light snack closer.",
+      "stat": "1-2h"
+    },
+    {
+      "type": "content",
+      "kicker": "Caffeine",
+      "title": "*Caffeine* helps",
+      "body": "A coffee pre-lift boosts strength and focus."
+    },
+    {
+      "type": "content",
+      "kicker": "Not too much",
+      "title": "Don't go *heavy*",
+      "body": "Too much too close means a sluggish session."
+    },
+    {
+      "type": "cta",
+      "title": "Fuel the *work*.",
+      "body": "Snap your meals and Vibe Health tracks the fuel for you.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "What to eat before you train. 💪\n\nSave this and put it to work. 🔖\n\nSnap your meals and Vibe tracks the fuel for you. → link in bio.",
+  "hashtags": [
+    "#preworkout",
+    "#nutrition",
+    "#gymtok",
+    "#gains",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#mealtiming",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "What to Eat Before You Train"
+}

@@ -64,7 +64,7 @@ function captionUnderLimit(spec) {
 // 5. Follows JSON schema — required fields + shapes the renderer depends on.
 function followsJsonSchema(spec) {
   const problems = [];
-  if (!/^[0-9]{2}-[a-z0-9-]+$/.test(spec.key || "")) problems.push("key");
+  if (!/^[0-9]{2,}-[a-z0-9-]+$/.test(spec.key || "")) problems.push("key");
   if (!VALID_THEMES.includes(spec.theme)) problems.push(`theme not in ${VALID_THEMES.join("/")}`);
   if (!spec.eyebrow) problems.push("eyebrow");
   if (!Array.isArray(spec.hashtags) || spec.hashtags.length !== 10) problems.push("hashtags!=10");

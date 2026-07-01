@@ -1,0 +1,68 @@
+{
+  "key": "203-progressive-overload",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The *only* rule that builds muscle.",
+      "sub": "It's not your split.",
+      "img": "ai-bg/203-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The rule",
+      "title": "Do *more* over time",
+      "body": "More reps or more weight than last time."
+    },
+    {
+      "type": "content",
+      "kicker": "Track it",
+      "title": "Log your *lifts*",
+      "body": "You can't beat what you don't write down."
+    },
+    {
+      "type": "content",
+      "kicker": "Add slow",
+      "title": "Add a little, *often*",
+      "body": "An extra rep or 2.5kg each week.",
+      "stat": "+2.5"
+    },
+    {
+      "type": "content",
+      "kicker": "Not this",
+      "title": "Soreness isn't *progress*",
+      "body": "Chasing the pump is not overload."
+    },
+    {
+      "type": "content",
+      "kicker": "Recover",
+      "title": "Rest equals *growth*",
+      "body": "Muscle is built on your days off."
+    },
+    {
+      "type": "cta",
+      "title": "Overload *every week*.",
+      "body": "Vibe Health ties your training, protein and sleep together.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "The only rule that builds muscle. 💪\n\nSave this and put it to work. 🔖\n\nVibe ties your training, protein and sleep together. → link in bio.",
+  "hashtags": [
+    "#progressiveoverload",
+    "#buildmuscle",
+    "#gymtok",
+    "#gains",
+    "#liftingtips",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#strength",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Only Rule That Builds Muscle"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "431-okinawan-sweet-potato",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The purple carb behind a *long life*",
+      "sub": "For generations, the Okinawan diet leaned on purple sweet potato. It may be one of the world's quietest longevity foods.",
+      "bg": "ai-bg/431-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A staple, not a side",
+      "body": "Traditional Okinawan meals were built around purple sweet potato. It was *the main carb*, not an occasional treat on the plate."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Filling, not heavy",
+      "body": "Sweet potato is low in calorie density. You can eat a satisfying amount while *keeping calories modest*, which can support a healthy weight."
+    },
+    {
+      "type": "content",
+      "kicker": "The color",
+      "title": "Pigment with a purpose",
+      "body": "That deep purple comes from anthocyanins, the same antioxidants found in berries. They are *linked to* lower inflammation over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The pattern",
+      "title": "One piece of a bigger habit",
+      "body": "No single food makes a long life. It sits inside a plant-forward, mostly whole-food pattern that *can support healthy aging*."
+    },
+    {
+      "type": "content",
+      "kicker": "Try it",
+      "title": "An easy swap",
+      "body": "Trade a refined-carb side for a roasted sweet potato. Small, repeatable swaps are *what actually stick* across the years."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for the *long game*.",
+      "body": "Vibe Health turns the food, sleep, movement and steps behind healthy aging into one daily Health Score, so good habits are easy to see and keep.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "longevity, tracked"
+    }
+  ],
+  "caption": "The Okinawan diet centered on a humble purple sweet potato, and it traveled alongside one of the longest healthspans on earth. 🍠🌿\n\nIt is filling, low in calorie density, rich in antioxidants, and part of a mostly plant-based pattern. One small swap, repeated for years, adds up. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#okinawandiet", "#bluezones", "#healthyaging", "#wellness", "#nutrition", "#healthspan", "#healthhabits", "#sweetpotato", "#vibehealthapp"],
+  "youtube_title": "The Okinawan Purple Sweet Potato Longevity Secret",
+  "cover_query": "purple sweet potato"
+}

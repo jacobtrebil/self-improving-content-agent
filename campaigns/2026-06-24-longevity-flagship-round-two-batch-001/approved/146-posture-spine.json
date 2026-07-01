@@ -1,0 +1,69 @@
+{
+  "key": "146-posture-spine",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Good posture is *built, not willed*.",
+      "sub": "You can't simply remember to stand tall all day. A strong, mobile spine holds you up for you.",
+      "bg": "ai-bg/146-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Posture is strength, not willpower",
+      "body": "Sitting up straight on cue fades in minutes. Lasting posture *comes from* a back strong enough to hold it."
+    },
+    {
+      "type": "content",
+      "kicker": "The cost",
+      "title": "What slumping adds up to",
+      "body": "Years of rounding forward *may strain* the neck and back. Over decades that quiet load can wear on you."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Strengthen the back",
+      "body": "Rows, pulls and back work build the muscles that hold you upright. A strong back *makes posture* feel easy."
+    },
+    {
+      "type": "content",
+      "kicker": "Stay mobile",
+      "title": "Move and change shape often",
+      "body": "No single posture is perfect for hours. Shifting, stretching and standing often *keeps the spine* supple."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Build a spine that lasts",
+      "body": "Posture is a byproduct of strength and movement. Tend to both and standing tall *may support* aging well."
+    },
+    {
+      "type": "cta",
+      "title": "Build a back that *holds you up*.",
+      "body": "Vibe Health helps you track the strength and movement habits that keep your spine capable, all in one simple daily score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "stand tall for life"
+    }
+  ],
+  "caption": "Good posture is built, not willed, and that's the freeing part. 🌿\n\nYou can't remember to stand tall all day, but a strong, mobile spine does it for you. Train your back, move often, and standing tall stops being a chore. Save this. 🔖\n\nVibe Health turns your strength and movement habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#healthspan",
+    "#posture",
+    "#spinehealth",
+    "#healthyaging",
+    "#vibehealth",
+    "#mobility",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Good Posture Comes From Strength, Not Willpower",
+  "cover_query": "woman sitting desk"
+}

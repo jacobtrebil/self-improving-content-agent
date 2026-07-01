@@ -1,0 +1,69 @@
+{
+  "key": "159-know-your-numbers",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Know your numbers, *guide your habits*.",
+      "sub": "Tracking a few key health numbers is the meta-habit that ties everything together. It is where lasting change begins.",
+      "bg": "ai-bg/159-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "You can't improve the unseen",
+      "body": "It is hard to change what you never measure. Seeing your numbers *can turn* vague goals into clear ones."
+    },
+    {
+      "type": "content",
+      "kicker": "What matters",
+      "title": "The few numbers that count",
+      "body": "Sleep, movement, food and steps cover most of daily health. A handful of numbers *can tell* the story."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Tracking makes habits stick",
+      "body": "Watching a number nudges you to act. That gentle feedback loop *may help* habits hold over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it simple",
+      "title": "One place beats five apps",
+      "body": "Scattered across apps, your numbers get ignored. One clear view *makes it easier* to actually use them."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Start by seeing it",
+      "body": "Pick one place to watch the basics. Once you can see your habits, change *gets a lot* easier."
+    },
+    {
+      "type": "cta",
+      "title": "See it all in *one number*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one simple daily score, so your habits finally stick.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your health, one number"
+    }
+  ],
+  "caption": "You cannot improve what you never see. 🌿\n\nSleep, movement, food and steps are the numbers that matter, and tracking them in one place is what makes habits actually stick. One view beats five apps. Save this. 🔖\n\nVibe Health turns those numbers into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#healthtracking",
+    "#healthspan",
+    "#healthyaging",
+    "#healthhabits",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Tracking Your Health Numbers Is the Habit That Ties It All Together",
+  "cover_query": "doctor patient"
+}

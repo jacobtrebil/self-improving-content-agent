@@ -1,0 +1,72 @@
+{
+  "key": "309-autophagy",
+  "theme": "health",
+  "colorway": "charcoal",
+  "eyebrow": "Autophagy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your cells have a *self-cleaning mode*. Here's the switch.",
+      "sub": "It's called autophagy — the recycling system tied to how well you age. You can nudge it on.",
+      "bg": "ai-bg/309-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "What it is",
+      "title": "Cellular garbage collection",
+      "body": "Autophagy clears out *damaged cell parts* and recycles them for fuel. Less junk inside your cells."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It fades with age",
+      "body": "This cleanup *slows down as you age* — and sluggish autophagy is linked to a lot of age-related decline."
+    },
+    {
+      "type": "content",
+      "kicker": "The main lever",
+      "title": "Time without food",
+      "body": "A simple *12–16 hour overnight fast* is the most reliable everyday nudge for this pathway."
+    },
+    {
+      "type": "content",
+      "kicker": "On the plate",
+      "title": "Eat spermidine foods",
+      "body": "Wheat germ, aged cheese, mushrooms, and natto are rich in *spermidine*, a compound that supports it."
+    },
+    {
+      "type": "content",
+      "kicker": "Also helps",
+      "title": "Move and sweat",
+      "body": "Exercise and heat *may switch it on* too. You don't need extremes — just consistency."
+    },
+    {
+      "type": "cta",
+      "title": "Build the rhythm that *ages you well*.",
+      "body": "Vibe Health tracks your eating window, food, and movement in one place — so the habits behind healthy aging actually stick.",
+      "button": "Download Vibe Health →",
+      "tag": "clean cells, slower aging",
+      "bg": "ai-bg/309-cta.png"
+    }
+  ],
+  "caption": "Your cells have a built-in cleanup crew called autophagy — and it slows down as you age. 🧬\n\nThe everyday levers are simple: a 12–16 hour overnight fast, spermidine-rich foods like mushrooms and wheat germ, plus movement and heat. 🔖\n\nVibe Health tracks your eating window and habits in one place → link in bio.",
+  "hashtags": [
+    "#autophagy",
+    "#longevity",
+    "#healthspan",
+    "#fasting",
+    "#antiaging",
+    "#cellhealth",
+    "#metabolichealth",
+    "#wellness",
+    "#healthtips",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Autophagy: How to Switch On Your Cells' Self-Cleaning Mode",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A calm older person closing an empty plate cabinet in a dim kitchen at night, soft window light on the face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person walking briskly outdoors in early morning light, relaxed and unhurried, breath faintly visible in cool air."
+  },
+  "cover_query": "empty plate on table",
+  "cta_query": "person walking at sunrise"
+}

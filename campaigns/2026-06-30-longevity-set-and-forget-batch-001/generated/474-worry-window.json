@@ -1,0 +1,55 @@
+{
+  "key": "474-worry-window",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Give your worry a *scheduled* time of day.",
+      "sub": "A daily worry window keeps anxious thoughts in one place instead of all day. Here is why it matters for aging.",
+      "bg": "ai-bg/474-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A daily worry window",
+      "body": "Set aside *15 quiet minutes* each day to think through what is bothering you. Outside that window, you gently set worries down."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Rumination loses its grip",
+      "body": "When a worry has a time slot, your mind stops *looping on it* all day. The thought waits instead of running on repeat."
+    },
+    {
+      "type": "content",
+      "kicker": "The science",
+      "title": "Less chronic cortisol",
+      "body": "Constant worry keeps stress hormones high. Contained rumination *can lower* that steady cortisol drip your body never gets to clear."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Calmer cells, slower aging",
+      "body": "Chronic stress *is linked to* shorter telomeres, the caps that protect your DNA. Easing it may help your cells age more slowly."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it stick",
+      "title": "Same time, same chair",
+      "body": "Pick a fixed time, write the worries down, then close the notebook. The *routine* is what trains your brain to let go."
+    },
+    {
+      "type": "cta",
+      "title": "Track the calm you *build*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so you can see stress habits add up over time.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your calm, tracked"
+    }
+  ],
+  "caption": "Worry less by giving it a time slot. A daily worry window keeps anxious thoughts in one place instead of leaking into your whole day. 🌿\n\nContained rumination can ease the chronic cortisol that wears on your cells, and lower stress is linked to slower aging. Save this for tomorrow. 🔖\n\nVibe Health turns calmer habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#stressless", "#cortisol", "#healthyaging", "#mentalwellness", "#wellness", "#healthhabits", "#mindfulness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Daily Worry Window That May Slow Aging",
+  "cover_query": "notebook and clock"
+}

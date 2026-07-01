@@ -1,0 +1,68 @@
+{
+  "key": "216-cardio-for-lifters",
+  "theme": "gym",
+  "eyebrow": "Cardio",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Cardio without losing *gains*.",
+      "sub": "Do it right.",
+      "img": "ai-bg/216-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it easy",
+      "title": "Mostly *low intensity*",
+      "body": "Walking and zone 2 won't hurt recovery."
+    },
+    {
+      "type": "content",
+      "kicker": "Separate",
+      "title": "Lift *first*",
+      "body": "Do cardio after lifting or on off days."
+    },
+    {
+      "type": "content",
+      "kicker": "Don't overdo",
+      "title": "Don't go *overboard*",
+      "body": "Hours of cardio eats muscle. Stay moderate."
+    },
+    {
+      "type": "content",
+      "kicker": "Steps",
+      "title": "Just *walk*",
+      "body": "8k steps a day covers most of it.",
+      "stat": "8k"
+    },
+    {
+      "type": "content",
+      "kicker": "Fuel",
+      "title": "Eat back the *burn*",
+      "body": "Eat enough to support the extra output."
+    },
+    {
+      "type": "cta",
+      "title": "Cardio, *handled*.",
+      "body": "Vibe Health tracks your steps and training in one place.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Cardio without losing gains. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your steps and training in one place. → link in bio.",
+  "hashtags": [
+    "#cardio",
+    "#gymtok",
+    "#fatloss",
+    "#zone2",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#conditioning",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Cardio That Won't Kill Your Gains"
+}

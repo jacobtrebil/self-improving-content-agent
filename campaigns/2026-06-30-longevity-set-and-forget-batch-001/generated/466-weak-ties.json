@@ -1,0 +1,69 @@
+{
+  "key": "466-weak-ties",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The small talk that *adds years*",
+      "sub": "Brief chats with neighbors, baristas and strangers are quietly good for you. Here is why they matter.",
+      "bg": "ai-bg/466-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Weak ties still count",
+      "body": "Not every relationship has to be deep. The light, familiar exchanges of your day are called *weak ties*, and they pull real weight."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Micro-doses of belonging",
+      "body": "A short, friendly chat is a small signal that you belong somewhere. Those signals *can buffer everyday stress* better than we expect."
+    },
+    {
+      "type": "content",
+      "kicker": "The evidence",
+      "title": "More chats, more wellbeing",
+      "body": "Studies link days with more casual social contact to *higher daily wellbeing*. The effect holds even for brief, ordinary moments."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Connection and a longer life",
+      "body": "Strong social connection is linked to longer, healthier lives. Weak ties widen that web *without asking much of you*."
+    },
+    {
+      "type": "content",
+      "kicker": "Try this",
+      "title": "Say one extra thing",
+      "body": "Greet the dog walker. Thank the barista by name. One small line a day *can lift your mood* and your sense of place."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits behind *a longer life*",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the routines that support connection and longevity stay easy to see.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your day, scored"
+    }
+  ],
+  "caption": "The barista, the neighbor, the stranger in line. Those tiny chats are doing more for you than you think. 🌿💬\n\nWeak ties are micro-doses of belonging that can buffer stress and lift the wellbeing tied to a longer life. One small line a day adds up. Save this. 🔖\n\nVibe Health turns your daily habits into one simple Health Score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#wellbeing",
+    "#weakties",
+    "#socialconnection",
+    "#healthyaging",
+    "#wellness",
+    "#healthhabits",
+    "#mentalhealth",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Small Talk With Strangers Can Help You Live Longer",
+  "cover_query": "friends talking"
+}

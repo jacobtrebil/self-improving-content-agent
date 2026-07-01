@@ -1,0 +1,69 @@
+{
+  "key": "489-indoor-air-quality",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The air indoors may be *quietly aging* you.",
+      "sub": "We spend most of our lives inside, where fine particles and stale air build up. Small fixes can change that.",
+      "bg": "ai-bg/489-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Indoor air is not neutral",
+      "body": "Cooking, candles and traffic leave behind *fine particles* called PM2.5. Indoors, they can climb higher than the air outside."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Tiny particles travel far",
+      "body": "PM2.5 is small enough to reach the bloodstream. Long exposure *is linked to* strain on the heart, lungs and brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The hidden one",
+      "title": "Stale air dulls thinking",
+      "body": "In closed rooms, exhaled CO2 builds up fast. Higher levels *are linked to* slower focus and foggier decisions."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Move the air",
+      "body": "Cracking a window for a few minutes clears built-up CO2. Fresh airflow *can support* clearer thinking through the day."
+    },
+    {
+      "type": "content",
+      "kicker": "The upgrade",
+      "title": "Filter what you breathe",
+      "body": "A HEPA purifier traps most fine particles. Running one where you sleep *may help* protect your lungs over the long run."
+    },
+    {
+      "type": "cta",
+      "title": "Care for the *invisible inputs*.",
+      "body": "Air is one input. Vibe Health tracks the rest: your sleep, food, movement and steps, rolled into one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The air you breathe at home shapes how you feel, focus and age. 🌿💨\n\nFine particles strain the body, stale air clouds the mind, and a window plus a HEPA purifier can quietly help both. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#indoorairquality",
+    "#cleanair",
+    "#healthyhome",
+    "#wellness",
+    "#healthhabits",
+    "#brainhealth",
+    "#healthtech",
+    "#aihealthcoach",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Your Indoor Air Might Be Aging You",
+  "cover_query": "houseplant"
+}

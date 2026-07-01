@@ -1,0 +1,69 @@
+{
+  "key": "453-cool-bedroom-temp",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The simplest sleep upgrade is a *cooler room*.",
+      "sub": "Around 65F, your core body temperature can fall on cue. That drop is the signal your body waits for to fall asleep.",
+      "bg": "ai-bg/453-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Sleep starts with cooling",
+      "body": "To fall asleep, your *core temperature has to drop* about one degree. A cool room makes that shift easier to reach."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "The thermoregulatory trigger",
+      "body": "As your body sheds heat through the skin, the falling core temperature *cues sleep onset*. Warmth keeps that switch from flipping."
+    },
+    {
+      "type": "content",
+      "kicker": "The deeper win",
+      "title": "Better slow-wave sleep",
+      "body": "A cooler bedroom is linked to *more slow-wave sleep*, the deep stage when the body repairs tissue and clears the brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Aim near 65 degrees",
+      "body": "Most adults sleep best with the room *between 60 and 67F*. Find your spot in that range and hold it through the night."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Help the heat escape",
+      "body": "Breathable bedding, a warm shower before bed and bare feet *can support the cooling* your body is already trying to do."
+    },
+    {
+      "type": "cta",
+      "title": "See how your room shapes *your sleep*.",
+      "body": "Vibe Health tracks your sleep alongside food, movement and steps, turning small changes like a cooler room into one daily Health Score.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "The easiest way to sleep deeper tonight might be your thermostat. A cool room near 65F helps your core temperature fall, and that drop is what tells your body it is time to sleep. 🌙\n\nCooler bedrooms are linked to faster sleep onset and more deep, slow-wave sleep. Breathable bedding and a warm pre-bed shower help the heat escape. Save this for tonight. 🔖\n\nVibe Health turns habits like this into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#sleephealth",
+    "#deepsleep",
+    "#sleeptips",
+    "#healthyaging",
+    "#wellness",
+    "#healthhabits",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why a Cooler Bedroom Helps You Sleep Deeper",
+  "cover_query": "bedroom"
+}

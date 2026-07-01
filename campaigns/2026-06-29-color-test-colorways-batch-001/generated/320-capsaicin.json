@@ -1,0 +1,72 @@
+{
+  "key": "320-capsaicin",
+  "theme": "health",
+  "colorway": "mono",
+  "eyebrow": "Capsaicin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why chili heat *curbs your appetite*.",
+      "sub": "The compound is called capsaicin — it hits a receptor called TRPV1 and does more than just make you sweat. Most people miss the upside.",
+      "bg": "ai-bg/320-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The compound",
+      "title": "Heat with a job",
+      "body": "Capsaicin is what makes chili *feel hot* — and that same signal nudges your metabolism and appetite."
+    },
+    {
+      "type": "content",
+      "kicker": "The receptor",
+      "title": "It flips a switch",
+      "body": "Capsaicin activates *TRPV1 receptors*, the heat sensors that tell your body to ramp up a little."
+    },
+    {
+      "type": "content",
+      "kicker": "Metabolism",
+      "title": "A small thermogenic bump",
+      "body": "That activation can give a *small calorie burn* through thermogenesis — modest, but it adds up over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Appetite",
+      "title": "Eat a little less",
+      "body": "A spicy starter may *blunt your appetite*, so you naturally finish the meal sooner."
+    },
+    {
+      "type": "content",
+      "kicker": "Use it",
+      "title": "Add real heat",
+      "body": "Fresh chili, cayenne, or flakes on a meal a few times a week — *start small* and build."
+    },
+    {
+      "type": "cta",
+      "title": "Turn up the heat, *eat smarter*.",
+      "body": "Snap your meals and Vibe Health tracks how full and energized you feel after each one — so you learn what actually keeps you satisfied.",
+      "button": "Download Vibe Health →",
+      "tag": "appetite control, naturally",
+      "bg": "ai-bg/320-cta.png"
+    }
+  ],
+  "caption": "Chili heat does more than make you sweat — the compound is capsaicin. 🌶️\n\nIt hits your TRPV1 receptors for a small metabolic bump and may blunt your appetite. Add real heat a few times a week. 🔖\n\nVibe Health tracks how full each meal leaves you → link in bio.",
+  "hashtags": [
+    "#capsaicin",
+    "#spicyfood",
+    "#metabolism",
+    "#appetitecontrol",
+    "#thermogenesis",
+    "#chili",
+    "#nutrition",
+    "#healthyeating",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Chili Heat Curbs Your Appetite And Boosts Metabolism",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person at a table over a steaming bowl topped with fresh chilies, side light catching the rising steam.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of dried chili flakes scattered over a plated meal, hard rim light on the texture."
+  },
+  "cover_query": "red chili peppers",
+  "cta_query": "spicy noodle bowl"
+}

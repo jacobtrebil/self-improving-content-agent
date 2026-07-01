@@ -24,6 +24,25 @@ Reference live decks: `04-hit-your-protein` … `13-stop-falling-off`.
 | 2–6 | `content` | One idea per slide: ghost index number, short kicker label, headline, one body line with one `*highlight*`. Solid black, typographic. |
 | 7 | `cta` | Payoff + pitch: headline, body that ties the topic to Vibe Health tracking, white pill button, lowercase benefit `tag`, photo background. |
 
+## Colorways (optional A/B palettes)
+
+The deck is black/white by default. A spec may set an optional top-level
+`"colorway"` to render the same typographic layout in a different palette — used
+to A/B which palette performs best. Values (defined in
+`vibe-carousels/build.js` `PALETTES`):
+
+| colorway | look |
+|---|---|
+| `mono` (default) | black `#0a0a0a` bg / white ink — the control |
+| `mint` | soft white `#f6fcf8` bg / deep-green ink, green pills |
+| `deep-green` | deep-green `#0e3b24` panel / light ink |
+| `cream` | warm cream `#f4ecd8` bg / near-black green ink |
+| `charcoal` | charcoal `#1c1c1c` bg / off-white ink, amber accent |
+
+Color only changes the palette — copy, slide count, highlights, and the
+monochrome cover/CTA photo treatment are identical across colorways (the photo
+gradient is tinted to match the palette so text stays legible).
+
 ## Voice
 
 - Practical, direct, slightly contrarian ("the scale lies", "without the BS").

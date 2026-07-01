@@ -1,0 +1,68 @@
+{
+  "key": "211-wider-back",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Build a wider *back*.",
+      "sub": "Chase the V-taper.",
+      "img": "ai-bg/211-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Width",
+      "title": "Train for *width*",
+      "body": "Pulldowns and pull-ups build the V."
+    },
+    {
+      "type": "content",
+      "kicker": "Connect",
+      "title": "Feel the *lats*",
+      "body": "Pull with your elbows, not your arms."
+    },
+    {
+      "type": "content",
+      "kicker": "Rows",
+      "title": "Add *rows*",
+      "body": "Rows build the thickness pulldowns miss."
+    },
+    {
+      "type": "content",
+      "kicker": "Stretch",
+      "title": "Full *stretch*",
+      "body": "Let the lats stretch all the way at the top."
+    },
+    {
+      "type": "content",
+      "kicker": "Volume",
+      "title": "Back takes *volume*",
+      "body": "10+ hard sets a week to grow.",
+      "stat": "10+"
+    },
+    {
+      "type": "cta",
+      "title": "Build the *back*.",
+      "body": "Vibe Health keeps your training and protein on track.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Build a wider back. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training and protein on track. → link in bio.",
+  "hashtags": [
+    "#backday",
+    "#vtaper",
+    "#gymtok",
+    "#buildmuscle",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#backworkout",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Build a Wider Back"
+}

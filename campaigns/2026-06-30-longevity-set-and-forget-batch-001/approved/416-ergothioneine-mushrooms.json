@@ -1,0 +1,55 @@
+{
+  "key": "416-ergothioneine-mushrooms",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The *longevity vitamin* hiding in mushrooms",
+      "sub": "Ergothioneine is an amino acid your body cannot make, yet it gathers exactly where you need protection most.",
+      "bg": "ai-bg/416-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A nutrient you cannot make",
+      "body": "Ergothioneine is an amino acid we get only from food. Mushrooms are by far the *richest source* on your plate."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It travels to stressed tissue",
+      "body": "Your cells use a dedicated transporter to pull ergothioneine into tissues under stress, where it *concentrates and waits*."
+    },
+    {
+      "type": "content",
+      "kicker": "How it works",
+      "title": "A shield for mitochondria",
+      "body": "Once inside, it can support your mitochondria against oxidative stress. Researchers call it a *longevity vitamin* for this reason."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Low levels track decline",
+      "body": "Lower blood ergothioneine is linked to faster cognitive decline as we age. Higher intake *may help* protect the brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Eat more mushrooms",
+      "body": "A handful of cooked mushrooms a few times a week is an easy, *defensible habit* with real upside."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small habits into *real years*.",
+      "body": "Vibe Health tracks the food, sleep, movement and steps behind your longevity, then scores it all in one daily number.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "longevity, tracked"
+    }
+  ],
+  "caption": "There is a nutrient your body cannot make, and mushrooms are the richest source of it. 🍄🌿\n\nErgothioneine gathers in stressed tissue, can support your mitochondria, and low levels are linked to faster cognitive decline. A few servings a week is an easy win. Save this. 🔖\n\nVibe Health turns habits like this into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#ergothioneine", "#mushrooms", "#brainhealth", "#healthyaging", "#wellness", "#healthhabits", "#nutrition", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Ergothioneine: The Longevity Vitamin in Mushrooms",
+  "cover_query": "oyster mushrooms"
+}

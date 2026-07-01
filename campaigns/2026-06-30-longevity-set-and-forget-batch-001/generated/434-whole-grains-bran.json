@@ -1,0 +1,55 @@
+{
+  "key": "434-whole-grains-bran",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The part of the grain that *keeps you steady*.",
+      "sub": "Intact whole grains carry a fiber-rich bran and germ that refining strips away. That difference matters more than you think.",
+      "bg": "ai-bg/434-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Intact, not refined",
+      "body": "A whole grain keeps its bran and germ. Refining removes both, leaving mostly fast starch and *very little fiber*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Fiber slows the rise",
+      "body": "The bran and germ slow how quickly glucose enters your blood, which *can support* steadier energy and gentler blood sugar."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Linked to longer life",
+      "body": "Higher whole grain intake is linked to lower all-cause mortality in large studies. The fiber and nutrients *seem to matter most*."
+    },
+    {
+      "type": "content",
+      "kicker": "Easy swaps",
+      "title": "Trade up your staples",
+      "body": "Choose oats, brown rice, barley or true whole grain bread. Look for *whole grain listed first* on the label."
+    },
+    {
+      "type": "content",
+      "kicker": "Read closely",
+      "title": "Color can mislead",
+      "body": "Brown does not mean whole. Many loaves are refined flour with coloring, so *check the ingredient list* before you trust it."
+    },
+    {
+      "type": "cta",
+      "title": "Make every grain *count*.",
+      "body": "Vibe Health logs your food alongside sleep, movement and steps, turning small swaps like this into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The difference between white bread and true whole grain is the part most loaves throw away: the fiber-rich bran and germ. 🌾\n\nThey slow how fast glucose hits your blood, and higher whole grain intake is linked to lower all-cause mortality. Check the label, not the color. Save this. 🔖\n\nVibe Health turns small food swaps into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#wholegrains", "#fiber", "#bloodsugar", "#healthyaging", "#vibehealth", "#nutrition", "#wellness", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "Why Whole Grains Beat Refined for Longevity",
+  "cover_query": "whole grain bread"
+}

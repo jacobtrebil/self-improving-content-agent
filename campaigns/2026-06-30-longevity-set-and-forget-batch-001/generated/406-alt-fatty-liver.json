@@ -1,0 +1,69 @@
+{
+  "key": "406-alt-fatty-liver",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your liver is quietly *keeping score*.",
+      "sub": "Fatty liver builds for years without a symptom. A simple test can catch it while it is still reversible.",
+      "bg": "ai-bg/406-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Fat that hides in plain sight",
+      "body": "Non-alcoholic fatty liver disease affects roughly one in three adults. Most never feel it, because the liver *rarely complains* until late."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "A single blood marker",
+      "body": "ALT is a liver enzyme on most basic panels. A quietly rising level *can be an early sign* that fat is straining the liver."
+    },
+    {
+      "type": "content",
+      "kicker": "The confirmation",
+      "title": "A look inside, no needle",
+      "body": "A quick abdominal ultrasound can see the fat directly. Together, ALT and imaging *help catch* trouble years before scarring."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Early fat is reversible",
+      "body": "Caught early, shedding visceral fat *can reverse* much of the damage. Left alone, it may harden into permanent scarring."
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "Less visceral fat, calmer liver",
+      "body": "Steady movement, fewer refined carbs and better sleep *are linked to* lower liver fat. Small daily habits move the marker most."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the organ that *does the work*.",
+      "body": "Vibe Health turns your food, movement, steps and sleep into one daily Health Score, so the habits that ease your liver are easy to keep.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your liver, supported"
+    }
+  ],
+  "caption": "Fatty liver builds silently for years, but it is one of the most reversible things in your body if you catch it early. 🌿\n\nA simple ALT blood marker and a quick ultrasound can flag it while shedding visceral fat can still undo the damage, before it hardens into scarring. Save this for your next checkup. 🔖\n\nVibe Health turns the daily habits that ease your liver into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#fattyliver",
+    "#liverhealth",
+    "#metabolichealth",
+    "#healthspan",
+    "#wellness",
+    "#healthhabits",
+    "#preventivehealth",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Quiet Liver Test That Can Catch Damage Early",
+  "cover_query": "doctor"
+}

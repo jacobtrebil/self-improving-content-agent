@@ -1,0 +1,69 @@
+{
+  "key": "478-immunosenescence",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your immune system *ages too*.",
+      "sub": "A small gland behind your breastbone trains your defenses. As it shrinks, infections hit harder. Here is how to slow it.",
+      "bg": "ai-bg/478-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "The thymus runs the show",
+      "body": "The thymus trains fresh T-cells, the soldiers that recognize new threats. After your twenties it *slowly shrinks* and quiets down."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Fewer fresh defenders",
+      "body": "With fewer new T-cells, the immune system leans on tired old ones. This aging, called immunosenescence, *is linked to* harsher infections."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Muscle feeds immunity",
+      "body": "Skeletal muscle stores the amino acids your immune cells burn during a fight. Strength work *may help* keep that reserve full."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Sleep rebuilds defenses",
+      "body": "Deep sleep is when immune memory consolidates. A few short nights *can blunt* your response, even to a vaccine."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever three",
+      "title": "Vaccines do the training",
+      "body": "When fresh T-cells are scarce, vaccines teach your existing cells the targets. They *can keep* common infections from turning serious."
+    },
+    {
+      "type": "cta",
+      "title": "Age slower from the *inside out*.",
+      "body": "Vibe Health tracks the sleep, movement, food and steps that support a resilient immune system, all in one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your immunity, tracked"
+    }
+  ],
+  "caption": "Your immune system gets older right alongside you, and the gland that trains it quietly shrinks. 🌿\n\nMuscle, deep sleep and staying up to date on vaccines can slow that immune aging and keep ordinary infections from becoming serious. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#immunehealth",
+    "#healthyaging",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Your Immune System Ages, and How to Slow It",
+  "cover_query": "doctor"
+}

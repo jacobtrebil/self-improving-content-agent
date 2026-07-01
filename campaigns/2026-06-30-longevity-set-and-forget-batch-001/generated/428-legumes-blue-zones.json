@@ -1,0 +1,55 @@
+{
+  "key": "428-legumes-blue-zones",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The one food in every *Blue Zone*",
+      "sub": "A daily cup of beans and lentils is the quiet staple shared by the world's longest-lived people.",
+      "bg": "ai-bg/428-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A humble longevity staple",
+      "body": "From Okinawa to Sardinia, the longest-lived communities all lean on legumes. A daily cup *shows up everywhere*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Steady, slow energy",
+      "body": "Beans and lentils are rich in slow-digesting fiber. That can support *steadier blood sugar* and fewer afternoon crashes."
+    },
+    {
+      "type": "content",
+      "kicker": "The fuel",
+      "title": "Plant protein that lasts",
+      "body": "A cup brings plant protein plus fiber, so you feel full longer. It is linked to *better appetite control*."
+    },
+    {
+      "type": "content",
+      "kicker": "The gut",
+      "title": "Food for your microbes",
+      "body": "That same fiber feeds the gut bacteria tied to immunity and mood. Your microbiome *thrives on plants*."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "One simple cup a day",
+      "body": "Add lentils to soup, beans to a salad, hummus to lunch. Small, repeatable swaps *compound over years*."
+    },
+    {
+      "type": "cta",
+      "title": "Build the *daily habits* that last",
+      "body": "Vibe Health logs your food, sleep, movement and steps, then turns them into one daily Health Score so good habits actually stick.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Every Blue Zone shares one quiet staple, and it is not a supplement. It is a daily cup of beans and lentils. 🌿🫘\n\nSlow-digesting fiber and plant protein that steady your blood sugar and feed your gut, all from one simple habit. Save this. 🔖\n\nVibe Health turns small daily habits into one clear score → link in bio.",
+  "hashtags": ["#longevity", "#bluezones", "#guthealth", "#plantbased", "#healthyaging", "#wellness", "#healthhabits", "#nutrition", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The One Food Every Blue Zone Shares",
+  "cover_query": "bowl of lentils"
+}

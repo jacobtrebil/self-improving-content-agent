@@ -1,0 +1,59 @@
+{
+  "key": "307-theanine-caffeine",
+  "theme": "health",
+  "colorway": "deep-green",
+  "eyebrow": "Theanine",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Coffee without the *jitters or crash*.",
+      "sub": "L-theanine — the calming compound in tea — smooths caffeine into clean, steady focus.",
+      "bg": "ai-bg/307-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Caffeine alone overshoots",
+      "body": "Coffee on its own can spike *anxiety and jitters*, then drop you into an afternoon crash."
+    },
+    {
+      "type": "content",
+      "kicker": "The partner",
+      "title": "Meet L-theanine",
+      "body": "*L-theanine*, an amino acid in green tea, promotes calm focus without making you drowsy."
+    },
+    {
+      "type": "content",
+      "kicker": "Better together",
+      "title": "Calm meets alert",
+      "body": "Paired with caffeine, theanine smooths the edge — you get the *focus without the buzz*."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "Aim for a pairing",
+      "body": "A common combo is *~200mg theanine* with your usual coffee, or simply brew strong green tea."
+    },
+    {
+      "type": "content",
+      "kicker": "Easy route",
+      "title": "Just drink green tea",
+      "body": "Green tea already contains *both compounds* — matcha is an easy, built-in version of the stack."
+    },
+    {
+      "type": "cta",
+      "title": "Sharper focus, *steadier mood*.",
+      "body": "Log your coffee, energy, and sleep in Vibe Health and watch your daily Health Score show how your focus habits actually feel.",
+      "button": "Download Vibe Health →",
+      "tag": "clean focus, no crash",
+      "bg": "ai-bg/307-cta.png"
+    }
+  ],
+  "caption": "L-theanine plus caffeine is the calm, focused energy coffee alone never gives you. ☕\n\nTheanine (in green tea) smooths out the jitters and crash — pair ~200mg with your coffee, or just drink matcha. 🔖\n\nLog your coffee, energy, and sleep in Vibe Health and see how your focus actually feels → link in bio.",
+  "hashtags": ["#ltheanine", "#caffeine", "#focus", "#greentea", "#calmfocus", "#productivity", "#nootropics", "#energy", "#healthtips", "#vibehealthapp"],
+  "youtube_title": "Coffee Without the Jitters or Crash",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person holding a warm cup of coffee beside a glass of green tea on a kitchen counter in dim morning light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of hands cradling a steaming mug, a calm focused expression just catching the rim light."
+  }
+}

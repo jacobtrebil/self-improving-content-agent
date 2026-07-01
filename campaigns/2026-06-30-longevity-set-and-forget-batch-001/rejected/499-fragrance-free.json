@@ -1,0 +1,55 @@
+{
+  "key": "499-fragrance-free",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The hidden cost of *smelling nice*",
+      "sub": "That signature scent may carry phthalates, chemicals tied to how your body ages. Here is the calmer choice.",
+      "bg": "ai-bg/499-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Fragrance is a loophole",
+      "body": "On a label, the single word fragrance can *hide dozens of chemicals*. Brands are not required to list what is inside."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Meet phthalates",
+      "body": "Phthalates help scent linger in perfume, candles and cleaners. They are *linked to disrupted endocrine signaling*, the hormones that quietly run your body."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "A hidden chemical load",
+      "body": "Steady exposure adds up. Studies connect higher phthalate levels to *metabolic and reproductive aging*, the slow erosion of how you age."
+    },
+    {
+      "type": "content",
+      "kicker": "The swap",
+      "title": "Choose fragrance-free",
+      "body": "Reach for fragrance-free or unscented products where you can. It is a simple way to *lower a load you cannot smell*."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it calm",
+      "title": "Small changes, repeated",
+      "body": "You do not need a chemical-free life. A few better choices, *made consistently*, are what move the needle over years."
+    },
+    {
+      "type": "cta",
+      "title": "See how your habits *add up*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the small choices you make can compound into healthier aging.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The thing that makes a room smell expensive might be quietly working against you. 🌿\n\nSynthetic fragrance often hides phthalates, chemicals linked to disrupted hormones and faster metabolic and reproductive aging. Choosing fragrance-free is a simple way to lower a chemical load you never notice. Save this for your next shopping trip. 🔖\n\nVibe Health turns the small daily choices into one clear score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#cleanliving", "#nontoxic", "#endocrinehealth", "#hormonehealth", "#wellness", "#healthyaging", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Fragrance-Free Might Help You Age Better",
+  "cover_query": "perfume bottles shelf"
+}

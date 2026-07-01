@@ -1,0 +1,69 @@
+{
+  "key": "498-gardening-blue-zones",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The garden may be a *longevity tool*.",
+      "sub": "In the world's Blue Zones, daily gardening is a quiet habit linked to longer, healthier years.",
+      "bg": "ai-bg/498-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A Blue Zones habit",
+      "body": "People in the longest-living regions tend gardens well into their nineties. It is *gentle, daily movement* woven into ordinary life."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Movement that lasts",
+      "body": "Bending, lifting and digging are low-impact effort the body welcomes. Steady activity like this *can support* mobility and strength as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "The sun",
+      "title": "Light and calm",
+      "body": "Time outdoors brings sunlight your body uses to make vitamin D, and quiet hands-in-the-dirt focus that *may lower stress*."
+    },
+    {
+      "type": "content",
+      "kicker": "The soil",
+      "title": "Friendly microbes",
+      "body": "Contact with garden soil exposes you to diverse microbes that *may help diversify* the gut, a system tied to long-term health."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Small habit, real years",
+      "body": "Movement, sunlight, calm and soil add up. A short daily session is an *easy longevity ritual* almost anyone can keep."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small habits into *good years*.",
+      "body": "Vibe Health tracks the movement, steps, sleep and food behind habits like this, all in one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The longest-living people on earth share a quiet habit: they garden. 🌿🌞\n\nLow-impact movement, sunlight, stress relief and contact with soil microbes that may diversify the gut. Small ritual, real years. Save this. 🔖\n\nVibe Health turns everyday habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#bluezones",
+    "#healthyaging",
+    "#gardening",
+    "#gutmicrobiome",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#vibehealth",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Gardening Is a Blue Zones Longevity Habit",
+  "cover_query": "gardening"
+}

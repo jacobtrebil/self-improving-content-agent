@@ -1,0 +1,55 @@
+{
+  "key": "429-prebiotic-inulin",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The fiber that *feeds your gut* from within",
+      "sub": "Inulin is a prebiotic in everyday foods. Your gut bacteria turn it into something remarkable.",
+      "bg": "ai-bg/429-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet prebiotic inulin",
+      "body": "Inulin is a soluble fiber found in onions, garlic and chicory root. You cannot digest it, but your *gut bacteria can*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Food for the good microbes",
+      "body": "Beneficial bacteria ferment inulin in the colon. This *feeds the microbes* linked to a calmer, healthier gut."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "It becomes butyrate",
+      "body": "That fermentation produces butyrate, a short-chain fatty acid that *fuels your gut cells* and may help calm inflammation."
+    },
+    {
+      "type": "content",
+      "kicker": "The lining",
+      "title": "A stronger gut wall",
+      "body": "Butyrate can support the gut lining, the barrier that keeps what belongs in your gut where *it should stay*."
+    },
+    {
+      "type": "content",
+      "kicker": "Where to find",
+      "title": "Hiding in real food",
+      "body": "Onions, garlic, leeks, asparagus and chicory are rich sources. A little variety each day *goes a long way*."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *tracked daily*.",
+      "body": "Vibe Health logs the food, sleep, movement and steps behind a healthier gut, and turns them into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your gut, tracked"
+    }
+  ],
+  "caption": "The humble onion does more than season your dinner. Its prebiotic fiber feeds the gut bacteria working quietly on your behalf. 🌿🧅\n\nInulin becomes butyrate, a fatty acid that can calm inflammation and strengthen your gut lining. Eat the variety, and let the microbes do the rest. Save this. 🔖\n\nVibe Health turns those daily food and habit choices into one simple score → link in bio.",
+  "hashtags": ["#guthealth", "#prebiotics", "#microbiome", "#longevity", "#vibehealth", "#wellness", "#healthhabits", "#nutrition", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Everyday Fiber That Feeds Your Gut Bacteria",
+  "cover_query": "sliced red onions"
+}

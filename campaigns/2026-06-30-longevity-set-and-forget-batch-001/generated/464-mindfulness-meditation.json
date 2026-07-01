@@ -1,0 +1,69 @@
+{
+  "key": "464-mindfulness-meditation",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Stillness is *training* for your brain.",
+      "sub": "A few quiet minutes a day can calm the stress response that quietly ages you. Here is what it does.",
+      "bg": "ai-bg/464-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Stress wears the body down",
+      "body": "Chronic stress keeps cortisol high and the alarm centers of the brain on edge. Over years, that *speeds up cellular aging*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "A calmer alarm system",
+      "body": "Regular mindfulness practice is linked to a less reactive amygdala, the brain's threat detector. The volume on stress *turns down*."
+    },
+    {
+      "type": "content",
+      "kicker": "The hormone",
+      "title": "Lower cortisol output",
+      "body": "Steady practice may help blunt the cortisol your body releases under pressure, easing the load on your *brain and immune system*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Protecting your cells",
+      "body": "Less stress signaling can support the cellular repair that keeps you sharp. It is one of the gentlest longevity habits there is."
+    },
+    {
+      "type": "content",
+      "kicker": "The practice",
+      "title": "Small and consistent wins",
+      "body": "Five to ten quiet minutes most days beats one long session. *Consistency* is what trains the nervous system to settle."
+    },
+    {
+      "type": "cta",
+      "title": "Make calm a *daily habit*.",
+      "body": "Vibe Health scores your sleep, food, movement and steps in one daily number, so the calm you build shows up in how you actually feel.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your calm, tracked"
+    }
+  ],
+  "caption": "Your brain can be trained to handle stress better. A few quiet minutes a day is the workout. 🧘‍♀️🌿\n\nMindfulness is linked to a calmer amygdala and lower cortisol, easing the stress that quietly ages your brain and immune system. Save this. 🔖\n\nVibe Health turns calmer days into one simple daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#mindfulness",
+    "#meditation",
+    "#stressrelief",
+    "#healthyaging",
+    "#wellness",
+    "#healthhabits",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How Mindfulness Slows Stress-Driven Aging",
+  "cover_query": "meditation"
+}

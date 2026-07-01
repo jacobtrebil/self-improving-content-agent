@@ -1,0 +1,55 @@
+{
+  "key": "435-herbs-spices-polyphenols",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The smallest thing on your plate, *doing the most*.",
+      "sub": "Herbs like rosemary and oregano are among the most polyphenol-dense foods by weight. A pinch goes a long way.",
+      "bg": "ai-bg/435-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Concentrated by nature",
+      "body": "Dried herbs pack their plant compounds into a tiny serving. Gram for gram, oregano and rosemary *rank among the richest* polyphenol sources."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Polyphenols, explained",
+      "body": "Polyphenols are plant antioxidants. Diets high in them *are linked to* lower inflammation and better aging over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The benefit",
+      "title": "Quietly anti-inflammatory",
+      "body": "Compounds in rosemary, thyme and oregano *may help* calm everyday inflammation, the slow burn behind much of how we age."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Flavor that earns its place",
+      "body": "A spoon of herbs adds depth without salt or sugar. The easiest upgrade is the one you *barely taste the cost of*."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Add a pinch daily",
+      "body": "Stir oregano into sauce, rosemary into roasts, herbs into dressing. Small, repeatable choices *compound into* real protection."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *tracked daily*.",
+      "body": "Vibe Health logs your food, movement, sleep and steps, then turns them into one daily Health Score so the little choices add up.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "every meal counts"
+    }
+  ],
+  "caption": "The most powerful thing on your plate might be the smallest. A pinch of rosemary or oregano adds some of the most polyphenol-dense compounds in the kitchen. 🌿🥗\n\nPolyphenols are linked to lower inflammation and better aging, and herbs deliver them gram for gram with no salt or sugar. Stir them into sauces, roasts and dressings every day. Save this. 🔖\n\nVibe Health turns small daily choices like these into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#antiinflammatory", "#polyphenols", "#healthyeating", "#wellness", "#healthspan", "#nutrition", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "The Most Polyphenol-Dense Foods Are Already in Your Kitchen",
+  "cover_query": "fresh herbs board"
+}

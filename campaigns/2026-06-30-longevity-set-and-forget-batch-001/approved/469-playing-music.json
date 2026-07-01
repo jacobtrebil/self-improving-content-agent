@@ -1,0 +1,69 @@
+{
+  "key": "469-playing-music",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "An instrument is a *full brain* workout.",
+      "sub": "Playing music lights up motor, hearing and memory networks at the same time. Here is why that protects an aging mind.",
+      "bg": "ai-bg/469-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Many systems, one act",
+      "body": "Reading notes, moving your hands and listening at once asks the brain to *coordinate several networks* in real time."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "A dopamine lift",
+      "body": "Learning and landing a passage releases dopamine, the reward chemical that *can support* focus, motivation and mood."
+    },
+    {
+      "type": "content",
+      "kicker": "The calm",
+      "title": "Cortisol comes down",
+      "body": "Time spent playing is linked to *lower cortisol*, the stress hormone that wears on the brain and body over years."
+    },
+    {
+      "type": "content",
+      "kicker": "Over time",
+      "title": "A more resilient brain",
+      "body": "Regular musical practice is linked to *stronger memory* and sharper attention as we age, even when you start later in life."
+    },
+    {
+      "type": "content",
+      "kicker": "Start small",
+      "title": "Minutes beat marathons",
+      "body": "A short, steady practice most days *does more than* rare long ones. Consistency is what builds the habit and the gains."
+    },
+    {
+      "type": "cta",
+      "title": "Make the *good habits* stick.",
+      "body": "Vibe Health scores the sleep, food, movement and steps that keep your brain sharp, turning daily habits into one clear Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Picking up an instrument is one of the most complete things you can do for your brain. 🎵🌿\n\nIt fires up motor, hearing and memory networks at once, lifts dopamine and lowers cortisol, all of which can help protect an aging mind. Save this for your next quiet afternoon. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#brainhealth",
+    "#healthyaging",
+    "#musicandbrain",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#cognitivehealth",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Playing an Instrument Protects Your Aging Brain",
+  "cover_query": "guitar"
+}

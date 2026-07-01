@@ -1,0 +1,55 @@
+{
+  "key": "472-stress-reframe",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your body reacts to how you *read* stress.",
+      "sub": "The same racing heart can mean threat or readiness. The story you tell may change what your arteries do.",
+      "bg": "ai-bg/472-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Stress is a signal",
+      "body": "A pounding heart before a big moment is your body *getting ready*, sending more oxygen and fuel to meet the demand."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Threat constricts",
+      "body": "When stress reads as danger, blood vessels tend to *narrow*. Over time that pattern is linked to extra wear on the heart."
+    },
+    {
+      "type": "content",
+      "kicker": "The shift",
+      "title": "Challenge opens flow",
+      "body": "Seeing stress as a challenge you can handle is linked to a *healthier blood flow* response, closer to how the body moves during exercise."
+    },
+    {
+      "type": "content",
+      "kicker": "The reframe",
+      "title": "Name it as fuel",
+      "body": "Telling yourself this energy is *helping you perform* may ease the threat response. The feeling stays. Its meaning changes."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Watch the patterns",
+      "body": "Sleep, movement and recovery shape how calmly you meet pressure. Small daily habits *steady your baseline* under stress."
+    },
+    {
+      "type": "cta",
+      "title": "Meet stress from a *steadier* place.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so you can see what keeps you resilient under pressure.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your resilience, tracked"
+    }
+  ],
+  "caption": "Stress isn't always the enemy. How you read that racing heart can change what your body does with it. 🌿💪\n\nThreat narrows your arteries, but seeing stress as a challenge is linked to healthier blood flow. Reframe the feeling, steady your habits, and meet pressure better. Save this. 🔖\n\nVibe Health turns sleep, food and movement into one daily score that tracks your resilience → link in bio.",
+  "hashtags": ["#longevity", "#stressmanagement", "#hearthealth", "#wellness", "#mindset", "#healthhabits", "#resilience", "#healthyaging", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Reframe Stress to Protect Your Heart",
+  "cover_query": "speaker on stage"
+}

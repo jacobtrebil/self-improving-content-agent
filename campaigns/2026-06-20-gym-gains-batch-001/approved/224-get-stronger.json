@@ -1,0 +1,68 @@
+{
+  "key": "224-get-stronger",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "How to actually get *stronger*.",
+      "sub": "Strength is a skill.",
+      "img": "ai-bg/224-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Practice",
+      "title": "Practice the *lift*",
+      "body": "Strength is skill. Do the big lifts often."
+    },
+    {
+      "type": "content",
+      "kicker": "Heavy",
+      "title": "Train *heavy*",
+      "body": "3 to 5 reps build raw strength.",
+      "stat": "3-5"
+    },
+    {
+      "type": "content",
+      "kicker": "Rest",
+      "title": "Rest *longer*",
+      "body": "3 to 5 minutes between heavy sets."
+    },
+    {
+      "type": "content",
+      "kicker": "Add slow",
+      "title": "Add weight *slowly*",
+      "body": "Small jumps weekly beat ego maxes."
+    },
+    {
+      "type": "content",
+      "kicker": "Fuel",
+      "title": "Fuel the *strength*",
+      "body": "Strength needs food and sleep, just like size."
+    },
+    {
+      "type": "cta",
+      "title": "Get *strong*.",
+      "body": "Vibe Health ties your training, food and sleep together.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "How to actually get stronger. 💪\n\nSave this and put it to work. 🔖\n\nVibe ties your training, food and sleep together. → link in bio.",
+  "hashtags": [
+    "#strength",
+    "#getstronger",
+    "#gymtok",
+    "#powerlifting",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#liftingtips",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Actually Get Stronger"
+}

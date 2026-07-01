@@ -1,0 +1,72 @@
+{
+  "key": "325-deload",
+  "theme": "health",
+  "colorway": "mono",
+  "eyebrow": "Deload",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why backing off *makes you stronger*.",
+      "sub": "Your nervous system recovers slower than your muscles — and ignoring that is why your progress stalls. It's called a deload.",
+      "bg": "ai-bg/325-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The trap",
+      "title": "More isn't always better",
+      "body": "Training hard every week without a break grinds down your *nervous system* faster than your muscles can recover."
+    },
+    {
+      "type": "content",
+      "kicker": "The signs",
+      "title": "Read the warning lights",
+      "body": "Stalled lifts, bad sleep, low mood, lingering soreness — that's *not weakness*, it's a recovery debt."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Plan a deload week",
+      "body": "Every *4 to 8 weeks*, cut your volume or intensity for one week on purpose."
+    },
+    {
+      "type": "content",
+      "kicker": "What happens",
+      "title": "You come back stronger",
+      "body": "The break lets your body finish *adapting to the work* you already did — that's when the gains show up."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Sustainable, year-round progress",
+      "body": "Deloading isn't lost time — it's how you train hard *for years* without burning out."
+    },
+    {
+      "type": "cta",
+      "title": "Train hard, recover *on purpose*.",
+      "body": "Vibe Health scores your sleep, recovery, and training in one daily number — so you can spot when it's time to back off before you stall.",
+      "button": "Download Vibe Health →",
+      "tag": "sustainable gains, real energy",
+      "bg": "ai-bg/325-cta.png"
+    }
+  ],
+  "caption": "Backing off isn't lazy — it's how you actually get stronger. 💪\n\nYour nervous system recovers slower than your muscles. Plan a deload every 4–8 weeks and let the gains catch up. Save this. 🔖\n\nVibe Health scores your recovery so you know when to ease off → link in bio.",
+  "hashtags": [
+    "#deload",
+    "#recovery",
+    "#overtraining",
+    "#strengthtraining",
+    "#cns",
+    "#restday",
+    "#fitnesstips",
+    "#gains",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why A Deload Week Makes You Stronger, Not Weaker",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person sitting on a gym bench resting between sets, towel over the shoulders, breathing slow in dim light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A quiet empty gym in low light, a single barbell racked, calm and still."
+  },
+  "cover_query": "weight bench gym",
+  "cta_query": "stretching exercise"
+}

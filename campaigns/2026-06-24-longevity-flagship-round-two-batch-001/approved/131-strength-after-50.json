@@ -1,0 +1,69 @@
+{
+  "key": "131-strength-after-50",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "After 50, strength matters *more*, not less.",
+      "sub": "Muscle is use it or lose it. The good news: you can still build it at any age.",
+      "bg": "ai-bg/131-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The truth",
+      "title": "Use it or lose it",
+      "body": "Muscle quietly fades with age when it goes unused. Strength training *can slow that loss* for years."
+    },
+    {
+      "type": "content",
+      "kicker": "Good news",
+      "title": "You can still build",
+      "body": "Your body responds to training at any age. People in their seventies *build real strength* in months."
+    },
+    {
+      "type": "content",
+      "kicker": "How",
+      "title": "Add a little over time",
+      "body": "Progressive overload still works. Lift a touch more, or add a rep, *as you get stronger*."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Two sessions a week",
+      "body": "That is enough to make steady gains. Cover the big movements: push, pull, squat, hinge."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Protect your independence",
+      "body": "Strong legs and grip keep you steady and capable. Muscle *may help protect* the years ahead."
+    },
+    {
+      "type": "cta",
+      "title": "Stay strong for *the long run*.",
+      "body": "Vibe Health tracks your movement and habits and turns each day into one simple score that protects your healthspan.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "strength, tracked"
+    }
+  ],
+  "caption": "It is never too late to get stronger. After 50, muscle matters more than ever. 💪\n\nProgressive overload still works: add a little load over time, train twice a week, and protect your independence for decades. Save this. 🔖\n\nVibe Health turns your habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#strengthtraining",
+    "#healthspan",
+    "#healthyaging",
+    "#muscle",
+    "#vibehealth",
+    "#fitnessafter50",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Strength Training Matters More After 50",
+  "cover_query": "dumbbells weights"
+}

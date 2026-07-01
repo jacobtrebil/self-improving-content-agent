@@ -1,0 +1,69 @@
+{
+  "key": "459-chronotype-awareness",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Stop fighting your *body clock*.",
+      "sub": "Your chronotype is your genetic timing for sleep, energy and focus. Working with it can ease the strain on your heart and metabolism.",
+      "bg": "ai-bg/459-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "You have a built-in clock",
+      "body": "Your chronotype sets when you naturally feel alert or sleepy. It is *largely written in your genes*, not a matter of willpower."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Misalignment adds strain",
+      "body": "Living against your clock is called circadian misalignment. It *is linked to* higher cardiometabolic risk over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Time your hardest work",
+      "body": "Schedule demanding tasks for your natural peak hours. Aligning effort with energy *can support* sharper focus and less fatigue."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Move when you fire up",
+      "body": "Exercise when your body feels primed, not when you are forcing it. Well-timed movement *may help* sleep and recovery."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever three",
+      "title": "Anchor your meals",
+      "body": "Eating earlier and on a steady schedule *can support* metabolic health. Late, erratic meals push against your clock."
+    },
+    {
+      "type": "cta",
+      "title": "Learn *your* rhythm.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns the patterns into one daily Health Score so you can see when your body works best.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your rhythm, tracked"
+    }
+  ],
+  "caption": "Some of us wake up sharp at sunrise. Others hit their stride at night. Neither is wrong. 🌿\n\nWorking with your chronotype instead of against it, timing your focus, movement and meals to your natural clock, can ease the strain on your heart and metabolism. Save this. 🔖\n\nVibe Health turns those daily patterns into one simple score → link in bio.",
+  "hashtags": [
+    "#chronotype",
+    "#circadianrhythm",
+    "#longevity",
+    "#sleephealth",
+    "#metabolichealth",
+    "#wellness",
+    "#healthhabits",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Stop Fighting Your Body Clock: Work With Your Chronotype",
+  "cover_query": "alarm clock"
+}

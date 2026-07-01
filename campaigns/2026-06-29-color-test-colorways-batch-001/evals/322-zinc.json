@@ -1,0 +1,114 @@
+{
+  "key": "322-zinc",
+  "eyebrow": "Zinc",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/322-zinc.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/322-zinc.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The mineral your *immune system runs on*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "300/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'The mineral your immune system runs on' is decent but vague — doesn't name zinc or give a concrete payoff that stops a scroll.",
+      "clarity": "Each slide covers one idea and the food-first message is consistent, though 'quiet workhorse' slide adds little beyond the cover.",
+      "audience_fit": "Busy 20–35s can act on the food list immediately, and the 'demand goes up' slide speaks directly to the training/plant-based crowd.",
+      "novelty": "Zinc + oysters + pumpkin seeds is one of the most recycled nutrition carousel formats on TikTok — nothing here reframes it.",
+      "brand_fit": "Claims are hedged throughout ('may help', 'can support' implied), no hype words, CTA ties directly to the Health Score feature without AI-cringe.",
+      "predicted_performance": "Solid save bait for nutrition completists but the generic angle limits viral spread — expect average saves, below-average shares."
+    },
+    "overall": 3.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25783,
+    "tokensOut": 266,
+    "costUsd": 0.06933120000000001,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'The mineral your immune system runs on' is decent but vague — doesn't name zinc or give a concrete payoff that stops a scroll."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide covers one idea and the food-first message is consistent, though 'quiet workhorse' slide adds little beyond the cover."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s can act on the food list immediately, and the 'demand goes up' slide speaks directly to the training/plant-based crowd."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Zinc + oysters + pumpkin seeds is one of the most recycled nutrition carousel formats on TikTok — nothing here reframes it."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged throughout ('may help', 'can support' implied), no hype words, CTA ties directly to the Health Score feature without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Solid save bait for nutrition completists but the generic angle limits viral spread — expect average saves, below-average shares."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:57.814Z"
+}

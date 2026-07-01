@@ -1,0 +1,55 @@
+{
+  "key": "155-handful-of-nuts",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A daily handful of nuts, *a longer life*.",
+      "sub": "One of the simplest food habits is linked to aging well. The signal is surprisingly strong.",
+      "bg": "ai-bg/155-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Small habit, big signal",
+      "body": "People who eat nuts regularly *tend to live* longer in large studies. A tiny habit carries real weight."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "What nuts give you",
+      "body": "Healthy fats, fiber and minerals come packed in one bite. Together they *can support* the heart and steady energy."
+    },
+    {
+      "type": "content",
+      "kicker": "Portion sense",
+      "title": "Just a small handful",
+      "body": "About a closed handful a day is plenty. Nuts are rich, so a *little goes far*."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Simple ways to add them",
+      "body": "Stir them into oats, salads or yogurt, or keep a small jar nearby for a *grab and go* snack."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "An easy daily win",
+      "body": "Keep nuts within reach and enjoy a handful most days. It is a small habit that *may add up*."
+    },
+    {
+      "type": "cta",
+      "title": "Build habits that *add good years*.",
+      "body": "Vibe Health tracks the food, sleep and movement that help you age well, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small habits, long life"
+    }
+  ],
+  "caption": "A daily handful of nuts is one of the simplest longevity habits there is. 🌿\n\nThe healthy fats, fiber and minerals support your heart and energy, and the signal in the research is strong. A small handful is all it takes. Save this. 🔖\n\nVibe Health turns those food habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#nuts", "#healthspan", "#healthyaging", "#hearthealth", "#vibehealth", "#nutrition", "#wellness", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "Why a Daily Handful of Nuts Is Linked to a Longer Life",
+  "cover_query": "mixed nuts bowl"
+}

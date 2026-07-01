@@ -1,0 +1,69 @@
+{
+  "key": "496-radon-home-test",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The lung threat *you can't see or smell*",
+      "sub": "Radon is a radioactive gas that seeps up from soil into homes. It is the top cause of lung cancer in people who never smoked.",
+      "bg": "ai-bg/496-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A gas from the ground",
+      "body": "Radon forms as uranium in soil and rock breaks down. It rises and *collects indoors*, especially in basements and lower floors."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Damage at the cell level",
+      "body": "As radon decays it releases tiny particles you breathe in. Over years they *can damage lung-cell DNA* and raise cancer risk."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "A leading cause, often missed",
+      "body": "Radon is *the top non-smoking cause* of lung cancer. It is invisible, odorless, and rarely on anyone's radar."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Test, then vent",
+      "body": "A *cheap home test kit* tells you your level in days. If it is high, a venting system can pull the gas out and away."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "A silent risk removed",
+      "body": "One test and one fix can *protect your lungs for decades*. It is a rare longevity win you only have to do once."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *fewer hidden risks*",
+      "body": "Vibe Health turns the daily basics into one number: it scores your sleep, food, movement and steps so the choices that protect your health stay simple.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your health, tracked"
+    }
+  ],
+  "caption": "There is a lung-cancer risk hiding in many homes, and most people have never tested for it. 🌿\n\nRadon seeps up from soil, its decay particles can damage lung-cell DNA, and it is the top cause of lung cancer in non-smokers. A cheap test and a vent can remove it. Save this. 🔖\n\nVibe Health turns the daily basics into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#radon",
+    "#lunghealth",
+    "#healthyhome",
+    "#prevention",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Radon: The Silent Lung Cancer Risk in Your Home",
+  "cover_query": "house exterior"
+}

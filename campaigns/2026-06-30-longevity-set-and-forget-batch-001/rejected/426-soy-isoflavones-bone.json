@@ -1,0 +1,55 @@
+{
+  "key": "426-soy-isoflavones-bone",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The quiet plant compound that *protects your bones*.",
+      "sub": "Soy isoflavones act like gentle phytoestrogens. They may help women age with stronger bones and steadier menopausal changes.",
+      "bg": "ai-bg/426-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet the isoflavones",
+      "body": "Compounds in soy, like *genistein*, loosely mimic estrogen. They are called phytoestrogens because they fit the same receptors, gently."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Estrogen guards your bones",
+      "body": "As estrogen falls in menopause, bone loss can speed up. Isoflavones *may help preserve* bone density during that shift."
+    },
+    {
+      "type": "content",
+      "kicker": "The relief",
+      "title": "Easier menopausal changes",
+      "body": "Studies suggest soy isoflavones *can support* fewer hot flashes and a smoother transition for some women through menopause."
+    },
+    {
+      "type": "content",
+      "kicker": "The reassurance",
+      "title": "Food-level soy looks safe",
+      "body": "Large reviews find dietary soy *is not linked to* higher breast-cancer risk. For many women it appears protective."
+    },
+    {
+      "type": "content",
+      "kicker": "How to use it",
+      "title": "Choose whole soy foods",
+      "body": "Tofu, edamame, tempeh and soy milk are *simple daily sources*. A serving or two a day fits most balanced plates."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small habits into *strong years*.",
+      "body": "Vibe Health logs the food, movement, steps and sleep that protect your bones and rolls them into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Bone strength in menopause often comes down to the small things you eat every day. Soy is one of the gentlest. 🌿\n\nIsoflavones like genistein act as mild phytoestrogens that may help preserve bone density and ease the menopausal transition, and food-level soy is not linked to higher breast-cancer risk. Save this. 🔖\n\nVibe Health turns your daily food and movement into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#bonehealth", "#menopause", "#womenshealth", "#healthyaging", "#nutrition", "#wellness", "#healthhabits", "#vibehealth", "#vibehealthapp"],
+  "youtube_title": "Soy Isoflavones: A Gentle Way to Protect Bones in Menopause",
+  "cover_query": "soybeans bowl"
+}

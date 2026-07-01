@@ -1,0 +1,55 @@
+{
+  "key": "143-take-the-stairs",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The stairs are a *free daily gym*.",
+      "sub": "Climbing trains your legs and your heart at once. It's also a quiet fitness test you can do anywhere.",
+      "bg": "ai-bg/143-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A gym hiding in plain sight",
+      "body": "Every flight asks your body to lift its own weight. Stairs are *strength and cardio* rolled into one."
+    },
+    {
+      "type": "content",
+      "kicker": "What it trains",
+      "title": "Legs and heart together",
+      "body": "Climbing works the big muscles that keep you mobile, while raising your heart rate. Both are linked to aging well."
+    },
+    {
+      "type": "content",
+      "kicker": "The test",
+      "title": "Notice your breath",
+      "body": "How you feel after a few flights is a gentle gauge of fitness. Less breathless over time *suggests progress*."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Choose stairs when you can",
+      "body": "Skip the lift, take the steps, add one extra flight. Small daily choices *quietly add up*."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Free, simple, repeatable",
+      "body": "Stairs cost nothing and ask little. Using them often *may support* a stronger, more capable future."
+    },
+    {
+      "type": "cta",
+      "title": "Turn stairs into *steady gains*.",
+      "body": "Vibe Health tracks your movement and steps and turns every flight you climb into one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "every flight counts"
+    }
+  ],
+  "caption": "The stairs are a free daily gym, and most of us walk right past them. 🌿\n\nClimbing trains your legs and heart together, and your breath after a few flights is a quiet fitness test. Skip the lift when you can, and let it add up. Save this. 🔖\n\nVibe Health turns every step you climb into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#takethestairs", "#healthyaging", "#cardiofitness", "#vibehealth", "#dailymovement", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Taking the Stairs Is a Free Fitness Test",
+  "cover_query": "person climbing stairs"
+}

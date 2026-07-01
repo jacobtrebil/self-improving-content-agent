@@ -1,0 +1,55 @@
+{
+  "key": "139-caffeine-timing",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "When you sip coffee *shapes your sleep*.",
+      "sub": "Caffeine lingers far longer than the buzz. An earlier cutoff can protect your deepest sleep.",
+      "bg": "ai-bg/139-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A long half-life",
+      "body": "Caffeine fades slowly. Half of it *can still linger* in your body many hours after the cup."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Afternoon coffee stays",
+      "body": "That 3pm cup *may still be working* at bedtime, even if you feel ready to sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "The cost",
+      "title": "It trims deep sleep",
+      "body": "Caffeine late in the day *is linked to* lighter, less restorative sleep. You may not even notice."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Set a daily cutoff",
+      "body": "Try keeping coffee to the morning and early afternoon. An earlier last cup *can help* your nights."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Enjoy it, time it",
+      "body": "You do not have to quit. Simply moving your last cup earlier *may protect* deeper sleep."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the sleep that *restores you*.",
+      "body": "Vibe Health tracks your sleep, food and movement and turns those habits into one simple daily score.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "deeper sleep, steadier days"
+    }
+  ],
+  "caption": "Your coffee timing matters more than you might think. 🌿\n\nCaffeine has a long half-life, so an afternoon cup can quietly trim your deep sleep. An earlier cutoff is an easy fix. Save this. 🔖\n\nVibe Health turns your sleep and daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#caffeine", "#sleephealth", "#healthspan", "#healthyaging", "#vibehealth", "#deepsleep", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Your Coffee Timing Affects Deep Sleep",
+  "cover_query": "coffee cup afternoon"
+}

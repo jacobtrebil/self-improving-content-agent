@@ -1,0 +1,68 @@
+{
+  "key": "221-full-body-vs-split",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Full body or a *split*?",
+      "sub": "Pick based on your days.",
+      "img": "ai-bg/221-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Few days",
+      "title": "Few days? *Full body*",
+      "body": "Training 3 days? Hit everything each session."
+    },
+    {
+      "type": "content",
+      "kicker": "More days",
+      "title": "More days? *Split it*",
+      "body": "4 to 6 days? Upper/lower or push pull legs."
+    },
+    {
+      "type": "content",
+      "kicker": "Frequency",
+      "title": "Hit muscles *twice*",
+      "body": "Each muscle twice a week beats once.",
+      "stat": "2×"
+    },
+    {
+      "type": "content",
+      "kicker": "Recovery",
+      "title": "Match your *recovery*",
+      "body": "Pick what you can actually recover from."
+    },
+    {
+      "type": "content",
+      "kicker": "Adherence",
+      "title": "Stay *consistent*",
+      "body": "The best split is the one you'll actually do."
+    },
+    {
+      "type": "cta",
+      "title": "Train your *way*.",
+      "body": "Vibe Health tracks your training and recovery in one score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Full body or a split? 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your training and recovery in one score. → link in bio.",
+  "hashtags": [
+    "#trainingsplit",
+    "#fullbody",
+    "#gymtok",
+    "#buildmuscle",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#workout",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Full Body vs Split: Which Is Better"
+}

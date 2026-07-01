@@ -1,0 +1,55 @@
+{
+  "key": "487-joint-cartilage",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your joints stay young by *staying in motion*.",
+      "sub": "Cartilage has no blood supply of its own. Movement is how it feeds and protects itself.",
+      "bg": "ai-bg/487-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Cartilage has no blood supply",
+      "body": "The cushion between your bones gets no direct circulation. It depends entirely on *the fluid around it* for nutrients."
+    },
+    {
+      "type": "content",
+      "kicker": "How it works",
+      "title": "Motion is the pump",
+      "body": "Each step and bend pushes synovial fluid in and out of the cartilage, *delivering nutrients* and clearing waste like a sponge."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Stillness starves the joint",
+      "body": "Long hours of sitting slow that exchange. Cartilage that rarely moves can *thin and stiffen* over the years."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Load it gently, often",
+      "body": "Walking, squatting and stairs lubricate the joint. Regular loaded movement *is linked to* less pain and better mobility with age."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "A little, most days",
+      "body": "Joints are built to last decades when used. Consistent daily movement *can support* pain-free knees and hips for life."
+    },
+    {
+      "type": "cta",
+      "title": "Keep your joints *moving for decades*.",
+      "body": "Vibe Health tracks your steps, movement and daily activity, then turns it into one Health Score so motion becomes a habit.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your movement, tracked"
+    }
+  ],
+  "caption": "Your joints don't wear out from use. They wear out from sitting still. 🌿\n\nCartilage has no blood supply, so it feeds only on the fluid that movement pumps through it. Walk, squat and take the stairs, and your knees and hips can stay pain-free for decades. Save this. 🔖\n\nVibe Health turns daily movement into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#jointhealth", "#healthyaging", "#mobility", "#vibehealth", "#wellness", "#healthhabits", "#agewell", "#movemore", "#vibehealthapp"],
+  "youtube_title": "Why Movement Keeps Your Joints Pain-Free for Decades",
+  "cover_query": "senior couple walking"
+}

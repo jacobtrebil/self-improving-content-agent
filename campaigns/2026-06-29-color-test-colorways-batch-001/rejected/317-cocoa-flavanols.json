@@ -1,0 +1,59 @@
+{
+  "key": "317-cocoa-flavanols",
+  "theme": "health",
+  "colorway": "deep-green",
+  "eyebrow": "Cocoa Flavanols",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Dark chocolate for a *sharper brain*.",
+      "sub": "Cocoa flavanols boost nitric-oxide blood flow to the brain — linked to sharper focus and memory.",
+      "bg": "ai-bg/317-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The compound",
+      "title": "It's the flavanols",
+      "body": "The benefit comes from *cocoa flavanols*, plant compounds concentrated in real dark chocolate — not the sugar."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "More blood to the brain",
+      "body": "Flavanols raise *nitric oxide*, relaxing blood vessels so more oxygen-rich blood reaches your brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Focus and memory",
+      "body": "Better cerebral blood flow is linked to *sharper focus* and short-term memory on demanding tasks."
+    },
+    {
+      "type": "content",
+      "kicker": "Choose well",
+      "title": "Go 70% or higher",
+      "body": "Pick *≥70% dark chocolate* — higher cocoa means more flavanols and far less added sugar."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "A square, not a bar",
+      "body": "A small *daily square* delivers the benefit; treat it as a habit, not a dessert binge."
+    },
+    {
+      "type": "cta",
+      "title": "Feed your focus, *the smart way*.",
+      "body": "Log your food and energy in Vibe Health and your daily Health Score reveals which habits actually sharpen how you feel.",
+      "button": "Download Vibe Health →",
+      "tag": "sharper focus, real food",
+      "bg": "ai-bg/317-cta.png"
+    }
+  ],
+  "caption": "Dark chocolate isn't just a treat — cocoa flavanols boost blood flow to your brain. 🍫\n\nThey raise nitric oxide for sharper focus and memory. Go 70% or higher, one small square a day. 🔖\n\nLog your food and energy in Vibe Health and watch which habits sharpen how you feel → link in bio.",
+  "hashtags": ["#darkchocolate", "#cocoaflavanols", "#brainhealth", "#focus", "#memory", "#nutrition", "#cognition", "#healthyeating", "#healthtips", "#vibehealthapp"],
+  "youtube_title": "Dark Chocolate for a Sharper Brain",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person breaking a square from a bar of dark chocolate, the texture catching hard side light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a single square of dark chocolate held between fingers, deep shadows pooling around it."
+  }
+}

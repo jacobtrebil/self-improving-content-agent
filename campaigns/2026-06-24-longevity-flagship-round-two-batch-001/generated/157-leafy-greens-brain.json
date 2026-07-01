@@ -1,0 +1,55 @@
+{
+  "key": "157-leafy-greens-brain",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "One serving of greens, *a sharper brain*.",
+      "sub": "A daily helping of leafy greens may slow how quickly the brain ages. The habit is small and simple.",
+      "bg": "ai-bg/157-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Greens are brain food",
+      "body": "People who eat leafy greens daily *tend to stay* sharper as they age. The link shows up again and again."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The nutrients involved",
+      "body": "Folate, lutein and vitamin K fill leafy greens. Together they *may support* memory and clearer thinking."
+    },
+    {
+      "type": "content",
+      "kicker": "How much",
+      "title": "One serving a day",
+      "body": "A single daily serving is the simple target. Most of the benefit *appears to come* from showing up consistently."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Easy ways to eat them",
+      "body": "Add a handful to a smoothie, soup or omelet, or build a quick side salad. Small servings *add up*."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Feed your future mind",
+      "body": "Make greens a daily habit, not a once-in-a-while side. Your brain *may thank you* for decades."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for a *sharper future*.",
+      "body": "Vibe Health tracks the food, sleep and movement that help you age well, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "greens for a sharp mind"
+    }
+  ],
+  "caption": "A daily serving of leafy greens may slow how quickly the brain ages. 🌿\n\nThe folate, lutein and vitamin K inside support memory and clear thinking, and one serving a day is enough to start. Save this. 🔖\n\nVibe Health turns those food habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#leafygreens", "#brainhealth", "#healthspan", "#healthyaging", "#vibehealth", "#nutrition", "#wellness", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "How a Daily Serving of Leafy Greens May Slow Brain Aging",
+  "cover_query": "fresh kale salad"
+}

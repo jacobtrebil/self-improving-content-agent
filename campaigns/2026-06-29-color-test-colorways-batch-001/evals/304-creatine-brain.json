@@ -1,0 +1,118 @@
+{
+  "key": "304-creatine-brain",
+  "eyebrow": "Creatine",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/304-creatine-brain.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/304-creatine-brain.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/30-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/30-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Creatine isn't for muscle. It's for your *brain*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "314/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 5,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "Reframes a familiar product with a concrete, counterintuitive payoff in one sentence — high stop-the-scroll potential.",
+      "clarity": "Each slide is a single, labeled idea with one bolded anchor; zero bloat.",
+      "audience_fit": "Sleep-deprived, stressed, afternoon-crash audience is named explicitly mid-deck — lands precisely on the target.",
+      "novelty": "Creatine-for-brain is a rising angle but has been circulating in supplement circles for 12–18 months; not yet saturated on TikTok health feeds.",
+      "brand_fit": "Claims are hedged throughout ('studies link', 'early signals'), voice is plain and un-hypey, CTA ties directly to the app's core Health Score concept.",
+      "predicted_performance": "Strong save candidate given actionable dose slide and novel framing, but the mechanism slide (phosphocreatine/ATP) may lose casual viewers before the payoff."
+    },
+    "overall": 4.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25818,
+    "tokensOut": 318,
+    "costUsd": 0.0703712,
+    "raw": {
+      "hook_strength": {
+        "score": 5,
+        "why": "Reframes a familiar product with a concrete, counterintuitive payoff in one sentence — high stop-the-scroll potential."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, labeled idea with one bolded anchor; zero bloat."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Sleep-deprived, stressed, afternoon-crash audience is named explicitly mid-deck — lands precisely on the target."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Creatine-for-brain is a rising angle but has been circulating in supplement circles for 12–18 months; not yet saturated on TikTok health feeds."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged throughout ('studies link', 'early signals'), voice is plain and un-hypey, CTA ties directly to the app's core Health Score concept."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save candidate given actionable dose slide and novel framing, but the mechanism slide (phosphocreatine/ATP) may lose casual viewers before the payoff."
+      },
+      "overall": {
+        "score": 4.7,
+        "why": "One of the tighter decks in the batch — cover, dose, and CTA are all doing real work; the one risk is slide 2 going slightly too technical for the broadest slice of the audience."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:07:42.526Z"
+}

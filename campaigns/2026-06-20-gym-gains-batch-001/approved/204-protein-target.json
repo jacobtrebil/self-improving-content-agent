@@ -1,0 +1,69 @@
+{
+  "key": "204-protein-target",
+  "theme": "gym",
+  "eyebrow": "Nutrition",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "How much protein you *actually* need.",
+      "sub": "Most lifters guess wrong.",
+      "img": "ai-bg/204-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "1g per *pound*",
+      "body": "Per pound of goal bodyweight. Simple.",
+      "stat": "1g"
+    },
+    {
+      "type": "content",
+      "kicker": "Spread it",
+      "title": "Hit it *every meal*",
+      "body": "Around 30 to 40g per meal absorbs best.",
+      "stat": "30g"
+    },
+    {
+      "type": "content",
+      "kicker": "Easy wins",
+      "title": "Stock the *staples*",
+      "body": "Eggs, chicken, greek yogurt, whey."
+    },
+    {
+      "type": "content",
+      "kicker": "Morning",
+      "title": "Front-load *breakfast*",
+      "body": "Protein early kills the cravings."
+    },
+    {
+      "type": "content",
+      "kicker": "Track",
+      "title": "Log it for a *week*",
+      "body": "You're eating less than you think."
+    },
+    {
+      "type": "cta",
+      "title": "Hit your *protein*.",
+      "body": "Snap a meal and Vibe Health counts the protein for you.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "How much protein you actually need. 💪\n\nSave this and put it to work. 🔖\n\nSnap a meal and Vibe counts the protein for you. → link in bio.",
+  "hashtags": [
+    "#protein",
+    "#highprotein",
+    "#gymtok",
+    "#nutrition",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#diet",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How Much Protein You Actually Need"
+}

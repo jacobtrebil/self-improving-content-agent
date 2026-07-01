@@ -1,0 +1,72 @@
+{
+  "key": "310-vo2-max",
+  "theme": "health",
+  "colorway": "mono",
+  "eyebrow": "VO2 Max",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The number that *predicts how long* you live.",
+      "sub": "It's called VO2 max — one of the strongest predictors of all-cause mortality we have. Most people never test it.",
+      "bg": "ai-bg/310-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "What it is",
+      "title": "Your engine size",
+      "body": "VO2 max is how much oxygen your body can actually *use under effort* — basically the size of your aerobic engine."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It tracks with lifespan",
+      "body": "People in the *bottom 25%* of fitness tend to die younger — in some studies the gap rivals smoking."
+    },
+    {
+      "type": "content",
+      "kicker": "Raise it",
+      "title": "Add hard intervals",
+      "body": "Once or twice a week, push to *near-max for short bursts* — this is what actually lifts the ceiling."
+    },
+    {
+      "type": "content",
+      "kicker": "The protocol",
+      "title": "Four by four minutes",
+      "body": "A classic: *four hard 4-minute efforts* with easy recovery between. Brutal, short, effective."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "More years, more energy",
+      "body": "A higher VO2 max means everyday life feels *easier for longer* — stairs, hikes, and decades you'd otherwise lose."
+    },
+    {
+      "type": "cta",
+      "title": "Watch your *fitness number* climb.",
+      "body": "Vibe Health turns your workouts, steps, and recovery into one daily score — so you can see your fitness trending up week over week.",
+      "button": "Download Vibe Health →",
+      "tag": "train for more years",
+      "bg": "ai-bg/310-cta.png"
+    }
+  ],
+  "caption": "VO2 max is one of the strongest predictors of how long you'll live. ❤️‍🔥\n\nAdd a couple hard intervals a week — like four 4-minute efforts — and you raise the ceiling. More years, more everyday energy. 🔖\n\nVibe Health turns your training into one daily score you can watch climb → link in bio.",
+  "hashtags": [
+    "#vo2max",
+    "#cardio",
+    "#longevity",
+    "#fitness",
+    "#hiit",
+    "#hearthealth",
+    "#healthspan",
+    "#aerobic",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "VO2 Max: The Number That Predicts How Long You Live",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A runner mid-stride on an empty track at dusk, breathing hard, sweat catching the low light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person checking a fitness watch after a hard interval, chest heaving, rim light on the wrist."
+  },
+  "cover_query": "runner on a track",
+  "cta_query": "fitness watch on wrist"
+}

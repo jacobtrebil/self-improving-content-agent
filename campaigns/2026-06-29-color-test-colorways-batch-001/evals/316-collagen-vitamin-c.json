@@ -1,0 +1,114 @@
+{
+  "key": "316-collagen-vitamin-c",
+  "eyebrow": "Collagen",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/316-collagen-vitamin-c.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/316-collagen-vitamin-c.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/31-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/31-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Collagen needs a *hidden cofactor*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "330/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Hidden cofactor' is specific and curiosity-driven, though 'cofactor' may read as jargon to a non-science audience.",
+      "clarity": "Each slide is a single, actionable idea with a clear label and no fluff.",
+      "audience_fit": "Collagen + vitamin C is relevant to the 20–35 crowd, but the tendon/training angle skews slightly fitness-specific.",
+      "novelty": "The cofactor framing is a genuine mechanism most people haven't heard, not just 'take collagen for skin.'",
+      "brand_fit": "Claims are hedged throughout, CTA is functional not hypey, and the trend-line hook is genuinely useful product context.",
+      "predicted_performance": "Strong save-bait with the 8–12 week patience angle, but the supplement niche limits broad share potential."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25820,
+    "tokensOut": 237,
+    "costUsd": 0.0691652,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Hidden cofactor' is specific and curiosity-driven, though 'cofactor' may read as jargon to a non-science audience."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, actionable idea with a clear label and no fluff."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Collagen + vitamin C is relevant to the 20–35 crowd, but the tendon/training angle skews slightly fitness-specific."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The cofactor framing is a genuine mechanism most people haven't heard, not just 'take collagen for skin.'"
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged throughout, CTA is functional not hypey, and the trend-line hook is genuinely useful product context."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save-bait with the 8–12 week patience angle, but the supplement niche limits broad share potential."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:28.697Z"
+}

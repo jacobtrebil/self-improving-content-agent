@@ -1,0 +1,69 @@
+{
+  "key": "488-sunscreen-photoaging",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The cheapest *anti-aging* habit is free at noon.",
+      "sub": "Daily sun exposure quietly ages your skin from the inside. A simple morning step may slow it.",
+      "bg": "ai-bg/488-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "UVA goes deeper",
+      "body": "UVA rays pass through clouds and glass and reach the *deep layers* of your skin, where the structure that keeps it firm lives."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it ages",
+      "title": "It breaks down collagen",
+      "body": "That light switches on enzymes called matrix metalloproteinases, which *break down collagen and elastin*, the fibers that keep skin smooth and elastic."
+    },
+    {
+      "type": "content",
+      "kicker": "The result",
+      "title": "Most visible aging is sun",
+      "body": "Researchers estimate a large share of visible facial aging traces back to UV. Lines and laxity are *largely cumulative sun damage*."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Broad-spectrum, every day",
+      "body": "Daily broad-spectrum SPF blocks both UVA and UVB. Used consistently, it *may slow photoaging* and is linked to lower skin-cancer risk."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it stick",
+      "title": "Tie it to a habit",
+      "body": "The hard part is consistency, not knowledge. Pairing sunscreen with brushing your teeth *makes it automatic* every morning."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *compounded for decades*.",
+      "body": "Vibe Health helps the daily habits stick by scoring your sleep, food, movement and steps in one simple Health Score you can build on.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The best anti-aging move isn't a serum. It's the sunscreen you actually remember to use. ☀️🌿\n\nUVA reaches deep and breaks down the collagen and elastin that keep skin firm, so daily broad-spectrum SPF may slow visible aging and is linked to lower skin-cancer risk. Save this. 🔖\n\nVibe Health turns the habits that age you well into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#skinhealth",
+    "#healthyaging",
+    "#sunscreen",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#vibehealth",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Daily Sunscreen Is the Cheapest Anti-Aging Habit",
+  "cover_query": "sunscreen"
+}

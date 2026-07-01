@@ -1,0 +1,55 @@
+{
+  "key": "476-expressive-writing",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Writing it down may help your *body heal*.",
+      "sub": "Putting hard emotions into words can lighten mental load. The effect reaches further than your mood.",
+      "bg": "ai-bg/476-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Name what you feel",
+      "body": "Expressive writing means honestly describing a difficult experience on paper. The act of *putting it into words* is the whole point."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It offloads the load",
+      "body": "Unspoken stress keeps the mind looping. Writing can *quiet that rumination* and free up attention you did not know was taken."
+    },
+    {
+      "type": "content",
+      "kicker": "The research",
+      "title": "The body responds too",
+      "body": "In studies, short writing sessions are linked to *measurably faster wound healing* and stronger immune markers."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Twenty minutes, four days",
+      "body": "Write privately about something that weighs on you. A few short sessions *can be enough* to feel the shift."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Stress is a health input",
+      "body": "Emotional load shows up in sleep, recovery and energy. Tending to it *is part of* tending to your body."
+    },
+    {
+      "type": "cta",
+      "title": "Watch your habits *add up*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the small things you do for your body stay visible.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, one score"
+    }
+  ],
+  "caption": "Writing about a hard emotion does more than clear your head. It can ripple into how your body recovers. 🌿\n\nNaming the stress quiets the mental loop, and short, private writing sessions are linked to faster healing and stronger immune markers. Save this for a heavy week. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#expressivewriting", "#journaling", "#stressrelief", "#mentalwellness", "#healthhabits", "#wellness", "#mindbody", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Writing About Your Feelings Helps You Heal",
+  "cover_query": "person journaling notebook"
+}

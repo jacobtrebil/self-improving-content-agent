@@ -1,0 +1,114 @@
+{
+  "key": "313-ferritin-fatigue",
+  "eyebrow": "Ferritin",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/313-ferritin-fatigue.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/313-ferritin-fatigue.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/31-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/31-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Always tired? *Check your iron stores*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "342/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Always tired? Check your iron stores' is specific and actionable, but 'always tired' is a well-worn hook opener that slightly dulls the edge.",
+      "clarity": "Every slide is one idea with a clear action — ask for the ferritin test, pair iron with C — nothing muddy or double-stacked.",
+      "audience_fit": "Fatigue, brain fog, and 'energy that sleep won't fix' land precisely for the busy, tired-by-3pm demographic who've already tried sleeping more.",
+      "novelty": "Ferritin-vs-anemia distinction is genuinely underexplained in mainstream health content, though the iron+vitamin C pairing is standard fare.",
+      "brand_fit": "Claims are hedged appropriately, CTA ties fatigue tracking to the Health Score without hype, and no banned language appears.",
+      "predicted_performance": "High save potential — it gives a specific ask ('request a ferritin test') that drives bookmark behavior — but the women-skewed framing narrows share spread slightly."
+    },
+    "overall": 4.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25817,
+    "tokensOut": 279,
+    "costUsd": 0.0697792,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Always tired? Check your iron stores' is specific and actionable, but 'always tired' is a well-worn hook opener that slightly dulls the edge."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one idea with a clear action — ask for the ferritin test, pair iron with C — nothing muddy or double-stacked."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Fatigue, brain fog, and 'energy that sleep won't fix' land precisely for the busy, tired-by-3pm demographic who've already tried sleeping more."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Ferritin-vs-anemia distinction is genuinely underexplained in mainstream health content, though the iron+vitamin C pairing is standard fare."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged appropriately, CTA ties fatigue tracking to the Health Score without hype, and no banned language appears."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — it gives a specific ask ('request a ferritin test') that drives bookmark behavior — but the women-skewed framing narrows share spread slightly."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:18.605Z"
+}

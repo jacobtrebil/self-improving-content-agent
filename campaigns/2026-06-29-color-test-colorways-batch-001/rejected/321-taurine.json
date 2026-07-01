@@ -1,0 +1,59 @@
+{
+  "key": "321-taurine",
+  "theme": "health",
+  "colorway": "mint",
+  "eyebrow": "Taurine",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The amino acid behind *healthier aging*?",
+      "sub": "Taurine levels fall as we age — and recent research links restoring it to healthier aging in animals. The human picture is still early.",
+      "bg": "ai-bg/321-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "Taurine drops with age",
+      "body": "Blood taurine *falls sharply with age* — and a major 2023 study tied that decline to faster aging in animals."
+    },
+    {
+      "type": "content",
+      "kicker": "The promise",
+      "title": "Restoring it helped — in mice",
+      "body": "Supplementing taurine *extended healthy lifespan in mice* and improved markers of aging. Promising, not proven in humans."
+    },
+    {
+      "type": "content",
+      "kicker": "Reality check",
+      "title": "Humans aren't mice",
+      "body": "Human trials are still early — taurine is *promising, not a fountain* of youth. Treat the hype with caution."
+    },
+    {
+      "type": "content",
+      "kicker": "Where it's found",
+      "title": "It's already in food",
+      "body": "You don't need a lab — taurine is *rich in meat, fish, shellfish*. Protein-heavy eaters get plenty already."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Eat well, watch the science",
+      "body": "Cover your protein and the basics first — then *let the research catch up* before betting on a pill."
+    },
+    {
+      "type": "cta",
+      "title": "Bet on *habits, not hype*.",
+      "body": "Vibe Health scores your food, sleep, steps, and water into one daily Health Score — the proven basics that actually support healthy aging.",
+      "button": "Download Vibe Health →",
+      "tag": "healthy aging, the basics first",
+      "bg": "ai-bg/321-cta.png"
+    }
+  ],
+  "caption": "Taurine — the amino acid the longevity world won't stop talking about. 🧬\n\nLevels fall as we age, and a 2023 study tied restoring it to healthier aging — in mice. Human evidence is still early, and it's already rich in meat, fish, and shellfish. Save this. 🔖\n\nVibe Health scores the proven basics — food, sleep, steps, water — into one daily number → link in bio.",
+  "hashtags": ["#taurine", "#longevity", "#healthyaging", "#supplements", "#aminoacids", "#healthtips", "#wellness", "#energy", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "Taurine and Aging: What the Science Actually Shows",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A weathered older man's face in dramatic side light, deep wrinkles and real skin texture, calm and dignified.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person preparing a simple plate of fish and greens in a dim kitchen, honest amateur-photo lighting."
+  }
+}

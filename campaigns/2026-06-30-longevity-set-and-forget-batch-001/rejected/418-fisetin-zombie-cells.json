@@ -1,0 +1,69 @@
+{
+  "key": "418-fisetin-zombie-cells",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The compound that clears your *aging cells*",
+      "sub": "It is called fisetin, and it is richest in a fruit already in your kitchen. Here is what the science suggests.",
+      "bg": "ai-bg/418-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Cells that refuse to quit",
+      "body": "As we age, damaged cells stop dividing but never die. These *senescent cells* linger and leak signals that can quietly inflame healthy tissue."
+    },
+    {
+      "type": "content",
+      "kicker": "The compound",
+      "title": "Meet fisetin",
+      "body": "Fisetin is a plant flavonoid, and strawberries are its *richest natural source*. It is one of the most studied senolytics, the class targeting worn-out cells."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Clearing the clutter",
+      "body": "In animal studies, fisetin cleared senescent cells and *extended healthy lifespan*. Human trials are early, so treat it as promising, not proven."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Start with the strawberry",
+      "body": "A simple bowl of strawberries is a defensible first step. Fisetin is *linked to* less cellular inflammation, alongside the fiber and vitamin C you already want."
+    },
+    {
+      "type": "content",
+      "kicker": "The bigger picture",
+      "title": "Food is only one lever",
+      "body": "No single fruit reverses aging. Sleep, movement and steady nutrition are the daily habits that *compound over decades* into real healthspan."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small habits into *good years*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps behind aging well, all in one daily Health Score so you can see what is working.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your healthspan, tracked"
+    }
+  ],
+  "caption": "Your body keeps cells that should have retired, and they quietly age the tissue around them. A flavonoid called fisetin may help clear them out. 🍓\n\nStrawberries are its richest natural source, animal studies link it to longer healthy lifespan, and a simple bowl is an easy first step. Save this. 🔖\n\nVibe Health turns the habits behind aging well into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#fisetin",
+    "#senolytics",
+    "#healthspan",
+    "#healthyaging",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Fisetin: The Strawberry Compound That Clears Aging Cells",
+  "cover_query": "fresh strawberries"
+}

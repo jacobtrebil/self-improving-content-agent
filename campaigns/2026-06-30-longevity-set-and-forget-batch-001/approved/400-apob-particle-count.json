@@ -1,0 +1,69 @@
+{
+  "key": "400-apob-particle-count",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The heart test your panel *may miss*.",
+      "sub": "ApoB counts the particles that actually clog arteries. It can flag risk a standard cholesterol check overlooks.",
+      "bg": "ai-bg/400-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Particles, not just numbers",
+      "body": "Every artery-clogging particle carries one ApoB protein. So ApoB *counts the particles* that drive heart disease, one by one."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "LDL can mislead",
+      "body": "LDL measures the cholesterol inside particles. Two people with the *same LDL number* can carry very different particle counts."
+    },
+    {
+      "type": "content",
+      "kicker": "The evidence",
+      "title": "A sharper predictor",
+      "body": "Research links ApoB to cardiovascular risk *more reliably than LDL* alone, because the particle count is what damages the artery wall."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Hidden in plain sight",
+      "body": "A standard lipid panel often skips ApoB. Normal cholesterol can *still hide risk* that one extra blood marker would reveal."
+    },
+    {
+      "type": "content",
+      "kicker": "What to do",
+      "title": "Ask for one marker",
+      "body": "ApoB is a simple, low-cost add to a routine blood draw. Knowing your number *can guide* smarter heart conversations."
+    },
+    {
+      "type": "cta",
+      "title": "Turn your numbers into *daily action*.",
+      "body": "Vibe Health helps you track the sleep, food, movement and steps that support heart health, all in one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart, tracked"
+    }
+  ],
+  "caption": "Your cholesterol can look fine and still hide real heart risk. ApoB counts the particles that actually clog arteries. 🩸\n\nOne low-cost blood marker can flag danger a standard lipid panel misses, and it predicts cardiovascular risk more reliably than LDL alone. Save this for your next checkup. 🔖\n\nVibe Health turns the habits behind a healthy heart into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#hearthealth",
+    "#apob",
+    "#cholesterol",
+    "#preventivehealth",
+    "#wellness",
+    "#healthhabits",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "ApoB: The Heart Test Your Cholesterol Panel Misses",
+  "cover_query": "laboratory"
+}

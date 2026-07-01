@@ -1,0 +1,72 @@
+{
+  "key": "311-muscle-glucose-sink",
+  "theme": "health",
+  "colorway": "mint",
+  "eyebrow": "Muscle",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your muscle is a *blood-sugar sponge*.",
+      "sub": "Skeletal muscle is the biggest place your body parks glucose. More of it means better blood-sugar control — for energy, not just looks.",
+      "bg": "ai-bg/311-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The sink",
+      "title": "Muscle stores your sugar",
+      "body": "Skeletal muscle is your largest *glucose sink* — it pulls sugar out of the blood and stores it."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "GLUT4 opens the door",
+      "body": "Training builds *GLUT4 transporters* — tiny doors that let muscle soak up glucose without needing much insulin."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Better insulin sensitivity",
+      "body": "More muscle means *better insulin sensitivity* — steadier blood sugar, steadier energy across the whole day."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Lift twice a week",
+      "body": "You don't need a bodybuilder physique — *two strength sessions a week* meaningfully improves how you handle carbs."
+    },
+    {
+      "type": "content",
+      "kicker": "Right after",
+      "title": "Walk after meals",
+      "body": "A *10-minute walk* after eating tells your muscles to pull glucose from the blood right away."
+    },
+    {
+      "type": "cta",
+      "title": "Build the sponge, *steady your energy*.",
+      "body": "Vibe Health scores your workouts, steps, and meals into one daily Health Score — so you can watch your metabolic habits add up.",
+      "button": "Download Vibe Health →",
+      "tag": "more muscle, steadier energy",
+      "bg": "ai-bg/311-cta.png"
+    }
+  ],
+  "caption": "Your muscle is basically a blood-sugar sponge. 💪\n\nSkeletal muscle is the biggest place your body parks glucose — GLUT4 doors pull it out of the blood. Two strength sessions a week plus a short walk after meals can meaningfully improve how you handle carbs. Save this. 🔖\n\nVibe Health scores your workouts, steps, and meals into one daily number → link in bio.",
+  "hashtags": [
+    "#muscle",
+    "#bloodsugar",
+    "#insulinsensitivity",
+    "#strengthtraining",
+    "#metabolichealth",
+    "#glucose",
+    "#healthtips",
+    "#wellness",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why More Muscle Means Steadier Blood Sugar",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person mid-set lifting a dumbbell in a dim home gym, harsh side light on the forearm, ordinary and focused.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person walking outdoors after a meal at dusk, low light, calm and steady stride."
+  },
+  "cover_query": "person lifting weights",
+  "cta_query": "dumbbells in gym"
+}

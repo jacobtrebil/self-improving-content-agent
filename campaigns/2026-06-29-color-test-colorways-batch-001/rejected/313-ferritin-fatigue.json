@@ -1,0 +1,59 @@
+{
+  "key": "313-ferritin-fatigue",
+  "theme": "health",
+  "colorway": "cream",
+  "eyebrow": "Ferritin",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Always tired? *Check your iron stores*.",
+      "sub": "Low ferritin — your stored iron — is one of the most overlooked causes of fatigue, especially in women.",
+      "bg": "ai-bg/313-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The overlooked cause",
+      "title": "Ferritin runs low first",
+      "body": "Ferritin is your stored iron. It can drop *long before anemia shows* on a standard blood test."
+    },
+    {
+      "type": "content",
+      "kicker": "Who it hits",
+      "title": "Women feel it most",
+      "body": "Monthly blood loss makes low ferritin common — up to *1 in 3 menstruating people* run low."
+    },
+    {
+      "type": "content",
+      "kicker": "The signs",
+      "title": "More than just tired",
+      "body": "Brain fog, breathlessness on stairs, brittle nails, hair shedding. *Energy that sleep won't fix.*"
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Ask for the number",
+      "body": "A standard panel may miss it. Ask your doctor for a *ferritin test* specifically."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat for it",
+      "title": "Pair iron with vitamin C",
+      "body": "Red meat, lentils and spinach deliver iron. *Vitamin C* alongside helps your body absorb it."
+    },
+    {
+      "type": "cta",
+      "title": "Track the tired, *find the cause*.",
+      "body": "Vibe Health logs your sleep, energy and habits in one daily Health Score — so patterns like fatigue stop hiding.",
+      "button": "Download Vibe Health →",
+      "tag": "energy, explained",
+      "bg": "ai-bg/313-cta.png"
+    }
+  ],
+  "caption": "Tired no matter how much you sleep? Your iron stores might be the reason. 🩸\n\nLow ferritin can drop long before anemia shows up, it's especially common in women, and a normal blood panel can miss it — so ask for a ferritin test. Save this. 🔖\n\nVibe Health pulls your sleep and energy into one place so the real pattern shows up → link in bio.",
+  "hashtags": ["#ferritin", "#irondeficiency", "#fatigue", "#womenshealth", "#lowenergy", "#bloodtest", "#nutrition", "#healthylifestyle", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "The Overlooked Reason You're Always Tired",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A woman sitting on the edge of her bed at dawn rubbing her eyes, soft window light, candid and visibly fatigued.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of a hand holding a small vial of blood at a clinic, hard side light on the glass."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "key": "448-tibialis-anti-trip",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The tiny shin muscle that *prevents falls*.",
+      "sub": "Your tibialis anterior lifts your toes with every step. Train it and you trip far less often.",
+      "bg": "ai-bg/448-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet your tibialis anterior",
+      "body": "It runs down the front of your shin and *lifts your foot* upward. Every step depends on it, yet almost no one trains it."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Toe clearance keeps you upright",
+      "body": "A weak tibialis lets your toes drop, so they catch the ground. Better clearance *can reduce* the trips that cause falls."
+    },
+    {
+      "type": "content",
+      "kicker": "The risk",
+      "title": "Falls are a longevity threat",
+      "body": "After 65, a single fall can change everything. Stronger toe lift *is linked to* steadier walking and more independence."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Train the lift, not the push",
+      "body": "Most calf work trains pushing off. Tibialis raises and band pulls train *the lifting motion* your stride forgets."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Two easy moves at home",
+      "body": "Sit, loop a band over your foot, and pull your toes up. Or stand and *lift your toes* against a wall. Daily."
+    },
+    {
+      "type": "cta",
+      "title": "Build a stride that *stays steady*.",
+      "body": "Vibe Health tracks your movement, steps, sleep and food, turning small daily habits into one clear Health Score you can act on.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your stride, tracked"
+    }
+  ],
+  "caption": "The trips that lead to falls often start with one overlooked muscle in your shin. 🦵\n\nTrain your tibialis anterior so your toes clear the ground, and you walk steadier for decades. Save this. 🔖\n\nVibe Health turns the habits that keep you mobile into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#healthyaging",
+    "#fallprevention",
+    "#mobility",
+    "#strengthtraining",
+    "#agewell",
+    "#wellness",
+    "#healthhabits",
+    "#healthspan",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Shin Muscle That Helps Prevent Falls",
+  "cover_query": "ankle"
+}

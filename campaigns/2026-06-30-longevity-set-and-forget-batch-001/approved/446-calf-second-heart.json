@@ -1,0 +1,69 @@
+{
+  "key": "446-calf-second-heart",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your calves are a *second heart*.",
+      "sub": "Every step squeezes blood back up toward your heart. Here is why that pump matters more as you age.",
+      "bg": "ai-bg/446-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "The muscle pump",
+      "body": "When your calves contract, they *push blood upward* against gravity, helping return it from your legs to your heart with every stride."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Easing the load",
+      "body": "Strong calf contractions share the work of circulation, which *can ease* the demand on your heart so it does not pump alone."
+    },
+    {
+      "type": "content",
+      "kicker": "The cost",
+      "title": "Sitting stalls the pump",
+      "body": "Long stretches of sitting let the pump go quiet. Pooled blood in the legs *is linked to* swelling and sluggish circulation."
+    },
+    {
+      "type": "content",
+      "kicker": "As you age",
+      "title": "Veins lose their spring",
+      "body": "Vein walls and valves soften over time. A strong, active calf pump *may help* protect healthy return flow for decades."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Move the pump often",
+      "body": "Walks, calf raises and breaking up sitting *keep the pump working*. Small movement, repeated through the day, adds up."
+    },
+    {
+      "type": "cta",
+      "title": "Keep the *pump moving* daily.",
+      "body": "Vibe Health tracks your steps, movement, sleep and food, then turns them into one daily Health Score so the habits that protect circulation actually stick.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your movement, tracked"
+    }
+  ],
+  "caption": "Your calves do quiet work every time you stand and walk: pumping blood back up to your heart. 🌿\n\nThe muscle pump eases cardiac load, fights pooling from too much sitting, and supports healthy circulation as your veins age. Move often, and it keeps paying off. Save this. 🔖\n\nVibe Health turns your steps, movement, sleep and food into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#circulation",
+    "#hearthealth",
+    "#healthyaging",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#movement",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Your Calves Are a Second Heart",
+  "cover_query": "running legs"
+}

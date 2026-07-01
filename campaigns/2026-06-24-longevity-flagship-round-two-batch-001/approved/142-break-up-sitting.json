@@ -1,0 +1,55 @@
+{
+  "key": "142-break-up-sitting",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Sitting still for hours has *its own cost*.",
+      "sub": "One workout can't undo a whole day in the chair. The fix is small, frequent movement.",
+      "bg": "ai-bg/142-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Long sitting is its own risk",
+      "body": "Hours of stillness *may quietly affect* your blood sugar and circulation, even when you exercise later that day."
+    },
+    {
+      "type": "content",
+      "kicker": "The shift",
+      "title": "Frequent breaks beat one fix",
+      "body": "Spreading movement through the day matters more than a single session. The goal is to interrupt the sitting often."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "A two minute walk",
+      "body": "Stand and move for *just two minutes* roughly every hour. A lap of the room or kitchen is plenty."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Tie it to a cue",
+      "body": "Move when a meeting ends, the kettle boils, or your hourly reminder pings. Let everyday moments prompt you."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Motion through the day",
+      "body": "You don't need a gym to break up sitting. Small, regular movement *can support* a healthier, longer life."
+    },
+    {
+      "type": "cta",
+      "title": "Keep your day *gently moving*.",
+      "body": "Vibe Health tracks your steps and movement and turns every walk break into one simple daily score you can build on.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "less sitting, more living"
+    }
+  ],
+  "caption": "Sitting still for hours carries its own cost, and one workout can't fully undo it. 🌿\n\nThe real fix is small and frequent: a two minute walk every hour, tied to a cue you already have. Movement through the day beats a single session. Save this. 🔖\n\nVibe Health turns every walk break into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#movementsnacks", "#sittingdisease", "#healthyaging", "#vibehealth", "#dailymovement", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Breaking Up Sitting Matters More Than One Workout",
+  "cover_query": "standing desk work"
+}

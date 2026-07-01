@@ -1,0 +1,70 @@
+skip 300-cover (exists; --force to refetch)
+skip 300-cta (exists; --force to refetch)
+skip 301-cover (exists; --force to refetch)
+skip 301-cta (exists; --force to refetch)
+✓ 302-cover  [rawpixel/cc0, no attribution]  "Free crispy port kale dish"
+✓ 302-cta  [rawpixel/cc0, no attribution]  "Free potatoes kitchen image"
+✗ 303-cover: no CC0 photo for "fresh red beets"
+✓ 303-cta  [rawpixel/cc0, no attribution]  "Tomato & Cheese Salad"
+✓ 304-cover  [wikimedia/cc0, no attribution]  "<div class='fn'> The Mystical Grapes</di"
+✗ 304-cta: no CC0 photo for "protein shake glass"
+✓ 305-cover  [stocksnap/cc0, no attribution]  "Cherries Fruits"
+✓ 305-cta  [stocksnap/cc0, no attribution]  "Young Book"
+✗ 306-cover: no CC0 photo for "person sleeping peacefully"
+✗ 306-cta: no CC0 photo for "dark quiet bedroom"
+✓ 307-cover  [stocksnap/cc0, no attribution]  "Tea Hot"
+✓ 307-cta  [stocksnap/cc0, no attribution]  "Macbook Laptop"
+✓ 308-cover  [rawpixel/cc0, no attribution]  "Paleo chicken skewers with plantains"
+✓ 308-cta  [stocksnap/cc0, no attribution]  "Breakfast Food"
+✓ 309-cover  [rawpixel/cc0, no attribution]  ""
+✓ 309-cta  [stocksnap/cc0, no attribution]  "Sunset Winter"
+✓ 310-cover  [stocksnap/cc0, no attribution]  "Track Field"
+✓ 310-cta  [rawpixel/cc0, no attribution]  "Woman showing smart watch wrist"
+✓ 311-cover  [rawpixel/cc0, no attribution]  "Weight lifters train dumbells gym"
+✓ 311-cta  [stocksnap/cc0, no attribution]  "Weights Fitness"
+✓ 312-cover  [rawpixel/cc0, no attribution]  "President Barack Obama, at left"
+✓ 312-cta  [stocksnap/cc0, no attribution]  "Fork Chicken"
+✓ 313-cover  [stocksnap/cc0, no attribution]  "Woman Bed"
+✗ 313-cta: no CC0 photo for "spinach and red meat"
+✓ 314-cover  [stocksnap/cc0, no attribution]  "Business Man"
+✓ 314-cta  [rawpixel/cc0, no attribution]  "Sushi and Red Chopsticks"
+✗ 315-cover: no CC0 photo for "aged cheese board"
+✓ 315-cta  [stocksnap/cc0, no attribution]  "Green Leafy"
+✓ 316-cover  [stocksnap/cc0, no attribution]  "Sliced Citrus"
+✗ 316-cta: no CC0 photo for "womans glowing skin"
+✓ 317-cover  [rawpixel/cc0, no attribution]  ""
+✓ 317-cta  [rawpixel/cc0, no attribution]  "Cocoa Pods And Cocoa Beans"
+✓ 318-cover  [rawpixel/cc0, no attribution]  "Gary Mckenny, 5, Son Miner"
+✓ 318-cta  [stocksnap/cc0, no attribution]  "Cooking Ingredients"
+✗ 319-cover: no CC0 photo for "person drinking water sweating"
+✓ 319-cta  [rawpixel/cc0, no attribution]  "Saltcellar"
+✓ 320-cover  [rawpixel/cc0, no attribution]  "Free red chili pepper tree"
+✓ 320-cta  [rawpixel/cc0, no attribution]  ""
+✗ 321-cover: no CC0 photo for "healthy active older person"
+✓ 321-cta  [stocksnap/cc0, no attribution]  "Seafood Dish"
+✓ 322-cover  [rawpixel/cc0, no attribution]  "Free fresh oyster shucking image"
+✓ 322-cta  [stocksnap/cc0, no attribution]  "Acorn Nuts"
+✓ 323-cover  [stocksnap/cc0, no attribution]  "Oatmeal Blueberries"
+✓ 323-cta  [rawpixel/cc0, no attribution]  "world's breakfast : Quaker Oats"
+✗ 324-cover: no CC0 photo for "person walking briskly city"
+✗ 324-cta: no CC0 photo for "fitness watch walking"
+✗ 325-cover: no CC0 photo for "athlete resting on bench"
+curl: (56) The requested URL returned error: 403
+curl: (56) The requested URL returned error: 403
+curl: (56) The requested URL returned error: 403
+curl: (56) The requested URL returned error: 403
+✗ 325-cta: no CC0 photo for "person stretching outdoors"
+✗ 326-cover: no CC0 photo for "person catching breath after workout"
+✗ 326-cta: no CC0 photo for "gym workout sweat"
+✓ 327-cover  [stocksnap/cc0, no attribution]  "Fresh Orange"
+curl: (56) The requested URL returned error: 403
+curl: (56) The requested URL returned error: 403
+curl: (56) The requested URL returned error: 403
+curl: (56) The requested URL returned error: 403
+✗ 327-cta: no CC0 photo for "sunlight on skin outdoors"
+✓ 328-cover  [stocksnap/cc0, no attribution]  "Breakfast Bowl"
+✓ 328-cta  [wikimedia/cc0, no attribution]  "Belgian waffles & fruit - Brewhouse & Ki"
+✓ 329-cover  [rawpixel/cc0, no attribution]  "Woman pouring olive oil"
+✓ 329-cta  [rawpixel/cc0, no attribution]  "Olive leaf branch, blue sky"
+
+covers: 40 ok, 16 failed

@@ -1,0 +1,55 @@
+{
+  "key": "458-side-sleeping-position",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The *position* you sleep in changes your night.",
+      "sub": "How you lie down shapes your breathing, your reflux and your overnight oxygen. Here is what side sleeping can do.",
+      "bg": "ai-bg/458-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Position guides your airway",
+      "body": "On your back, the tongue and soft tissue can settle backward. Sleeping on your side *helps keep the airway open* through the night."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Fewer pauses in breathing",
+      "body": "Back sleeping can worsen snoring and apnea events. For many people, the side position *is linked to* fewer interruptions."
+    },
+    {
+      "type": "content",
+      "kicker": "The reflux link",
+      "title": "Calmer digestion at night",
+      "body": "Lying flat lets stomach acid drift upward. Sleeping on your left side *may help* reduce nighttime reflux and heartburn."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Steadier oxygen overnight",
+      "body": "Smoother breathing means steadier oxygen while you sleep, which *can support* deeper, more restorative rest and clearer mornings."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it stick",
+      "title": "Set up the side",
+      "body": "A pillow behind your back or between your knees can keep you there. Small setup, *meaningful difference* over a full night."
+    },
+    {
+      "type": "cta",
+      "title": "See how your sleep *adds up*.",
+      "body": "Vibe Health scores your sleep, food, movement and steps in one daily number, so you can see how better nights show up in how you feel.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "The way you sleep is quietly working for you or against you all night. 🌙\n\nSide sleeping can help keep your airway open, ease reflux and steady your overnight oxygen for deeper rest. Save this for tonight. 🔖\n\nVibe Health turns your sleep and daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#sleephealth", "#bettersleep", "#healthyaging", "#wellness", "#sleepbetter", "#healthhabits", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Side Sleeping Beats Sleeping on Your Back",
+  "cover_query": "person side sleeping"
+}

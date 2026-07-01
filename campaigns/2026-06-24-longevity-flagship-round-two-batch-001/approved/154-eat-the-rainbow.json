@@ -1,0 +1,55 @@
+{
+  "key": "154-eat-the-rainbow",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Eat the rainbow, *age more slowly*.",
+      "sub": "The colors on your plate carry the plant compounds tied to longevity. Variety is the quiet secret.",
+      "bg": "ai-bg/154-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Color means compounds",
+      "body": "Each bright pigment is a different polyphenol or antioxidant. More colors *can mean* more protective plant compounds."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Different colors, different jobs",
+      "body": "Reds, greens, purples and oranges support different parts of the body. Each one *may help* in its own way."
+    },
+    {
+      "type": "content",
+      "kicker": "The truth",
+      "title": "Variety beats any superfood",
+      "body": "No single food does it all. A wide *range of plants* tends to serve you better than one trendy pick."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Aim for more colors",
+      "body": "Try to reach three or four colors per plate. It is a simple rule that *can guide* nearly every meal."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Let color lead the way",
+      "body": "Build plates around a mix of plants. Eating the rainbow *may support* a longer, healthier life."
+    },
+    {
+      "type": "cta",
+      "title": "Eat well, *age well*.",
+      "body": "Vibe Health tracks the food, sleep and movement that help you age well, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "more color, more life"
+    }
+  ],
+  "caption": "The colors on your plate are not just for looks. 🌿\n\nEach bright pigment carries plant compounds tied to longevity, and variety beats any single superfood. Aim for three or four colors a plate. Save this. 🔖\n\nVibe Health turns those food habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#eattherainbow", "#healthspan", "#healthyaging", "#plantbased", "#vibehealth", "#nutrition", "#wellness", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "Why Eating the Rainbow Helps You Age Well",
+  "cover_query": "colorful vegetables bowl"
+}

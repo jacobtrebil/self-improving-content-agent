@@ -1,0 +1,55 @@
+{
+  "key": "144-sauna-heat",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A warm sauna may be *quietly good* for the heart.",
+      "sub": "Regular heat is a gentle stress your body adapts to. Research links it to cardiovascular health.",
+      "bg": "ai-bg/144-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Heat as a gentle stressor",
+      "body": "Warmth nudges your heart and vessels to work, then recover. Your body *adapts* to that mild, repeated challenge."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Tied to a healthy heart",
+      "body": "Regular sauna use *is linked to* better cardiovascular markers in long observational studies. It is association, not proof."
+    },
+    {
+      "type": "content",
+      "kicker": "How often",
+      "title": "Frequency seems to matter",
+      "body": "In the studies, more sessions a week tracked with the strongest links. A few relaxed sessions *may support* this."
+    },
+    {
+      "type": "content",
+      "kicker": "A caution",
+      "title": "Some should go gently",
+      "body": "Heat isn't for everyone. If you are pregnant or have heart concerns, *check with a doctor* first."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "A calm, warming habit",
+      "body": "Sauna is no magic cure, but a relaxing one with promising links. Hydrate, ease in, and enjoy it."
+    },
+    {
+      "type": "cta",
+      "title": "Build calm into *your week*.",
+      "body": "Vibe Health helps you track the recovery, sleep and movement habits that support a healthy heart, all in one daily score.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "recovery, tracked"
+    }
+  ],
+  "caption": "A warm sauna may be quietly good for your heart, and it feels wonderful too. 🌿\n\nHeat is a gentle stress your body adapts to, and regular use is linked to better cardiovascular markers. Ease in, hydrate, and check with a doctor if you have concerns. Save this. 🔖\n\nVibe Health turns your recovery habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#sauna", "#hearthealth", "#healthyaging", "#vibehealth", "#recovery", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Regular Sauna Use Is Linked to Heart Health",
+  "cover_query": "wooden sauna interior"
+}

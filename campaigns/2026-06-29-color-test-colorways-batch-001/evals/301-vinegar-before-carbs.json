@@ -1,0 +1,114 @@
+{
+  "key": "301-vinegar-before-carbs",
+  "eyebrow": "Vinegar",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/301-vinegar-before-carbs.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/301-vinegar-before-carbs.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/30-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/30-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Why your energy *crashes after lunch*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "347/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Why your energy crashes after lunch' is specific and relatable, though the sub-headline over-explains and dilutes the scroll-stop.",
+      "clarity": "Each slide is one idea with a clear label, logical sequence, and an actionable dose in slide 3.",
+      "audience_fit": "The 3pm crash is the exact pain point for busy 20–35s, and the vinaigrette workaround removes friction.",
+      "novelty": "The vinegar-before-carbs angle has circulated widely on glucose-optimization TikTok; the salad dressing reframe is the only fresh touch.",
+      "brand_fit": "Claims are hedged ('may blunt', 'may flatten'), voice is plain and mechanic-forward, CTA ties naturally to the meal-snapping feature.",
+      "predicted_performance": "High save potential from the actionable tip and vinaigrette hack, but novelty ceiling limits virality versus a truly contrarian hook."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25807,
+    "tokensOut": 260,
+    "costUsd": 0.06941420000000001,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Why your energy crashes after lunch' is specific and relatable, though the sub-headline over-explains and dilutes the scroll-stop."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one idea with a clear label, logical sequence, and an actionable dose in slide 3."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "The 3pm crash is the exact pain point for busy 20–35s, and the vinaigrette workaround removes friction."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "The vinegar-before-carbs angle has circulated widely on glucose-optimization TikTok; the salad dressing reframe is the only fresh touch."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('may blunt', 'may flatten'), voice is plain and mechanic-forward, CTA ties naturally to the meal-snapping feature."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the actionable tip and vinaigrette hack, but novelty ceiling limits virality versus a truly contrarian hook."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:07:28.256Z"
+}

@@ -1,0 +1,72 @@
+{
+  "key": "301-vinegar-before-carbs",
+  "theme": "health",
+  "colorway": "mint",
+  "eyebrow": "Vinegar",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why your energy *crashes after lunch*.",
+      "sub": "It's the post-meal glucose spike — and the acetic acid in vinegar may blunt it.",
+      "bg": "ai-bg/301-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The spike",
+      "title": "Carbs hit fast",
+      "body": "A starchy meal floods your blood with glucose, then the crash drags down *energy and focus*."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "A spoon before carbs",
+      "body": "Take *one tablespoon of vinegar* in water 10–20 minutes before a carb-heavy meal."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Acetic acid slows starch",
+      "body": "Acetic acid slows the enzymes that break starch into sugar, so glucose enters the blood *more gradually*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Steadier energy",
+      "body": "A gentler curve means fewer crashes — *steadier energy* and fewer mid-afternoon cravings."
+    },
+    {
+      "type": "content",
+      "kicker": "Easy version",
+      "title": "Dress it as food",
+      "body": "No shots needed — a *vinaigrette on your salad* before the pasta works the same way."
+    },
+    {
+      "type": "cta",
+      "title": "Eat carbs *without the crash*.",
+      "body": "Snap your meals and Vibe Health scores how they hit your energy — so you see which tweaks actually keep you steady.",
+      "button": "Download Vibe Health →",
+      "tag": "steadier energy, every meal",
+      "bg": "ai-bg/301-cta.png"
+    }
+  ],
+  "caption": "That 3pm energy crash? It often starts with the glucose spike from lunch. 🍝\n\nOne tablespoon of vinegar in water before a carb-heavy meal may flatten the spike — the acetic acid slows how fast starch turns to sugar. Steadier energy, fewer cravings. Save this. 🔖\n\nSnap your meals and Vibe Health shows you which ones keep you steady → link in bio.",
+  "hashtags": [
+    "#bloodsugar",
+    "#glucose",
+    "#vinegar",
+    "#energy",
+    "#metabolichealth",
+    "#healthtips",
+    "#nutrition",
+    "#wellness",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why You Crash After Lunch (And the Vinegar Fix)",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person in a dim kitchen pouring a small spoon of vinegar into a glass of water beside a plate of pasta, side light catching the liquid.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a hand drizzling vinaigrette over a salad bowl on a dark table, hard rim light on the greens."
+  },
+  "cover_query": "olive oil and vinegar bottles",
+  "cta_query": "green salad bowl"
+}

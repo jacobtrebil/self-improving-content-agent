@@ -1,0 +1,55 @@
+{
+  "key": "412-homocysteine-b-vitamins",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "One number that quietly *ages your brain*.",
+      "sub": "Homocysteine is an amino acid that rises silently. The good news: it is one of the more fixable markers you can test.",
+      "bg": "ai-bg/412-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet homocysteine",
+      "body": "Homocysteine is an amino acid your body makes. When it *climbs too high*, it is linked to damage in blood vessels and brain tissue."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It touches heart and mind",
+      "body": "Elevated homocysteine is linked to *worse cardiovascular and cognitive health* over time. It tends to rise quietly with age."
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "B-vitamins clear the path",
+      "body": "Your body uses B12, folate and B6 to *break homocysteine down*. When these run low, levels can drift upward."
+    },
+    {
+      "type": "content",
+      "kicker": "The test",
+      "title": "One blood test reveals it",
+      "body": "A simple homocysteine test shows where you stand. If it is high, the fix is often *food and targeted B-vitamins*."
+    },
+    {
+      "type": "content",
+      "kicker": "How to act",
+      "title": "Feed the pathway",
+      "body": "Leafy greens, eggs, fish and legumes supply these B-vitamins. A doctor can confirm whether a *supplement may help* you."
+    },
+    {
+      "type": "cta",
+      "title": "Small markers, *real leverage*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the habits behind markers like this stay on track.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Some of the biggest longevity wins hide in numbers you have never tested. Homocysteine is one of them. 🌿🧠\n\nIt is an amino acid that can quietly damage blood vessels and brain tissue when it climbs, and B12, folate and B6 can help bring it back down. One test points to a simple, fixable lever. Save this. 🔖\n\nVibe Health turns the daily habits behind markers like this into one clear score → link in bio.",
+  "hashtags": ["#longevity", "#brainhealth", "#hearthealth", "#healthyaging", "#bvitamins", "#wellness", "#healthhabits", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Hidden Blood Marker That Ages Your Brain (and the Simple Fix)",
+  "cover_query": "b vitamin supplements"
+}

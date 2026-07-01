@@ -1,0 +1,55 @@
+{
+  "key": "135-salt-blood-pressure",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Most of your salt is *hiding in plain sight*.",
+      "sub": "It is not the shaker. It is packaged food, slowly nudging your blood pressure up over years.",
+      "bg": "ai-bg/135-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Salt hides in packages",
+      "body": "Most sodium comes from bread, deli meat and ready meals, *not the shaker*. You rarely taste it."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The slow, silent creep",
+      "body": "High sodium is linked to *a gradual rise* in blood pressure. The climb is quiet for years."
+    },
+    {
+      "type": "content",
+      "kicker": "The balance",
+      "title": "Potassium helps offset it",
+      "body": "Fruit and vegetables bring potassium, which *can help balance* sodium and ease the pressure."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Small cuts add up",
+      "body": "Choose lower-sodium versions and cook more at home. Even modest cuts *may help* over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Mind the hidden grams",
+      "body": "You do not need a bland plate. Just watch the packaged food where *the salt really lives*."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the years that *feel good*.",
+      "body": "Vibe Health scores your food, sleep and movement and turns the habits that protect your healthspan into one daily number.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat for the long game"
+    }
+  ],
+  "caption": "Most of the salt raising your blood pressure isn't from the shaker. It's hidden in packaged food. 🌿\n\nSodium creeps up quietly over years. Balance it with potassium-rich fruit and veg, and make small cuts that add up. Save this. 🔖\n\nVibe Health turns the food and habits that age you well into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#bloodpressure", "#sodium", "#hearthealth", "#healthspan", "#vibehealth", "#healthyaging", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Where Your Salt Is Really Hiding",
+  "cover_query": "salt shaker kitchen"
+}

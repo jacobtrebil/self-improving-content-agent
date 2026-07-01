@@ -1,0 +1,72 @@
+{
+  "key": "308-protein-leverage",
+  "theme": "health",
+  "colorway": "cream",
+  "eyebrow": "Protein",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The reason you *can't stop snacking*.",
+      "sub": "It's called the protein leverage hypothesis: eat too little protein and your appetite won't quit until you hit your target.",
+      "bg": "ai-bg/308-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The theory",
+      "title": "Your body hunts protein",
+      "body": "The *protein leverage hypothesis* says you keep eating until you meet your protein need — even past your calories."
+    },
+    {
+      "type": "content",
+      "kicker": "The trap",
+      "title": "Snacks are mostly carbs",
+      "body": "Low-protein snacks barely move the needle, so the hunger signal stays on and you reach for *more and more*."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Anchor protein first",
+      "body": "Build meals around protein and the craving switch flips off sooner. Aim for *0.7–1g per lb* of goal weight."
+    },
+    {
+      "type": "content",
+      "kicker": "Front-load it",
+      "title": "Start the day high",
+      "body": "A *30g protein breakfast* blunts afternoon snacking better than any willpower hack."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Fewer calories, no fight",
+      "body": "Hit your protein and total intake often drops on its own. *Appetite does the work* for you."
+    },
+    {
+      "type": "cta",
+      "title": "Stop snacking *on autopilot*.",
+      "body": "Snap your meals and Vibe Health counts your protein for you — so you know the moment you've hit your number.",
+      "button": "Download Vibe Health →",
+      "tag": "eat less without the fight",
+      "bg": "ai-bg/308-cta.png"
+    }
+  ],
+  "caption": "If you graze all afternoon and never feel full, it might not be willpower. 🍽️\n\nThe protein leverage hypothesis says your body keeps eating until it hits its protein need, so anchor meals around protein and front-load breakfast. Save this one. 🔖\n\nVibe Health counts your protein from a photo so you actually know when you're there → link in bio.",
+  "hashtags": [
+    "#proteinleverage",
+    "#highprotein",
+    "#appetite",
+    "#cravings",
+    "#fatloss",
+    "#nutrition",
+    "#healthylifestyle",
+    "#weightlosstips",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why You Keep Snacking, Explained",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person standing at an open cupboard at night reaching for a snack, harsh overhead light, candid and tired.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of a plate built around grilled chicken and eggs, hard side light on the protein."
+  },
+  "cover_query": "grilled chicken meal",
+  "cta_query": "eggs breakfast plate"
+}

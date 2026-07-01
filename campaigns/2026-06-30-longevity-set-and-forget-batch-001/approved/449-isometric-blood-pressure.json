@@ -1,0 +1,69 @@
+{
+  "key": "449-isometric-blood-pressure",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The quiet exercise that *lowers blood pressure*.",
+      "sub": "Holding still under tension may move resting blood pressure more than steady cardio. The move is the wall sit.",
+      "bg": "ai-bg/449-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Isometric holds, not reps",
+      "body": "An isometric hold means you contract a muscle without moving. A wall sit is the classic example: knees bent, back flat, *holding still*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Tension trains your vessels",
+      "body": "Sustained tension briefly limits blood flow, then floods it back. That cycle *can train your arteries* to relax and widen over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The evidence",
+      "title": "Stronger than the cardio myth",
+      "body": "Reviews suggest isometric training *may lower resting blood pressure* more than running or cycling for many people. It is a surprising result."
+    },
+    {
+      "type": "content",
+      "kicker": "The protocol",
+      "title": "Four holds, twice a week",
+      "body": "A common approach is four two-minute holds with rest between, a few days a week. Small, *steady, and easy to keep*."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Consistency is the real lever",
+      "body": "The benefit fades if you stop. Like most longevity habits, it *only pays off when repeated* week after week. Tracking helps it stick."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small habits into *real progress*.",
+      "body": "Vibe Health logs your movement, sleep, food and steps, then rolls them into one daily Health Score so your routine actually sticks.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "A two-minute wall sit might do more for your blood pressure than a long run. 🧱🌿\n\nIsometric holds train your arteries to relax, four holds a few days a week can lower resting blood pressure, and the only catch is staying consistent. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#bloodpressure",
+    "#hearthealth",
+    "#wallsit",
+    "#isometrics",
+    "#wellness",
+    "#healthhabits",
+    "#healthyaging",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Wall Sit That Lowers Blood Pressure",
+  "cover_query": "plank exercise"
+}

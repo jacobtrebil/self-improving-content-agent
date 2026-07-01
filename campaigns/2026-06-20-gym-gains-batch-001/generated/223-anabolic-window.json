@@ -1,0 +1,68 @@
+{
+  "key": "223-anabolic-window",
+  "theme": "gym",
+  "eyebrow": "Nutrition",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The anabolic window is a *myth*.",
+      "sub": "Relax about timing.",
+      "img": "ai-bg/223-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The myth",
+      "title": "No 30-minute *rush*",
+      "body": "You don't need a shake the second you rack."
+    },
+    {
+      "type": "content",
+      "kicker": "The truth",
+      "title": "*Total* protein wins",
+      "body": "Daily protein matters far more than timing."
+    },
+    {
+      "type": "content",
+      "kicker": "Wide",
+      "title": "It's *hours* wide",
+      "body": "You have hours around training, not minutes.",
+      "stat": "hours"
+    },
+    {
+      "type": "content",
+      "kicker": "Just eat",
+      "title": "Eat a *real meal*",
+      "body": "A normal meal within a few hours is plenty."
+    },
+    {
+      "type": "content",
+      "kicker": "Relax",
+      "title": "Stop *stressing*",
+      "body": "Hit your daily numbers and you're fine."
+    },
+    {
+      "type": "cta",
+      "title": "Forget the *window*.",
+      "body": "Vibe Health counts your daily protein automatically.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "The anabolic window is a myth. 💪\n\nSave this and put it to work. 🔖\n\nVibe counts your daily protein automatically. → link in bio.",
+  "hashtags": [
+    "#anabolicwindow",
+    "#protein",
+    "#gymtok",
+    "#nutrition",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#myth",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Anabolic Window Is a Myth"
+}

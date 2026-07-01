@@ -1,0 +1,114 @@
+{
+  "key": "142-break-up-sitting",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/142-break-up-sitting.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/142-break-up-sitting.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/14-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/14-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Sitting still for hours has *its own cost*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "319/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "The cost framing is decent but 'sitting still for hours has its own cost' is vague — no number, no concrete surprise to stop a thumb mid-scroll.",
+      "clarity": "Each slide is one clean idea with a concrete action; the two-minute walk and cue-stacking steps are immediately actionable.",
+      "audience_fit": "Desk workers tired by 3pm will recognize themselves in this, though the 'healthier, longer life' longevity angle skews slightly older than the core 20–35 target.",
+      "novelty": "Movement snacks and 'break up your sitting' advice is heavily saturated; the deck doesn't introduce a fresh angle, stat, or counterintuitive hook to separate it from the crowd.",
+      "brand_fit": "Claims are properly hedged ('may quietly affect', 'can support'), voice is plain and direct, the CTA ties naturally to the step-tracking product without cringe.",
+      "predicted_performance": "Solid saves potential from the practical tip, but low novelty and a soft cover limit virality — expect average-to-slightly-above engagement, not breakout numbers."
+    },
+    "overall": 3.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25452,
+    "tokensOut": 297,
+    "costUsd": 0.0678332,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "The cost framing is decent but 'sitting still for hours has its own cost' is vague — no number, no concrete surprise to stop a thumb mid-scroll."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one clean idea with a concrete action; the two-minute walk and cue-stacking steps are immediately actionable."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Desk workers tired by 3pm will recognize themselves in this, though the 'healthier, longer life' longevity angle skews slightly older than the core 20–35 target."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Movement snacks and 'break up your sitting' advice is heavily saturated; the deck doesn't introduce a fresh angle, stat, or counterintuitive hook to separate it from the crowd."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('may quietly affect', 'can support'), voice is plain and direct, the CTA ties naturally to the step-tracking product without cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Solid saves potential from the practical tip, but low novelty and a soft cover limit virality — expect average-to-slightly-above engagement, not breakout numbers."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:12.604Z"
+}

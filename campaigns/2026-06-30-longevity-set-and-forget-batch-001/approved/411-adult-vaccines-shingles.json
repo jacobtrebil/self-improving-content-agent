@@ -1,0 +1,55 @@
+{
+  "key": "411-adult-vaccines-shingles",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Vaccines are *training* for an aging immune system.",
+      "sub": "Age-appropriate shots like shingles and pneumococcal can prepare your defenses before an infection ever arrives.",
+      "bg": "ai-bg/411-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Immunity fades with age",
+      "body": "After about 50, immune cells respond *more slowly*. Vaccines give the body a rehearsal so it can react fast when it matters."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Practice before the threat",
+      "body": "A shot teaches your immune system to recognize a pathogen in advance, so a real exposure meets a defense that is *already ready*."
+    },
+    {
+      "type": "content",
+      "kicker": "The shingles case",
+      "title": "Nerve pain you can avoid",
+      "body": "Shingles can leave lasting nerve pain that lingers for months. The vaccine *is linked to* far fewer cases in older adults."
+    },
+    {
+      "type": "content",
+      "kicker": "Beyond shingles",
+      "title": "Fewer hospital stays",
+      "body": "Pneumococcal and flu shots can lower the odds of pneumonia and hospital stays that often *trigger lasting decline*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Protecting your momentum",
+      "body": "Avoiding a serious infection keeps you moving, sleeping and eating well. One illness can undo *months of progress*."
+    },
+    {
+      "type": "cta",
+      "title": "Stay well enough to *keep going*.",
+      "body": "Vibe Health tracks the sleep, food, movement and steps that build resilience, and scores them in one daily Health Score so you notice when your body needs rest.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your resilience, tracked"
+    }
+  ],
+  "caption": "The best time to defend your health is before you need to. Age-appropriate vaccines train an aging immune system in advance. 🌿💉\n\nShingles, pneumococcal and flu shots can mean less nerve pain, fewer hospital stays and more of the good years. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#healthyaging", "#immunehealth", "#preventivehealth", "#agewell", "#wellness", "#healthhabits", "#vibehealth", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Adult Vaccines Are Training for Your Immune System",
+  "cover_query": "senior arm vaccination"
+}

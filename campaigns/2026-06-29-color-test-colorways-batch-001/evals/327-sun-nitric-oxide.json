@@ -1,0 +1,114 @@
+{
+  "key": "327-sun-nitric-oxide",
+  "eyebrow": "Sunlight",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/327-sun-nitric-oxide.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/327-sun-nitric-oxide.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Sunlight does more than make *vitamin D*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "314/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 4,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Sunlight does more than make vitamin D' is specific and contrarian enough to earn a pause, though the sub-copy overloads the cover with mechanism detail.",
+      "clarity": "Each slide advances one idea cleanly; slide 5 slightly doubles up on mood and body clock but stays readable.",
+      "audience_fit": "Busy 20–35s who walk to work or eat lunch outside can act on this immediately — no gym, no supplement, no friction.",
+      "novelty": "Nitric-oxide-from-UVA is genuinely underreported in short-form health content, giving it a real knowledge-gap hook most carousels lack.",
+      "brand_fit": "Claims are properly hedged ('may lower blood pressure,' 'may help'), voice is plain and non-hypey, and the CTA ties the walk directly to the Health Score with no AI-cringe.",
+      "predicted_performance": "Strong save candidate — specific mechanism + actionable payoff + no cost to try; sharing potential moderate unless the audience skews health-nerd."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25775,
+    "tokensOut": 280,
+    "costUsd": 0.0695052,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Sunlight does more than make vitamin D' is specific and contrarian enough to earn a pause, though the sub-copy overloads the cover with mechanism detail."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide advances one idea cleanly; slide 5 slightly doubles up on mood and body clock but stays readable."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s who walk to work or eat lunch outside can act on this immediately — no gym, no supplement, no friction."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Nitric-oxide-from-UVA is genuinely underreported in short-form health content, giving it a real knowledge-gap hook most carousels lack."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('may lower blood pressure,' 'may help'), voice is plain and non-hypey, and the CTA ties the walk directly to the Health Score with no AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save candidate — specific mechanism + actionable payoff + no cost to try; sharing potential moderate unless the audience skews health-nerd."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:09:16.848Z"
+}

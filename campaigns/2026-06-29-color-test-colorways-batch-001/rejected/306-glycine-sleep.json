@@ -1,0 +1,59 @@
+{
+  "key": "306-glycine-sleep",
+  "theme": "health",
+  "colorway": "mint",
+  "eyebrow": "Glycine",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why you wake up *foggy, not rested*.",
+      "sub": "Your core body temperature has to drop for deep sleep. About 3g of glycine before bed may help it fall faster.",
+      "bg": "ai-bg/306-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Sleep needs a temp drop",
+      "body": "Deep sleep kicks in when your *core temperature falls*. If it stays high, you toss and stay shallow."
+    },
+    {
+      "type": "content",
+      "kicker": "The amino acid",
+      "title": "Glycine helps it drop",
+      "body": "Glycine widens blood vessels in your hands and feet, releasing heat so your *core cools faster*."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "About 3 grams",
+      "body": "Studies used *~3g about an hour* before bed. It's the glycine found in bone broth and collagen."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Fall asleep, stay asleep",
+      "body": "People report falling asleep faster and waking *sharper in the morning* — less grogginess, more deep sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "Stack it",
+      "title": "Pair with the basics",
+      "body": "Glycine isn't magic — pair it with a *cool, dark room* and a consistent bedtime."
+    },
+    {
+      "type": "cta",
+      "title": "Wake up *actually rested*.",
+      "body": "Vibe Health tracks your sleep and ties it to how sharp you feel the next day — so you can see what's really working.",
+      "button": "Download Vibe Health →",
+      "tag": "deeper sleep, sharper mornings",
+      "bg": "ai-bg/306-cta.png"
+    }
+  ],
+  "caption": "Wake up foggy even after 8 hours? Your core body temperature might not be dropping enough. 😴\n\nAbout 3g of glycine before bed may help your core cool faster — the signal for deep sleep. Pair it with a cool, dark room and a steady bedtime. Save this. 🔖\n\nVibe Health tracks your sleep and ties it to how sharp you feel → link in bio.",
+  "hashtags": ["#sleep", "#glycine", "#deepsleep", "#sleeptips", "#sleephygiene", "#recovery", "#wellness", "#energy", "#healthapp", "#vibehealthapp"],
+  "youtube_title": "The Amino Acid That May Deepen Your Sleep",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person lying awake in a dark bedroom, eyes open, soft window light across the pillow, restless and tired.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A rested face in soft early-morning light, eyes calmly opening, peaceful and refreshed."
+  }
+}

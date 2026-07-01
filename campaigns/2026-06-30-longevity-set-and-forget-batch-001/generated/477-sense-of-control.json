@@ -1,0 +1,69 @@
+{
+  "key": "477-sense-of-control",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Feeling *in control* may add years",
+      "sub": "The Whitehall studies found that a sense of control over daily life predicts longer survival. Here is why it matters.",
+      "bg": "ai-bg/477-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "The Whitehall effect",
+      "body": "British civil servants with less control over their work had *worse health* and shorter lives, even at the same income."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Control quiets the stress system",
+      "body": "Feeling in charge of your day *can lower* chronic stress signaling, the slow-burn cortisol that wears the body down over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Less strain, longer life",
+      "body": "Persistent stress is linked to higher blood pressure and inflammation. A greater sense of agency *may help* offset that load."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Control starts small",
+      "body": "You cannot run everything. But choosing your sleep, meals and movement gives you *real, daily levers* you can actually pull."
+    },
+    {
+      "type": "content",
+      "kicker": "The shift",
+      "title": "Seeing your own data helps",
+      "body": "Clarity is calming. When the numbers are visible, the day feels *less random* and more like something you steer."
+    },
+    {
+      "type": "cta",
+      "title": "Put your day *back in your hands*.",
+      "body": "Vibe Health scores your sleep, food, movement and steps into one daily Health Score, so the things that protect you feel within reach.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your day, in your hands"
+    }
+  ],
+  "caption": "More control over your day is not just less stressful. It may help you live longer. 🌿\n\nThe Whitehall studies linked a sense of agency to lower chronic stress and better survival. Small, steady choices around sleep, food and movement are levers you actually hold. Save this. 🔖\n\nVibe Health turns those choices into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#stressrelief",
+    "#healthspan",
+    "#healthyaging",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#mindbody",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why a Sense of Control May Help You Live Longer",
+  "cover_query": "relaxing"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "433-avocado-monounsaturated",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The fruit that *eats like butter* but works like medicine.",
+      "sub": "Avocado is rich in monounsaturated fat, potassium and fiber. Three quiet allies for the aging heart.",
+      "bg": "ai-bg/433-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Fat that loves your heart",
+      "body": "Most of an avocado's fat is monounsaturated, the same kind found in olive oil. It *can support* healthier cholesterol."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Swap, don't just add",
+      "body": "Trading saturated fat for this softer fat *is linked to* lower LDL, the cholesterol that hardens arteries over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The potassium",
+      "title": "More than a banana",
+      "body": "One avocado carries more potassium than a banana. That mineral *can help* ease pressure on aging blood vessels."
+    },
+    {
+      "type": "content",
+      "kicker": "The fiber",
+      "title": "Steadier blood sugar",
+      "body": "Nearly ten grams of fiber slows digestion, so glucose rises gently. Steadier blood sugar *may help* protect your heart."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Half a day is plenty",
+      "body": "Half an avocado on toast, salad or eggs is enough. Small, repeatable choices *compound* across decades."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for the *long game*.",
+      "body": "Vibe Health logs the food, movement, steps and sleep behind a healthy heart, then turns them into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart, tracked"
+    }
+  ],
+  "caption": "Avocado tastes like a treat but works like a tool for your heart. 🥑🌿\n\nMonounsaturated fat, potassium and fiber can support healthier cholesterol and steadier blood sugar as you age. Save this for your next grocery run. 🔖\n\nVibe Health turns everyday food choices into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#hearthealth", "#healthyaging", "#avocado", "#cholesterol", "#wellness", "#healthhabits", "#bloodsugar", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Avocado Is a Quiet Win for Your Heart",
+  "cover_query": "avocado halved"
+}

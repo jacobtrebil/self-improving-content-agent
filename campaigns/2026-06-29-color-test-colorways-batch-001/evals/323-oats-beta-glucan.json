@@ -1,0 +1,114 @@
+{
+  "key": "323-oats-beta-glucan",
+  "eyebrow": "Oats",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/323-oats-beta-glucan.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/323-oats-beta-glucan.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The fiber that *grabs your cholesterol*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "350/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 3,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Grabs your cholesterol' is vivid and concrete, though the mechanism-first framing skews slightly scientific over emotional for a cold scroll.",
+      "clarity": "Every slide is one idea with an actionable takeaway — mechanism, outcome, dose, energy benefit, and swap are each clean and distinct.",
+      "audience_fit": "Cholesterol is a 40+ concern for most people; busy 20–35s care more about energy and weight than LDL, so the heart angle may undersell the steady-energy hook that's buried on slide 5.",
+      "novelty": "Naming beta-glucan specifically and leading with the gel-binding mechanism lifts this above the generic 'oats are healthy' carousel most people have already swiped past.",
+      "brand_fit": "Claims are consistently hedged ('can modestly lower,' 'may help'), voice is plain and direct, CTA ties the habit to the Health Score without any cringe or hype.",
+      "predicted_performance": "Strong save potential among nutrition-curious viewers but the cholesterol angle narrows the audience; the energy hook on slide 5 would have driven broader shares if it led."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25847,
+    "tokensOut": 301,
+    "costUsd": 0.0703342,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Grabs your cholesterol' is vivid and concrete, though the mechanism-first framing skews slightly scientific over emotional for a cold scroll."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide is one idea with an actionable takeaway — mechanism, outcome, dose, energy benefit, and swap are each clean and distinct."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Cholesterol is a 40+ concern for most people; busy 20–35s care more about energy and weight than LDL, so the heart angle may undersell the steady-energy hook that's buried on slide 5."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Naming beta-glucan specifically and leading with the gel-binding mechanism lifts this above the generic 'oats are healthy' carousel most people have already swiped past."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are consistently hedged ('can modestly lower,' 'may help'), voice is plain and direct, CTA ties the habit to the Health Score without any cringe or hype."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong save potential among nutrition-curious viewers but the cholesterol angle narrows the audience; the energy hook on slide 5 would have driven broader shares if it led."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:09:00.048Z"
+}

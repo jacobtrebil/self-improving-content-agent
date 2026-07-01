@@ -1,0 +1,55 @@
+{
+  "key": "138-morning-light",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Morning light *sets your whole day*.",
+      "sub": "Bright light early anchors your body clock. That ripples into your sleep, mood and energy.",
+      "bg": "ai-bg/138-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Light is the signal",
+      "body": "Your body clock takes its main cue from light. Morning brightness *tells it* the day has begun."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Get bright light early",
+      "body": "Step outside soon after waking. Natural light is *far stronger* than anything indoors."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It helps night sleep",
+      "body": "An early light cue *can help* set your sleep timer. Better mornings often mean easier nights."
+    },
+    {
+      "type": "content",
+      "kicker": "How much",
+      "title": "Ten minutes outside",
+      "body": "Even a short walk or coffee outdoors counts. Cloudy days *still deliver* plenty of light."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Show up daily",
+      "body": "The same light at the same time keeps your clock steady. Consistency *does the quiet work*."
+    },
+    {
+      "type": "cta",
+      "title": "Anchor your day in *light*.",
+      "body": "Vibe Health tracks the sleep, movement and steps that steady your rhythm, all in one simple daily score.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "better mornings, deeper sleep"
+    }
+  ],
+  "caption": "The simplest sleep upgrade happens the moment you wake up. 🌿\n\nMorning light anchors your body clock, which helps your mood, energy and night sleep. Ten minutes outside is enough, and consistency does the rest. Save this. 🔖\n\nVibe Health turns your daily rhythm into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#morninglight", "#circadianrhythm", "#healthspan", "#sleephealth", "#vibehealth", "#healthyaging", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Morning Light Sets Your Sleep, Mood and Energy",
+  "cover_query": "sunrise person window"
+}

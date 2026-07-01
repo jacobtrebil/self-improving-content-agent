@@ -1,0 +1,114 @@
+{
+  "key": "308-protein-leverage",
+  "eyebrow": "Protein",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/308-protein-leverage.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/308-protein-leverage.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/30-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/30-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The reason you *can't stop snacking*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "346/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 5,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 5
+    },
+    "rationales": {
+      "hook_strength": "\"Can't stop snacking\" is a universal pain point with an immediate specific answer — strong scroll-stopper with a named theory as the payoff.",
+      "clarity": "Each slide is one idea with a clear label and actionable number (0.7–1g, 30g) — nothing muddled, nothing that requires re-reading.",
+      "audience_fit": "Directly addresses the 3pm grazing loop that busy 20–35s know intimately, framed as a mechanism not a lecture.",
+      "novelty": "Protein leverage is a real but underexplained theory that elevates this above generic 'eat more protein' advice, though protein content is crowded on TikTok.",
+      "brand_fit": "Claims are hedged implicitly (\"often drops,\" \"may help\" tone), no hype words, CTA is specific to the app's actual feature (meal photo → protein count), voice is flat and direct throughout.",
+      "predicted_performance": "High save bait — a named hypothesis + a concrete number + a mechanism audiences can test immediately drives saves and shares above category average."
+    },
+    "overall": 4.83,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25802,
+    "tokensOut": 290,
+    "costUsd": 0.0698492,
+    "raw": {
+      "hook_strength": {
+        "score": 5,
+        "why": "\"Can't stop snacking\" is a universal pain point with an immediate specific answer — strong scroll-stopper with a named theory as the payoff."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one idea with a clear label and actionable number (0.7–1g, 30g) — nothing muddled, nothing that requires re-reading."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Directly addresses the 3pm grazing loop that busy 20–35s know intimately, framed as a mechanism not a lecture."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Protein leverage is a real but underexplained theory that elevates this above generic 'eat more protein' advice, though protein content is crowded on TikTok."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged implicitly (\"often drops,\" \"may help\" tone), no hype words, CTA is specific to the app's actual feature (meal photo → protein count), voice is flat and direct throughout."
+      },
+      "predicted_performance": {
+        "score": 5,
+        "why": "High save bait — a named hypothesis + a concrete number + a mechanism audiences can test immediately drives saves and shares above category average."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:07:57.090Z"
+}

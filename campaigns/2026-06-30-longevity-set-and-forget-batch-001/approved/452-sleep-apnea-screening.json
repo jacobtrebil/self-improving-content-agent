@@ -1,0 +1,69 @@
+{
+  "key": "452-sleep-apnea-screening",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Snoring can be a *warning sign* for your heart.",
+      "sub": "Untreated sleep apnea quietly strains the body every night. Here is why screening matters.",
+      "bg": "ai-bg/452-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Breathing pauses in the night",
+      "body": "Obstructive sleep apnea is when the airway repeatedly collapses in sleep. Loud snoring and gasping *can be early clues*."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Oxygen dips, again and again",
+      "body": "Each pause drops blood oxygen, called intermittent hypoxia. The body jolts awake to breathe, *often without you knowing*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Pressure on the heart",
+      "body": "Those repeated dips spike blood pressure and stress the heart. Untreated apnea *is linked to* hypertension and heart disease."
+    },
+    {
+      "type": "content",
+      "kicker": "The brain too",
+      "title": "Sharpness pays the price",
+      "body": "Fragmented, low-oxygen sleep can dull memory and focus over time. Treating apnea *may help* protect long-term brain health."
+    },
+    {
+      "type": "content",
+      "kicker": "The good news",
+      "title": "It is highly treatable",
+      "body": "A simple screening can lead to therapy that restores steady breathing. Many people *feel sharper within weeks* of treatment."
+    },
+    {
+      "type": "cta",
+      "title": "Make your sleep *work for you*.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns them into one daily Health Score so you can spot what your nights are telling you.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "That nightly snoring might be more than noise. Untreated sleep apnea drops your oxygen over and over, and your heart pays for it. 😴🫀\n\nRepeated oxygen dips can spike blood pressure and strain the heart and brain, but screening and treatment can turn it around. Save this for later. 🔖\n\nVibe Health turns your sleep and daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#sleepapnea",
+    "#sleephealth",
+    "#hearthealth",
+    "#healthspan",
+    "#wellness",
+    "#healthyaging",
+    "#aihealthcoach",
+    "#healthhabits",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Snoring Can Be a Warning Sign for Your Heart",
+  "cover_query": "man sleeping"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "140-screens-before-bed",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The last scroll *costs you sleep*.",
+      "sub": "Late screens keep your brain alert and push sleep back. A gentle wind-down helps you rest deeper.",
+      "bg": "ai-bg/140-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Light and stimulation delay sleep",
+      "body": "Bright screens and busy content *can delay* the signals that tell your body it is time to rest."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The scroll keeps you alert",
+      "body": "Each new post nudges your brain awake again. That low buzz *may push back* real sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Build a wind-down window",
+      "body": "Give yourself a quiet half hour before bed. Dim the lights and *let your body settle*."
+    },
+    {
+      "type": "content",
+      "kicker": "The swap",
+      "title": "Trade the phone",
+      "body": "Read a few pages, stretch or simply breathe. A calmer cue *can help* you drift off."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Ease into the night",
+      "body": "You do not need perfect rules. A softer hour before bed *may support* deeper sleep."
+    },
+    {
+      "type": "cta",
+      "title": "Wind down for *deeper rest*.",
+      "body": "Vibe Health tracks your sleep, movement and steps and turns your evenings into one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "calmer nights, deeper sleep"
+    }
+  ],
+  "caption": "The hour before bed quietly decides how well you sleep. 🌿\n\nLate screens keep your brain alert and push rest back. A gentle wind-down window, with the phone set aside, helps you settle. Save this. 🔖\n\nVibe Health turns your evenings into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#sleephealth", "#winddown", "#healthspan", "#healthyaging", "#vibehealth", "#deepsleep", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Winding Down Screens Leads to Deeper Sleep",
+  "cover_query": "phone dark bedroom"
+}

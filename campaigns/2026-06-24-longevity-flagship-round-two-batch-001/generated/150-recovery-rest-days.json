@@ -1,0 +1,18 @@
+{
+  "key": "150-recovery-rest-days",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    { "type": "cover", "title": "Strength is built on your *rest days*.", "sub": "Training breaks you down. Recovery is where the body rebuilds stronger. Both matter for aging well.", "bg": "ai-bg/150-cover.png" },
+    { "type": "content", "kicker": "The idea", "title": "Training is the stress", "body": "A hard session is a signal, not the result. It asks the body to adapt, but the *real change* happens afterward." },
+    { "type": "content", "kicker": "The adaptation", "title": "Recovery is the growth", "body": "Muscle, heart and nervous system rebuild while you rest. Skip recovery and you train the stress *without the reward*." },
+    { "type": "content", "kicker": "Watch for", "title": "Signs you under-recover", "body": "Flat workouts, poor sleep, low mood and lingering soreness can be quiet signs your body is *asking for rest*." },
+    { "type": "content", "kicker": "The habit", "title": "Build in real rest", "body": "Plan easy days like you plan hard ones. Gentle movement, good sleep and food can support a stronger comeback." },
+    { "type": "content", "kicker": "The takeaway", "title": "Rest is part of training", "body": "You don't get strong despite rest days. You get strong *because of them*. Calm consistency outlasts constant grinding." },
+    { "type": "cta", "title": "Let your body *rebuild stronger*.", "body": "Vibe Health weighs your sleep, movement and recovery into one daily score, so you can see when to push and when to rest.", "screens": ["score", "plan"], "cta_text": "search ‘Vibe Health’ on the App Store", "tag": "your recovery, tracked" }
+  ],
+  "caption": "Strength isn't built in the workout. It's built in the rest that follows. 🌿\n\nTraining is the stress, recovery is the adaptation. Flat sessions, poor sleep and lingering soreness are signs to ease off. Plan rest like you plan effort. Save this. 🔖\n\nVibe Health turns sleep, movement and recovery into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#recovery", "#restday", "#healthyaging", "#vibehealth", "#aihealthcoach", "#strength", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "Why Recovery and Rest Days Build Real Strength",
+  "cover_query": "person resting relax"
+}

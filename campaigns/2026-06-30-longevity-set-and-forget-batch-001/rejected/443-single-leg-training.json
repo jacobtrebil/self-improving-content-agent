@@ -1,0 +1,55 @@
+{
+  "key": "443-single-leg-training",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Train one leg at a time to *stay steady* for life.",
+      "sub": "Single-leg work evens out side-to-side strength and sharpens the reflexes that keep you on your feet.",
+      "bg": "ai-bg/443-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Most lifts hide a weak side",
+      "body": "Two-leg moves let your stronger leg carry the load. Over time that *quiet imbalance* grows without you noticing it."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Each leg earns its own strength",
+      "body": "Split squats, step-ups and single-leg work *force both sides* to do equal effort, closing the gap between them."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Balance is a trainable reflex",
+      "body": "Standing on one leg challenges the small stabilizers around your hips and ankles, the muscles that *catch a stumble* before it becomes a fall."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Falls are a real risk later",
+      "body": "Lower-body strength and balance are linked to staying independent with age. Better stabilizers *may help* you avoid a serious fall."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Add it to leg day",
+      "body": "Begin with a few sets of split squats or step-ups each week. Hold a wall for balance, then *let go as you steady*."
+    },
+    {
+      "type": "cta",
+      "title": "Build a body that *stays balanced*.",
+      "body": "Vibe Health tracks your movement, steps, food and sleep, then turns the whole picture into one daily Health Score so progress stays clear.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your strength, tracked"
+    }
+  ],
+  "caption": "Strong legs keep you upright, but a strong single leg keeps you steady. 🦵🌿\n\nUnilateral work evens out your weaker side and sharpens the stabilizer reflexes that help prevent falls as you age. Save this for your next leg day. 🔖\n\nVibe Health turns your movement, sleep and food into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#balance", "#legday", "#strengthtraining", "#healthyaging", "#fallprevention", "#mobility", "#wellness", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "Why Single-Leg Training Keeps You Steady for Life",
+  "cover_query": "single leg squat"
+}

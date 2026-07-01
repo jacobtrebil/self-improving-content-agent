@@ -1,0 +1,68 @@
+{
+  "key": "210-bigger-chest",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Build a bigger *chest*.",
+      "sub": "Stop benching wrong.",
+      "img": "ai-bg/210-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Incline",
+      "title": "Start with *incline*",
+      "body": "Most chests are weak up top. Prioritize incline."
+    },
+    {
+      "type": "content",
+      "kicker": "Stretch",
+      "title": "Get a deep *stretch*",
+      "body": "Stretch at the bottom. That is where growth lives."
+    },
+    {
+      "type": "content",
+      "kicker": "Volume",
+      "title": "Hit enough *sets*",
+      "body": "12 to 20 hard sets a week.",
+      "stat": "12-20"
+    },
+    {
+      "type": "content",
+      "kicker": "Flyes",
+      "title": "Add *flyes*",
+      "body": "Presses build size, flyes build the stretch."
+    },
+    {
+      "type": "content",
+      "kicker": "Overload",
+      "title": "Add *weight*",
+      "body": "Bench more over time or stay the same."
+    },
+    {
+      "type": "cta",
+      "title": "Build the *chest*.",
+      "body": "Vibe Health keeps your training and protein on track.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Build a bigger chest. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training and protein on track. → link in bio.",
+  "hashtags": [
+    "#chestday",
+    "#benchpress",
+    "#gymtok",
+    "#buildmuscle",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#chestworkout",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Build a Bigger Chest"
+}

@@ -1,0 +1,114 @@
+{
+  "key": "156-cold-exposure",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/156-cold-exposure.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/156-cold-exposure.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/15-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/15-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A little cold, a little *resilience*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "298/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 2,
+      "clarity": 4,
+      "audience_fit": 3,
+      "novelty": 2,
+      "brand_fit": 4,
+      "predicted_performance": 2
+    },
+    "rationales": {
+      "hook_strength": "'A little cold, a little resilience' is soft and poetic but lacks a concrete, scroll-stopping payoff — no number, no tension, no contrarian angle.",
+      "clarity": "Each slide is one digestible idea and the action (10–20 second cold finish) is specific enough to try this week.",
+      "audience_fit": "Busy 20–35s skew toward 'does this actually work' framing, not 'calm little practice' — the tone is too gentle for the audience's urgency.",
+      "novelty": "Cold exposure content is saturated and this deck takes no contrarian or surprising angle to differentiate from the hundreds of cold shower carousels already out there.",
+      "brand_fit": "Claims are properly hedged, voice is plain and never hypey, and the CTA ties back to the Health Score naturally.",
+      "predicted_performance": "Weak hook plus generic topic means low save/share rate — nothing here gives a viewer a reason to bookmark it over the dozen cold-shower posts they've already seen."
+    },
+    "overall": 2.83,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25439,
+    "tokensOut": 275,
+    "costUsd": 0.0674222,
+    "raw": {
+      "hook_strength": {
+        "score": 2,
+        "why": "'A little cold, a little resilience' is soft and poetic but lacks a concrete, scroll-stopping payoff — no number, no tension, no contrarian angle."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide is one digestible idea and the action (10–20 second cold finish) is specific enough to try this week."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Busy 20–35s skew toward 'does this actually work' framing, not 'calm little practice' — the tone is too gentle for the audience's urgency."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Cold exposure content is saturated and this deck takes no contrarian or surprising angle to differentiate from the hundreds of cold shower carousels already out there."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Claims are properly hedged, voice is plain and never hypey, and the CTA ties back to the Health Score naturally."
+      },
+      "predicted_performance": {
+        "score": 2,
+        "why": "Weak hook plus generic topic means low save/share rate — nothing here gives a viewer a reason to bookmark it over the dozen cold-shower posts they've already seen."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:59.621Z"
+}

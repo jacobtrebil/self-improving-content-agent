@@ -30,7 +30,7 @@ const tracer = new Tracer({
 const jobs = [];
 for (const f of fs.readdirSync(approved).filter((x) => x.endsWith(".json"))) {
   const s = JSON.parse(fs.readFileSync(path.join(approved, f), "utf8"));
-  const num = String(s.key).slice(0, 2);
+  const num = (String(s.key).match(/^(\d+)/) || [, ""])[1]; // full leading-number prefix (matches build.js)
   for (const which of ["cover", "cta"]) {
     const out = path.join(aiBg, `${num}-${which}.png`);
     const prompt = s.bg_prompts && s.bg_prompts[which];

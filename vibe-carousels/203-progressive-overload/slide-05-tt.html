@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@import url('https://fonts.googleapis.com/css2?family=TikTok+Sans:wght@500;700;800;900&family=Fraunces:opsz,wght@9..144,500&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;background:#000}
+.slide{width:1080px;height:1920px;position:relative;overflow:hidden;background:#000;
+  display:flex;flex-direction:column;justify-content:center;align-items:center;padding:120px 96px;
+  font-family:'TikTok Sans','Helvetica Neue',Arial,system-ui,sans-serif;color:#fff;-webkit-font-smoothing:antialiased;text-align:center}
+.bg{position:absolute;inset:0;background-size:cover;background-position:center 22%;z-index:0}
+.scrim{position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,rgba(0,0,0,0.15) 0%,rgba(0,0,0,0) 38%,rgba(0,0,0,0.45) 100%)}
+.slide>*:not(.bg):not(.scrim):not(.swipe){position:relative;z-index:2}
+/* TikTok white text with a solid black outline */
+.tt{font-weight:800;line-height:1.06;letter-spacing:-0.5px;color:#fff;
+  text-shadow:-3px -3px 0 #000,3px -3px 0 #000,-3px 3px 0 #000,3px 3px 0 #000,-4px 0 0 #000,4px 0 0 #000,0 -4px 0 #000,0 4px 0 #000,0 5px 14px rgba(0,0,0,0.5)}
+.h{font-size:70px}
+.kicker{font-size:30px;font-weight:900;letter-spacing:2px;text-transform:uppercase;margin-bottom:18px}
+.stat{font-size:150px;font-weight:900;line-height:0.9;margin-bottom:8px}
+.sub{font-size:38px;font-weight:700;line-height:1.25;margin-top:22px;max-width:840px}
+.hl{color:#fff}
+.swipe{position:absolute;left:0;right:0;bottom:90px;z-index:2;font-size:32px;font-weight:900}
+
+/* LAST slide: professional brand-account close */
+.slide.close{background:#000;color:#fff;text-align:center;justify-content:center}
+.close .eyebrow,.close .ch,.close .cbody,.close .ctatext{font-family:'TikTok Sans','Helvetica Neue',Arial,system-ui,sans-serif;color:#fff}
+.close .eyebrow{font-size:28px;font-weight:900;letter-spacing:4px;text-transform:uppercase;margin-bottom:14px}
+.close .ch{font-weight:800;font-size:74px;line-height:1.06;letter-spacing:-0.5px;max-width:880px}
+.close .cbody{font-size:36px;font-weight:700;line-height:1.26;max-width:780px;margin-top:20px}
+.close .phones{display:flex;justify-content:center;align-items:flex-end;margin:30px 0 8px}
+.close .phone{width:332px;border-radius:46px;overflow:hidden;background:#fff;box-shadow:0 40px 90px rgba(0,0,0,0.55),0 0 0 2px rgba(255,255,255,0.08)}
+.close .phone img{width:100%;display:block}
+.close .phone.back{transform:rotate(7deg) translateY(26px)}
+.close .phone.front{transform:rotate(-5deg);margin-left:-70px}
+.close .phone.solo{width:392px;transform:rotate(-2deg)}
+.close .clogo{height:54px;margin-top:8px;filter:brightness(0) invert(1)}
+.close .ctatext{font-size:34px;font-weight:900;margin-top:16px}
+.close .hl{color:#fff}
+</style></head><body><div class="slide content">
+    <div>
+      <div class="tt kicker">Not this</div>
+      
+      <h2 class="tt h">Soreness isn't <span class="hl">progress</span></h2>
+      <p class="tt sub">Chasing the pump is not overload.</p>
+    </div>
+  </div></body></html>

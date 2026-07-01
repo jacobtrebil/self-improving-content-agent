@@ -1,0 +1,55 @@
+{
+  "key": "132-omega-3-brain",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "One nutrient your *heart and brain* both want.",
+      "sub": "Omega-3s from fatty fish are linked to healthier aging. A little fish goes a long way.",
+      "bg": "ai-bg/132-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "What omega-3s do",
+      "body": "These fats help build cell walls and *calm inflammation*. Your body cannot make them, so food matters."
+    },
+    {
+      "type": "content",
+      "kicker": "The heart",
+      "title": "Kinder to your heart",
+      "body": "Regular fatty fish is linked to *a healthier heart* and steadier rhythm as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "The brain",
+      "title": "Support for memory",
+      "body": "Omega-3s are a building block of the brain. Higher intake *may help protect* memory over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Sources",
+      "title": "Eat fish twice a week",
+      "body": "Salmon, sardines and mackerel are rich and simple. Two servings a week covers most people."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Small habit, big payoff",
+      "body": "You do not need much. A couple of fish meals a week *quietly supports* aging well."
+    },
+    {
+      "type": "cta",
+      "title": "Feed the years that *feel good*.",
+      "body": "Vibe Health scores your food, sleep and movement and turns the habits that protect your healthspan into one daily number.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat for the long game"
+    }
+  ],
+  "caption": "One simple habit your heart and brain both love: fatty fish. 🐟\n\nOmega-3s help calm inflammation and are linked to healthier heart and memory aging. Two servings a week covers most people. Save this. 🔖\n\nVibe Health turns the food and habits that age you well into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#omega3", "#brainhealth", "#hearthealth", "#healthspan", "#vibehealth", "#healthyaging", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Nutrient Your Heart and Brain Both Need",
+  "cover_query": "grilled salmon plate"
+}

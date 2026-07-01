@@ -49,7 +49,7 @@ function gather() {
     const appr = path.join(camp, "approved");
     if (!fs.existsSync(appr)) continue;
     for (const f of fs.readdirSync(appr).filter((x) => x.endsWith(".json"))) {
-      try { const s = JSON.parse(fs.readFileSync(path.join(appr, f), "utf8")); if (s.theme === "brand") specs.push(s); } catch {}
+      try { const s = JSON.parse(fs.readFileSync(path.join(appr, f), "utf8")); if (["brand", "health", "looksmax"].includes(s.theme)) specs.push(s); } catch {}
     }
   }
   return specs;
@@ -58,19 +58,25 @@ function gather() {
 let ok = 0, fail = 0;
 for (const spec of gather()) {
   const nn = (String(spec.key).match(/^\d+/) || ["?"])[0]; // full numeric prefix (2 or 3 digits)
-  const out = path.join(aiBg, `${nn}-cover.png`);
-  const q = spec.cover_query;
-  if (!q) { console.log(`skip ${nn} (no cover_query)`); continue; }
-  if (fs.existsSync(out) && !FORCE) { console.log(`skip ${nn} (exists; --force to refetch)`); continue; }
-  const pick = fetchPhoto(q);
-  if (!pick) { console.log(`✗ ${nn}: no CC0 photo for "${q}"`); fail++; continue; }
-  try {
-    execFileSync("curl", ["-fsSL", "--max-time", "60", "-H", `User-Agent: ${UA}`, pick.url, "-o", out + ".raw"], { stdio: "ignore" });
-    // proportional resize only (never force aspect — the renderer crops with cover)
-    execFileSync("sips", ["-s", "format", "png", "--resampleWidth", "1200", out + ".raw", "--out", out], { stdio: "ignore" });
-    fs.unlinkSync(out + ".raw");
-    console.log(`✓ ${nn}-cover  [${pick.source}/${pick.license}, no attribution]  "${(pick.title || "").slice(0, 40)}"`);
-    ok++;
-  } catch (e) { console.log(`✗ ${nn}: download/convert failed (${e.message})`); fail++; }
+  // Brand decks only need a cover photo (CTA = product screenshots). The stark
+  // health/looksmax formats put a photo on BOTH the cover and the CTA, so fetch
+  // each `<which>_query` that's present.
+  const targets = [{ which: "cover", q: spec.cover_query }];
+  if (spec.theme !== "brand") targets.push({ which: "cta", q: spec.cta_query });
+  for (const { which, q } of targets) {
+    const out = path.join(aiBg, `${nn}-${which}.png`);
+    if (!q) { console.log(`skip ${nn}-${which} (no ${which}_query)`); continue; }
+    if (fs.existsSync(out) && !FORCE) { console.log(`skip ${nn}-${which} (exists; --force to refetch)`); continue; }
+    const pick = fetchPhoto(q);
+    if (!pick) { console.log(`✗ ${nn}-${which}: no CC0 photo for "${q}"`); fail++; continue; }
+    try {
+      execFileSync("curl", ["-fsSL", "--max-time", "60", "-H", `User-Agent: ${UA}`, pick.url, "-o", out + ".raw"], { stdio: "ignore" });
+      // proportional resize only (never force aspect — the renderer crops with cover)
+      execFileSync("sips", ["-s", "format", "png", "--resampleWidth", "1200", out + ".raw", "--out", out], { stdio: "ignore" });
+      fs.unlinkSync(out + ".raw");
+      console.log(`✓ ${nn}-${which}  [${pick.source}/${pick.license}, no attribution]  "${(pick.title || "").slice(0, 40)}"`);
+      ok++;
+    } catch (e) { console.log(`✗ ${nn}-${which}: download/convert failed (${e.message})`); fail++; }
+  }
 }
 console.log(`\ncovers: ${ok} ok, ${fail} failed`);

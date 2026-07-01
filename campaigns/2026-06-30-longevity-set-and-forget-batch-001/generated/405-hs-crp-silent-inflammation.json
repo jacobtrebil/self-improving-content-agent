@@ -1,0 +1,55 @@
+{
+  "key": "405-hs-crp-silent-inflammation",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "There's a fire inside you can't *feel*.",
+      "sub": "Low-grade, body-wide inflammation quietly drives heart disease and aging. One blood test can put a number on it.",
+      "bg": "ai-bg/405-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Inflammation has no symptoms",
+      "body": "Chronic, low-level inflammation runs silently for years. You feel fine while it *quietly stresses* your arteries, organs and cells."
+    },
+    {
+      "type": "content",
+      "kicker": "The marker",
+      "title": "hs-CRP puts a number on it",
+      "body": "High-sensitivity CRP is a simple blood test that measures *system-wide inflammation*, the kind too subtle for a standard panel to catch."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It tracks with heart risk",
+      "body": "Higher hs-CRP *is linked to* greater risk of heart disease, even when cholesterol looks fine. It adds context numbers alone miss."
+    },
+    {
+      "type": "content",
+      "kicker": "The upside",
+      "title": "This number can move",
+      "body": "Sleep, movement, and a less processed diet *may help* lower inflammation over time. hs-CRP shows whether your habits are working."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Measure the unseen",
+      "body": "You cannot improve a fire you cannot see. A baseline number turns invisible inflammation into something you can *actually track*."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *cool the fire*.",
+      "body": "Vibe Health scores your sleep, food, movement and steps in one daily number, so the habits linked to lower inflammation become easy to see.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your inflammation, tracked"
+    }
+  ],
+  "caption": "Some of the biggest threats to your heart never make you feel sick. Inflammation is one of them. 🔥🌿\n\nhs-CRP puts a number on the silent, body-wide inflammation linked to heart disease and aging, and the good news is that sleep, movement and food can move it. Save this for your next blood panel. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#inflammation", "#hscrp", "#hearthealth", "#healthyaging", "#wellness", "#healthhabits", "#bloodwork", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Silent Inflammation Test That Predicts Heart Risk",
+  "cover_query": "laboratory blood analysis"
+}

@@ -1,0 +1,67 @@
+{
+  "key": "209-beginner-mistakes",
+  "theme": "gym",
+  "eyebrow": "Beginners",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "5 mistakes killing your *newbie gains*.",
+      "sub": "Fix these first.",
+      "img": "ai-bg/209-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Mistake 01",
+      "title": "*Program* hopping",
+      "body": "Pick a plan and run it for months."
+    },
+    {
+      "type": "content",
+      "kicker": "Mistake 02",
+      "title": "Ego *lifting*",
+      "body": "Half reps with bad form build nothing."
+    },
+    {
+      "type": "content",
+      "kicker": "Mistake 03",
+      "title": "Skipping *protein*",
+      "body": "You won't grow without enough of it."
+    },
+    {
+      "type": "content",
+      "kicker": "Mistake 04",
+      "title": "No *progression*",
+      "body": "Add reps or weight. Don't stay comfy."
+    },
+    {
+      "type": "content",
+      "kicker": "Mistake 05",
+      "title": "Doing *too much*",
+      "body": "Three solid days beats six junk ones."
+    },
+    {
+      "type": "cta",
+      "title": "Start *right*.",
+      "body": "Vibe Health tracks your training, protein and sleep from day one.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "5 mistakes killing your newbie gains. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your training, protein and sleep from day one. → link in bio.",
+  "hashtags": [
+    "#newbiegains",
+    "#beginner",
+    "#gymtok",
+    "#gymtips",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#startlifting",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "5 Mistakes Killing Your Newbie Gains"
+}

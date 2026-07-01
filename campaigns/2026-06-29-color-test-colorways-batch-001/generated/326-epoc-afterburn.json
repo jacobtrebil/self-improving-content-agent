@@ -1,0 +1,72 @@
+{
+  "key": "326-epoc-afterburn",
+  "theme": "health",
+  "colorway": "mint",
+  "eyebrow": "Afterburn",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The afterburn is *smaller than you think*.",
+      "sub": "EPOC — the calories you burn after a workout — is real. It's just far smaller than the fitness industry sells.",
+      "bg": "ai-bg/326-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The myth",
+      "title": "The magic afterburn",
+      "body": "You've heard it: train hard and your body *keeps torching calories* for 24 hours. The reality is humbler."
+    },
+    {
+      "type": "content",
+      "kicker": "What EPOC is",
+      "title": "Your body resets",
+      "body": "EPOC is the energy spent restoring oxygen, fuel, and temperature after training — a *real but modest* bump."
+    },
+    {
+      "type": "content",
+      "kicker": "The numbers",
+      "title": "It's small",
+      "body": "For most workouts EPOC adds only *~6–15% of the calories* you burned during the session. Not a free meal."
+    },
+    {
+      "type": "content",
+      "kicker": "What works",
+      "title": "The diet does the work",
+      "body": "Fat loss still comes down to a *consistent calorie deficit* — what you eat dwarfs any post-workout burn."
+    },
+    {
+      "type": "content",
+      "kicker": "Still train",
+      "title": "Lift anyway",
+      "body": "Train for muscle, mood, and metabolism — just don't *eat back* a burn that was never that big."
+    },
+    {
+      "type": "cta",
+      "title": "Lose fat with *the real lever*.",
+      "body": "Snap your meals and Vibe Health auto-counts your calories — so you can run the deficit that actually drives fat loss.",
+      "button": "Download Vibe Health →",
+      "tag": "fat loss, minus the myths",
+      "bg": "ai-bg/326-cta.png"
+    }
+  ],
+  "caption": "The 'afterburn' that keeps you torching calories all day? Mostly a myth. 🔥\n\nEPOC is real, but it usually adds only ~6–15% of what you burned in the session. Fat loss still comes down to a consistent calorie deficit — so train for muscle and mood, not a magic burn. Save this. 🔖\n\nSnap your meals and Vibe Health auto-counts your calories → link in bio.",
+  "hashtags": [
+    "#afterburn",
+    "#epoc",
+    "#fatloss",
+    "#caloriedeficit",
+    "#fitnessmyths",
+    "#workout",
+    "#healthtips",
+    "#metabolism",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Afterburn Myth: What EPOC Really Does",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A sweating person resting on a gym bench after a workout, breathing hard under harsh fluorescent light, ordinary and real.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person plating a simple balanced meal in a dim kitchen, honest amateur-photo lighting on the food."
+  },
+  "cover_query": "runner",
+  "cta_query": "gym interior"
+}

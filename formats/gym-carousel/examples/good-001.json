@@ -1,0 +1,55 @@
+{
+  "key": "200-stop-skipping-legs",
+  "theme": "gym",
+  "eyebrow": "Leg Day",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Stop skipping *leg day*.",
+      "sub": "5 fixes for legs that actually grow.",
+      "img": "ai-bg/200-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Fix 01",
+      "title": "Hit real *depth*",
+      "body": "Quarter squats build quarter legs. Break parallel every rep."
+    },
+    {
+      "type": "content",
+      "kicker": "Fix 02",
+      "stat": "2×",
+      "title": "Train legs *twice a week*",
+      "body": "Once a week is maintenance, not growth."
+    },
+    {
+      "type": "content",
+      "kicker": "Fix 03",
+      "title": "Add *weight* weekly",
+      "body": "Same load means the same legs. Push the overload."
+    },
+    {
+      "type": "content",
+      "kicker": "Fix 04",
+      "title": "Don't skip *hamstrings*",
+      "body": "RDLs and curls build the whole leg, not just quads."
+    },
+    {
+      "type": "content",
+      "kicker": "Fix 05",
+      "stat": "1g",
+      "title": "Eat your *protein*",
+      "body": "Aim for 1g per pound of bodyweight, every day."
+    },
+    {
+      "type": "cta",
+      "title": "Track your *gains*.",
+      "body": "Vibe Health logs your training, protein and recovery in one place.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Your upper body is jacked and your legs are an afterthought because... you skip leg day. 🦵\n\nDepth, frequency, overload, hamstrings, protein. Fix these 5. 🔖\n\nVibe Health tracks your training, protein & recovery → link in bio.",
+  "hashtags": ["#legday", "#gymtok", "#bulking", "#gains", "#gymmotivation", "#legworkout", "#bodybuilding", "#fitness", "#gymbro", "#vibehealthapp"],
+  "youtube_title": "Stop Skipping Leg Day: 5 Fixes for Real Gains"
+}

@@ -1,0 +1,72 @@
+{
+  "key": "328-berries-anthocyanins",
+  "theme": "health",
+  "colorway": "cream",
+  "eyebrow": "Berries",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The pigment linked to a *sharper older brain*.",
+      "sub": "They're called anthocyanins — the deep pigments in blueberries and dark berries — and they're tied to slower memory decline.",
+      "bg": "ai-bg/328-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The compound",
+      "title": "Color is the clue",
+      "body": "*Anthocyanins* are the pigments that make berries deep blue and purple — and they're powerful antioxidants."
+    },
+    {
+      "type": "content",
+      "kicker": "The brain link",
+      "title": "Slower memory decline",
+      "body": "Studies link regular berry eaters to *slower memory decline* and better brain aging over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "A handful most days",
+      "body": "Research often uses about *half a cup of berries* daily — fresh or frozen both count."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Less inflammation up top",
+      "body": "Anthocyanins may ease *oxidative stress* in the brain, the wear-and-tear tied to aging."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Frozen is your friend",
+      "body": "Frozen berries are cheap, last for months, and keep their anthocyanins. *Toss a handful in* daily."
+    },
+    {
+      "type": "cta",
+      "title": "Eat now for a *sharper future*.",
+      "body": "Vibe Health logs your meals and habits into one daily Health Score — so brain-healthy choices add up over time.",
+      "button": "Download Vibe Health →",
+      "tag": "feed your brain, age well",
+      "bg": "ai-bg/328-cta.png"
+    }
+  ],
+  "caption": "The color in your berries isn't just pretty — it may help your brain age slower. 🫐\n\nAnthocyanins are tied to slower memory decline, research often uses about half a cup a day, and frozen counts just as much as fresh. Save this for your shopping list. 🔖\n\nVibe Health turns daily choices like this into one Health Score that adds up → link in bio.",
+  "hashtags": [
+    "#anthocyanins",
+    "#blueberries",
+    "#berries",
+    "#brainhealth",
+    "#memory",
+    "#longevity",
+    "#antioxidants",
+    "#healthylifestyle",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Berry Pigment Linked To A Sharper Brain",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. An older person eating a small bowl of dark berries by a window, soft directional light across their thoughtful face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of a cupped hand full of blueberries, hard rim light raking across their textured skins."
+  },
+  "cover_query": "bowl of blueberries",
+  "cta_query": "mixed fresh berries"
+}

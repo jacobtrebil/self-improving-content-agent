@@ -1,0 +1,69 @@
+{
+  "key": "141-power-of-naps",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A short nap can *reset your afternoon*.",
+      "sub": "The right nap restores alertness without stealing from night sleep. The trick is keeping it short and early.",
+      "bg": "ai-bg/141-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Short is the secret",
+      "body": "A nap of about twenty minutes *can refresh* you without leaving you groggy. Longer often backfires."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "When a nap helps",
+      "body": "On a short night or a slow afternoon, a brief rest *may support* focus and mood."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Keep it early",
+      "body": "Aim for early afternoon. A nap too late in the day *can disturb* your night sleep."
+    },
+    {
+      "type": "content",
+      "kicker": "A caution",
+      "title": "Do not over-rely",
+      "body": "Naps are a helpful top-up, not a fix for steady poor nights. Protect your real sleep first."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Short, early, occasional",
+      "body": "Keep it brief, keep it early, and use it now and then. That *can support* steady energy."
+    },
+    {
+      "type": "cta",
+      "title": "Rest in a way that *works*.",
+      "body": "Vibe Health tracks your sleep, movement and steps and turns your rest into one simple daily score.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "smarter rest, steadier energy"
+    }
+  ],
+  "caption": "A nap done right can reset your whole afternoon. 🌿\n\nKeep it short, around twenty minutes, and early in the day so it restores alertness without wrecking night sleep. Use it as a top-up, not a crutch. Save this. 🔖\n\nVibe Health turns your rest and daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#naps",
+    "#sleephealth",
+    "#healthspan",
+    "#healthyaging",
+    "#vibehealth",
+    "#energy",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How a Short Nap Restores Energy Without Hurting Sleep",
+  "cover_query": "woman sleeping"
+}

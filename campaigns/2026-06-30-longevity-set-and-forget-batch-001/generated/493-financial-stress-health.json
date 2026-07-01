@@ -1,0 +1,55 @@
+{
+  "key": "493-financial-stress-health",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Money stress is a *health* input.",
+      "sub": "Ongoing financial worry quietly taxes the body. Treating it as wellness, not just budgeting, may protect your healthspan.",
+      "bg": "ai-bg/493-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Worry has a body cost",
+      "body": "Chronic money stress keeps your stress response switched on. That steady drip *can raise cortisol* far longer than a single bad day."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Wear adds up",
+      "body": "Researchers call the buildup allostatic load: the cumulative toll of staying on alert. Over years it *is linked to* faster bodily wear."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Stress feeds inflammation",
+      "body": "Prolonged stress hormones can nudge the body toward low grade inflammation, which *is linked to* many age related conditions."
+    },
+    {
+      "type": "content",
+      "kicker": "The reframe",
+      "title": "Treat it like sleep",
+      "body": "You already track sleep and movement. Naming money stress as a real input *can help* you notice it before it compounds."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "Small buffers count",
+      "body": "Steady routines, honest conversations and tiny financial wins ease the load. Protecting calm *may protect* healthspan, not just your wallet."
+    },
+    {
+      "type": "cta",
+      "title": "See how stress *shows up*.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns them into one daily Health Score so you can watch how stressful stretches ripple through your body.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your stress, made visible"
+    }
+  ],
+  "caption": "Money stress doesn't stay in your bank account. It lives in your body too. 🌿💸\n\nChronic financial worry can raise cortisol, add to allostatic load and feed inflammation over time. Treating it as a health input, alongside sleep and movement, may help protect your healthspan. Save this for the next tight month. 🔖\n\nVibe Health turns your sleep, food, movement and steps into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#stressless", "#cortisol", "#wellness", "#healthyaging", "#financialwellness", "#healthhabits", "#mindbody", "#vibehealthapp"],
+  "youtube_title": "Why Money Stress Is a Health Problem, Not Just a Wallet Problem",
+  "cover_query": "person paying bills"
+}

@@ -1,0 +1,114 @@
+{
+  "key": "135-salt-blood-pressure",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/135-salt-blood-pressure.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/135-salt-blood-pressure.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/13-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/13-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Most of your salt is *hiding in plain sight*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "324/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 3,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Hiding in plain sight' is specific and contrarian enough to pause a scroll, though 'slowly nudging your blood pressure' in the sub softens the urgency.",
+      "clarity": "Each slide lands exactly one idea with a clear structural label, and the body copy never overstays its welcome.",
+      "audience_fit": "Sodium/blood-pressure is skewing older-audience concern; a 25-year-old tired by 3pm is thinking energy, not long-term cardiovascular creep.",
+      "novelty": "'Salt hides in packaged food, not the shaker' is a known health-media talking point — solid framing but not a fresh angle.",
+      "brand_fit": "Hedges ('may help', 'can help', 'linked to') are used correctly, voice is plain and direct, CTA is functional not hypey, no banned words.",
+      "predicted_performance": "Strong saves from the health-curious 30+ crowd but limited share/virality potential given the familiar topic and a younger core audience that doesn't feel the stakes yet."
+    },
+    "overall": 3.83,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25445,
+    "tokensOut": 283,
+    "costUsd": 0.0675792,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Hiding in plain sight' is specific and contrarian enough to pause a scroll, though 'slowly nudging your blood pressure' in the sub softens the urgency."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide lands exactly one idea with a clear structural label, and the body copy never overstays its welcome."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Sodium/blood-pressure is skewing older-audience concern; a 25-year-old tired by 3pm is thinking energy, not long-term cardiovascular creep."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "'Salt hides in packaged food, not the shaker' is a known health-media talking point — solid framing but not a fresh angle."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedges ('may help', 'can help', 'linked to') are used correctly, voice is plain and direct, CTA is functional not hypey, no banned words."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong saves from the health-curious 30+ crowd but limited share/virality potential given the familiar topic and a younger core audience that doesn't feel the stakes yet."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:37:40.595Z"
+}

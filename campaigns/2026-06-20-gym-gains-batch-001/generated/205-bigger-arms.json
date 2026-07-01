@@ -1,0 +1,68 @@
+{
+  "key": "205-bigger-arms",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Grow your *arms*.",
+      "sub": "You're training them wrong.",
+      "img": "ai-bg/205-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Volume",
+      "title": "Train them *more*",
+      "body": "Arms handle frequency. Hit them often."
+    },
+    {
+      "type": "content",
+      "kicker": "Triceps",
+      "title": "Hit *triceps* harder",
+      "body": "Two thirds of your arm is triceps.",
+      "stat": "2/3"
+    },
+    {
+      "type": "content",
+      "kicker": "Tempo",
+      "title": "Slow the *negative*",
+      "body": "Control the lowering. Stop swinging."
+    },
+    {
+      "type": "content",
+      "kicker": "Range",
+      "title": "Stretch and *squeeze*",
+      "body": "Full range beats heavy half reps."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat",
+      "title": "Arms need a *surplus*",
+      "body": "You can't grow on a deficit."
+    },
+    {
+      "type": "cta",
+      "title": "Build the *arms*.",
+      "body": "Vibe Health keeps your training and protein on track.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Grow your arms. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training and protein on track. → link in bio.",
+  "hashtags": [
+    "#armday",
+    "#biggerarms",
+    "#gymtok",
+    "#gains",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#biceps",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Actually Grow Your Arms"
+}

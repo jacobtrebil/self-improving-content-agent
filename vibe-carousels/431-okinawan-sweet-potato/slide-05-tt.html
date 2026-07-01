@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px}
+.serif{font-family:'Fraunces','Hoefler Text','Didot',Georgia,'Times New Roman',serif}
+.sans{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display",system-ui,sans-serif}
+.slide{width:1080px;height:1920px;padding:104px 96px;display:flex;flex-direction:column;
+  position:relative;overflow:hidden;-webkit-font-smoothing:antialiased;
+  font-family:-apple-system,BlinkMacSystemFont,system-ui,sans-serif}
+.row{display:flex;align-items:center;justify-content:space-between}
+.spacer{flex:1}
+.eyebrow{font-size:25px;font-weight:700;letter-spacing:6px;text-transform:uppercase}
+.logo{height:60px;width:auto;display:block}
+.handle{font-size:26px;font-weight:600;letter-spacing:1px}
+.swipe{font-size:29px;font-weight:600}
+
+/* COVER: deep-green brand panel */
+.slide.cover{background:radial-gradient(120% 90% at 50% 8%, #0e3b24 0%, #06230f 78%);color:#f3fbf4}
+.cover .eyebrow{color:#22c55e}
+.cover .logo{filter:brightness(0) invert(1)}            /* black wordmark -> white */
+.cover .h{font-size:92px;font-weight:500;line-height:1.06;letter-spacing:-1.5px;color:#fbfffc}
+.cover .sub{font-size:35px;font-weight:400;line-height:1.45;color:#bfe6c9;margin-top:34px;max-width:840px}
+.cover .handle,.cover .swipe{color:#9fd3ad}
+.cover .hairline{width:96px;height:4px;background:#22c55e;border-radius:4px;margin:0 0 12px}
+/* photo sits in a top band and fades into the green panel below */
+.cover .photoband{position:absolute;top:0;left:0;right:0;height:58%;background-size:cover;background-position:center 36%}
+.cover .photoband::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,35,15,0.30) 0%,rgba(6,35,15,0.05) 20%,rgba(6,35,15,0.10) 52%,rgba(6,35,15,0.80) 85%,#06230f 100%)}
+.cover .covertop,.cover .hairline,.cover .h,.cover .sub,.cover .spacer,.cover .row{position:relative;z-index:2}
+.cover .covertop .logo,.cover .covertop .eyebrow{text-shadow:0 1px 14px rgba(0,0,0,0.6)}
+
+/* CONTENT: light mint card */
+.slide.content{background:linear-gradient(180deg,#ffffff 0%,#f4fbf6 100%);color:#06230f}
+.content .eyebrow{color:#15803d}
+.content .idx{font-family:'Fraunces','Hoefler Text',Georgia,serif;font-size:40px;font-weight:500;color:#22c55e;letter-spacing:1px}
+.content .kicker{font-size:30px;font-weight:700;letter-spacing:1px;color:#15803d;text-transform:uppercase;margin-bottom:22px}
+.content .h{font-size:76px;font-weight:500;line-height:1.08;letter-spacing:-1px;color:#06230f}
+.content .body{font-size:37px;font-weight:400;line-height:1.5;color:#2c4a37;max-width:860px;margin-top:30px}
+.content .rule{height:2px;background:#d6ecdd;margin:0 0 40px;max-width:120px}
+.content .handle{color:#5b7a66}
+
+/* CTA: light, product screenshots */
+.slide.cta{background:linear-gradient(180deg,#f4fbf6 0%,#e6f6ec 100%);color:#06230f;align-items:center;text-align:center}
+.cta .eyebrow{color:#15803d}
+.cta .h{font-size:72px;font-weight:500;line-height:1.1;letter-spacing:-1px;color:#06230f;max-width:880px}
+.cta .body{font-size:34px;font-weight:400;line-height:1.45;color:#2c4a37;max-width:760px;margin-top:26px}
+.phones{display:flex;justify-content:center;align-items:flex-end;gap:-40px;margin:18px 0}
+.phone{width:332px;border-radius:46px;overflow:hidden;background:#fff;
+  box-shadow:0 40px 90px rgba(6,35,15,0.30),0 0 0 2px rgba(6,35,15,0.06);}
+.phone img{width:100%;display:block}
+.phone.back{transform:rotate(7deg) translateY(26px);z-index:1}
+.phone.front{transform:rotate(-5deg);z-index:2;margin-left:-70px}
+.phone.solo{width:392px;transform:rotate(-2deg)}
+.cta .ctatext{font-size:34px;font-weight:700;color:#15803d;margin-top:14px}
+.cta .tag{font-size:27px;font-weight:500;color:#5b7a66;margin-top:10px;letter-spacing:0.3px}
+.cta .logo{height:54px}
+
+/* highlight pill: soft mint */
+.hl{background:#d8f2e0;color:#15803d;padding:2px 16px;border-radius:12px;font-weight:600;
+  white-space:nowrap;line-height:1.5}
+.cover .hl{background:rgba(255,255,255,0.16);color:#eafff1}
+</style></head><body><div class="slide content">
+    <div class="row"><span class="eyebrow">Longevity</span><span class="idx">04 / 05</span></div>
+    <div class="spacer"></div>
+    <div class="rule"></div>
+    <div class="kicker">The pattern</div>
+    <h2 class="h serif">One piece of a bigger habit</h2>
+    <p class="body">No single food makes a long life. It sits inside a plant-forward, mostly whole-food pattern that <span class="hl">can support healthy aging</span>.</p>
+    <div class="spacer"></div>
+    <div class="row"><span class="handle">@vibehealthapp</span></div>
+  </div></body></html>

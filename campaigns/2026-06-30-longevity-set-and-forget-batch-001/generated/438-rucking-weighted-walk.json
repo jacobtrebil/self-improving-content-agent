@@ -1,0 +1,55 @@
+{
+  "key": "438-rucking-weighted-walk",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Add weight to your walk. *Change everything*.",
+      "sub": "Rucking is simply walking with a loaded pack. It builds strength and endurance without the pounding of running.",
+      "bg": "ai-bg/438-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Load turns a walk into training",
+      "body": "Carrying a weighted pack raises the demand on your whole body. A walk becomes a full *strength and cardio* session."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Stronger bones under load",
+      "body": "Bone responds to mechanical strain by getting denser. Weighted walking *can support* bone health as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Heart and legs, together",
+      "body": "Extra load lifts your heart rate and your endurance at an easy pace. You build *cardiovascular fitness* without sprinting."
+    },
+    {
+      "type": "content",
+      "kicker": "The kindness",
+      "title": "Easier on your joints",
+      "body": "Walking keeps both feet grounded, so there is no impact spike. You get the stimulus *without the joint pounding* of running."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Begin light, add slowly",
+      "body": "Start with a comfortable pack and a flat route. Add weight or distance *only when it feels easy*, never both at once."
+    },
+    {
+      "type": "cta",
+      "title": "Make every walk *count for more*.",
+      "body": "Vibe Health logs your steps, movement and recovery, then folds them into one daily Health Score so you can see your rucking pay off.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "every step, tracked"
+    }
+  ],
+  "caption": "A walk you already do, made twice as powerful. Just add a loaded pack. 🌿🎒\n\nRucking builds bone density and endurance through mechanical strain, all while sparing your joints the pounding of running. Save this for your next walk. 🔖\n\nVibe Health turns those steps into one daily score → link in bio.",
+  "hashtags": ["#rucking", "#longevity", "#bonehealth", "#wellness", "#healthspan", "#movement", "#walkingworkout", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "Rucking: The Weighted Walk That Builds Strength and Endurance",
+  "cover_query": "person hiking backpack"
+}

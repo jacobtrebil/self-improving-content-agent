@@ -1,0 +1,55 @@
+{
+  "key": "483-prostate-health",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why so many men wake up to *pee at night*",
+      "sub": "The prostate quietly enlarges with age and presses on the urethra. A few habits can ease the flow.",
+      "bg": "ai-bg/483-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "An aging prostate squeezes",
+      "body": "With age the prostate often enlarges, a common change called BPH. It can *press on the urethra* and slow the stream."
+    },
+    {
+      "type": "content",
+      "kicker": "The signs",
+      "title": "Weak flow, frequent trips",
+      "body": "A slower stream, urgency and waking to urinate are typical. These changes *are linked to* an enlarging prostate, not a failing one."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Stay lean and active",
+      "body": "Carrying less belly fat and moving daily *can support* easier flow. Regular activity is linked to fewer urinary symptoms over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Mind caffeine and fluids",
+      "body": "Caffeine and alcohol can irritate the bladder. Easing off in the evening *may reduce* nighttime trips and bladder strain."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Small habits add up",
+      "body": "Steady movement, a healthy weight and smarter evening fluids work together. Tracking them makes the *helpful patterns* easy to see."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *ease flow*.",
+      "body": "Vibe Health logs your movement, steps, food and sleep, then turns them into one daily Health Score so the habits that help stay front of mind.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "If you are up at night more than you used to be, the aging prostate is often the quiet reason. 🌿\n\nStaying lean, moving daily and easing off evening caffeine can support easier flow and fewer nighttime trips. Save this for later. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#menshealth", "#prostatehealth", "#healthyaging", "#wellness", "#healthhabits", "#agewell", "#vibehealth", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Real Reason Men Wake Up to Pee at Night",
+  "cover_query": "senior man doctor"
+}

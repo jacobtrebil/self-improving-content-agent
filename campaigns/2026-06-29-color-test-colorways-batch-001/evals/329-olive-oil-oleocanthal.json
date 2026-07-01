@@ -1,0 +1,114 @@
+{
+  "key": "329-olive-oil-oleocanthal",
+  "eyebrow": "Olive Oil",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/329-olive-oil-oleocanthal.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/329-olive-oil-oleocanthal.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Good olive oil has a *natural anti-inflammatory* i\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "323/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "The ibuprofen comparison is a concrete, surprising hook that earns the stop — loses a point because olive oil content is crowded and the peppery-sting angle has been circulating for a few years.",
+      "clarity": "Each slide is a single actionable idea with a clear label, no jargon overload, and the buy/use tips are specific enough to act on this week.",
+      "audience_fit": "Busy 20–35s who already use olive oil will find this immediately applicable, though the oleocanthal naming risks losing the most casual viewer on slide 2.",
+      "novelty": "The oleocanthal-ibuprofen parallel is well-trodden in nutrition content; the peppery-sting-as-quality-signal framing is the freshest angle but not new enough to score higher.",
+      "brand_fit": "Claims are properly hedged ('gently, over time', 'adds up'), no hype language, CTA ties the specific upgrade to the Health Score naturally without feeling forced.",
+      "predicted_performance": "High save potential — actionable buying and usage tips drive bookmarks — but shares may be moderate since the ibuprofen comparison is familiar enough that many viewers will feel they already knew this."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25835,
+    "tokensOut": 320,
+    "costUsd": 0.0705052,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "The ibuprofen comparison is a concrete, surprising hook that earns the stop — loses a point because olive oil content is crowded and the peppery-sting angle has been circulating for a few years."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single actionable idea with a clear label, no jargon overload, and the buy/use tips are specific enough to act on this week."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s who already use olive oil will find this immediately applicable, though the oleocanthal naming risks losing the most casual viewer on slide 2."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "The oleocanthal-ibuprofen parallel is well-trodden in nutrition content; the peppery-sting-as-quality-signal framing is the freshest angle but not new enough to score higher."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('gently, over time', 'adds up'), no hype language, CTA ties the specific upgrade to the Health Score naturally without feeling forced."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential — actionable buying and usage tips drive bookmarks — but shares may be moderate since the ibuprofen comparison is familiar enough that many viewers will feel they already knew this."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:09:25.016Z"
+}

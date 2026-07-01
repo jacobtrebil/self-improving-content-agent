@@ -1,0 +1,69 @@
+{
+  "key": "465-second-language-brain",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A second language *protects* your brain",
+      "sub": "Learning and using another language builds cognitive reserve. That buffer can delay dementia symptoms by years.",
+      "bg": "ai-bg/465-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Cognitive reserve, explained",
+      "body": "Reserve is the brain's spare capacity. The more you build, the longer it *holds the line* against age-related decline."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "A constant mental workout",
+      "body": "Switching between languages trains attention and control. That daily effort *can support* a more resilient, adaptable brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The evidence",
+      "title": "Roughly four to five years",
+      "body": "Studies of bilingual adults link lifelong language use to dementia symptoms appearing *four to five years later*."
+    },
+    {
+      "type": "content",
+      "kicker": "The reframe",
+      "title": "It is never too late",
+      "body": "You do not need fluency or a childhood start. Learning a language at any age *may help* keep the mind sharp."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "A little, most days",
+      "body": "Short, consistent practice beats rare cramming. Pair it with the basics that protect your brain: sleep, movement and real food."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the *years that matter*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps behind a sharper brain, all in one daily Health Score you can act on.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your brain, tracked"
+    }
+  ],
+  "caption": "Learning a second language is one of the kindest things you can do for your future brain. 🧠🌿\n\nIt builds cognitive reserve, and lifelong bilingual use is linked to dementia symptoms arriving about four to five years later. Save this for your next study session. 🔖\n\nVibe Health turns the habits behind a sharper brain into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#brainhealth",
+    "#cognitivereserve",
+    "#healthyaging",
+    "#dementiaprevention",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How a Second Language Protects Your Aging Brain",
+  "cover_query": "books"
+}

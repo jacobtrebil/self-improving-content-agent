@@ -1,0 +1,55 @@
+{
+  "key": "133-gut-microbiome",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A *diverse gut* is a sign of aging well.",
+      "sub": "The trillions of microbes inside you shift with age. Variety on your plate helps keep them thriving.",
+      "bg": "ai-bg/133-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Your gut is an organ",
+      "body": "The microbes in your gut shape immunity and mood. Their richness often *fades with age*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Diversity is the goal",
+      "body": "A wide mix of microbes is linked to *healthier aging*. A narrow one tends to track with frailty."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Add fermented foods",
+      "body": "Yogurt, kefir, kimchi and sauerkraut deliver live cultures. A daily spoonful *can help feed* the mix."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Feed it many plants",
+      "body": "Different plants feed different microbes. Aiming for *thirty plants a week* builds real variety."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Variety, not perfection",
+      "body": "You do not need a strict diet. Just a colorful, varied plate that *keeps your gut diverse*."
+    },
+    {
+      "type": "cta",
+      "title": "Feed the years that *feel good*.",
+      "body": "Vibe Health scores your food, sleep and movement and turns the habits that protect your healthspan into one daily number.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "nourish your gut"
+    }
+  ],
+  "caption": "The secret to a healthy gut isn't one superfood. It's variety. 🌿\n\nA diverse microbiome is linked to healthier aging. Feed it fermented foods and as many different plants as you can. Save this. 🔖\n\nVibe Health turns the food and habits that age you well into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#guthealth", "#microbiome", "#healthspan", "#healthyaging", "#vibehealth", "#fermentedfoods", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How to Feed a Healthy Gut as You Age",
+  "cover_query": "fermented foods jars"
+}

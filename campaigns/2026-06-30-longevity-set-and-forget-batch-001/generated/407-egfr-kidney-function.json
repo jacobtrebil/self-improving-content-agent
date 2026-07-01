@@ -1,0 +1,69 @@
+{
+  "key": "407-egfr-kidney-function",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The number that watches your *kidneys*.",
+      "sub": "eGFR estimates how fast your kidneys filter your blood. It can catch a silent decline early.",
+      "bg": "ai-bg/407-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A filter rate, scored",
+      "body": "eGFR is the *estimated filtration rate*: how many milliliters of blood your kidneys clean each minute. One simple blood test gives the number."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The decline is silent",
+      "body": "Kidney function can fall for years *without symptoms*. By the time you feel it, a lot of filtering capacity may already be gone."
+    },
+    {
+      "type": "content",
+      "kicker": "What it catches",
+      "title": "Trouble, before you feel it",
+      "body": "A falling eGFR *is linked to* early kidney strain. Catching it sooner gives you time to protect the organ that cleans your blood."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "The kidneys love basics",
+      "body": "Steady blood pressure, blood sugar and hydration *can support* healthy filtration. The everyday habits matter more than any quick fix."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Track the trend, not one test",
+      "body": "A single eGFR is a snapshot. The *direction over time* is what tells the real story of how your kidneys are holding up."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the organ that *cleans your blood*.",
+      "body": "Vibe Health turns the sleep, food, movement and steps behind kidney health into one daily Health Score, so the right habits stay easy to keep.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your kidneys, tracked"
+    }
+  ],
+  "caption": "Your kidneys quietly clean your blood every minute, and the decline can stay silent for years. One eGFR number can catch it early. 🌿\n\nIt is a filter rate, the trend matters more than one test, and steady blood pressure, blood sugar and hydration can support it. Save this for your next checkup. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#kidneyhealth",
+    "#egfr",
+    "#preventivehealth",
+    "#healthspan",
+    "#wellness",
+    "#healthhabits",
+    "#bloodwork",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The eGFR Test: Your Kidneys' Silent Warning Number",
+  "cover_query": "doctor office"
+}

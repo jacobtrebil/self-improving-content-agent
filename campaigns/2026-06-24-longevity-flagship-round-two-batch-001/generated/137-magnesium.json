@@ -1,0 +1,55 @@
+{
+  "key": "137-magnesium",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The quiet mineral behind *calm, steady energy*.",
+      "sub": "Magnesium works behind the scenes for your sleep, muscles and heart. Many people quietly fall short of it.",
+      "bg": "ai-bg/137-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "An under-the-radar mineral",
+      "body": "Magnesium powers hundreds of small jobs in the body. Most of us *rarely think about it*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Sleep, muscle and heart",
+      "body": "It helps muscles relax and *may support* deeper sleep and a steady heartbeat. Calm starts here."
+    },
+    {
+      "type": "content",
+      "kicker": "The gap",
+      "title": "Why people fall short",
+      "body": "Processed foods carry little of it, and stress can drain it. Many diets *quietly run low*."
+    },
+    {
+      "type": "content",
+      "kicker": "On your plate",
+      "title": "Where to find it",
+      "body": "Leafy greens, nuts, seeds and beans are rich in it. A few simple swaps *can help*."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "An easy calm win",
+      "body": "Lean on whole foods first. Filling the gap *may support* better rest and steadier days."
+    },
+    {
+      "type": "cta",
+      "title": "Make calm a *daily habit*.",
+      "body": "Vibe Health tracks the food, sleep and movement that help you age well, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "steady days, better sleep"
+    }
+  ],
+  "caption": "Magnesium is the quiet mineral most people overlook. 🌿\n\nIt supports your sleep, muscles and a steady heart, yet many diets fall short. Greens, nuts, seeds and beans are an easy place to start. Save this. 🔖\n\nVibe Health turns those small food habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#magnesium", "#healthspan", "#healthyaging", "#sleephealth", "#vibehealth", "#nutrition", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Magnesium Matters for Sleep, Muscle and Heart Health",
+  "cover_query": "leafy greens spinach"
+}

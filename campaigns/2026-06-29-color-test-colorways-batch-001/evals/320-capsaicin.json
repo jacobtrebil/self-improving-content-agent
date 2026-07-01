@@ -1,0 +1,114 @@
+{
+  "key": "320-capsaicin",
+  "eyebrow": "Capsaicin",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/320-capsaicin.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/320-capsaicin.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Why chili heat *curbs your appetite*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "261/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Curbs your appetite' is a concrete payoff and the TRPV1 name-drop adds credibility, but 'Most people miss the upside' is a weak tease that softens the punch.",
+      "clarity": "Each slide is a single, sequential idea with a clear label — compound, receptor, metabolism, appetite, use-it — and the action step is specific.",
+      "audience_fit": "Spicy food is universally accessible and appetite control resonates with a busy 20–35 crowd, though the receptor science may lose the least science-curious viewers.",
+      "novelty": "Capsaicin-metabolism content is well-trodden on health TikTok; the TRPV1 framing adds a slight edge but doesn't reframe the topic in a surprising way.",
+      "brand_fit": "Claims are consistently hedged ('may blunt', 'small calorie burn', 'modest'), voice is plain and direct, CTA ties naturally to meal tracking without AI-cringe.",
+      "predicted_performance": "Solid saves from nutrition nerds but the familiar angle limits breakout share potential — likely performs at or slightly above average for the format."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25820,
+    "tokensOut": 308,
+    "costUsd": 0.07023019999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Curbs your appetite' is a concrete payoff and the TRPV1 name-drop adds credibility, but 'Most people miss the upside' is a weak tease that softens the punch."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, sequential idea with a clear label — compound, receptor, metabolism, appetite, use-it — and the action step is specific."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Spicy food is universally accessible and appetite control resonates with a busy 20–35 crowd, though the receptor science may lose the least science-curious viewers."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Capsaicin-metabolism content is well-trodden on health TikTok; the TRPV1 framing adds a slight edge but doesn't reframe the topic in a surprising way."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are consistently hedged ('may blunt', 'small calorie burn', 'modest'), voice is plain and direct, CTA ties naturally to meal tracking without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Solid saves from nutrition nerds but the familiar angle limits breakout share potential — likely performs at or slightly above average for the format."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:46.499Z"
+}

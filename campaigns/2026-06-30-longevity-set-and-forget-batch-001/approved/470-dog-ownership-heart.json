@@ -1,0 +1,69 @@
+{
+  "key": "470-dog-ownership-heart",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The simplest heart habit might *have four legs*.",
+      "sub": "A dog pulls you outside every single day. That daily walk and steady company add up.",
+      "bg": "ai-bg/470-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A dog moves you daily",
+      "body": "A dog needs walking rain or shine. That gentle, non-negotiable routine *keeps you moving* on the days you might not."
+    },
+    {
+      "type": "content",
+      "kicker": "The evidence",
+      "title": "Lower heart risk",
+      "body": "Across large studies, dog ownership *is linked to* roughly a quarter lower risk of dying from cardiovascular disease."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "More steps, less sitting",
+      "body": "Owners log more daily steps and break up sitting more often. Consistent low-intensity movement *can support* a healthier heart."
+    },
+    {
+      "type": "content",
+      "kicker": "The other half",
+      "title": "Companionship counts",
+      "body": "Steady company and routine may ease stress and loneliness, both of which *are linked to* better long-term heart health."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "It is the consistency",
+      "body": "You do not need a dog to get the benefit. A daily walk and real connection *do the heavy lifting* either way."
+    },
+    {
+      "type": "cta",
+      "title": "Turn daily walks into *visible progress*.",
+      "body": "Vibe Health tracks your steps, movement, sleep and food, then rolls it into one daily Health Score so each walk actually counts.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "every step, tracked"
+    }
+  ],
+  "caption": "The best heart habit might just be a leash by the door. 🐾🌿\n\nA dog gets you walking every day, and that steady movement plus companionship is linked to lower heart risk. You do not need a dog to copy the recipe: daily walks and real connection. Save this. 🔖\n\nVibe Health turns those daily walks into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#hearthealth",
+    "#healthyaging",
+    "#dailywalk",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Owning a Dog Is Quietly Good for Your Heart",
+  "cover_query": "dog"
+}

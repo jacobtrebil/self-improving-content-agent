@@ -1,0 +1,18 @@
+{
+  "key": "153-protein-per-meal",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    { "type": "cover", "title": "How you *spread* protein matters too.", "sub": "Total protein is only half the story. Spreading it across the day helps you hold onto muscle as you age.", "bg": "ai-bg/153-cover.png" },
+    { "type": "content", "kicker": "The idea", "title": "Total isn't the whole story", "body": "Hitting a daily number matters, but the body cares how that protein *arrives* across your meals too." },
+    { "type": "content", "kicker": "The mechanism", "title": "Spread it out", "body": "Muscle responds best to steady, regular protein. A big dinner alone *may leave* much of the day under fed." },
+    { "type": "content", "kicker": "The target", "title": "Protein at every meal", "body": "Aim for a solid serving, roughly thirty grams, at each meal. Even, repeated doses can support muscle as you age." },
+    { "type": "content", "kicker": "Easy sources", "title": "Simple ways to hit it", "body": "Eggs, yogurt, fish, beans, chicken or tofu make it easy. Building meals *around protein* keeps each one working for you." },
+    { "type": "content", "kicker": "The takeaway", "title": "Even doses, all day", "body": "Don't save it all for dinner. Spreading protein across the day *may help* protect the muscle that keeps you strong." },
+    { "type": "cta", "title": "Feed the muscle that *keeps you strong*.", "body": "Vibe Health turns your food, protein and habits into one daily score, so steady, muscle-friendly eating becomes easy.", "screens": ["plan", "score"], "cta_text": "search ‘Vibe Health’ on the App Store", "tag": "your nutrition, tracked" }
+  ],
+  "caption": "Eating enough protein matters. So does how you spread it across the day. 🌿\n\nMuscle responds best to steady, even doses, so aim for a solid serving, around thirty grams, at each meal instead of saving it all for dinner. Eggs, yogurt, fish and beans make it easy. Save this. 🔖\n\nVibe Health turns your food into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#protein", "#muscle", "#healthyaging", "#vibehealth", "#aihealthcoach", "#nutrition", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "Why Spreading Protein Across the Day Protects Muscle",
+  "cover_query": "eggs breakfast protein"
+}

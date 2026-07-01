@@ -1,0 +1,114 @@
+{
+  "key": "321-taurine",
+  "eyebrow": "Taurine",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/321-taurine.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/321-taurine.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The amino acid behind *healthier aging*?\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "364/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "The question format with 'healthier aging?' is specific and curiosity-driven, but the sub-copy on the cover is too dense — most viewers won't read past the headline.",
+      "clarity": "Each slide is a single, clearly labeled idea with a punchy header and one actionable or informative body line — no slide tries to do two things.",
+      "audience_fit": "Taurine/longevity angle hits health-curious 25–35s well, but the 'humans aren't mice' reality check may feel anticlimactic to a viewer hoping for a shortcut.",
+      "novelty": "The honest debunking angle ('promising, not proven') is fresher than the typical supplement hype deck, though taurine itself is well-covered territory by mid-2026.",
+      "brand_fit": "Hedged claims throughout, banned words absent, CTA ties directly to the app's core value prop without overselling — textbook Vibe Health voice.",
+      "predicted_performance": "Strong save potential from the nuanced take, but the 'eat more protein' conclusion may underwhelm shares from viewers expecting a bigger payoff."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25857,
+    "tokensOut": 298,
+    "costUsd": 0.0703392,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "The question format with 'healthier aging?' is specific and curiosity-driven, but the sub-copy on the cover is too dense — most viewers won't read past the headline."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, clearly labeled idea with a punchy header and one actionable or informative body line — no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Taurine/longevity angle hits health-curious 25–35s well, but the 'humans aren't mice' reality check may feel anticlimactic to a viewer hoping for a shortcut."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "The honest debunking angle ('promising, not proven') is fresher than the typical supplement hype deck, though taurine itself is well-covered territory by mid-2026."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedged claims throughout, banned words absent, CTA ties directly to the app's core value prop without overselling — textbook Vibe Health voice."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save potential from the nuanced take, but the 'eat more protein' conclusion may underwhelm shares from viewers expecting a bigger payoff."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:53.208Z"
+}

@@ -1,0 +1,69 @@
+{
+  "key": "413-uric-acid-marker",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The blood marker most people *never check*",
+      "sub": "Uric acid is famous for gout. But quietly elevated levels can flag deeper trouble years earlier.",
+      "bg": "ai-bg/413-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "More than a gout test",
+      "body": "Uric acid is a waste product your body clears every day. When it runs high, it *is linked to* far more than sore joints."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "A pressure signal",
+      "body": "Elevated uric acid *is associated with* higher blood pressure. It can climb before the numbers on your cuff do."
+    },
+    {
+      "type": "content",
+      "kicker": "The liver",
+      "title": "A window on the liver",
+      "body": "High levels often travel with *fatty liver*, the quiet buildup tied to how the body handles sugar and fat."
+    },
+    {
+      "type": "content",
+      "kicker": "The pattern",
+      "title": "Part of a bigger picture",
+      "body": "Together these point to metabolic syndrome, a cluster that *can raise* long-term heart and metabolic risk."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it helps",
+      "title": "An early, cheap read",
+      "body": "It sits on most standard panels already. Tracking it over time *may surface* cardiometabolic strain while it is still reversible."
+    },
+    {
+      "type": "cta",
+      "title": "Turn your labs into *daily action*.",
+      "body": "Vibe Health connects your numbers to the sleep, food, movement and steps behind them, scored as one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your markers, in context"
+    }
+  ],
+  "caption": "One overlooked line on your blood panel can hint at strain long before symptoms show up. 🩸🌿\n\nUric acid is best known for gout, but high levels are linked to blood pressure, fatty liver and metabolic syndrome. Worth watching over time. Save this. 🔖\n\nVibe Health turns your habits and numbers into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#bloodwork",
+    "#metabolichealth",
+    "#healthmarkers",
+    "#preventivehealth",
+    "#wellness",
+    "#healthhabits",
+    "#aihealthcoach",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Underused Blood Marker That Flags Hidden Risk",
+  "cover_query": "blood test"
+}

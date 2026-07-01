@@ -1,0 +1,59 @@
+{
+  "key": "305-tart-cherry-sleep",
+  "theme": "health",
+  "colorway": "mono",
+  "eyebrow": "Tart Cherry",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The fruit juice that *helps you sleep*.",
+      "sub": "Tart cherry is one of the few natural sources of melatonin — the hormone your brain uses to wind down. Most people reach for pills first.",
+      "bg": "ai-bg/305-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The compound",
+      "title": "It carries real melatonin",
+      "body": "Tart cherries are a natural source of *melatonin* — the hormone that signals your brain it's time to wind down."
+    },
+    {
+      "type": "content",
+      "kicker": "The bonus",
+      "title": "It supports your own supply",
+      "body": "Tart cherry is also rich in compounds that may help your body *hold onto melatonin* longer through the night."
+    },
+    {
+      "type": "content",
+      "kicker": "Use it",
+      "title": "A glass before bed",
+      "body": "A *small glass* about an hour before bed is the common approach — look for unsweetened, 100% tart cherry."
+    },
+    {
+      "type": "content",
+      "kicker": "Why not pills",
+      "title": "Gentle, not knock-out",
+      "body": "Unlike a sleeping pill, it nudges your *natural rhythm* instead of forcing you under — so you wake clearer, not groggy."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Fall asleep faster, naturally",
+      "body": "Pair it with a dark, cool room and you give your body *two melatonin signals* working together."
+    },
+    {
+      "type": "cta",
+      "title": "Fall asleep faster, *the natural way*.",
+      "body": "Log your nightly routine and Vibe Health connects what you drink and do before bed to how you actually sleep — so you see what's working.",
+      "button": "Download Vibe Health →",
+      "tag": "fall asleep faster, naturally",
+      "bg": "ai-bg/305-cta.png"
+    }
+  ],
+  "caption": "Tart cherry juice is one of the few natural sources of melatonin. 🍒😴\n\nA small glass before bed, in a dark cool room, may help you fall asleep faster — no pills, no grogginess. Save it. 🔖\n\nVibe Health connects your night routine to how you actually sleep → link in bio.",
+  "hashtags": ["#sleep", "#tartcherry", "#melatonin", "#sleeptips", "#naturalsleep", "#insomnia", "#sleephygiene", "#recovery", "#wellness", "#vibehealthapp"],
+  "youtube_title": "The Fruit Juice That Helps You Sleep Naturally",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person in a dim bedroom holding a small glass of dark juice, soft lamplight, calm and drowsy before bed.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A glass of dark juice on a nightstand beside a low lamp, the bed soft and shadowed behind it."
+  }
+}

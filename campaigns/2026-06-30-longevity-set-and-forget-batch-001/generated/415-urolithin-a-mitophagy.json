@@ -1,0 +1,55 @@
+{
+  "key": "415-urolithin-a-mitophagy",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The compound your *gut* makes from pomegranate.",
+      "sub": "It is called urolithin A, and it may help your muscles age more slowly. Here is the science.",
+      "bg": "ai-bg/415-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Pomegranate, then bacteria",
+      "body": "Pomegranate is rich in ellagitannins. Your gut bacteria convert them into *urolithin A*, a compound your body cannot make on its own."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It triggers mitophagy",
+      "body": "Urolithin A is linked to mitophagy: the cellular cleanup that *clears worn-out mitochondria* so fresh ones can take their place."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Cleaner cellular engines",
+      "body": "Mitochondria are the power plants in every cell. Clearing the tired ones can support *steadier energy* as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "In the muscle",
+      "title": "Endurance you can feel",
+      "body": "Early trials suggest urolithin A *may help rebuild* muscle endurance and strength in older adults over a few months."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Not everyone makes it",
+      "body": "Only some people host the bacteria that produce it. A diverse gut, fed by *whole plant foods*, gives you a better shot."
+    },
+    {
+      "type": "cta",
+      "title": "Feed the habits behind *real energy*.",
+      "body": "Vibe Health scores the food, movement, steps and sleep that keep your body running well, all in one daily number.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your energy, tracked"
+    }
+  ],
+  "caption": "Your gut can turn pomegranate into a compound that helps your muscles age more slowly. It is called urolithin A. 🌿🍷\n\nIt triggers mitophagy, the cleanup that clears worn-out mitochondria and may help rebuild muscle endurance. Feed a diverse gut with whole plant foods. Save this. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#urolithina", "#mitophagy", "#healthspan", "#guthealth", "#healthyaging", "#wellness", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Urolithin A: The Gut Compound That Renews Your Mitochondria",
+  "cover_query": "pomegranate halved"
+}

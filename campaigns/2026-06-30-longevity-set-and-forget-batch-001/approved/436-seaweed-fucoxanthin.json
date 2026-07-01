@@ -1,0 +1,69 @@
+{
+  "key": "436-seaweed-fucoxanthin",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The sea vegetable behind a *long healthspan*.",
+      "sub": "Seaweed is a quiet staple of Japanese coastal eating. Here is why it earns its place on the plate.",
+      "bg": "ai-bg/436-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A coastal eating pattern",
+      "body": "Along the Japanese coast, seaweed shows up daily in soups, salads and rice. It is part of *one of the longest-lived diets*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Iodine for your thyroid",
+      "body": "Seaweed is one of the richest natural sources of iodine, a mineral your thyroid needs to *help regulate your metabolism*."
+    },
+    {
+      "type": "content",
+      "kicker": "The fiber",
+      "title": "Soluble fiber that feeds you",
+      "body": "Its soluble fiber can support steady digestion and feed gut bacteria, which *may help* with fullness and blood sugar balance."
+    },
+    {
+      "type": "content",
+      "kicker": "The pigment",
+      "title": "Fucoxanthin, the brown carotenoid",
+      "body": "The pigment that tints brown seaweed is fucoxanthin, a carotenoid studied for how it *may support healthy metabolism*."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Easy ways to add it",
+      "body": "Crumble nori over rice, stir wakame into miso soup, or toss a small seaweed salad. A little, *added often*, is enough."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small habits into *real momentum*.",
+      "body": "Vibe Health logs your food, sleep, movement and steps, then turns them into one daily Health Score so good habits actually stick.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Seaweed is the quiet staple behind one of the world's longest-lived diets. 🌊🌿\n\nIodine for your thyroid, soluble fiber for your gut, and fucoxanthin, the carotenoid that gives brown seaweed its color. A small habit with a long history. Save this. 🔖\n\nVibe Health turns small daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#healthspan",
+    "#seaweed",
+    "#guthealth",
+    "#japanesefood",
+    "#wellness",
+    "#healthhabits",
+    "#nutrition",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Seaweed Is a Longevity Staple",
+  "cover_query": "seaweed salad bowl"
+}

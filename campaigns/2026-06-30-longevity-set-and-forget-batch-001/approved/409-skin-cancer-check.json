@@ -1,0 +1,69 @@
+{
+  "key": "409-skin-cancer-check",
+  "theme": "brand",
+  "eyebrow": "Screening",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The cancer you can *see coming*.",
+      "sub": "Skin cancer is the most common cancer, and one of the most survivable when it is caught early. Here is how.",
+      "bg": "ai-bg/409-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Catch it while it's thin",
+      "body": "Melanoma is highly treatable when found early. The thinner it is at diagnosis, the *better the odds* tend to be."
+    },
+    {
+      "type": "content",
+      "kicker": "The rule",
+      "title": "Learn your ABCDEs",
+      "body": "Asymmetry, irregular Borders, uneven Color, a Diameter over a pencil eraser, and any spot that is *Evolving* over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Check your own skin",
+      "body": "A monthly look, mirrors included, helps you notice change. A new or changing spot *is worth* a closer look."
+    },
+    {
+      "type": "content",
+      "kicker": "The visit",
+      "title": "See a dermatologist yearly",
+      "body": "An annual skin exam can spot what you miss, including the back and scalp. Higher-risk skin *may need* it more often."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Early beats everything",
+      "body": "Most skin cancers are curable when caught early. Sun protection and screening together *can lower* your long-term risk."
+    },
+    {
+      "type": "cta",
+      "title": "Make the check a *habit*.",
+      "body": "Vibe Health keeps your sun protection, movement and other daily habits in one place, so the routines that protect you stay on your radar.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your health, tracked"
+    }
+  ],
+  "caption": "Skin cancer is the most common cancer, and also one of the most survivable when you catch it early. 🌿\n\nLearn the ABCDE rule, check your own skin monthly, and book a yearly dermatologist exam. Caught thin, melanoma is highly treatable. Save this. 🔖\n\nVibe Health keeps the daily habits that protect you in one simple score → link in bio.",
+  "hashtags": [
+    "#skincancer",
+    "#melanoma",
+    "#skincheck",
+    "#dermatology",
+    "#prevention",
+    "#wellness",
+    "#healthhabits",
+    "#sunprotection",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Skin Cancer You Can Catch Early",
+  "cover_query": "skin"
+}

@@ -1,0 +1,114 @@
+{
+  "key": "318-chewing-digestion",
+  "eyebrow": "Chewing",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/318-chewing-digestion.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/318-chewing-digestion.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/31-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/31-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The free fix for *bloating after meals*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "314/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Free fix for bloating' is specific and low-friction — strong scroll-stopper, but 'bloating after meals' is well-trodden territory that blunts the edge.",
+      "clarity": "Each slide is one tight idea with a concrete mechanism or action, no slide tries to do two things.",
+      "audience_fit": "Busy 20–35s who eat fast and feel gross after lunch is exactly this deck's reader — zero jargon, relatable problem.",
+      "novelty": "Chewing slowly is genuinely old advice; the salivary-enzyme angle and fork-down tactic add texture but won't feel fresh to anyone who's scrolled health content before.",
+      "brand_fit": "Claims are hedged ('can mean', 'may help' implied by 'can'), voice is plain and direct, CTA ties to the actual product without AI-cringe.",
+      "predicted_performance": "Save-worthy format with a concrete number (20–30 chews) and an easy habit (put the fork down) — strong save bait, but the topic ceiling limits viral breakout potential."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25832,
+    "tokensOut": 292,
+    "costUsd": 0.07008919999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Free fix for bloating' is specific and low-friction — strong scroll-stopper, but 'bloating after meals' is well-trodden territory that blunts the edge."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one tight idea with a concrete mechanism or action, no slide tries to do two things."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "Busy 20–35s who eat fast and feel gross after lunch is exactly this deck's reader — zero jargon, relatable problem."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Chewing slowly is genuinely old advice; the salivary-enzyme angle and fork-down tactic add texture but won't feel fresh to anyone who's scrolled health content before."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('can mean', 'may help' implied by 'can'), voice is plain and direct, CTA ties to the actual product without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Save-worthy format with a concrete number (20–30 chews) and an easy habit (put the fork down) — strong save bait, but the topic ceiling limits viral breakout potential."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:40.462Z"
+}

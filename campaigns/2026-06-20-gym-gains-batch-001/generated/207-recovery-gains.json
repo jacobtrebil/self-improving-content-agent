@@ -1,0 +1,68 @@
+{
+  "key": "207-recovery-gains",
+  "theme": "gym",
+  "eyebrow": "Recovery",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "You grow when you *rest*.",
+      "sub": "Not when you lift.",
+      "img": "ai-bg/207-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Sleep",
+      "title": "Sleep builds *muscle*",
+      "body": "Most of your growth happens in deep sleep.",
+      "stat": "7-9h"
+    },
+    {
+      "type": "content",
+      "kicker": "Rest days",
+      "title": "Take *rest days*",
+      "body": "Muscle repairs between sessions, not during."
+    },
+    {
+      "type": "content",
+      "kicker": "Stress",
+      "title": "Lower the *stress*",
+      "body": "High cortisol quietly eats your gains."
+    },
+    {
+      "type": "content",
+      "kicker": "Fuel",
+      "title": "Feed *recovery*",
+      "body": "Protein and carbs refill and rebuild."
+    },
+    {
+      "type": "content",
+      "kicker": "Deload",
+      "title": "*Deload* sometimes",
+      "body": "Every 6 to 8 weeks, back off to recover."
+    },
+    {
+      "type": "cta",
+      "title": "Recover to *grow*.",
+      "body": "Vibe Health tracks your sleep, food and training together.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "You grow when you rest. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your sleep, food and training together. → link in bio.",
+  "hashtags": [
+    "#recovery",
+    "#gains",
+    "#gymtok",
+    "#sleep",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#restday",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "You Grow When You Rest, Not When You Lift"
+}

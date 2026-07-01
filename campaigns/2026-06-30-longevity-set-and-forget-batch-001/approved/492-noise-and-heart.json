@@ -1,0 +1,55 @@
+{
+  "key": "492-noise-and-heart",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your heart is *listening* to the city.",
+      "sub": "Constant traffic and noise can keep your body on alert. Here is what that does over time.",
+      "bg": "ai-bg/492-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Noise is a stressor",
+      "body": "Your nervous system reads steady noise as a threat. It keeps the *sympathetic* system switched on, long after you stop noticing the sound."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Cortisol stays high",
+      "body": "An alert body holds more cortisol. Chronic exposure to traffic noise *is linked to* higher blood pressure and added cardiovascular strain."
+    },
+    {
+      "type": "content",
+      "kicker": "Even asleep",
+      "title": "It follows you to bed",
+      "body": "Your ears keep working through the night. Night noise can lift your heart rate and blood pressure *while you sleep*, without ever waking you."
+    },
+    {
+      "type": "content",
+      "kicker": "The upside",
+      "title": "Quiet is recovery",
+      "body": "Calmer spaces let the body stand down. Quieter sleep and downtime *may lower* the long-term load on your heart and vessels."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "Build pockets of calm",
+      "body": "A quieter bedroom, earplugs, white noise or time in nature can ease the signal. Small *daily quiet* adds up for your heart."
+    },
+    {
+      "type": "cta",
+      "title": "See how your days *add up*.",
+      "body": "Vibe Health tracks your sleep, movement, steps and food, then turns them into one daily Health Score so you can spot what helps your heart and what wears it down.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart, tracked"
+    }
+  ],
+  "caption": "The city never really goes quiet, and neither does your nervous system. 🌿🫀\n\nConstant traffic and noise can keep cortisol and blood pressure elevated, even in your sleep, while quieter spaces give your heart room to recover. Save this for your next slow evening. 🔖\n\nVibe Health turns your sleep, movement and food into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#hearthealth", "#bloodpressure", "#stressless", "#sleepbetter", "#wellness", "#healthhabits", "#healthyaging", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How City Noise Quietly Strains Your Heart",
+  "cover_query": "busy city traffic"
+}

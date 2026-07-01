@@ -1,0 +1,69 @@
+{
+  "key": "491-quit-vaping",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your vessels start to *heal* the day you quit.",
+      "sub": "Nicotine tightens your blood vessels and wears down their lining. Stop, and the repair begins fast.",
+      "bg": "ai-bg/491-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Nicotine narrows the pipes",
+      "body": "Whether from cigarettes or vapes, nicotine *constricts your blood vessels* and raises the load on your heart with every dose."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The lining takes the hit",
+      "body": "The endothelium is the thin layer inside every vessel. Nicotine injures it, which can stiffen arteries and limit healthy blood flow."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Nitric oxide goes quiet",
+      "body": "Healthy vessels release nitric oxide to relax and open. Nicotine *blunts that signaling*, so arteries stay tighter than they should."
+    },
+    {
+      "type": "content",
+      "kicker": "The recovery",
+      "title": "Function returns in weeks",
+      "body": "After quitting, nitric oxide signaling and vascular function *can recover within weeks*, easing the strain on your heart and brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Better flow, longer healthspan",
+      "body": "Healthier vessels carry oxygen to muscle and brain more freely. Quitting is *linked to* lower long-term cardiovascular risk."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *help you heal*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the days you stay smoke-free are easy to see and build on.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your recovery, tracked"
+    }
+  ],
+  "caption": "Quitting nicotine is one of the fastest favors you can do for your blood vessels. The repair can start within weeks. 🌿\n\nNicotine narrows your vessels and injures their lining, but stopping lets nitric oxide signaling and healthy blood flow return to support heart and brain. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#quitvaping",
+    "#hearthealth",
+    "#vascularhealth",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#wellness",
+    "#healthhabits",
+    "#healthspan",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "What Happens to Your Blood Vessels When You Quit Vaping",
+  "cover_query": "cigarette"
+}

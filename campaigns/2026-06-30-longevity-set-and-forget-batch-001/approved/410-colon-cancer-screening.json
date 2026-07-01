@@ -1,0 +1,55 @@
+{
+  "key": "410-colon-cancer-screening",
+  "theme": "brand",
+  "eyebrow": "Screening",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The cancer screening can actually *prevent*.",
+      "sub": "Colorectal cancer usually starts as a small polyp. Find it early and you can remove it before it ever turns dangerous.",
+      "bg": "ai-bg/410-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "It starts as a polyp",
+      "body": "Most colorectal cancers grow slowly from a *precancerous polyp* over years. That long window is exactly what makes screening so powerful."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Catch it before it turns",
+      "body": "A colonoscopy can find and remove polyps in the same visit. Removing them early *can prevent* the cancer from ever forming."
+    },
+    {
+      "type": "content",
+      "kicker": "The easy option",
+      "title": "A test you do at home",
+      "body": "A stool-based FIT test checks for hidden blood and is done at home. A positive result *is followed by* a colonoscopy."
+    },
+    {
+      "type": "content",
+      "kicker": "When to start",
+      "title": "Most adults at 45",
+      "body": "Guidelines now suggest starting at age 45 for average risk. Earlier *if it runs* in your family, so talk with your doctor."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Detect and prevent",
+      "body": "Few cancers can be stopped before they begin. Staying on schedule *is one of* the highest-value choices you can make."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *fewer surprises*.",
+      "body": "Vibe Health keeps your sleep, food, movement and steps in one daily score, so the everyday basics stay on track between checkups.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your health, tracked"
+    }
+  ],
+  "caption": "Colorectal cancer is one of the few cancers screening can actually prevent, not just catch. 🌿\n\nPolyps grow slowly, a colonoscopy or at-home FIT test can find them early, and most adults can start at 45. Save this and book the conversation. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#coloncancerawareness", "#cancerscreening", "#preventivehealth", "#colonoscopy", "#guthealth", "#longevity", "#wellness", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The One Cancer Screening Can Actually Prevent",
+  "cover_query": "physician patient consultation"
+}

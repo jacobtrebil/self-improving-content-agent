@@ -1,0 +1,129 @@
+Evaluating 30 spec(s) from campaigns/2026-06-29-color-test-colorways-batch-001/approved…
+
+[trace run_a5f307b5e7] ✗ eval_code.300-food-order 0ms
+[trace run_a5f307b5e7] ✗ eval_code.301-vinegar-before-carbs 1ms
+[trace run_a5f307b5e7] ✗ eval_code.302-resistant-starch 1ms
+[trace run_a5f307b5e7] • eval_judge.301-vinegar-before-carbs 12594ms $0.06941420000000001
+[trace run_a5f307b5e7] • eval.301-vinegar-before-carbs 12605ms
+[trace run_a5f307b5e7] ✗ eval_code.303-dietary-nitrates 0ms
+[trace run_a5f307b5e7] • eval_judge.302-resistant-starch 14013ms $0.0702682
+[trace run_a5f307b5e7] • eval.302-resistant-starch 14024ms
+[trace run_a5f307b5e7] ✗ eval_code.304-creatine-brain 0ms
+[trace run_a5f307b5e7] • eval_judge.300-food-order 15012ms $0.0700712
+[trace run_a5f307b5e7] • eval.300-food-order 15017ms
+[trace run_a5f307b5e7] ✗ eval_code.305-tart-cherry-sleep 0ms
+[trace run_a5f307b5e7] • eval_judge.303-dietary-nitrates 12216ms $0.07002019999999999
+[trace run_a5f307b5e7] • eval.303-dietary-nitrates 12220ms
+[trace run_a5f307b5e7] ✗ eval_code.306-glycine-sleep 0ms
+[trace run_a5f307b5e7] • eval_judge.304-creatine-brain 12849ms $0.0703712
+[trace run_a5f307b5e7] • eval.304-creatine-brain 12850ms
+[trace run_a5f307b5e7] ✗ eval_code.307-theanine-caffeine 0ms
+[trace run_a5f307b5e7] • eval_judge.305-tart-cherry-sleep 13111ms $0.0704222
+[trace run_a5f307b5e7] • eval.305-tart-cherry-sleep 13114ms
+[trace run_a5f307b5e7] ✗ eval_code.308-protein-leverage 0ms
+[trace run_a5f307b5e7] • eval_judge.306-glycine-sleep 12248ms $0.0701142
+[trace run_a5f307b5e7] • eval.306-glycine-sleep 12250ms
+[trace run_a5f307b5e7] ✗ eval_code.309-autophagy 0ms
+[trace run_a5f307b5e7] • eval_judge.307-theanine-caffeine 11795ms $0.0696142
+[trace run_a5f307b5e7] • eval.307-theanine-caffeine 11796ms
+[trace run_a5f307b5e7] ✗ eval_code.310-vo2-max 0ms
+[trace run_a5f307b5e7] • eval_judge.308-protein-leverage 13306ms $0.0698492
+[trace run_a5f307b5e7] • eval.308-protein-leverage 13308ms
+[trace run_a5f307b5e7] ✗ eval_code.311-muscle-glucose-sink 0ms
+[trace run_a5f307b5e7] • eval_judge.309-autophagy 12983ms $0.07002119999999999
+[trace run_a5f307b5e7] • eval.309-autophagy 12986ms
+[trace run_a5f307b5e7] ✗ eval_code.312-slow-eating 0ms
+[trace run_a5f307b5e7] • eval_judge.310-vo2-max 11604ms $0.06930420000000001
+[trace run_a5f307b5e7] • eval.310-vo2-max 11605ms
+[trace run_a5f307b5e7] ✗ eval_code.313-ferritin-fatigue 0ms
+[trace run_a5f307b5e7] • eval_judge.311-muscle-glucose-sink 11711ms $0.0701492
+[trace run_a5f307b5e7] • eval.311-muscle-glucose-sink 11713ms
+[trace run_a5f307b5e7] ✗ eval_code.314-b12-energy 0ms
+[trace run_a5f307b5e7] • eval_judge.312-slow-eating 12595ms $0.0702082
+[trace run_a5f307b5e7] • eval.312-slow-eating 12598ms
+[trace run_a5f307b5e7] ✗ eval_code.315-vitamin-k2 0ms
+[trace run_a5f307b5e7] • eval_judge.313-ferritin-fatigue 12677ms $0.0697792
+[trace run_a5f307b5e7] • eval.313-ferritin-fatigue 12677ms
+[trace run_a5f307b5e7] ✗ eval_code.316-collagen-vitamin-c 0ms
+[trace run_a5f307b5e7] • eval_judge.314-b12-energy 12157ms $0.07055620000000001
+[trace run_a5f307b5e7] • eval.314-b12-energy 12159ms
+[trace run_a5f307b5e7] ✗ eval_code.317-cocoa-flavanols 0ms
+[trace run_a5f307b5e7] • eval_judge.316-collagen-vitamin-c 10090ms $0.0691652
+[trace run_a5f307b5e7] • eval.316-collagen-vitamin-c 10092ms
+[trace run_a5f307b5e7] ✗ eval_code.318-chewing-digestion 0ms
+[trace run_a5f307b5e7] • eval_judge.315-vitamin-k2 11934ms $0.07003820000000001
+[trace run_a5f307b5e7] • eval.315-vitamin-k2 11935ms
+[trace run_a5f307b5e7] ✗ eval_code.319-electrolytes 0ms
+[trace run_a5f307b5e7] • eval_judge.317-cocoa-flavanols 13451ms $0.0699582
+[trace run_a5f307b5e7] • eval.317-cocoa-flavanols 13453ms
+[trace run_a5f307b5e7] ✗ eval_code.320-capsaicin 0ms
+[trace run_a5f307b5e7] • eval_judge.318-chewing-digestion 11762ms $0.07008919999999999
+[trace run_a5f307b5e7] • eval.318-chewing-digestion 11764ms
+[trace run_a5f307b5e7] ✗ eval_code.321-taurine 0ms
+[trace run_a5f307b5e7] • eval_judge.319-electrolytes 14732ms $0.0706602
+[trace run_a5f307b5e7] • eval.319-electrolytes 14733ms
+[trace run_a5f307b5e7] ✗ eval_code.322-zinc 0ms
+[trace run_a5f307b5e7] • eval_judge.320-capsaicin 12078ms $0.07023019999999999
+[trace run_a5f307b5e7] • eval.320-capsaicin 12080ms
+[trace run_a5f307b5e7] ✗ eval_code.323-oats-beta-glucan 0ms
+[trace run_a5f307b5e7] • eval_judge.321-taurine 12744ms $0.0703392
+[trace run_a5f307b5e7] • eval.321-taurine 12745ms
+[trace run_a5f307b5e7] ✗ eval_code.324-walking-pace 0ms
+[trace run_a5f307b5e7] • eval_judge.322-zinc 12829ms $0.06933120000000001
+[trace run_a5f307b5e7] • eval.322-zinc 12831ms
+[trace run_a5f307b5e7] ✗ eval_code.325-deload 0ms
+[trace run_a5f307b5e7] • eval_judge.323-oats-beta-glucan 13546ms $0.0703342
+[trace run_a5f307b5e7] • eval.323-oats-beta-glucan 13548ms
+[trace run_a5f307b5e7] ✗ eval_code.326-epoc-afterburn 0ms
+[trace run_a5f307b5e7] • eval_judge.324-walking-pace 11625ms $0.0697822
+[trace run_a5f307b5e7] • eval.324-walking-pace 11627ms
+[trace run_a5f307b5e7] ✗ eval_code.327-sun-nitric-oxide 0ms
+[trace run_a5f307b5e7] • eval_judge.325-deload 12954ms $0.0699342
+[trace run_a5f307b5e7] • eval.325-deload 12956ms
+[trace run_a5f307b5e7] ✗ eval_code.328-berries-anthocyanins 0ms
+[trace run_a5f307b5e7] • eval_judge.326-epoc-afterburn 13018ms $0.0703152
+[trace run_a5f307b5e7] • eval.326-epoc-afterburn 13019ms
+[trace run_a5f307b5e7] ✗ eval_code.329-olive-oil-oleocanthal 0ms
+[trace run_a5f307b5e7] • eval_judge.327-sun-nitric-oxide 12009ms $0.0695052
+[trace run_a5f307b5e7] • eval.327-sun-nitric-oxide 12011ms
+[trace run_a5f307b5e7] • eval_judge.328-berries-anthocyanins 12125ms $0.0700622
+[trace run_a5f307b5e7] • eval.328-berries-anthocyanins 12127ms
+[trace run_a5f307b5e7] • eval_judge.329-olive-oil-oleocanthal 11946ms $0.0705052
+[trace run_a5f307b5e7] • eval.329-olive-oil-oleocanthal 11948ms
+
+key                     code        judge(overall)  hook cla aud nov brd prd
+----------------------- ----------- --------------- ---- --- --- --- --- ---
+300-food-order          5/6 FAIL    4.33/5            4   5   5   4   4   4
+301-vinegar-before-carbs 5/6 FAIL    4.33/5            4   5   5   3   5   4
+302-resistant-starch    5/6 FAIL    4.33/5            4   5   4   4   5   4
+303-dietary-nitrates    5/6 FAIL    4.33/5            4   5   4   4   5   4
+304-creatine-brain      5/6 FAIL    4.67/5            5   5   5   4   5   4
+305-tart-cherry-sleep   5/6 FAIL    4.17/5            4   4   5   3   5   4
+306-glycine-sleep       5/6 FAIL    4.5/5             4   5   5   4   5   4
+307-theanine-caffeine   5/6 FAIL    4.17/5            4   5   5   3   5   3
+308-protein-leverage    5/6 FAIL    4.83/5            5   5   5   4   5   5
+309-autophagy           5/6 FAIL    3.83/5            4   5   3   3   5   3
+310-vo2-max             5/6 FAIL    4.33/5            5   5   3   4   5   4
+311-muscle-glucose-sink 5/6 FAIL    4/5               4   5   4   3   5   3
+312-slow-eating         5/6 FAIL    3.67/5            4   5   4   2   4   3
+313-ferritin-fatigue    5/6 FAIL    4.5/5             4   5   5   4   5   4
+314-b12-energy          5/6 FAIL    4/5               4   5   4   3   5   3
+315-vitamin-k2          5/6 FAIL    4.17/5            4   5   4   3   5   4
+316-collagen-vitamin-c  5/6 FAIL    4.33/5            4   5   4   4   5   4
+317-cocoa-flavanols     5/6 FAIL    4/5               4   5   4   3   5   3
+318-chewing-digestion   5/6 FAIL    4.33/5            4   5   5   3   5   4
+319-electrolytes        5/6 FAIL    4.17/5            4   5   5   3   5   3
+320-capsaicin           5/6 FAIL    4/5               4   5   4   3   5   3
+321-taurine             5/6 FAIL    4.33/5            4   5   4   4   5   4
+322-zinc                5/6 FAIL    3.5/5             3   4   4   2   5   3
+323-oats-beta-glucan    5/6 FAIL    4/5               4   5   3   4   5   3
+324-walking-pace        5/6 FAIL    4.33/5            4   5   4   4   5   4
+325-deload              5/6 FAIL    3.5/5             4   5   3   2   4   3
+326-epoc-afterburn      5/6 FAIL    4.17/5            4   5   4   3   5   4
+327-sun-nitric-oxide    5/6 FAIL    4.17/5            4   4   4   4   5   4
+328-berries-anthocyanins 5/6 FAIL    3.83/5            4   5   3   3   5   3
+329-olive-oil-oleocanthal 5/6 FAIL    4.17/5            4   5   4   3   5   4
+
+trace run_a5f307b5e7: 90 span(s), $2.100413 judge cost
+reports → campaigns/2026-06-29-color-test-colorways-batch-001/evals/  (per-deck JSON + summary.tsv)
+view → node observability/traceViewer.js campaigns/2026-06-29-color-test-colorways-batch-001 --evals

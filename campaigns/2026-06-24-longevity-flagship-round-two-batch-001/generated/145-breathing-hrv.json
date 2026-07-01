@@ -1,0 +1,55 @@
+{
+  "key": "145-breathing-hrv",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your breath is a *dial for calm*.",
+      "sub": "Slow breathing speaks directly to your nervous system. Over time it may train real stress resilience.",
+      "bg": "ai-bg/145-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Breath talks to your body",
+      "body": "Your breathing is wired to your nervous system. Changing how you breathe *can shift* how calm you feel."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Slow exhales settle you",
+      "body": "A longer out breath gently signals safety to the body. Heart rate eases and tension *may soften*."
+    },
+    {
+      "type": "content",
+      "kicker": "The pattern",
+      "title": "Try a simple rhythm",
+      "body": "Breathe in for four counts, out for six. Slow and unforced, letting the exhale lead."
+    },
+    {
+      "type": "content",
+      "kicker": "The dose",
+      "title": "A few minutes a day",
+      "body": "Even five quiet minutes can help. Practiced often, slow breathing *is linked to* better stress resilience and HRV."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "A skill you carry",
+      "body": "Your breath is always with you, free and ready. Trained gently, it becomes a tool for hard moments."
+    },
+    {
+      "type": "cta",
+      "title": "Train calm you can *carry*.",
+      "body": "Vibe Health helps you track the sleep, recovery and daily habits that build resilience, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "calmer by design"
+    }
+  ],
+  "caption": "Your breath is a dial for calm that you carry everywhere. 🌿\n\nSlow exhales signal safety to your nervous system, and a few quiet minutes a day are linked to better stress resilience and HRV. Try in for four, out for six. Save this. 🔖\n\nVibe Health turns your daily habits into one calm, simple score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#breathwork", "#hrv", "#stressresilience", "#vibehealth", "#nervoussystem", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Slow Breathing Trains Your Stress Resilience",
+  "cover_query": "person breathing calm"
+}

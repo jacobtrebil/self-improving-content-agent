@@ -1,0 +1,114 @@
+{
+  "key": "151-walking-after-meals",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/151-walking-after-meals.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/151-walking-after-meals.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/15-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/15-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A short walk *after meals* changes everything.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "310/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Changes everything' brushes the banned-hype line but the timing angle is specific and contrarian enough to earn a pause.",
+      "clarity": "Each slide owns one idea with a clear label and a single actionable takeaway.",
+      "audience_fit": "Post-meal ritual fits a busy 25-year-old's day better than a gym block, though 'healthier aging' skews slightly older in framing.",
+      "novelty": "Post-meal walking for blood sugar is a well-circulated idea on health TikTok; the timing-beats-intensity angle adds some freshness but won't feel new to a frequent health-content consumer.",
+      "brand_fit": "Claims are properly hedged, voice is plain and direct, CTA ties the habit to the Health Score without cringe or hype.",
+      "predicted_performance": "High save potential from the ritual framing and the concrete 10-minute cue; share rate moderate because the core idea is familiar."
+    },
+    "overall": 4.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25474,
+    "tokensOut": 259,
+    "costUsd": 0.0674272,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Changes everything' brushes the banned-hype line but the timing angle is specific and contrarian enough to earn a pause."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns one idea with a clear label and a single actionable takeaway."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Post-meal ritual fits a busy 25-year-old's day better than a gym block, though 'healthier aging' skews slightly older in framing."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Post-meal walking for blood sugar is a well-circulated idea on health TikTok; the timing-beats-intensity angle adds some freshness but won't feel new to a frequent health-content consumer."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged, voice is plain and direct, CTA ties the habit to the Health Score without cringe or hype."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential from the ritual framing and the concrete 10-minute cue; share rate moderate because the core idea is familiar."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:46.989Z"
+}

@@ -1,0 +1,55 @@
+{
+  "key": "432-tomatoes-lycopene",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The tomato gets *better* when you cook it.",
+      "sub": "Heat unlocks lycopene, a carotenoid antioxidant your heart and skin will thank you for. Here is why.",
+      "bg": "ai-bg/432-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet lycopene",
+      "body": "Lycopene is the pigment that makes tomatoes red. It is a *carotenoid antioxidant* that helps your cells handle daily stress."
+    },
+    {
+      "type": "content",
+      "kicker": "Why heat helps",
+      "title": "Cooking changes everything",
+      "body": "Raw tomatoes lock lycopene inside tough cell walls. Gentle heat *breaks them open*, so your body absorbs far more of it."
+    },
+    {
+      "type": "content",
+      "kicker": "Add fat",
+      "title": "A drizzle of olive oil",
+      "body": "Lycopene is fat soluble. Cooking tomatoes with *a little olive oil* can support how well you take it in."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Heart and skin",
+      "body": "Higher lycopene intake is linked to *better heart health* and skin that handles sun stress more gracefully as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Simple ways to get it",
+      "body": "Tomato sauce, roasted tomatoes, soup and paste are all *rich, easy sources*. Cooked beats raw for this nutrient."
+    },
+    {
+      "type": "cta",
+      "title": "Eat well, *track the rest*.",
+      "body": "Vibe Health turns the food, sleep, movement and steps behind aging well into one daily Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Turns out the healthiest way to eat a tomato is to cook it. 🍅🌿\n\nHeat unlocks lycopene, a carotenoid antioxidant linked to heart and skin protection, and a little olive oil helps you absorb even more. Save this for your next sauce. 🔖\n\nVibe Health turns the small habits behind aging well into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthyaging", "#lycopene", "#hearthealth", "#nutrition", "#wellness", "#healthhabits", "#agewell", "#vibehealth", "#vibehealthapp"],
+  "youtube_title": "Why You Should Cook Your Tomatoes for Lycopene",
+  "cover_query": "ripe tomatoes vine"
+}

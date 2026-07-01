@@ -1,0 +1,68 @@
+{
+  "key": "208-creatine",
+  "theme": "gym",
+  "eyebrow": "Supplements",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The *one* supplement worth it.",
+      "sub": "Creatine, explained.",
+      "img": "ai-bg/208-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Why",
+      "title": "It actually *works*",
+      "body": "The most researched supplement there is."
+    },
+    {
+      "type": "content",
+      "kicker": "Dose",
+      "title": "5g a *day*",
+      "body": "Every day. Timing doesn't matter.",
+      "stat": "5g"
+    },
+    {
+      "type": "content",
+      "kicker": "No loading",
+      "title": "Skip the *loading*",
+      "body": "Just take 5g daily. It saturates anyway."
+    },
+    {
+      "type": "content",
+      "kicker": "Myth",
+      "title": "Not *water weight*",
+      "body": "A little fullness, then real strength."
+    },
+    {
+      "type": "content",
+      "kicker": "Safe",
+      "title": "It's *safe*",
+      "body": "Safe long term for healthy people."
+    },
+    {
+      "type": "cta",
+      "title": "Add *creatine*.",
+      "body": "Vibe Health helps you stay consistent with the basics.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "The one supplement worth it. 💪\n\nSave this and put it to work. 🔖\n\nVibe helps you stay consistent with the basics. → link in bio.",
+  "hashtags": [
+    "#creatine",
+    "#supplements",
+    "#gymtok",
+    "#gains",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#strength",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Creatine: The One Supplement Worth It"
+}

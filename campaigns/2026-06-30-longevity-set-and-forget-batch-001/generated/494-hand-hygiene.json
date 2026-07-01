@@ -1,0 +1,55 @@
+{
+  "key": "494-hand-hygiene",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The longevity habit hiding *at the sink*.",
+      "sub": "Washing your hands is not just about today's cold. Over a lifetime it may protect how you age.",
+      "bg": "ai-bg/494-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Every infection leaves a mark",
+      "body": "Each cold, flu or stomach bug sets off a wave of *systemic inflammation*. One is harmless. A lifetime of them adds up."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Meet inflammaging",
+      "body": "Chronic, low-grade inflammation that builds with age *is linked to* faster decline. Researchers call this slow burn inflammaging."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "Fewer infections, lower load",
+      "body": "Lowering your lifetime infectious load *may ease* that constant inflammatory pressure on the body over the decades."
+    },
+    {
+      "type": "content",
+      "kicker": "The lever",
+      "title": "Clean hands, simple math",
+      "body": "Regular handwashing can cut how often you catch something. Twenty seconds with soap *is quietly powerful* protection."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "A more resilient immune system",
+      "body": "Fewer infections over a lifetime can support an immune system that *stays resilient* as you get older."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *tracked daily*.",
+      "body": "Vibe Health turns the everyday choices that protect your immune health, sleep, food, movement and steps, into one clear daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The simplest longevity habit might be the one at your bathroom sink. 🌿🧼\n\nEvery infection spikes inflammation, and a lifetime of them can fuel inflammaging. Regular handwashing lowers that load and may keep your immune system resilient with age. Save this. 🔖\n\nVibe Health turns small daily habits into one clear Health Score → link in bio.",
+  "hashtags": ["#longevity", "#inflammaging", "#immunehealth", "#healthyaging", "#wellness", "#healthhabits", "#agewell", "#vibehealth", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Washing Your Hands May Help You Age Better",
+  "cover_query": "washing hands sink"
+}

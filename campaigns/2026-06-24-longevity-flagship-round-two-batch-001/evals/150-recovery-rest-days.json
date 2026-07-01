@@ -1,0 +1,114 @@
+{
+  "key": "150-recovery-rest-days",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/150-recovery-rest-days.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/150-recovery-rest-days.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/15-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/15-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Strength is built on your *rest days*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "331/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Strength is built on your rest days' is solid but not scroll-stopping — it's a familiar reframe without a specific or counterintuitive hook to create urgency.",
+      "clarity": "Every slide lands one clear idea with a concrete label, and the progression from stress → adaptation → signs → habit → takeaway is clean and easy to follow.",
+      "audience_fit": "Speaks directly to the overtraining, under-recovering 20–35 crowd who grind without results, though 'nervous system rebuild' edges slightly technical for the most casual reader.",
+      "novelty": "'Rest is part of training' is one of the most-recycled messages in fitness content — the execution is solid but the angle itself is not fresh.",
+      "brand_fit": "Claims are hedged throughout ('can support', 'may help' framing implied), voice is plain and direct, CTA ties recovery naturally to the Health Score without cringe.",
+      "predicted_performance": "Strong saves likely from the checklist slide on under-recovery signs, but the well-worn hook limits the share ceiling compared to a more contrarian or data-specific angle."
+    },
+    "overall": 3.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25452,
+    "tokensOut": 293,
+    "costUsd": 0.0677932,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'Strength is built on your rest days' is solid but not scroll-stopping — it's a familiar reframe without a specific or counterintuitive hook to create urgency."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Every slide lands one clear idea with a concrete label, and the progression from stress → adaptation → signs → habit → takeaway is clean and easy to follow."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Speaks directly to the overtraining, under-recovering 20–35 crowd who grind without results, though 'nervous system rebuild' edges slightly technical for the most casual reader."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "'Rest is part of training' is one of the most-recycled messages in fitness content — the execution is solid but the angle itself is not fresh."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged throughout ('can support', 'may help' framing implied), voice is plain and direct, CTA ties recovery naturally to the Health Score without cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong saves likely from the checklist slide on under-recovery signs, but the well-worn hook limits the share ceiling compared to a more contrarian or data-specific angle."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:35.748Z"
+}

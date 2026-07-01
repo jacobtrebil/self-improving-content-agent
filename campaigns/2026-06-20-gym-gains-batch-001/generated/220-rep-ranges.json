@@ -1,0 +1,69 @@
+{
+  "key": "220-rep-ranges",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The best rep range for *growth*.",
+      "sub": "It's wider than you think.",
+      "img": "ai-bg/220-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The range",
+      "title": "5 to 30 *reps*",
+      "body": "Muscle grows across a huge rep range.",
+      "stat": "5-30"
+    },
+    {
+      "type": "content",
+      "kicker": "Effort",
+      "title": "Train near *failure*",
+      "body": "Reps only count when they get hard."
+    },
+    {
+      "type": "content",
+      "kicker": "Middle",
+      "title": "Live in *6 to 12*",
+      "body": "A solid middle ground for most lifts.",
+      "stat": "6-12"
+    },
+    {
+      "type": "content",
+      "kicker": "Heavy",
+      "title": "Go *heavy* too",
+      "body": "Low reps build the strength that drives growth."
+    },
+    {
+      "type": "content",
+      "kicker": "High",
+      "title": "High reps *work*",
+      "body": "20+ reps grow muscle when taken to failure."
+    },
+    {
+      "type": "cta",
+      "title": "Pick your *reps*.",
+      "body": "Vibe Health keeps your training and protein dialed.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "The best rep range for growth. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training and protein dialed. → link in bio.",
+  "hashtags": [
+    "#repranges",
+    "#hypertrophy",
+    "#gymtok",
+    "#buildmuscle",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#liftingtips",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Best Rep Range for Muscle Growth"
+}

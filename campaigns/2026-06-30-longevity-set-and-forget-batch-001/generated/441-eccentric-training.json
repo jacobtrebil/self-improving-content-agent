@@ -1,0 +1,69 @@
+{
+  "key": "441-eccentric-training",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The strongest part of a lift is the *way down*.",
+      "sub": "Slowing the lowering phase of any rep can build strength and resilient tendons. Here is why it works.",
+      "bg": "ai-bg/441-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Train the lowering phase",
+      "body": "Every rep has a lift and a lower. The slow lowering, the *eccentric phase*, is where much of the strength is built."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Muscles are stronger lengthening",
+      "body": "Your muscles can handle more load while lengthening than while shortening. Slow lowering *puts that strength to work*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Stiffer, healthier tendons",
+      "body": "Controlled lowering is linked to greater *tendon stiffness*, which can support stronger joints and steadier movement as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "The bonus",
+      "title": "More signal, less strain",
+      "body": "Eccentric work can trigger a strong *muscle building response* at a lower metabolic cost, so you grow without burning out."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Count three on the way down",
+      "body": "Take three slow seconds to lower the weight on each rep. Stay controlled, then lift normally and repeat."
+    },
+    {
+      "type": "cta",
+      "title": "Make every rep *count for more*.",
+      "body": "Vibe Health logs your training, recovery, sleep and steps, then turns it all into one daily Health Score so progress stays clear.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your training, tracked"
+    }
+  ],
+  "caption": "Most people rush the way down. That slow lower is where strength and tendon health are quietly built. 🌿\n\nLengthening under load builds strength, stiffens tendons and triggers growth at a lower cost. Just count three seconds down. Save this for your next session. 🔖\n\nVibe Health turns your training and recovery into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#strengthtraining",
+    "#tendonhealth",
+    "#healthyaging",
+    "#eccentrictraining",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#vibehealth",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why the Slow Lowering Phase Builds Real Strength",
+  "cover_query": "dumbbell"
+}

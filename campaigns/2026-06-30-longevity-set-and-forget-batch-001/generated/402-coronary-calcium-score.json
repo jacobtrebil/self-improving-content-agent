@@ -1,0 +1,55 @@
+{
+  "key": "402-coronary-calcium-score",
+  "theme": "brand",
+  "eyebrow": "Heart",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A *single number* for your heart's hidden age",
+      "sub": "A coronary calcium scan measures hardened plaque already in your arteries. It turns a quiet, decades-long process into something you can finally see.",
+      "bg": "ai-bg/402-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Plaque builds in silence",
+      "body": "Arteries can stiffen for *decades* with no symptoms. By the time something is felt, the process is often well underway."
+    },
+    {
+      "type": "content",
+      "kicker": "What it is",
+      "title": "A quick CT scan",
+      "body": "A coronary calcium scan is a fast CT that looks for hardened plaque in your heart's arteries. No needles, no dye, just a few minutes."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Your CAC score",
+      "body": "The scan returns one score. A zero is reassuring, while a higher number *signals more plaque* and a reason to act earlier."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It reshapes the plan",
+      "body": "Your score can support smarter choices on statins, blood pressure and lifestyle. It *is linked to* future heart risk better than guesswork."
+    },
+    {
+      "type": "content",
+      "kicker": "The follow-up",
+      "title": "The number isn't destiny",
+      "body": "A high score is a starting point, not a verdict. Daily habits *can support* a calmer trajectory from here forward."
+    },
+    {
+      "type": "cta",
+      "title": "Protect your heart, *every day*",
+      "body": "A scan is one snapshot. Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the habits behind your heart stay on track.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart, tracked daily"
+    }
+  ],
+  "caption": "Heart disease builds quietly for decades. A coronary calcium scan turns that invisible process into one clear number. 🫀🌿\n\nWhat it is, what the CAC score means, and why it can reshape how aggressively you protect your heart. Save this for your next checkup. 🔖\n\nVibe Health keeps the daily habits behind a healthy heart on track → link in bio.",
+  "hashtags": ["#hearthealth", "#cardiology", "#coronarycalcium", "#cacscore", "#preventivehealth", "#longevity", "#wellness", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The One Heart Number Worth Knowing: Your Coronary Calcium Score",
+  "cover_query": "ct scan machine"
+}

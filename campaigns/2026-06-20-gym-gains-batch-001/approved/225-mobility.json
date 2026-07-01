@@ -1,0 +1,67 @@
+{
+  "key": "225-mobility",
+  "theme": "gym",
+  "eyebrow": "Recovery",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Mobility for *lifters*.",
+      "sub": "Move better, lift more.",
+      "img": "ai-bg/225-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Why",
+      "title": "Mobility = *depth*",
+      "body": "Tight hips and ankles wreck your squat."
+    },
+    {
+      "type": "content",
+      "kicker": "Daily",
+      "title": "A little *daily*",
+      "body": "5 to 10 minutes a day beats one long session."
+    },
+    {
+      "type": "content",
+      "kicker": "Hips",
+      "title": "Open your *hips*",
+      "body": "Most lifters are locked up from sitting."
+    },
+    {
+      "type": "content",
+      "kicker": "Shoulders",
+      "title": "Free your *shoulders*",
+      "body": "Better overhead position, fewer tweaks."
+    },
+    {
+      "type": "content",
+      "kicker": "After",
+      "title": "Stretch *after*",
+      "body": "Save the long stretches for post-workout."
+    },
+    {
+      "type": "cta",
+      "title": "Move *better*.",
+      "body": "Vibe Health keeps your training and recovery on track.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Mobility for lifters. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your training and recovery on track. → link in bio.",
+  "hashtags": [
+    "#mobility",
+    "#stretching",
+    "#gymtok",
+    "#recovery",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#flexibility",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Mobility for Lifters"
+}

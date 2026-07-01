@@ -1,0 +1,55 @@
+{
+  "key": "427-astaxanthin-salmon",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The pigment that turns salmon *pink*",
+      "sub": "Astaxanthin is the red carotenoid behind wild salmon's color, and one of nature's most studied antioxidants.",
+      "bg": "ai-bg/427-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Color with a purpose",
+      "body": "Salmon get their hue from algae rich in astaxanthin. The same pigment is a *fat-soluble antioxidant* the fish store in their tissue."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It reaches the mitochondria",
+      "body": "Because it dissolves in fat, astaxanthin can settle into cell membranes and *reach the mitochondria*, where much oxidative stress begins."
+    },
+    {
+      "type": "content",
+      "kicker": "For your skin",
+      "title": "Quiet defense from UV",
+      "body": "Studies suggest astaxanthin *may help* the skin resist UV damage and hold moisture, supporting a more resilient look over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The bigger picture",
+      "title": "Antioxidants and aging",
+      "body": "Oxidative stress is linked to how we age. Carotenoids like astaxanthin *can support* the body's own defenses against it."
+    },
+    {
+      "type": "content",
+      "kicker": "How to get it",
+      "title": "Eat the rainbow of the sea",
+      "body": "Wild salmon, trout, shrimp and krill carry astaxanthin naturally. A couple of *oily fish meals* a week is a simple start."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *tracked daily*.",
+      "body": "Vibe Health logs the food, sleep, movement and steps behind aging well, and turns them into one daily Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "The pink in wild salmon is astaxanthin, a fat-soluble antioxidant that reaches your cells and skin. 🐟🌿\n\nIt can settle into your mitochondria, may help skin resist UV damage, and supports the body's defenses against oxidative aging. Eat oily fish a couple times a week. Save this. 🔖\n\nVibe Health turns the food and habits behind aging well into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#astaxanthin", "#antioxidants", "#healthyaging", "#wildsalmon", "#wellness", "#healthhabits", "#skinhealth", "#vibehealth", "#vibehealthapp"],
+  "youtube_title": "Astaxanthin: The Antioxidant That Turns Salmon Pink",
+  "cover_query": "wild salmon fillet"
+}

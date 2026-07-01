@@ -1,0 +1,69 @@
+{
+  "key": "495-floss-daily",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The 60-second habit your *heart* notices",
+      "sub": "Daily flossing does more than protect your smile. The gums are a gateway to the rest of your body.",
+      "bg": "ai-bg/495-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Gums are a gateway",
+      "body": "Inflamed gums let oral bacteria like *P. gingivalis* slip into the bloodstream, where they can quietly stress the whole body."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Bacteria reach the arteries",
+      "body": "Once in the blood, these bacteria *can inflame arteries*. Gum disease is linked to higher cardiovascular risk over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The brain link",
+      "title": "It may reach the brain",
+      "body": "The same bacteria have been found in the brain. Healthier gums *are linked to* lower cognitive decline in some studies."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Floss clears what brushing misses",
+      "body": "Brushing skips the spaces between teeth. *Flossing once a day* removes the plaque that feeds the bacteria at the gumline."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it stick",
+      "title": "Anchor it to a routine",
+      "body": "Attach flossing to something you already do, like brushing at night. A *tiny consistent habit* beats an occasional deep clean."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *compounded daily*.",
+      "body": "Vibe Health turns the little things, like sleep, food, movement and steps, into one daily Health Score so good habits actually stick.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small habits, tracked"
+    }
+  ],
+  "caption": "A minute of flossing is one of the most underrated things you can do for your heart and brain. 🦷🌿\n\nHealthy gums keep bacteria like P. gingivalis out of your bloodstream, which is linked to lower cardiovascular and cognitive risk. Save this. 🔖\n\nVibe Health turns small daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#hearthealth",
+    "#oralhealth",
+    "#healthyhabits",
+    "#wellness",
+    "#healthspan",
+    "#aihealthcoach",
+    "#preventivehealth",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Flossing Daily Protects Your Heart and Brain",
+  "cover_query": "toothbrush"
+}

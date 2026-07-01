@@ -1,0 +1,69 @@
+{
+  "key": "450-backward-walking",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Walk backward to train *body and brain*.",
+      "sub": "Reverse walking loads your knees in a fresh pattern and sharpens balance. Here is why it works.",
+      "bg": "ai-bg/450-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "An old pattern, reversed",
+      "body": "Most of us only ever move forward. Walking in reverse asks your joints and mind to *work in a new way*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Knees, loaded differently",
+      "body": "Reverse steps shift force across the knee in a fresh pattern. This *may help* the joint move and feel better."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Balance gets a workout",
+      "body": "Without your usual cues, the body leans on smaller stabilizers. That challenge *can support* steadier balance over time."
+    },
+    {
+      "type": "content",
+      "kicker": "The bonus",
+      "title": "Your brain pays attention",
+      "body": "Moving blind to what is behind you demands focus. The extra attention *trains coordination* alongside the muscles."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Small and steady",
+      "body": "Begin on a flat, clear path or treadmill at low speed. A few short minutes *is enough* to start."
+    },
+    {
+      "type": "cta",
+      "title": "Make every step *count*.",
+      "body": "Vibe Health tracks your steps, movement, sleep and food, turning the habits that keep you mobile into one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your movement, tracked"
+    }
+  ],
+  "caption": "Walking forward is easy. Walking backward is where the joints and the brain both get to grow. 🌿\n\nReverse walking loads the knees in a new pattern, taxes your balance and asks the brain to pay attention, all at once. Start small and steady. Save this. 🔖\n\nVibe Health turns your daily movement into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#backwardwalking",
+    "#kneehealth",
+    "#balancetraining",
+    "#healthyaging",
+    "#mobility",
+    "#wellness",
+    "#healthhabits",
+    "#movementmatters",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Walking Backward Trains Your Joints and Brain",
+  "cover_query": "walking"
+}

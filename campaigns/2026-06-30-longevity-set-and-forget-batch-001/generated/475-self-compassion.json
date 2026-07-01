@@ -1,0 +1,55 @@
+{
+  "key": "475-self-compassion",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Be kinder to yourself when you *fall short*.",
+      "sub": "How you respond to your own setbacks shapes your body's stress response. Here is the science of self-compassion.",
+      "bg": "ai-bg/475-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Self-criticism is a stressor",
+      "body": "Harsh self-talk reads to the body like a *real threat*. The same alarm system that fires for danger fires for a missed goal."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Kindness calms the alarm",
+      "body": "Meeting a setback with warmth instead of blame *can lower cortisol* and slow the heart, signaling that you are safe."
+    },
+    {
+      "type": "content",
+      "kicker": "The wear",
+      "title": "Chronic stress adds up",
+      "body": "A stress response that never fully switches off *is linked to* faster aging, in the heart and across the body."
+    },
+    {
+      "type": "content",
+      "kicker": "The shift",
+      "title": "Talk to yourself like a friend",
+      "body": "Notice the moment you slip, name it plainly, and respond the way you would to *someone you love*."
+    },
+    {
+      "type": "content",
+      "kicker": "The practice",
+      "title": "It builds with reps",
+      "body": "Self-compassion is a skill, not a mood. Small daily choices to ease up *may help* steady your baseline over time."
+    },
+    {
+      "type": "cta",
+      "title": "Track the calm, not the *guilt*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so an off day is data to learn from, not a reason to pile on.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "progress, not perfection"
+    }
+  ],
+  "caption": "The way you talk to yourself after a setback is doing something physical. Kindness can settle your heart rate and stress hormones. 🌿\n\nSelf-criticism keeps the alarm system on, while self-compassion helps it switch off and eases the long wear of chronic stress. Save this for a hard day. 🔖\n\nVibe Health turns your habits into one calm daily score → link in bio.",
+  "hashtags": ["#selfcompassion", "#longevity", "#stressrelief", "#cortisol", "#nervoussystem", "#wellness", "#healthhabits", "#mindbody", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Self-Compassion Lowers Stress and Protects Your Heart",
+  "cover_query": "woman hand chest"
+}

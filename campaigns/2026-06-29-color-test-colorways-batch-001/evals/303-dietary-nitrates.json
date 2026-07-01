@@ -1,0 +1,114 @@
+{
+  "key": "303-dietary-nitrates",
+  "eyebrow": "Nitrates",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/303-dietary-nitrates.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/303-dietary-nitrates.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/30-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/30-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The nutrient that *widens your arteries*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "333/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Widens your arteries' is concrete and slightly alarming in a good way, but lacks a specific contrarian angle that would truly stop a scroll.",
+      "clarity": "Each slide is one tight idea with a clear mechanism, and the timing tip on slide 6 is immediately actionable.",
+      "audience_fit": "Beet juice and greens are accessible, the endurance angle lands for busy 20–35s, but 'modestly lower blood pressure' skews slightly older health-concern.",
+      "novelty": "'Dietary nitrates as natural pre-workout' is a fresh framing; the beet juice angle is not new but the 2–3 hour timing detail adds a hook most carousels skip.",
+      "brand_fit": "Claims are properly hedged ('may,' 'can mean,' 'a few percent'), no hype words, CTA ties food logging to energy score naturally without cringe.",
+      "predicted_performance": "Strong save-bait with the timing tip and grocery-list framing; shares slightly limited because the topic lacks the emotional charge of sleep or weight loss carousels."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25825,
+    "tokensOut": 292,
+    "costUsd": 0.07002019999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Widens your arteries' is concrete and slightly alarming in a good way, but lacks a specific contrarian angle that would truly stop a scroll."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is one tight idea with a clear mechanism, and the timing tip on slide 6 is immediately actionable."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Beet juice and greens are accessible, the endurance angle lands for busy 20–35s, but 'modestly lower blood pressure' skews slightly older health-concern."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "'Dietary nitrates as natural pre-workout' is a fresh framing; the beet juice angle is not new but the 2–3 hour timing detail adds a hook most carousels skip."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('may,' 'can mean,' 'a few percent'), no hype words, CTA ties food logging to energy score naturally without cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save-bait with the timing tip and grocery-list framing; shares slightly limited because the topic lacks the emotional charge of sleep or weight loss carousels."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:07:40.477Z"
+}

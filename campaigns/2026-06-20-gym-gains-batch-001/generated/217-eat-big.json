@@ -1,0 +1,68 @@
+{
+  "key": "217-eat-big",
+  "theme": "gym",
+  "eyebrow": "Nutrition",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Eat big to get *big*.",
+      "sub": "Cheap bulking foods.",
+      "img": "ai-bg/217-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Dense",
+      "title": "Go *calorie dense*",
+      "body": "Rice, oats, pasta, peanut butter, oils."
+    },
+    {
+      "type": "content",
+      "kicker": "Liquid",
+      "title": "*Drink* some",
+      "body": "Milk and shakes when you can't eat more."
+    },
+    {
+      "type": "content",
+      "kicker": "Protein",
+      "title": "Still hit *protein*",
+      "body": "1g per pound, even on a bulk.",
+      "stat": "1g"
+    },
+    {
+      "type": "content",
+      "kicker": "Cheap",
+      "title": "Eat *cheap*",
+      "body": "Eggs, rice, oats, chicken thighs, bananas."
+    },
+    {
+      "type": "content",
+      "kicker": "Consistent",
+      "title": "Eat *every day*",
+      "body": "A surplus over weeks, not one big meal."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for *size*.",
+      "body": "Vibe Health counts your calories and protein automatically.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Eat big to get big. 💪\n\nSave this and put it to work. 🔖\n\nVibe counts your calories and protein automatically. → link in bio.",
+  "hashtags": [
+    "#bulking",
+    "#eatbig",
+    "#gymtok",
+    "#gains",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#nutrition",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Eat Big to Get Big: Cheap Bulking Foods"
+}

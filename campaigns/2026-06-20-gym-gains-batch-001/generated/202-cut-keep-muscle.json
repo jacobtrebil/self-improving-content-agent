@@ -1,0 +1,69 @@
+{
+  "key": "202-cut-keep-muscle",
+  "theme": "gym",
+  "eyebrow": "Cutting",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Cut without losing *muscle*.",
+      "sub": "Lose fat, keep your gains.",
+      "img": "ai-bg/202-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The deficit",
+      "title": "Small *deficit*",
+      "body": "300 to 500 calories under. No crash diets.",
+      "stat": "-500"
+    },
+    {
+      "type": "content",
+      "kicker": "Protein",
+      "title": "Keep protein *high*",
+      "body": "High protein protects muscle in a cut.",
+      "stat": "1g+"
+    },
+    {
+      "type": "content",
+      "kicker": "Lift",
+      "title": "Keep *lifting heavy*",
+      "body": "Drop the weights and your body drops muscle."
+    },
+    {
+      "type": "content",
+      "kicker": "Steps",
+      "title": "Walk it *off*",
+      "body": "Daily steps burn fat without killing recovery."
+    },
+    {
+      "type": "content",
+      "kicker": "Patience",
+      "title": "Go *slow*",
+      "body": "Aim for 1% of bodyweight a week, max."
+    },
+    {
+      "type": "cta",
+      "title": "Cut *clean*.",
+      "body": "Vibe Health tracks your deficit, protein and steps automatically.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Cut without losing muscle. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your deficit, protein and steps automatically. → link in bio.",
+  "hashtags": [
+    "#cutting",
+    "#fatloss",
+    "#gymtok",
+    "#shredded",
+    "#caloriedeficit",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#leanmuscle",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Cut Without Losing Muscle"
+}

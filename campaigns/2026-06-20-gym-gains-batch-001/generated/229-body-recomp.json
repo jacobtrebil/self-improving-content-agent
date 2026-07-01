@@ -1,0 +1,68 @@
+{
+  "key": "229-body-recomp",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Build muscle AND lose *fat*.",
+      "sub": "Yes, at the same time.",
+      "img": "ai-bg/229-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Who",
+      "title": "Best for *newer* lifters",
+      "body": "Recomp works fastest when you're new or returning."
+    },
+    {
+      "type": "content",
+      "kicker": "Calories",
+      "title": "Eat at *maintenance*",
+      "body": "Around maintenance calories, not a big deficit."
+    },
+    {
+      "type": "content",
+      "kicker": "Protein",
+      "title": "Protein stays *high*",
+      "body": "1g per pound drives the muscle gain.",
+      "stat": "1g"
+    },
+    {
+      "type": "content",
+      "kicker": "Train",
+      "title": "Train *hard*",
+      "body": "Progressive overload tells your body to build."
+    },
+    {
+      "type": "content",
+      "kicker": "Patience",
+      "title": "It's *slow*",
+      "body": "Recomp is gradual. Judge it over months."
+    },
+    {
+      "type": "cta",
+      "title": "Recomp *smart*.",
+      "body": "Vibe Health tracks your calories, protein and training together.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Build muscle AND lose fat. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your calories, protein and training together. → link in bio.",
+  "hashtags": [
+    "#bodyrecomp",
+    "#buildmuscle",
+    "#fatloss",
+    "#gymtok",
+    "#gains",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#recomposition",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Build Muscle and Lose Fat at the Same Time"
+}

@@ -1,0 +1,59 @@
+{
+  "key": "324-walking-pace",
+  "theme": "health",
+  "colorway": "charcoal",
+  "eyebrow": "Walking",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "It's not your step count. It's your *pace*.",
+      "sub": "How fast you walk may predict your years better than how many steps you log. Most trackers miss it.",
+      "bg": "ai-bg/324-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "Speed tracks with lifespan",
+      "body": "In large studies, a *brisker walking pace* lines up with lower mortality, beyond total steps alone."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Aim for a brisk clip",
+      "body": "Brisk means roughly *100+ steps a minute* — you can talk, but not easily sing."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Pace stresses the engine",
+      "body": "Walking faster pushes your *heart and lungs* a little harder, which is what drives the fitness payoff."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it easy",
+      "title": "Pick up the last block",
+      "body": "Keep your usual walk, just *finish faster*. Short bursts of pace add up without extra time."
+    },
+    {
+      "type": "content",
+      "kicker": "Bonus",
+      "title": "Same minutes, more return",
+      "body": "You're already out there. *Adding intensity* gives you more health per minute walked."
+    },
+    {
+      "type": "cta",
+      "title": "Make every walk *count for more*.",
+      "body": "Vibe Health folds your steps and pace into one daily score — so you can see your walks getting brisker and your fitness trending up.",
+      "button": "Download Vibe Health →",
+      "tag": "walk faster, live longer",
+      "bg": "ai-bg/324-cta.png"
+    }
+  ],
+  "caption": "Everyone chases 10k steps. The research says your pace might matter more. 🚶\n\nA brisk clip — roughly 100+ steps a minute — lines up with lower mortality beyond step count. Easiest tweak: just finish your usual walk faster. 🔖\n\nVibe Health folds your steps and pace into one daily score → link in bio.",
+  "hashtags": ["#walking", "#steps", "#longevity", "#cardio", "#hearthealth", "#healthspan", "#movement", "#wellness", "#healthtips", "#vibehealthapp"],
+  "youtube_title": "Walking for Longevity: Pace Beats Step Count",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person walking briskly down an empty city sidewalk at dusk, motion in the stride, low light raking across the scene.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person glancing at a watch mid-walk on a quiet street, purposeful pace, rim light on the arm."
+  }
+}

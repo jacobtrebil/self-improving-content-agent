@@ -1,0 +1,69 @@
+{
+  "key": "430-flax-lignans",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The tiny seed that *works hard* for your heart.",
+      "sub": "Ground flaxseed quietly packs three nutrients linked to a healthier heart. Here is why it earns a spot in your day.",
+      "bg": "ai-bg/430-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Three nutrients, one seed",
+      "body": "Ground flaxseed brings lignans, plant omega-3 ALA and soluble fiber together. That combination *can support* a healthy heart."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Lignans, the plant compound",
+      "body": "Lignans are plant polyphenols with antioxidant activity. Diets rich in them *are linked to* healthier blood vessels over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Omega-3, the plant kind",
+      "body": "Flax is one of the richest plant sources of ALA, an omega-3 fat that *may help* support a healthy heart."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Fiber that does more",
+      "body": "Soluble fiber binds cholesterol in the gut. A couple of tablespoons daily *can support* healthy cholesterol and blood pressure."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Grind it, don't whole it",
+      "body": "Whole flaxseeds often pass through undigested. *Ground flaxseed* unlocks the lignans, omega-3 and fiber your body can actually use."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *one clear number*.",
+      "body": "Vibe Health logs the food, sleep, movement and steps behind your heart, and turns them into one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart habits, tracked"
+    }
+  ],
+  "caption": "A spoonful of ground flaxseed is one of the easiest heart-healthy habits out there. 🌿💚\n\nLignans, plant omega-3 ALA and soluble fiber work together to support healthy cholesterol and blood pressure. Just remember to grind it first. Save this for your next grocery run. 🔖\n\nVibe Health turns small habits like this into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#flaxseed",
+    "#hearthealth",
+    "#healthyaging",
+    "#vibehealth",
+    "#wellness",
+    "#healthhabits",
+    "#nutrition",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why Ground Flaxseed Is a Heart-Health Powerhouse",
+  "cover_query": "seeds"
+}

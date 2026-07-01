@@ -1,0 +1,55 @@
+{
+  "key": "461-warm-bath-before-bed",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The warm bath that *cools* you to sleep",
+      "sub": "A soak before bed sounds relaxing. The real magic is what happens to your body temperature afterward.",
+      "bg": "ai-bg/461-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Sleep follows a cooling body",
+      "body": "Your core temperature naturally drops as you fall asleep. A warm bath can *amplify that drop* and signal the body it is time to rest."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Warm skin, cooler core",
+      "body": "Heat dilates the vessels near your skin. Blood rushes to the surface and *releases warmth*, pulling your inner temperature down faster."
+    },
+    {
+      "type": "content",
+      "kicker": "The timing",
+      "title": "One to two hours before bed",
+      "body": "The bath itself warms you up. The cooling that follows is what helps, so a soak *90 minutes before bed* lands the effect right on time."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Faster, deeper sleep",
+      "body": "Studies on warm bathing before bed link it to falling asleep sooner and more slow-wave sleep, the *deepest, most restorative* stage."
+    },
+    {
+      "type": "content",
+      "kicker": "Make it stick",
+      "title": "A calm wind-down ritual",
+      "body": "Pair the bath with dim lights and no screens. A consistent evening cue *trains your body* to expect sleep at the same hour."
+    },
+    {
+      "type": "cta",
+      "title": "Turn small rituals into *real rest*.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns them into one daily Health Score so you can see which habits actually improve your nights.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "A warm bath before bed is not just cozy. The cool-down afterward can help you fall asleep faster and sleep deeper. 🛁🌙\n\nWarm skin pulls heat away from your core, and that temperature drop is the signal your body waits for. Time it one to two hours before bed. Save this for tonight. 🔖\n\nVibe Health turns habits like this into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#sleephealth", "#sleeptips", "#bettersleep", "#vibehealth", "#wellness", "#healthhabits", "#sleephygiene", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why a Warm Bath Before Bed Helps You Sleep Deeper",
+  "cover_query": "warm bath candles"
+}

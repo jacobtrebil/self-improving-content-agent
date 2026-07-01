@@ -1,0 +1,55 @@
+{
+  "key": "419-coq10-mitochondria",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The tiny molecule that *powers your cells*",
+      "sub": "CoQ10 sits at the heart of how your body makes energy. Here is why it quietly fades with age.",
+      "bg": "ai-bg/419-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Where your energy is made",
+      "body": "Inside every cell, mitochondria turn food and oxygen into ATP, the *fuel for everything* you do, from heartbeats to clear thinking."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "CoQ10 carries the spark",
+      "body": "In the electron transport chain, CoQ10 *shuttles electrons* that let your mitochondria finish making ATP. Without it, the line stalls."
+    },
+    {
+      "type": "content",
+      "kicker": "The decline",
+      "title": "Levels fall with age",
+      "body": "Tissue CoQ10 tends to *drop as we get older*, and the heart, one of the most energy-hungry organs, can feel it first."
+    },
+    {
+      "type": "content",
+      "kicker": "Worth knowing",
+      "title": "Statins can lower it too",
+      "body": "Statins block the same pathway your body uses to make CoQ10, which *may help explain* the muscle fatigue some people notice."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Support the energy engine",
+      "body": "Sardines, organ meats and a steady CoQ10 intake can support levels, but real energy also rests on *sleep, movement and food*."
+    },
+    {
+      "type": "cta",
+      "title": "Energy you can *actually track*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so you can see what is fueling your energy and what is draining it.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your energy, tracked"
+    }
+  ],
+  "caption": "Your energy isn't a mood. It's a chemistry happening inside billions of tiny mitochondria right now. ⚡🌿\n\nCoQ10 helps those engines turn food and oxygen into ATP, and it can quietly decline with age and with statins. The fix is supporting the whole system: sleep, food and movement. Save this for later. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#coq10", "#mitochondria", "#cellularenergy", "#healthyaging", "#hearthealth", "#wellness", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "CoQ10: The Molecule That Powers Your Cells",
+  "cover_query": "grilled sardines"
+}

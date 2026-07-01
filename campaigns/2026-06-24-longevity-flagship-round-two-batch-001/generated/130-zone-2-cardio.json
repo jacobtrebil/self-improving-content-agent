@@ -1,0 +1,55 @@
+{
+  "key": "130-zone-2-cardio",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The easiest pace might *add the most years*.",
+      "sub": "Zone 2 is gentle, conversational effort. It quietly builds the engine that carries you through life.",
+      "bg": "ai-bg/130-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "What zone 2 really is",
+      "body": "It is easy, steady movement where you can *still hold a conversation*. Comfortable, never breathless."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Build your aerobic base",
+      "body": "Easy effort grows the engine that powers your whole day. A strong base is linked to a longer life."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "How much, how often",
+      "body": "Aim for two to three easy sessions a week, around thirty minutes. A *brisk walk counts*."
+    },
+    {
+      "type": "content",
+      "kicker": "The feel",
+      "title": "Gentle and sustainable",
+      "body": "Because it is easy, you can do it often without burning out. Your body recovers fast."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Consistency compounds",
+      "body": "Small easy efforts stack up over months and years. The base you build *quietly protects* your future."
+    },
+    {
+      "type": "cta",
+      "title": "Build the base that *lasts*.",
+      "body": "Vibe Health tracks your movement and steps and turns every easy walk into one simple daily score.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "every step counts"
+    }
+  ],
+  "caption": "The pace that helps you live longer is easier than you think. 🌿\n\nZone 2 is gentle, talk-test movement that builds your aerobic base. Two or three easy sessions a week, and consistency does the rest. Save this. 🔖\n\nVibe Health turns your everyday movement into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#zone2", "#cardiofitness", "#healthspan", "#healthyaging", "#vibehealth", "#aerobicbase", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Easy Cardio Pace That Adds Healthy Years",
+  "cover_query": "person jogging trail"
+}

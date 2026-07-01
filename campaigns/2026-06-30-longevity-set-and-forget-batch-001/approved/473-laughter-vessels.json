@@ -1,0 +1,55 @@
+{
+  "key": "473-laughter-vessels",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your heart has a *quiet ally*: laughter.",
+      "sub": "A genuine laugh sets off a chemical that relaxes your blood vessels. Here is the science.",
+      "bg": "ai-bg/473-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Laughter signals the lining",
+      "body": "A real, unforced laugh tells the inner lining of your blood vessels, the endothelium, to *ease and open up*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Nitric oxide is the key",
+      "body": "That signal triggers nitric oxide, a molecule that *relaxes vessel walls* so blood can flow more freely."
+    },
+    {
+      "type": "content",
+      "kicker": "The effect",
+      "title": "Better endothelial function",
+      "body": "Studies link genuine laughter to improved endothelial function, the same response *can support* healthier circulation."
+    },
+    {
+      "type": "content",
+      "kicker": "The contrast",
+      "title": "Stress does the opposite",
+      "body": "Chronic stress tends to stiffen vessels. A warm laugh *may help* offset that, gently and for free."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Make room for joy",
+      "body": "Time with people who make you laugh is real heart care. It is *one of the simplest habits* you can keep."
+    },
+    {
+      "type": "cta",
+      "title": "Small joys, *tracked daily*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the habits that protect your heart stay visible.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "A real belly laugh is doing more for your heart than you think. 😄🌿\n\nGenuine laughter triggers nitric oxide, which relaxes your blood vessels and can support healthier circulation. Stress does the opposite. Save this for the next slow day. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#hearthealth", "#healthyaging", "#vibehealth", "#aihealthcoach", "#wellness", "#healthhabits", "#nitricoxide", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Laughter Helps Your Blood Vessels and Heart",
+  "cover_query": "friends laughing together"
+}

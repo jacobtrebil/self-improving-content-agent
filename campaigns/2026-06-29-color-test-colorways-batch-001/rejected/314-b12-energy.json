@@ -1,0 +1,59 @@
+{
+  "key": "314-b12-energy",
+  "theme": "health",
+  "colorway": "charcoal",
+  "eyebrow": "B12",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Tired and foggy for no reason? Check your *B12*.",
+      "sub": "Vitamin B12 quietly powers your energy and nerves. When it runs low, the symptoms are easy to blame on everything else.",
+      "bg": "ai-bg/314-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The job",
+      "title": "It runs your energy line",
+      "body": "B12 helps build *red blood cells and nerves*. Short on it and oxygen and signals both lag."
+    },
+    {
+      "type": "content",
+      "kicker": "The signs",
+      "title": "Fatigue, fog, tingling",
+      "body": "Low B12 can show up as *deep fatigue, brain fog*, or pins-and-needles long before a blood test flags it."
+    },
+    {
+      "type": "content",
+      "kicker": "Who's at risk",
+      "title": "Plant-based and over 50",
+      "body": "B12 lives in animal foods, and absorption drops with age — so *vegans and older adults* are most exposed."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Food first, then test",
+      "body": "Eggs, fish, dairy, or a *fortified food or supplement*. If symptoms linger, ask for a simple blood test."
+    },
+    {
+      "type": "content",
+      "kicker": "Worth knowing",
+      "title": "More isn't better",
+      "body": "It's water-soluble, so you pass the excess — but *fix a real deficiency* and the energy lift is real."
+    },
+    {
+      "type": "cta",
+      "title": "Stop guessing what's *draining your energy*.",
+      "body": "Vibe Health logs your meals and how you feel each day — so patterns like low energy and a thin diet stop hiding from you.",
+      "button": "Download Vibe Health →",
+      "tag": "find your energy leaks",
+      "bg": "ai-bg/314-cta.png"
+    }
+  ],
+  "caption": "Random fatigue and brain fog get blamed on everything but the obvious: low B12. 🔋\n\nIt builds red blood cells and nerves, lives in animal foods, and absorption drops with age — so plant-based eaters and over-50s are most at risk. Food first, then test. 🔖\n\nVibe Health logs your meals and energy so the patterns stop hiding → link in bio.",
+  "hashtags": ["#b12", "#vitaminb12", "#energy", "#fatigue", "#brainfog", "#nutrition", "#plantbased", "#healthtips", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Tired for No Reason? Your B12 Might Be the Culprit",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A tired person rubbing their eyes at a dim desk in the late afternoon, low side light across the face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person eating a simple plate of eggs and fish by a window, looking clearer and more awake, soft morning light."
+  }
+}

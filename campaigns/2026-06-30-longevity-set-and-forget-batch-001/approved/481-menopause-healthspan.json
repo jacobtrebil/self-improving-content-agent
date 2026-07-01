@@ -1,0 +1,69 @@
+{
+  "key": "481-menopause-healthspan",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Estrogen was *quietly protecting* you.",
+      "sub": "As it falls in perimenopause, bone, heart and muscle change faster. Here is how to defend them.",
+      "bg": "ai-bg/481-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Estrogen does more than fertility",
+      "body": "For decades estrogen helped guard your *bones, heart and muscle*. As it declines, those systems lose a long-standing ally."
+    },
+    {
+      "type": "content",
+      "kicker": "The bones",
+      "title": "Bone loss can speed up",
+      "body": "Falling estrogen is linked to faster bone loss in the years around menopause. Strength training *can support* bone density."
+    },
+    {
+      "type": "content",
+      "kicker": "The heart",
+      "title": "The heart needs attention",
+      "body": "Heart risk tends to rise after menopause. Movement, blood pressure and cholesterol checks *become more important* now, not less."
+    },
+    {
+      "type": "content",
+      "kicker": "The muscle",
+      "title": "Muscle is your insurance",
+      "body": "Lower estrogen can make muscle harder to keep. Lifting two or three times a week *helps protect* strength and metabolism."
+    },
+    {
+      "type": "content",
+      "kicker": "The care",
+      "title": "Timely care matters",
+      "body": "Symptoms are worth raising early. A clinician can discuss options that *may help* protect bone, heart and quality of life."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the systems estrogen *used to guard*.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, turning the habits that protect bone, heart and muscle into one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "menopause, supported"
+    }
+  ],
+  "caption": "Perimenopause isn't just hot flashes. As estrogen falls, your bones, heart and muscle lose a quiet protector. 🌿\n\nStrength training, heart checks and timely care can defend the systems estrogen used to guard. Save this for later. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#menopause",
+    "#perimenopause",
+    "#womenshealth",
+    "#longevity",
+    "#healthspan",
+    "#bonehealth",
+    "#strengthtraining",
+    "#healthyaging",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "What Falling Estrogen Does to Your Bones, Heart and Muscle",
+  "cover_query": "mature woman"
+}

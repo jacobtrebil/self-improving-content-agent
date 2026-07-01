@@ -1,0 +1,55 @@
+{
+  "key": "437-citrus-flavonoids",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The quiet upside of *citrus*",
+      "sub": "Oranges and their cousins carry plant compounds linked to healthy blood flow. Here is why they matter as you age.",
+      "bg": "ai-bg/437-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Flavonoids in every segment",
+      "body": "Citrus fruits are rich in *flavonoids*, natural plant compounds. One of the best studied is hesperidin, concentrated in oranges and their peel."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Support for your vessels",
+      "body": "Hesperidin *may support* the inner lining of blood vessels, the thin layer that helps them relax, flex and carry blood smoothly."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Steadier circulation",
+      "body": "Healthy, flexible vessels are *linked to* better circulation. That is part of how the body keeps heart and brain well supplied over time."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it ages",
+      "title": "Vessels stiffen with time",
+      "body": "Blood vessels naturally lose some flexibility with age. Habits that *support vessel function* are a quiet investment in later decades."
+    },
+    {
+      "type": "content",
+      "kicker": "How to use it",
+      "title": "Eat the whole fruit",
+      "body": "Whole oranges, grapefruit and mandarins beat juice. The *fiber and pith* carry much of the flavonoid benefit, with less sugar."
+    },
+    {
+      "type": "cta",
+      "title": "Build the habit, *see it stick*.",
+      "body": "Vibe Health logs the food, movement, steps and sleep behind your circulation, then folds it into one daily Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small habits, tracked"
+    }
+  ],
+  "caption": "A halved orange is more than a snack. Its flavonoids, like hesperidin, are linked to healthy blood vessels and steady circulation. 🍊🌿\n\nEat the whole fruit, not just the juice, so you keep the fiber and pith where much of the benefit lives. Save this for your next grocery run. 🔖\n\nVibe Health turns everyday choices like this into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthyaging", "#hearthealth", "#circulation", "#flavonoids", "#wellness", "#healthhabits", "#agewell", "#vibehealth", "#vibehealthapp"],
+  "youtube_title": "Why Citrus Fruits May Support Healthy Circulation as You Age",
+  "cover_query": "fresh oranges halved"
+}

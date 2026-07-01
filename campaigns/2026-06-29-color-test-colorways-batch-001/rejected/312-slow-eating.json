@@ -1,0 +1,59 @@
+{
+  "key": "312-slow-eating",
+  "theme": "health",
+  "colorway": "deep-green",
+  "eyebrow": "Slow Eating",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your stomach is *20 minutes behind*.",
+      "sub": "Fullness hormones take about 20 minutes to reach your brain — so fast eaters blow past full before they feel it.",
+      "bg": "ai-bg/312-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The delay",
+      "title": "Fullness runs on a timer",
+      "body": "It takes roughly *20 minutes* for satiety signals to travel from your gut to your brain."
+    },
+    {
+      "type": "content",
+      "kicker": "The hormones",
+      "title": "Your appetite chemistry",
+      "body": "As you eat, hunger hormone ghrelin falls and *fullness signals* like leptin and GLP-1 climb — slowly."
+    },
+    {
+      "type": "content",
+      "kicker": "The trap",
+      "title": "Fast eating overshoots",
+      "body": "Finish in five minutes and you'll *eat past full* before the signal ever arrives."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Slow the pace down",
+      "body": "Put the fork down between bites, chew fully, and stretch meals to *at least 20 minutes*."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Eat less without trying",
+      "body": "Give the signal time to land and you naturally stop sooner — *no willpower required*."
+    },
+    {
+      "type": "cta",
+      "title": "Appetite control, *on autopilot*.",
+      "body": "Snap your meals in Vibe Health to spot eating patterns, and let your daily Health Score connect how you eat to how you feel.",
+      "button": "Download Vibe Health →",
+      "tag": "feel full, eat less",
+      "bg": "ai-bg/312-cta.png"
+    }
+  ],
+  "caption": "Your fullness hormones take about 20 minutes to reach your brain — so fast eaters blow right past full. 🍽️\n\nSlow down, put the fork between bites, and you eat less without trying. Save this for your next meal. 🔖\n\nSnap your meals in Vibe Health to spot the patterns in your daily Health Score → link in bio.",
+  "hashtags": ["#sloweating", "#mindfuleating", "#satiety", "#appetitecontrol", "#weightloss", "#healthyhabits", "#nutrition", "#intuitiveeating", "#healthtips", "#vibehealthapp"],
+  "youtube_title": "Eat Slower, Eat Less Without Trying",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person sitting alone at a table eating slowly with a fork mid-bite, quiet and unhurried in soft light.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a fork resting on the edge of a half-finished plate, relaxed hands fading into shadow."
+  }
+}

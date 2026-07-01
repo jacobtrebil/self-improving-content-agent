@@ -1,0 +1,114 @@
+{
+  "key": "328-berries-anthocyanins",
+  "eyebrow": "Berries",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/328-berries-anthocyanins.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/328-berries-anthocyanins.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The pigment linked to a *sharper older brain*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "347/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 3,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Sharper older brain' is specific and concrete, though 'older brain' may slightly miss the 20–35 demo who don't yet feel urgency about memory decline.",
+      "clarity": "Each slide is a single, actionable idea with a clear label and one concrete takeaway — the frozen-berries slide is especially actionable.",
+      "audience_fit": "Brain aging resonates more with 35+ than the busy 22-year-old; framing around focus or daily energy would land harder for the core demo.",
+      "novelty": "Blueberries-brain connection is well-traveled territory; the anthocyanin naming and frozen-berry angle add a small fresh edge but won't feel revelatory.",
+      "brand_fit": "Claims are consistently hedged ('may help', 'tied to', 'research often uses'), no hype language, and the CTA ties naturally to meal logging without feeling forced.",
+      "predicted_performance": "High save potential for older-skewing health audiences, but likely mid-tier reach on TikTok where the brain-aging angle competes with dozens of identical blueberry posts."
+    },
+    "overall": 3.83,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25821,
+    "tokensOut": 295,
+    "costUsd": 0.0700622,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Sharper older brain' is specific and concrete, though 'older brain' may slightly miss the 20–35 demo who don't yet feel urgency about memory decline."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, actionable idea with a clear label and one concrete takeaway — the frozen-berries slide is especially actionable."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Brain aging resonates more with 35+ than the busy 22-year-old; framing around focus or daily energy would land harder for the core demo."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Blueberries-brain connection is well-traveled territory; the anthocyanin naming and frozen-berry angle add a small fresh edge but won't feel revelatory."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are consistently hedged ('may help', 'tied to', 'research often uses'), no hype language, and the CTA ties naturally to meal logging without feeling forced."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "High save potential for older-skewing health audiences, but likely mid-tier reach on TikTok where the brain-aging angle competes with dozens of identical blueberry posts."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:09:22.898Z"
+}

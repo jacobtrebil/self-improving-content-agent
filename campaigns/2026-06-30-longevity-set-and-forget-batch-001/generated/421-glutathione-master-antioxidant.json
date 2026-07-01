@@ -1,0 +1,55 @@
+{
+  "key": "421-glutathione-master-antioxidant",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Meet your body's *master antioxidant*.",
+      "sub": "Glutathione defends nearly every cell you have. Here is why it matters as you age.",
+      "bg": "ai-bg/421-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "One molecule, many jobs",
+      "body": "Glutathione is made inside your cells. It neutralizes damage and helps your body *handle daily stress* on a cellular level."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It recycles the others",
+      "body": "Glutathione helps restore vitamins C and E after they fight free radicals. One antioxidant *keeps the rest working* longer."
+    },
+    {
+      "type": "content",
+      "kicker": "The detox link",
+      "title": "Built for clearing cells",
+      "body": "Your liver leans on glutathione to bind and clear unwanted compounds. It is a quiet part of *everyday detoxification*."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Levels fall with age",
+      "body": "Research suggests glutathione tends to decline over the years. That dip *is linked to* more oxidative stress in the body."
+    },
+    {
+      "type": "content",
+      "kicker": "On your plate",
+      "title": "Sulfur-rich foods help",
+      "body": "Asparagus, garlic, eggs and cruciferous veg supply the building blocks. These foods *can support* your natural production."
+    },
+    {
+      "type": "cta",
+      "title": "Eat to *protect your cells*.",
+      "body": "Vibe Health logs the food, sleep, movement and steps behind aging well, then turns them into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, scored daily"
+    }
+  ],
+  "caption": "Your body makes its own master antioxidant, and it does more than you think. 🌿\n\nGlutathione recycles other antioxidants, supports detox, and slowly declines with age. Sulfur-rich foods like asparagus, garlic and eggs can help. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#antioxidants", "#glutathione", "#healthyaging", "#wellness", "#nutrition", "#healthhabits", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Glutathione: Your Body's Master Antioxidant",
+  "cover_query": "asparagus spears"
+}

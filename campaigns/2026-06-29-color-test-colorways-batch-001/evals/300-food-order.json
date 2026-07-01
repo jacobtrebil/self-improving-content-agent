@@ -1,0 +1,114 @@
+{
+  "key": "300-food-order",
+  "eyebrow": "Meal Order",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/300-food-order.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/300-food-order.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/30-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/30-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Eat your food in *this exact order*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "275/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 5,
+      "novelty": 4,
+      "brand_fit": 4,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'This exact order' implies a specific, actionable secret most people are getting wrong — stops the scroll, but 'changes your glucose curve' in the sub is slightly technical for a cover.",
+      "clarity": "Each slide is a single, sequenced step with a plain-English mechanism — readers know exactly what to do and why.",
+      "audience_fit": "'No afternoon crash' and 'steadier energy' speak directly to the tired-by-3pm busy viewer without requiring any nutrition background.",
+      "novelty": "Meal sequencing has been circulating since Jessie Inchauspé went viral, so the angle isn't new, but the gut-mesh and GLP-1 framing adds a layer most versions skip.",
+      "brand_fit": "Voice is plain and direct, health claims are hedged ('far gentler spike'), CTA is concrete and product-native — 'watch your energy stop swinging' edges toward guarantee territory.",
+      "predicted_performance": "High save potential because it's an actionable 3-step sequence; share ceiling is moderate because the concept has already peaked in creator circles."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25828,
+    "tokensOut": 294,
+    "costUsd": 0.0700712,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'This exact order' implies a specific, actionable secret most people are getting wrong — stops the scroll, but 'changes your glucose curve' in the sub is slightly technical for a cover."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, sequenced step with a plain-English mechanism — readers know exactly what to do and why."
+      },
+      "audience_fit": {
+        "score": 5,
+        "why": "'No afternoon crash' and 'steadier energy' speak directly to the tired-by-3pm busy viewer without requiring any nutrition background."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "Meal sequencing has been circulating since Jessie Inchauspé went viral, so the angle isn't new, but the gut-mesh and GLP-1 framing adds a layer most versions skip."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, health claims are hedged ('far gentler spike'), CTA is concrete and product-native — 'watch your energy stop swinging' edges toward guarantee territory."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "High save potential because it's an actionable 3-step sequence; share ceiling is moderate because the concept has already peaked in creator circles."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:07:30.667Z"
+}

@@ -5,10 +5,13 @@
 deck:
   key:
     required: true
-    pattern: "^[0-9]{2}-[a-z0-9-]+$"      # e.g. 04-hit-your-protein; NN unique across vibe-carousels/
+    pattern: "^[0-9]{2,}-[a-z0-9-]+$"     # e.g. 04-hit-your-protein or 300-food-order; NN unique across vibe-carousels/
   theme:
     required: true
     const: health
+  colorway:
+    required: false                       # optional palette; omit = "mono" (original black/white)
+    enum: [mono, mint, deep-green, cream, charcoal]  # defined in vibe-carousels/build.js PALETTES
   eyebrow:
     required: true
     max_words: 2                          # topic label, capitalized ("Protein", "Sleep")

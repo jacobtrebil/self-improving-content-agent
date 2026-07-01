@@ -1,0 +1,59 @@
+{
+  "key": "322-zinc",
+  "theme": "health",
+  "colorway": "deep-green",
+  "eyebrow": "Zinc",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The mineral your *immune system runs on*.",
+      "sub": "Zinc quietly powers immunity, skin repair, and recovery — and a surprising number of people run low.",
+      "bg": "ai-bg/322-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The role",
+      "title": "A quiet workhorse",
+      "body": "Zinc helps run hundreds of enzymes behind *immunity, skin healing*, and muscle recovery."
+    },
+    {
+      "type": "content",
+      "kicker": "Running low",
+      "title": "More common than you think",
+      "body": "Low intake is widespread, and the body *stores very little* — so daily food sources matter."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat this",
+      "title": "Where to find it",
+      "body": "Oysters lead by far, then *beef, pumpkin seeds*, chickpeas, and cashews."
+    },
+    {
+      "type": "content",
+      "kicker": "When it matters",
+      "title": "Demand goes up",
+      "body": "Hard training, plant-based diets, and illness can raise your needs — *food first*, supplements only if needed."
+    },
+    {
+      "type": "content",
+      "kicker": "Don't overdo it",
+      "title": "More isn't better",
+      "body": "Megadoses can backfire and block copper. *Stick to food* and modest amounts."
+    },
+    {
+      "type": "cta",
+      "title": "Cover your bases, *feel the difference*.",
+      "body": "Snap your meals in Vibe Health and your daily Health Score shows whether your nutrition is covering the basics — like zinc-rich foods.",
+      "button": "Download Vibe Health →",
+      "tag": "stronger immunity, healthier skin",
+      "bg": "ai-bg/322-cta.png"
+    }
+  ],
+  "caption": "Zinc quietly runs your immune system, skin repair, and recovery — and a lot of people run low. 🦪\n\nOysters, beef, pumpkin seeds, chickpeas. Food first, and don't megadose. Save this one. 🔖\n\nSnap your meals in Vibe Health and your daily Health Score shows if you're covering the basics → link in bio.",
+  "hashtags": ["#zinc", "#immunity", "#skinhealth", "#minerals", "#nutrition", "#recovery", "#immunesupport", "#healthyeating", "#healthtips", "#vibehealthapp"],
+  "youtube_title": "Zinc: The Mineral Your Immunity Runs On",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person at a kitchen counter with a plate of fresh oysters and pumpkin seeds, side light raking across the shells.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of pumpkin seeds and cashews scattered on a dark surface, hard rim light catching their texture."
+  }
+}

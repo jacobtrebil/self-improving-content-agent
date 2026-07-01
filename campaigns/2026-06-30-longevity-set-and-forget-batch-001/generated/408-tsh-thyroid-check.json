@@ -1,0 +1,69 @@
+{
+  "key": "408-tsh-thyroid-check",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your body has a *thermostat*. This test reads it.",
+      "sub": "A TSH test checks your thyroid, the gland that sets your metabolic pace. One number can explain a lot.",
+      "bg": "ai-bg/408-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "The thyroid sets your pace",
+      "body": "Your thyroid is the *thermostat* for metabolism. It quietly shapes your energy, weight and how clearly you think each day."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "TSH is the dial reading",
+      "body": "TSH is the brain's message to the thyroid. An out-of-range result *can flag* a gland working too hard or too little."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The symptoms feel vague",
+      "body": "Stubborn fatigue, slow weight changes and brain fog *are linked to* thyroid imbalance, yet they hide in plain sight for years."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Effort alone won't fix it",
+      "body": "When the dial is off, more sleep and cleaner food *only go so far*. A simple blood test points you to the real cause."
+    },
+    {
+      "type": "content",
+      "kicker": "What to do",
+      "title": "Test, then track",
+      "body": "Ask your doctor about a TSH check. Then watch the *energy and weight patterns* a result alone can never show you."
+    },
+    {
+      "type": "cta",
+      "title": "See the patterns a test can't.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps in one daily Health Score, so changes in energy and weight are easy to spot and share.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your metabolism, tracked"
+    }
+  ],
+  "caption": "Stubborn fatigue and brain fog aren't always about willpower. Sometimes it's your thyroid, the thermostat that sets your metabolic rate. 🌿\n\nA simple TSH test can reveal what lifestyle alone cannot fix, and tracking your energy and weight makes the picture clearer. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#thyroidhealth",
+    "#metabolism",
+    "#healthyaging",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#wellness",
+    "#healthhabits",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Thyroid Test That Explains Your Fatigue",
+  "cover_query": "doctor"
+}

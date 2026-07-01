@@ -1,0 +1,114 @@
+{
+  "key": "134-cut-added-sugar",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/134-cut-added-sugar.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/134-cut-added-sugar.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/13-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/13-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Hidden sugar may *age you faster* than you think.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "307/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Age you faster' is a concrete fear hook and the 'not the obvious desserts' twist creates immediate curiosity, but 'than you think' is a mild cliché that softens the punch.",
+      "clarity": "Each slide owns exactly one idea — where it hides, why it costs, two specific swaps, one label tip — all immediately actionable.",
+      "audience_fit": "Busy 25-year-olds relate to hidden-label fatigue and gradual health drag, though 'healthspan' in the CTA skews slightly older/biohacker.",
+      "novelty": "Hidden sugar is well-trodden territory; the aging frame adds a degree of freshness but the specific swaps (plain yogurt, water over soda) are textbook.",
+      "brand_fit": "Claims are properly hedged ('linked to', 'can cut'), voice is plain and direct, no hypey language, and the CTA ties cleanly to Vibe's one-number scoring concept.",
+      "predicted_performance": "Strong saves potential from the label-reading tip but the topic is saturated enough that shares will be average unless the cover visual is arresting."
+    },
+    "overall": 4,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25445,
+    "tokensOut": 304,
+    "costUsd": 0.0678842,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Age you faster' is a concrete fear hook and the 'not the obvious desserts' twist creates immediate curiosity, but 'than you think' is a mild cliché that softens the punch."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide owns exactly one idea — where it hides, why it costs, two specific swaps, one label tip — all immediately actionable."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 25-year-olds relate to hidden-label fatigue and gradual health drag, though 'healthspan' in the CTA skews slightly older/biohacker."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Hidden sugar is well-trodden territory; the aging frame adds a degree of freshness but the specific swaps (plain yogurt, water over soda) are textbook."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('linked to', 'can cut'), voice is plain and direct, no hypey language, and the CTA ties cleanly to Vibe's one-number scoring concept."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Strong saves potential from the label-reading tip but the topic is saturated enough that shares will be average unless the cover visual is arresting."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:37:38.596Z"
+}

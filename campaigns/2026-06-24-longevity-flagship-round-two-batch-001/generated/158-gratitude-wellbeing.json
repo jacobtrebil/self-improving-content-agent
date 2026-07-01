@@ -1,0 +1,55 @@
+{
+  "key": "158-gratitude-wellbeing",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A grateful mind, *a healthier life*.",
+      "sub": "A simple gratitude habit supports mood and may help you age well. The mind is part of healthspan too.",
+      "bg": "ai-bg/158-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "The mind shapes healthspan",
+      "body": "Aging well is not only physical. A steady, hopeful outlook *may support* the body in quiet ways."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "What gratitude shifts",
+      "body": "Noticing the good can soften stress and lift your outlook. Over time that *may support* calmer, healthier days."
+    },
+    {
+      "type": "content",
+      "kicker": "The practice",
+      "title": "A tiny daily habit",
+      "body": "Name three things you are grateful for each morning or night. The practice *takes a minute*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Small and steady wins",
+      "body": "A short habit you repeat beats a long one you abandon. Consistency *is what* makes it stick."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Tend to your outlook",
+      "body": "Treat your mind as part of your health. A daily moment of gratitude *may help* you age well."
+    },
+    {
+      "type": "cta",
+      "title": "Care for *mind and body*.",
+      "body": "Vibe Health tracks the sleep, food and movement that help you age well, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "a calmer, brighter outlook"
+    }
+  ],
+  "caption": "Your mind is part of your healthspan, not separate from it. 🌿\n\nA tiny gratitude habit can soften stress and lift your outlook, and small, steady practice is what makes it stick. Try three things a day. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#gratitude", "#healthspan", "#healthyaging", "#mentalwellbeing", "#vibehealth", "#wellness", "#healthhabits", "#mindfulness", "#vibehealthapp"],
+  "youtube_title": "How a Daily Gratitude Habit Supports Mood and Healthy Aging",
+  "cover_query": "person journaling morning"
+}

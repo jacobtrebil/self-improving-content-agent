@@ -1,0 +1,55 @@
+{
+  "key": "156-cold-exposure",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A little cold, a little *resilience*.",
+      "sub": "Brief cold exposure is a small, optional stressor some people lean into. Gentle and short is the whole idea.",
+      "bg": "ai-bg/156-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A small, deliberate stressor",
+      "body": "A brief moment of cold is a gentle challenge for the body. Small stresses *may help* build a little resilience."
+    },
+    {
+      "type": "content",
+      "kicker": "What people notice",
+      "title": "Alertness and mood",
+      "body": "Some people find a quick cold finish leaves them feeling awake and clear. The lift *can feel* refreshing."
+    },
+    {
+      "type": "content",
+      "kicker": "Where to start",
+      "title": "Start tiny",
+      "body": "Try a cold finish to your usual shower for ten or twenty seconds. There is *no need* to plunge."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it gentle",
+      "title": "Keep it brief",
+      "body": "Short and comfortable beats long and forced. If it ever feels wrong, *simply stop*. This step is optional."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "A calm little practice",
+      "body": "Treat cold as a small, optional habit, not a test. For some people it *may add* a quiet spark."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *steadier days*.",
+      "body": "Vibe Health tracks the sleep, food and movement that help you age well, all in one simple daily score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "small stress, real calm"
+    }
+  ],
+  "caption": "A brief cold finish to your shower is a small, optional habit some people enjoy. 🌿\n\nMany report a lift in alertness and mood, and a little gentle stress may help build resilience. Start tiny and keep it short. Save this. 🔖\n\nVibe Health turns your daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#coldexposure", "#healthspan", "#healthyaging", "#resilience", "#vibehealth", "#wellness", "#healthhabits", "#selfcare", "#vibehealthapp"],
+  "youtube_title": "How a Little Cold Exposure May Support Resilience",
+  "cover_query": "cold shower water"
+}

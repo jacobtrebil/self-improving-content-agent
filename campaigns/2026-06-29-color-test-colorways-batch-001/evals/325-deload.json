@@ -1,0 +1,114 @@
+{
+  "key": "325-deload",
+  "eyebrow": "Deload",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/325-deload.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/325-deload.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/32-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/32-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Why backing off *makes you stronger*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "269/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 4,
+      "clarity": 5,
+      "audience_fit": 3,
+      "novelty": 2,
+      "brand_fit": 4,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Backing off makes you stronger' is a solid contrarian hook with a concrete mechanism, but 'nervous system recovers slower' in the sub is a mouthful for a cover glance.",
+      "clarity": "Each slide is a single, scannable idea with a clear label and one actionable takeaway — trap, signs, fix, payoff flow is tight.",
+      "audience_fit": "Deloading is gym-bro vocabulary; the busy, tired-by-3pm health-curious viewer doesn't lift on a program and won't see themselves in 'stalled lifts' or 'volume.'",
+      "novelty": "Deload content is extremely well-trodden on lifting TikTok — this framing adds nothing new to a concept already covered by every fitness account.",
+      "brand_fit": "Voice is plain and direct, health claims are appropriately hedged, CTA ties naturally to recovery scoring without feeling forced.",
+      "predicted_performance": "Will do fine in the strength-training niche but saves/shares will be capped because the audience ceiling is narrow gym-goers, not Vibe Health's broader health-curious target."
+    },
+    "overall": 3.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25792,
+    "tokensOut": 300,
+    "costUsd": 0.0699342,
+    "raw": {
+      "hook_strength": {
+        "score": 4,
+        "why": "'Backing off makes you stronger' is a solid contrarian hook with a concrete mechanism, but 'nervous system recovers slower' in the sub is a mouthful for a cover glance."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single, scannable idea with a clear label and one actionable takeaway — trap, signs, fix, payoff flow is tight."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Deloading is gym-bro vocabulary; the busy, tired-by-3pm health-curious viewer doesn't lift on a program and won't see themselves in 'stalled lifts' or 'volume.'"
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Deload content is extremely well-trodden on lifting TikTok — this framing adds nothing new to a concept already covered by every fitness account."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Voice is plain and direct, health claims are appropriately hedged, CTA ties naturally to recovery scoring without feeling forced."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Will do fine in the strength-training niche but saves/shares will be capped because the audience ceiling is narrow gym-goers, not Vibe Health's broader health-curious target."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:09:10.770Z"
+}

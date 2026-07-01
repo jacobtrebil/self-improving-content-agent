@@ -1,0 +1,68 @@
+{
+  "key": "206-ppl-split",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Push. Pull. *Legs*.",
+      "sub": "The simplest split that works.",
+      "img": "ai-bg/206-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Day 1",
+      "title": "*Push* day",
+      "body": "Chest, shoulders, triceps."
+    },
+    {
+      "type": "content",
+      "kicker": "Day 2",
+      "title": "*Pull* day",
+      "body": "Back and biceps."
+    },
+    {
+      "type": "content",
+      "kicker": "Day 3",
+      "title": "*Leg* day",
+      "body": "Quads, hamstrings, calves. Don't skip."
+    },
+    {
+      "type": "content",
+      "kicker": "Frequency",
+      "title": "Run it *twice*",
+      "body": "Six days hits each muscle twice a week.",
+      "stat": "2×"
+    },
+    {
+      "type": "content",
+      "kicker": "Recover",
+      "title": "Rest when *needed*",
+      "body": "Sore or tired? Take the rest day."
+    },
+    {
+      "type": "cta",
+      "title": "Run the *split*.",
+      "body": "Vibe Health tracks your training and recovery in one score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Push. Pull. Legs. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your training and recovery in one score. → link in bio.",
+  "hashtags": [
+    "#ppl",
+    "#pushpulllegs",
+    "#gymtok",
+    "#trainingsplit",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#workout",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Push Pull Legs Explained"
+}

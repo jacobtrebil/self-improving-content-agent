@@ -1,0 +1,69 @@
+{
+  "key": "403-fasting-insulin-homa-ir",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The warning that shows up *years early*",
+      "sub": "Blood sugar is often the last metric to break. Fasting insulin can speak up long before it does.",
+      "bg": "ai-bg/403-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Insulin moves first",
+      "body": "Years before sugar rises, your body quietly makes *more and more insulin* to keep glucose normal. The number looks fine while the strain builds."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Fasting insulin",
+      "body": "A simple fasting blood test. A low fasting insulin suggests your cells still respond easily. A creeping one *can hint at* early resistance."
+    },
+    {
+      "type": "content",
+      "kicker": "The math",
+      "title": "HOMA-IR, one ratio",
+      "body": "HOMA-IR pairs fasting insulin with fasting glucose into a single score. It is one of the *earliest readouts* of how your metabolism is coping."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Metabolic aging, decoded",
+      "body": "Insulin resistance is linked to faster aging across the heart, brain and waistline. Catching it early means it is *often still reversible*."
+    },
+    {
+      "type": "content",
+      "kicker": "What helps",
+      "title": "The levers you control",
+      "body": "Strength work, walks after meals, deep sleep and fewer refined carbs can support insulin sensitivity. Daily habits *move this number* more than willpower."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *move the needle*",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the routines that support insulin sensitivity are easy to see and repeat.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your metabolism, tracked"
+    }
+  ],
+  "caption": "Your blood sugar can read perfectly while insulin resistance has been building for years. Fasting insulin and HOMA-IR are the early warning most people never check. 🌿\n\nInsulin rises first, the HOMA-IR ratio catches it early, and the right daily habits can still turn it around. Save this for your next blood panel. 🔖\n\nVibe Health turns the sleep, food and movement that protect your metabolism into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#insulinresistance",
+    "#metabolichealth",
+    "#healthyaging",
+    "#bloodsugar",
+    "#wellness",
+    "#healthhabits",
+    "#preventivehealth",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Blood Test That Catches Aging Years Early",
+  "cover_query": "blood test"
+}

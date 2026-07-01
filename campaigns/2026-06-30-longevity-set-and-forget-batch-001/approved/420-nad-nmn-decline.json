@@ -1,0 +1,69 @@
+{
+  "key": "420-nad-nmn-decline",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your cells run on a *fuel that fades*.",
+      "sub": "NAD+ is the molecule that keeps your cells repairing and producing energy. It quietly declines with age. Here is the science.",
+      "bg": "ai-bg/420-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "NAD+ powers your cells",
+      "body": "NAD+ is a coenzyme every cell uses to make energy and run repair. Levels *fall steadily* as the decades pass."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It runs your repair crew",
+      "body": "Sirtuins and DNA repair enzymes depend on NAD+ to work. Less of it is *linked to* slower repair and aging cells."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Less fuel, tired mitochondria",
+      "body": "Mitochondria need NAD+ to turn food into energy. As it drops, *metabolic resilience* can fade and fatigue can creep in."
+    },
+    {
+      "type": "content",
+      "kicker": "The approach",
+      "title": "Precursors rebuild the pool",
+      "body": "NMN and niacin are precursors the body uses to make NAD+. They *may help* restore levels and support healthier aging."
+    },
+    {
+      "type": "content",
+      "kicker": "The honest part",
+      "title": "Habits do the heavy lifting",
+      "body": "Sleep, exercise and fasting *can support* NAD+ naturally. Supplements work best layered on a strong daily routine."
+    },
+    {
+      "type": "cta",
+      "title": "Give your cells a *better baseline*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps that support your metabolism, turning your daily habits into one clear Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your energy, tracked"
+    }
+  ],
+  "caption": "Your cells run on NAD+, and it quietly fades with age. That decline touches your energy, repair and metabolism. 🌿\n\nNAD+ fuels sirtuins, DNA repair and your mitochondria, and precursors like NMN and niacin aim to rebuild it, while sleep and exercise do the heavy lifting. Save this. 🔖\n\nVibe Health turns the habits that support your metabolism into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#nad",
+    "#nmn",
+    "#healthyaging",
+    "#mitochondria",
+    "#metabolichealth",
+    "#wellness",
+    "#healthhabits",
+    "#aihealthcoach",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "NAD+ Decline: Why Your Cells Lose Their Fuel With Age",
+  "cover_query": "vitamins"
+}

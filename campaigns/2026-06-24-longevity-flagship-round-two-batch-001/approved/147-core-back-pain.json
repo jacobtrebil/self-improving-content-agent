@@ -1,0 +1,55 @@
+{
+  "key": "147-core-back-pain",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A strong core *protects your back*.",
+      "sub": "Your core is a natural brace around your spine. Trained gently, it can guard your back for decades.",
+      "bg": "ai-bg/147-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Your core is a brace",
+      "body": "The muscles around your middle wrap and steady your spine. A strong core *can support* every lift and bend."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It matters more with age",
+      "body": "As the years pass, a sturdy midsection helps you move safely. A weak one *may leave* the back exposed."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Train it gently",
+      "body": "Planks, dead bugs and loaded carries build real bracing strength. Quality and control beat endless crunches."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "A little, often",
+      "body": "A few focused minutes most days *adds up* over time. Consistency builds a brace you can rely on."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Guard your back for years",
+      "body": "A steady core habit costs little and gives a lot. It *may support* a stronger, more capable back."
+    },
+    {
+      "type": "cta",
+      "title": "Build a brace that *lasts*.",
+      "body": "Vibe Health helps you track the strength and movement habits that keep your core and back capable, all in one daily score.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "a back you can trust"
+    }
+  ],
+  "caption": "A strong core is a natural brace for your spine, and it pays off for decades. 🌿\n\nPlanks, dead bugs and loaded carries build real bracing strength, no endless crunches required. A few focused minutes most days is all it takes. Save this. 🔖\n\nVibe Health turns your strength habits into one simple daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthspan", "#corestrength", "#backhealth", "#healthyaging", "#vibehealth", "#mobility", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How a Strong Core Protects Your Back for Decades",
+  "cover_query": "person plank exercise"
+}

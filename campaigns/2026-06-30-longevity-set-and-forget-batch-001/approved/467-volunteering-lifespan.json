@@ -1,0 +1,55 @@
+{
+  "key": "467-volunteering-lifespan",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Giving your time may *add years* to it.",
+      "sub": "Regular volunteering is linked to lower inflammation and a longer life. The reason is built into your biology.",
+      "bg": "ai-bg/467-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Helping is a health habit",
+      "body": "Showing up for others on a regular basis is one of the *quietly powerful* levers for living longer and feeling well."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Prosocial reward kicks in",
+      "body": "Helping someone activates the brain's *reward and oxytocin pathways*. The warm feeling after giving is real chemistry, not just sentiment."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Lower stress, lower inflammation",
+      "body": "Those same pathways can dial down stress signaling. Over time that is linked to *lower chronic inflammation*, a key driver of aging."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Linked to a longer life",
+      "body": "In large studies, regular volunteers show *lower all-cause mortality*. Connection and purpose appear to protect the body, not just the mood."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Make it regular, keep it small",
+      "body": "Consistency matters more than hours. A *steady monthly shift* at a food bank or shelter can support both purpose and health."
+    },
+    {
+      "type": "cta",
+      "title": "Turn good habits into *good years*.",
+      "body": "Vibe Health scores the sleep, food, movement and steps behind a long life, and turns them into one daily Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your longevity, tracked"
+    }
+  ],
+  "caption": "Volunteering does more than feel good. Regular giving is linked to lower inflammation and a longer life. 🌿🤝\n\nThe mechanism is real: helping activates reward and oxytocin pathways, which can lower stress and chronic inflammation over time. Keep it small and steady, and save this for your next free weekend. 🔖\n\nVibe Health turns the habits behind a longer life into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#volunteering", "#healthyaging", "#wellbeing", "#purpose", "#wellness", "#healthhabits", "#agewell", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Volunteering May Add Years to Your Life",
+  "cover_query": "volunteers food bank"
+}

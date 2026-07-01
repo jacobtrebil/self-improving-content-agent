@@ -1,0 +1,55 @@
+{
+  "key": "423-garlic-allicin",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why crushed garlic is *good for your heart*",
+      "sub": "A compound called allicin forms only when garlic is broken. It may help protect your aging cardiovascular system.",
+      "bg": "ai-bg/423-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Allicin needs a crush",
+      "body": "Whole garlic holds its benefit in reserve. Crushing or chopping *releases allicin*, the compound behind most of its heart effects."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "It relaxes your vessels",
+      "body": "Allicin helps blood vessels widen and stay supple. That *can support healthy blood pressure* as arteries naturally stiffen with age."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Friendlier cholesterol",
+      "body": "Regular garlic intake is linked to *modestly lower LDL*, the cholesterol that builds up in arteries over the years."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Crush, then wait",
+      "body": "Crush the cloves and let them rest about ten minutes before cooking. The pause *lets allicin develop* before heat arrives."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it simple",
+      "title": "A clove most days",
+      "body": "One or two fresh cloves folded into real meals is enough. Consistency matters *more than any single dose*."
+    },
+    {
+      "type": "cta",
+      "title": "Small habits, *measured daily*.",
+      "body": "Vibe Health turns the food, sleep, movement and steps that protect your heart into one daily Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart, tracked"
+    }
+  ],
+  "caption": "Garlic only gives up its best trick once you crush it. That is when allicin forms. 🧄🌿\n\nIt can support healthy blood pressure, relax your vessels and is linked to lower LDL as you age. Crush, wait ten minutes, then cook. Save this. 🔖\n\nVibe Health turns heart-friendly habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#hearthealth", "#healthyaging", "#bloodpressure", "#cholesterol", "#vibehealth", "#wellness", "#healthhabits", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Crushed Garlic Is Good for Your Heart",
+  "cover_query": "garlic cloves"
+}

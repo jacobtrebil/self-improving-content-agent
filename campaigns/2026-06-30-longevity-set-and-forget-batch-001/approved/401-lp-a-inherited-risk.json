@@ -1,0 +1,55 @@
+{
+  "key": "401-lp-a-inherited-risk",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The heart risk you *inherit*, not earn",
+      "sub": "Lipoprotein(a) is a particle written into your DNA. One test, once, tells you if you carry it.",
+      "bg": "ai-bg/401-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet lipoprotein(a)",
+      "body": "Often called Lp(a), it is a cholesterol particle your genes set. It is *separate from* the LDL most cholesterol tests report."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It raises risk quietly",
+      "body": "High Lp(a) *is linked to* earlier heart attacks and strokes. It can stay hidden even when your standard panel looks fine."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Set for life",
+      "body": "Diet and exercise barely move it. Your level is *largely fixed at birth* and stays steady across your adult years."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Test once, know forever",
+      "body": "A single blood test reveals your number. Because it rarely changes, *one result* can guide decisions for decades."
+    },
+    {
+      "type": "content",
+      "kicker": "What to do",
+      "title": "Know your number",
+      "body": "If it is high, you can act earlier on every factor you control: blood pressure, LDL, movement and *the habits around them*."
+    },
+    {
+      "type": "cta",
+      "title": "Control what you *can* control.",
+      "body": "Lp(a) is fixed, but your daily habits are not. Vibe Health scores your sleep, food, movement and steps into one number that protects your heart.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your heart, tracked daily"
+    }
+  ],
+  "caption": "Some heart risk you inherit. Lipoprotein(a) is written into your DNA, and one blood test can tell you if you carry it. 🧬❤️\n\nIt is set for life, diet barely moves it, and a standard cholesterol panel can miss it. So test once, know your number, and act early on everything you can control. Save this. 🔖\n\nVibe Health turns the habits that protect your heart into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#hearthealth", "#lipoproteina", "#cholesterol", "#healthyaging", "#wellness", "#healthhabits", "#preventivehealth", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Heart Risk You Inherit: Lipoprotein(a) Explained",
+  "cover_query": "dna double helix"
+}

@@ -1,0 +1,114 @@
+{
+  "key": "143-take-the-stairs",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/143-take-the-stairs.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/143-take-the-stairs.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/14-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/14-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The stairs are a *free daily gym*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "317/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 5,
+      "predicted_performance": 2
+    },
+    "rationales": {
+      "hook_strength": "'Free daily gym' is concrete and relatable but not contrarian or surprising enough to stop a scroll — too polite to earn a double-take.",
+      "clarity": "Each slide holds one clean idea and the progression is logical, though 'notice your breath' as a slide concept is slightly abstract to act on.",
+      "audience_fit": "Busy 20–35s who skip the gym will recognize themselves here, but the tone skews slightly older/wellness-magazine rather than native TikTok.",
+      "novelty": "'Take the stairs' is one of the most recycled pieces of health advice on the internet — the framing adds modest polish but not a fresh angle.",
+      "brand_fit": "Hedged language ('may support', 'suggests progress'), plain voice, no hype words, and a functional CTA that ties directly to the app's step-tracking feature.",
+      "predicted_performance": "Save rate will be low because the advice isn't surprising or specific enough to bookmark — strong brand voice can't overcome a premise audiences feel they already know."
+    },
+    "overall": 3.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25438,
+    "tokensOut": 276,
+    "costUsd": 0.0674352,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'Free daily gym' is concrete and relatable but not contrarian or surprising enough to stop a scroll — too polite to earn a double-take."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide holds one clean idea and the progression is logical, though 'notice your breath' as a slide concept is slightly abstract to act on."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s who skip the gym will recognize themselves here, but the tone skews slightly older/wellness-magazine rather than native TikTok."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "'Take the stairs' is one of the most recycled pieces of health advice on the internet — the framing adds modest polish but not a fresh angle."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedged language ('may support', 'suggests progress'), plain voice, no hype words, and a functional CTA that ties directly to the app's step-tracking feature."
+      },
+      "predicted_performance": {
+        "score": 2,
+        "why": "Save rate will be low because the advice isn't surprising or specific enough to bookmark — strong brand voice can't overcome a premise audiences feel they already know."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:13.516Z"
+}

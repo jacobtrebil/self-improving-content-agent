@@ -1,0 +1,69 @@
+{
+  "key": "455-melatonin-timing-dose",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Melatonin is a *timing signal*, not a sleeping pill.",
+      "sub": "A small dose, taken early, can gently nudge your body clock. The trick is when and how much.",
+      "bg": "ai-bg/455-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A clock cue, not a sedative",
+      "body": "Melatonin tells your body that night is coming. It *shifts your rhythm* rather than knocking you out like a sleeping pill."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Timing does the work",
+      "body": "Taken a few hours before bed, a low dose *can advance your clock* so sleepiness arrives at the hour you actually want."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "More is not better",
+      "body": "Mega-doses can overshoot and *blunt the signal*. Studies suggest small amounts, often well under 1mg, may do the job."
+    },
+    {
+      "type": "content",
+      "kicker": "Good to know",
+      "title": "It guides, it doesn't force",
+      "body": "Light, late screens and caffeine can drown out the cue. Melatonin works best *alongside steady habits*, not in place of them."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "A clock you can trust",
+      "body": "Get the timing right and your evenings settle. The same nudge *is linked to* falling asleep sooner and waking more rested."
+    },
+    {
+      "type": "cta",
+      "title": "See what *actually* moves your sleep.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns the patterns into one daily Health Score so you can see what timing changes really help.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "Melatonin is not a sleeping pill. It is a timing signal that tells your body the night has started. 🌙😴\n\nA small dose taken a few hours before bed can gently shift your clock, while mega-doses tend to blunt the effect. Save this for your next pharmacy run. 🔖\n\nVibe Health turns your sleep, food and movement into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#sleephealth",
+    "#melatonin",
+    "#circadianrhythm",
+    "#healthyaging",
+    "#wellness",
+    "#sleepbetter",
+    "#healthhabits",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Melatonin Timing and Dose: The Sleep Mistake Most People Make",
+  "cover_query": "pills"
+}

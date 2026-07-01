@@ -1,0 +1,114 @@
+{
+  "key": "136-vitamin-d-sun",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/136-vitamin-d-sun.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/136-vitamin-d-sun.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/13-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/13-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A little morning sun *goes a long way*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "304/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 3,
+      "novelty": 2,
+      "brand_fit": 4,
+      "predicted_performance": 2
+    },
+    "rationales": {
+      "hook_strength": "'A little morning sun goes a long way' is soft and familiar — no specific contrast or concrete payoff to interrupt a scroll.",
+      "clarity": "Each slide holds one idea and the hedge language is consistent, though slide 2 and 3 slightly overlap on the 'what it does' angle.",
+      "audience_fit": "Vitamin D basics skew older-health-conscious; the busy 25-year-old tired by 3pm isn't thinking about bone density or aging well yet.",
+      "novelty": "Vitamin D + sun + blood test is one of the most-repeated health carousel formats — nothing here reframes it or adds a fresh angle.",
+      "brand_fit": "Hedging is clean throughout ('may support', 'linked to', 'can help'), voice is plain, and the CTA ties back to the score mechanic naturally.",
+      "predicted_performance": "Low novelty and a soft hook mean saves will be below average for the longevity niche — this wins no new ground against established health accounts."
+    },
+    "overall": 3,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25436,
+    "tokensOut": 272,
+    "costUsd": 0.06734620000000001,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'A little morning sun goes a long way' is soft and familiar — no specific contrast or concrete payoff to interrupt a scroll."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide holds one idea and the hedge language is consistent, though slide 2 and 3 slightly overlap on the 'what it does' angle."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Vitamin D basics skew older-health-conscious; the busy 25-year-old tired by 3pm isn't thinking about bone density or aging well yet."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Vitamin D + sun + blood test is one of the most-repeated health carousel formats — nothing here reframes it or adds a fresh angle."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Hedging is clean throughout ('may support', 'linked to', 'can help'), voice is plain, and the CTA ties back to the score mechanic naturally."
+      },
+      "predicted_performance": {
+        "score": 2,
+        "why": "Low novelty and a soft hook mean saves will be below average for the longevity niche — this wins no new ground against established health accounts."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:37:49.586Z"
+}

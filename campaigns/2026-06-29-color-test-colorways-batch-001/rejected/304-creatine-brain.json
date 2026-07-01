@@ -1,0 +1,59 @@
+{
+  "key": "304-creatine-brain",
+  "theme": "health",
+  "colorway": "charcoal",
+  "eyebrow": "Creatine",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Creatine isn't for muscle. It's for your *brain*.",
+      "sub": "The most studied supplement in the gym may do more above your neck. Most people have no idea.",
+      "bg": "ai-bg/304-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "It refuels brain energy",
+      "body": "Your brain runs on ATP. Creatine tops up *phosphocreatine*, the backup battery your neurons tap under load."
+    },
+    {
+      "type": "content",
+      "kicker": "When it shows",
+      "title": "Most when you're fried",
+      "body": "The benefit is biggest when you're *sleep-deprived or stressed* — exactly when your mental energy tanks."
+    },
+    {
+      "type": "content",
+      "kicker": "The research",
+      "title": "Sharper, steadier thinking",
+      "body": "Studies link it to *less mental fatigue* and better short-term memory, with early signals for mood."
+    },
+    {
+      "type": "content",
+      "kicker": "How to use it",
+      "title": "Five grams, every day",
+      "body": "A flat *5g daily* is the standard dose. Timing doesn't matter — consistency does."
+    },
+    {
+      "type": "content",
+      "kicker": "Worth knowing",
+      "title": "Boringly safe",
+      "body": "Decades of data make creatine monohydrate *one of the safest* supplements there is. Cheap, too."
+    },
+    {
+      "type": "cta",
+      "title": "Stack the habits that *sharpen your day*.",
+      "body": "Vibe Health ties your sleep, food, and supplements to how you actually feel — so you can see what's really moving your energy.",
+      "button": "Download Vibe Health →",
+      "tag": "fuel your brain, daily",
+      "bg": "ai-bg/304-cta.png"
+    }
+  ],
+  "caption": "Everyone takes creatine for muscle. The brain research is the part nobody talks about. 🧠\n\nIt refuels phosphocreatine — your neurons' backup battery — and the payoff is biggest when you're sleep-deprived or stressed. 5g a day, boringly safe. 🔖\n\nVibe Health ties your habits to how you actually feel → link in bio.",
+  "hashtags": ["#creatine", "#brainhealth", "#cognition", "#focus", "#nootropics", "#mentalenergy", "#healthtips", "#supplements", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Creatine for the Brain: The Benefit Nobody Talks About",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person stirring a scoop of powder into a glass of water at a dim kitchen counter, steam of early morning light behind.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A focused person reading at a desk in low lamplight, sharp and alert, hard rim light on the side of the face."
+  }
+}

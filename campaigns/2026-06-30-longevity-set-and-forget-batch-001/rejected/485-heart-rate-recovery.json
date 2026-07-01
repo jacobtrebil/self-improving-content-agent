@@ -1,0 +1,55 @@
+{
+  "key": "485-heart-rate-recovery",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The minute after exercise *says the most*.",
+      "sub": "How fast your pulse drops once you stop is a quiet window into how long you may live.",
+      "bg": "ai-bg/485-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Heart-rate recovery",
+      "body": "It is how many beats your pulse falls in the first minute after hard effort. A *quick drop* is a good sign."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "A window into the nerves",
+      "body": "That fast slowdown reflects vagal tone, the calming branch of your nervous system. Stronger tone *can support* steadier health."
+    },
+    {
+      "type": "content",
+      "kicker": "The evidence",
+      "title": "One of the strongest signals",
+      "body": "A slow recovery in that first minute *is linked to* higher long-term risk in large studies. The drop is telling."
+    },
+    {
+      "type": "content",
+      "kicker": "How to read it",
+      "title": "Count the first minute",
+      "body": "Note your peak rate, rest a minute, then check again. A larger fall *generally points to* better fitness."
+    },
+    {
+      "type": "content",
+      "kicker": "What moves it",
+      "title": "Train, sleep, recover",
+      "body": "Regular cardio, good sleep and real recovery days *can improve* how quickly your heart settles over time."
+    },
+    {
+      "type": "cta",
+      "title": "Watch the signal *climb*.",
+      "body": "Vibe Health brings your sleep, food, movement and steps into one daily Health Score, so the habits behind a fitter heart are easy to see.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your recovery, tracked"
+    }
+  ],
+  "caption": "The minute after you stop training is one of the most honest health checks you have. 🫀🌿\n\nA quick pulse drop reflects strong vagal tone, and it is one of the clearest signals of a long, capable life. Build it with cardio, sleep and real recovery. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#heartraterecovery", "#vagaltone", "#healthyaging", "#cardiofitness", "#wellness", "#healthhabits", "#aihealthcoach", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Heart-Rate Recovery: A Quiet Predictor of a Long Life",
+  "cover_query": "checking pulse smartwatch"
+}

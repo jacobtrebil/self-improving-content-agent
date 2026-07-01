@@ -1,0 +1,55 @@
+{
+  "key": "480-arterial-stiffness",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your arteries are meant to *stay soft*.",
+      "sub": "With age they harden, and each heartbeat hits harder. Here is how to keep them springy.",
+      "bg": "ai-bg/480-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Soft pipes, calm pressure",
+      "body": "Young arteries flex with every beat, cushioning the flow. Over time they stiffen, and that cushion *slowly fades away*."
+    },
+    {
+      "type": "content",
+      "kicker": "The signal",
+      "title": "Pulse-wave velocity",
+      "body": "How fast your pulse travels is a marker of stiffness. A faster wave is *linked to* harder, less elastic arteries."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Delicate organs take the hit",
+      "body": "Stiff arteries let each beat pound downstream. That extra force is *linked to* strain on the brain and kidneys."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Move your heart often",
+      "body": "Regular aerobic exercise, like brisk walks or cycling, *can support* more elastic arteries and steadier pressure over the years."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Ease off the salt",
+      "body": "Lower sodium is linked to softer arteries and *calmer blood pressure*. Cooking at home is the simplest place to start."
+    },
+    {
+      "type": "cta",
+      "title": "Keep every beat *gentle*.",
+      "body": "Vibe Health tracks the movement, steps, food and sleep behind elastic arteries, and rolls it into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your arteries, tracked"
+    }
+  ],
+  "caption": "Arteries are supposed to flex with every heartbeat. With age they harden, and that pressure travels straight to your brain and kidneys. 🌿\n\nAerobic movement and less salt are linked to softer, more elastic arteries and calmer pressure. Save this for the next gym day or grocery run. 🔖\n\nVibe Health turns those daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#hearthealth", "#bloodpressure", "#healthyaging", "#cardiofitness", "#wellness", "#healthhabits", "#agewell", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How to Keep Your Arteries Young as You Age",
+  "cover_query": "senior man cycling"
+}

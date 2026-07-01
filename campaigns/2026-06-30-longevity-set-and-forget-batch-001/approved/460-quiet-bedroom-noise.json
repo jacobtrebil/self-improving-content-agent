@@ -1,0 +1,69 @@
+{
+  "key": "460-quiet-bedroom-noise",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your bedroom may be *aging your heart* at night",
+      "sub": "Noise you sleep right through can still stress your body. A quiet room is quietly protective.",
+      "bg": "ai-bg/460-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Sleep isn't always silent",
+      "body": "Traffic, a snorer or a humming street can register in your brain even when you *never fully wake up*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Micro-arousals add up",
+      "body": "Each sound can trigger a brief arousal. Your heart rate and blood pressure *can spike* for seconds at a time."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Stress hormones rise",
+      "body": "Repeated nighttime noise is linked to higher cortisol and adrenaline, the same stress signals that *strain the heart*."
+    },
+    {
+      "type": "content",
+      "kicker": "Over time",
+      "title": "It shapes how you age",
+      "body": "Chronic night noise is linked to higher blood pressure and cardiovascular risk, so a calm room *may help you age well*."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Make the room quieter",
+      "body": "Earplugs, a fan or soft white noise can mask spikes. The goal is *steady, gentle* sound, not total silence."
+    },
+    {
+      "type": "cta",
+      "title": "See how your nights *really score*",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so you can see whether a quieter room is paying off.",
+      "screens": [
+        "score",
+        "plan"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "The noise you sleep through can still raise your blood pressure all night. 🌙😴\n\nMicro-arousals from traffic, snoring or street sound can spike your heart rate and stress hormones, and over years that may shape how your heart ages. A quieter room is a simple, real upgrade. Save this. 🔖\n\nVibe Health turns your sleep and habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#sleephealth",
+    "#healthyaging",
+    "#hearthealth",
+    "#sleepbetter",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Why a Quiet Bedroom Protects Your Heart at Night",
+  "cover_query": "bedroom"
+}

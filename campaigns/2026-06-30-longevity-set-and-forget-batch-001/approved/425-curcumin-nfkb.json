@@ -1,0 +1,69 @@
+{
+  "key": "425-curcumin-nfkb",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The golden spice that *calms inflammation*.",
+      "sub": "Curcumin, the active compound in turmeric, acts on one of the body's master inflammatory switches. Here is why that matters as you age.",
+      "bg": "ai-bg/425-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Inflammation that lingers",
+      "body": "A little inflammation heals you. The slow, chronic kind that builds with age *quietly wears the body down* over years."
+    },
+    {
+      "type": "content",
+      "kicker": "The switch",
+      "title": "Meet NF-kB",
+      "body": "NF-kB is a protein that flips on the genes behind inflammation. When it stays active too long, it can drive aging-related decline."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Curcumin turns it down",
+      "body": "Research suggests curcumin *can help quiet NF-kB*, easing the chronic inflammatory signals linked to aging tissues."
+    },
+    {
+      "type": "content",
+      "kicker": "The catch",
+      "title": "Pair it with pepper",
+      "body": "Curcumin absorbs poorly on its own. Piperine from black pepper *may boost absorption sharply*, so the two belong together."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Food first, then habits",
+      "body": "Turmeric in meals is a gentle start. But diet, sleep and movement *shape inflammation* far more than any single spice."
+    },
+    {
+      "type": "cta",
+      "title": "See your habits *add up*.",
+      "body": "Vibe Health scores your sleep, food, movement and steps in one daily Health Score, so the choices that calm inflammation are easy to see and keep.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "Turmeric isn't just for curry. Its active compound, curcumin, works on one of the body's master inflammation switches. 🌿✨\n\nNF-kB drives the slow inflammation of aging, curcumin can help quiet it, and a little black pepper helps it absorb. Save this for your next grocery run. 🔖\n\nVibe Health turns the habits that calm inflammation into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#turmeric",
+    "#curcumin",
+    "#inflammation",
+    "#healthyaging",
+    "#wellness",
+    "#healthhabits",
+    "#agewell",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Turmeric and the Inflammation Switch That Ages You",
+  "cover_query": "turmeric"
+}

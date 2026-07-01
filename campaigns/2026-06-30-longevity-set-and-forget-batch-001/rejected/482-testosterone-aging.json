@@ -1,0 +1,55 @@
+{
+  "key": "482-testosterone-aging",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Testosterone fades slowly. *Your habits decide* how fast.",
+      "sub": "Levels drift down about 1 percent a year in men. How you train, sleep and recover changes the slope.",
+      "bg": "ai-bg/482-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A slow, steady drift",
+      "body": "After the mid-thirties, testosterone tends to *decline about 1 percent a year*. It is gradual, and much of it is shaped by daily habits."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "More than libido",
+      "body": "Healthy levels are linked to muscle, bone, mood and energy. Protecting them is really about *protecting vitality* as you age."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Lift heavy things",
+      "body": "Resistance training is one of the clearest natural supports. A few strength sessions a week *can support healthy levels* and lean mass."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Defend deep sleep",
+      "body": "Most testosterone is released during sleep. Even one week of short nights *may lower* daytime levels in healthy men."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever three",
+      "title": "Mind your body fat",
+      "body": "Excess body fat is linked to lower testosterone. Reaching a *healthier body composition* often helps levels recover."
+    },
+    {
+      "type": "cta",
+      "title": "Age slower, *stay strong* longer.",
+      "body": "Vibe Health tracks the sleep, movement, food and steps behind healthy aging, turning your strength and recovery habits into one daily Health Score.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your vitality, tracked"
+    }
+  ],
+  "caption": "Testosterone slips about 1 percent a year, but the slope is not fixed. 💪🌿\n\nLift heavy, guard your deep sleep and keep a healthy body composition, and you can hold onto strength and vitality for far longer. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthyaging", "#testosterone", "#menshealth", "#strengthtraining", "#sleephealth", "#vitality", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Men Can Slow Testosterone Decline With Age",
+  "cover_query": "older man weightlifting"
+}

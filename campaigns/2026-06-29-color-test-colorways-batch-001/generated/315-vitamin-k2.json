@@ -1,0 +1,72 @@
+{
+  "key": "315-vitamin-k2",
+  "theme": "health",
+  "colorway": "mono",
+  "eyebrow": "Vitamin K2",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The vitamin that *puts calcium right*.",
+      "sub": "It's called vitamin K2, and it decides whether the calcium you eat ends up in your bones or your arteries. Most people have never heard of it.",
+      "bg": "ai-bg/315-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The problem",
+      "title": "Calcium needs a traffic cop",
+      "body": "Taking calcium or vitamin D isn't enough — your body still needs to *send it the right place*."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "K2 directs the traffic",
+      "body": "Vitamin K2 activates proteins that pull calcium *into your bones* — and help keep it out of soft tissue."
+    },
+    {
+      "type": "content",
+      "kicker": "The artery angle",
+      "title": "Out of your arteries",
+      "body": "Those same proteins may help keep calcium from *hardening your arteries* — supporting flexible, cleaner blood vessels."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Pair K2 with D",
+      "body": "Look for the *MK-7 form* of K2, and take it alongside vitamin D — they work as a team."
+    },
+    {
+      "type": "content",
+      "kicker": "Find it",
+      "title": "Food sources count too",
+      "body": "Natto, hard cheeses, and egg yolks carry K2 — or a *D3 + K2* supplement covers both at once."
+    },
+    {
+      "type": "cta",
+      "title": "Build *stronger bones* the smart way.",
+      "body": "Vibe Health tracks your supplements and nutrition in one place — so pairing K2 with vitamin D becomes a daily habit you don't forget.",
+      "button": "Download Vibe Health →",
+      "tag": "bones strong, arteries clear",
+      "bg": "ai-bg/315-cta.png"
+    }
+  ],
+  "caption": "Taking calcium and vitamin D isn't enough — you need something to aim it. 🦴\n\nVitamin K2 (look for MK-7) sends calcium into your bones and may help keep it out of your arteries. Pair it with D. Save this. 🔖\n\nVibe Health keeps your supplement stack on track → link in bio.",
+  "hashtags": [
+    "#vitamink2",
+    "#mk7",
+    "#bonehealth",
+    "#hearthealth",
+    "#vitamind",
+    "#supplements",
+    "#longevity",
+    "#nutrition",
+    "#wellness",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Vitamin K2: Send Calcium To Your Bones, Not Your Arteries",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person taking a small supplement with a glass of water by a window, soft morning light on the hands.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of hands holding two small capsules, warm side light, shallow focus."
+  },
+  "cover_query": "cheese wheel",
+  "cta_query": "leafy green vegetables"
+}

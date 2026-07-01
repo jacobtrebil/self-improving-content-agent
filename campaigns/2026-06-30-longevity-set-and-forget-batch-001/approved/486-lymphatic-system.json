@@ -1,0 +1,55 @@
+{
+  "key": "486-lymphatic-system",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your body's cleanup network has *no pump*.",
+      "sub": "The lymphatic system clears waste and moves immune cells, but only when you do. Here is how to keep it flowing.",
+      "bg": "ai-bg/486-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "A drainage system, no engine",
+      "body": "Your heart pumps blood. But lymph, the fluid that clears cellular waste, has *no pump of its own*."
+    },
+    {
+      "type": "content",
+      "kicker": "How it moves",
+      "title": "Muscles do the pumping",
+      "body": "Lymph relies on the squeeze of your muscles to move. When you sit still for hours, the flow *slows to a crawl*."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "It carries your defenses",
+      "body": "This network ferries immune cells and drains waste. Keeping it moving *can support* how well your body cleans itself."
+    },
+    {
+      "type": "content",
+      "kicker": "The calf",
+      "title": "Your second heart",
+      "body": "Calf muscles act like a pump for the lower body. Every step you take *helps push fluid* back up toward the core."
+    },
+    {
+      "type": "content",
+      "kicker": "Simple habit",
+      "title": "Walk, often",
+      "body": "You do not need a workout. A short walk, a few stair climbs, standing up each hour: small movement *keeps it flowing*."
+    },
+    {
+      "type": "cta",
+      "title": "Keep the *cleanup crew* moving.",
+      "body": "Vibe Health tracks your steps, movement and daily activity, then folds them into one Health Score so the small habits actually add up.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your movement, tracked"
+    }
+  ],
+  "caption": "Your lymphatic system is the body's quiet cleanup crew, and it has no pump of its own. It moves only when you do. 🚶🌿\n\nMuscle movement, especially the calves, drains waste and ferries immune cells through this hidden network. Walk often, sit less, and it keeps flowing. Save this. 🔖\n\nVibe Health turns your steps and daily movement into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#lymphaticsystem", "#wellness", "#healthyaging", "#movement", "#walkingdaily", "#healthhabits", "#vibehealth", "#aihealthcoach", "#vibehealthapp"],
+  "youtube_title": "The Cleanup System That Only Works When You Move",
+  "cover_query": "woman swimming pool"
+}

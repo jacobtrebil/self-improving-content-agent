@@ -1,0 +1,55 @@
+{
+  "key": "422-choline-brain-liver",
+  "theme": "brand",
+  "eyebrow": "Healthspan",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The nutrient your *memory* quietly runs on",
+      "sub": "Choline builds the brain's memory chemical and protects your liver. Most people fall short of the target.",
+      "bg": "ai-bg/422-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "An essential building block",
+      "body": "Choline is a nutrient your body cannot make in enough amounts. You have to *get it from food*, and most diets come up short."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Fuel for memory",
+      "body": "Your body uses choline to make acetylcholine, the messenger behind memory and focus. Steady intake *can support* sharp thinking."
+    },
+    {
+      "type": "content",
+      "kicker": "Beyond the brain",
+      "title": "It guards your liver",
+      "body": "Choline helps move fat out of the liver. A shortfall *is linked to* fat buildup that strains this vital organ."
+    },
+    {
+      "type": "content",
+      "kicker": "The cells",
+      "title": "Every membrane needs it",
+      "body": "Choline forms part of the wall around every cell in your body. It keeps those membranes *flexible and intact*."
+    },
+    {
+      "type": "content",
+      "kicker": "Where to find it",
+      "title": "Start with real food",
+      "body": "Eggs, lean meat, fish, beans and cruciferous greens are rich sources. Two eggs *cover a big share* of the daily target."
+    },
+    {
+      "type": "cta",
+      "title": "Eat for your *brain and liver*.",
+      "body": "Vibe Health logs your food, sleep, movement and steps, then turns them into one daily Health Score so the right habits actually stick.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your nutrition, tracked"
+    }
+  ],
+  "caption": "Choline is the quiet nutrient your memory and your liver both depend on, and most people simply do not get enough. 🌿🥚\n\nIt builds acetylcholine for sharp thinking, moves fat out of your liver and forms the wall of every cell. Eggs, fish, beans and greens are easy ways to close the gap. Save this. 🔖\n\nVibe Health turns those everyday food and lifestyle choices into one daily score → link in bio.",
+  "hashtags": ["#choline", "#brainhealth", "#liverhealth", "#nutrition", "#healthspan", "#longevity", "#wellness", "#healthhabits", "#vibehealth", "#vibehealthapp"],
+  "youtube_title": "Choline: The Nutrient Your Brain and Liver Need",
+  "cover_query": "brown eggs carton"
+}

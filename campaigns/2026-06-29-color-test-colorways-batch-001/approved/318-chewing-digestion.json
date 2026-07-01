@@ -1,0 +1,72 @@
+{
+  "key": "318-chewing-digestion",
+  "theme": "health",
+  "colorway": "cream",
+  "eyebrow": "Chewing",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The free fix for *bloating after meals*.",
+      "sub": "Digestion starts in your mouth. Chewing thoroughly releases enzymes and gives your gut time to signal that you're full.",
+      "bg": "ai-bg/318-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Digestion starts in your mouth",
+      "body": "Chewing breaks food down and releases *salivary enzymes* that start digesting before food even reaches your stomach."
+    },
+    {
+      "type": "content",
+      "kicker": "The number",
+      "title": "Aim for 20–30 chews",
+      "body": "Most people swallow after a few. *20–30 chews per bite* gives enzymes and gut signals time to work."
+    },
+    {
+      "type": "content",
+      "kicker": "Less bloating",
+      "title": "Smaller pieces, easier gut",
+      "body": "Big chunks ferment and produce gas. Chewing well can mean *less bloating and discomfort* after meals."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat less, easily",
+      "title": "Fullness needs 20 minutes",
+      "body": "Your gut takes time to signal fullness. Slowing down lets the signal land *before you overeat*."
+    },
+    {
+      "type": "content",
+      "kicker": "Do this",
+      "title": "Put the fork down",
+      "body": "Set utensils down between bites. This one habit can *halve your eating speed* without any willpower."
+    },
+    {
+      "type": "cta",
+      "title": "Eat slower, *feel lighter*.",
+      "body": "Vibe Health logs your meals and ties how you eat to how you feel — so comfort patterns get clear in your daily score.",
+      "button": "Download Vibe Health →",
+      "tag": "better digestion, one bite at a time",
+      "bg": "ai-bg/318-cta.png"
+    }
+  ],
+  "caption": "Bloated after meals? The fix is free and you already own it. 🍴\n\nDigestion starts in your mouth — chewing 20–30 times per bite releases enzymes, cuts gas, and gives your gut the 20 minutes it needs to feel full. Save this. 🔖\n\nVibe Health ties how you eat to how you feel so the pattern gets obvious → link in bio.",
+  "hashtags": [
+    "#chewing",
+    "#digestion",
+    "#bloating",
+    "#guthealth",
+    "#mindfuleating",
+    "#eatslower",
+    "#nutrition",
+    "#healthylifestyle",
+    "#healthapp",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Free Fix For Bloating After Meals",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person sitting at a dim table eating slowly and deliberately, fork paused mid-bite, soft side light on their face.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A close detail of a hand resting a fork down beside a half-eaten plate, hard rim light on the utensil."
+  },
+  "cover_query": "person eating an apple",
+  "cta_query": "healthy meal on table"
+}

@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T19:09:00.053Z",
+  "updatedAt": "2026-06-25T00:10:25.322Z",
   "strategies": [
     {
       "id": "push-contrarian-novelty",
       "title": "Pick the second-order mechanism AND an underexplored parent topic",
-      "guidance": "Extend the existing topic blocklist to include the full Huberman/wellness-podcast canon for health-carousel: nasal breathing, cold exposure/showers, sauna/heat, physiological sigh or breath-work-for-stress, omega-3/fish oil, magnesium-for-sleep, circadian eating/meal-timing windows, and cortisol basics. These score ≤3.2 on novelty regardless of angle framing because the audience has seen them from 10 different creators. The generator cannot novelty-reframe its way out of a saturated topic. Redirect to genuinely underexplored territory: bile acid cycling and fat-soluble vitamin absorption, CO2 tolerance as a fatigue marker, oral microbiome and systemic inflammation cascades, sleep-stage core-temperature requirements, photoperiod effects on testosterone/cortisol ratio, or capillary insulin sensitivity decay from chair time. Ask: has this been a Huberman episode? Has it been a Rhonda Patrick paper breakdown? If yes, it is blocked.",
+      "guidance": "Before writing any deck, ask: 'what does the average viewer already believe about this topic, and how does this deck surprise or challenge that?' If the answer is 'it confirms what they already know,' reject the angle and find a subversive entry point — a counterintuitive stat, an unexpected mechanism, a common belief that's partially wrong, or a reframe that recontextualizes familiar advice. Example: instead of 'Zone 2 cardio is good for you,' try 'The pace serious runners ignore is the one that adds the most years.' Never lead with consensus.",
       "tag": "novelty",
       "format": "health-carousel",
-      "support": 6,
+      "support": 7,
       "confidence": 1,
       "createdAt": "2026-06-16T05:29:33.712Z",
-      "lastSeen": "2026-06-19T19:09:00.053Z",
+      "lastSeen": "2026-06-25T00:10:25.322Z",
       "evidence": [
         {
           "campaign": "2026-06-15-energy-basics-batch-001",
@@ -43,6 +43,11 @@
           "campaign": "2026-06-19-health-fresh-mechanisms-batch-001",
           "weakest": "novelty",
           "at": "2026-06-19T19:09:00.053Z"
+        },
+        {
+          "campaign": "2026-06-24-longevity-flagship-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-25T00:10:25.322Z"
         }
       ]
     },
@@ -117,6 +122,24 @@
       ]
     },
     {
+      "id": "fix-schema-compliance",
+      "title": "Validate CTA, image prompts, and JSON schema before accepting any generated deck",
+      "guidance": "All 30 decks in this batch failed has_cta, follows_json_schema, and has_image_prompts — a 100% failure rate indicating the generator is not reliably producing schema-compliant output. Before the next batch: (1) confirm the prompt explicitly requires a CTA slide pointing to the app screenshots, (2) confirm cover_query is populated on every deck, (3) run the code-eval checks on the first 2-3 generated decks as a smoke test before generating all 30, and (4) treat any missing field as a generation failure requiring a retry rather than a manual patch.",
+      "tag": "structure",
+      "format": "brand-carousel",
+      "support": 1,
+      "confidence": 0.98,
+      "createdAt": "2026-06-25T00:10:25.322Z",
+      "lastSeen": "2026-06-25T00:10:25.322Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-24-longevity-flagship-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-25T00:10:25.322Z"
+        }
+      ]
+    },
+    {
       "id": "fresh-angle-leads-deck",
       "title": "When you find the novel angle, make it the hook — not slide 4",
       "guidance": "Before finalizing any deck, identify the single freshest mechanism in the spec. If it appears in slide 4 or later, restructure: that mechanism becomes the hook premise or slide-2 reveal, and the familiar angles (hydration, SPF, stress, protein) drop to supporting-evidence roles only. Example from this batch: the sleep-skin collagen connection was the only differentiating angle in 52-fade-dark-spots but appeared on slide 5 — it should have been the cover claim. A fresh angle buried past slide 3 is novelty wasted on an audience that may never reach it.",
@@ -131,6 +154,24 @@
           "campaign": "2026-06-19-looksmax-glowup-round-three-batch-001",
           "weakest": "novelty",
           "at": "2026-06-19T19:07:33.540Z"
+        }
+      ]
+    },
+    {
+      "id": "sharpen-hook-tension",
+      "title": "Open with a hook that challenges an assumption, not one that states a benefit",
+      "guidance": "Hooks like 'A short nap can reset your afternoon' or 'Eat the rainbow, age more slowly' are soft promises — they confirm what viewers hope is true. Rewrite every hook to create mild cognitive dissonance or a knowledge gap: something the viewer thinks they understand but now doubts. Test each hook against: 'would someone who already knows this topic stop scrolling?' If yes, keep it. If no, add a specific number, a counterintuitive qualifier, or a reframe that makes the claim feel slightly dangerous or unexpected.",
+      "tag": "hook",
+      "format": "brand-carousel",
+      "support": 1,
+      "confidence": 0.9,
+      "createdAt": "2026-06-25T00:10:25.322Z",
+      "lastSeen": "2026-06-25T00:10:25.322Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-24-longevity-flagship-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-25T00:10:25.322Z"
         }
       ]
     },
@@ -185,6 +226,24 @@
           "campaign": "2026-06-19-health-fresh-mechanisms-batch-001",
           "weakest": "novelty",
           "at": "2026-06-19T19:09:00.053Z"
+        }
+      ]
+    },
+    {
+      "id": "ban-saturated-topic-frames",
+      "title": "Explicitly blacklist the most-recycled topic frames when prompting",
+      "guidance": "The following angles are so saturated they scored ≤2 on novelty and should be blocked or radically reframed in any future batch: 'eat the rainbow,' 'take the stairs,' 'magnesium for sleep,' 'screen time before bed,' 'core protects your back,' 'gratitude journaling,' 'cold exposure = resilience,' and 'eat more protein.' If a topic from this list must appear, require a specific and surprising sub-angle (a mechanism, a counterintuitive population finding, an underreported nuance) that the generic version of the advice omits. The topic name alone is not enough justification to include it.",
+      "tag": "novelty",
+      "format": "brand-carousel",
+      "support": 1,
+      "confidence": 0.88,
+      "createdAt": "2026-06-25T00:10:25.322Z",
+      "lastSeen": "2026-06-25T00:10:25.322Z",
+      "evidence": [
+        {
+          "campaign": "2026-06-24-longevity-flagship-round-two-batch-001",
+          "weakest": "novelty",
+          "at": "2026-06-25T00:10:25.322Z"
         }
       ]
     },

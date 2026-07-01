@@ -1,0 +1,55 @@
+{
+  "key": "444-power-training-rfd",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The strength that *fades first* isn't raw power.",
+      "sub": "Rate of force development is how fast you can produce force. Training for speed may help you stay independent.",
+      "bg": "ai-bg/444-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Speed of force, not just size",
+      "body": "Rate of force development is *how fast you can apply strength*. It is the difference between standing up easily and struggling out of a chair."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Power declines faster",
+      "body": "Explosive power *fades sooner than raw strength* as we age. The ability to move quickly slips away years before the ability to lift heavy."
+    },
+    {
+      "type": "content",
+      "kicker": "The link",
+      "title": "A signal for independence",
+      "body": "Lower-body power is linked to *staying mobile later in life*: rising from a chair, climbing stairs, catching yourself before a fall."
+    },
+    {
+      "type": "content",
+      "kicker": "How to train",
+      "title": "Move with intent",
+      "body": "Lift the weight *with real speed*, then lower it under control. A few brisk, explosive reps can support power more than slow grinding."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep it simple",
+      "title": "Small bursts, often",
+      "body": "Quick step-ups, brisk sit-to-stands, light jumps. Two short sessions a week *can build the speed* that protects your future self."
+    },
+    {
+      "type": "cta",
+      "title": "Train the speed that *keeps you free*.",
+      "body": "Vibe Health tracks your movement, steps, sleep and food, and turns them into one daily Health Score so explosive training becomes a habit you keep.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your power, tracked"
+    }
+  ],
+  "caption": "Raw strength gets the attention, but the power to move fast is what fades first, and it quietly decides how independent you stay. 🌿\n\nExplosive power declines sooner than strength, it is linked to mobility later in life, and short bursts of fast, intentional movement can help you keep it. Save this. 🔖\n\nVibe Health turns movement, sleep and food into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#healthyaging", "#strengthtraining", "#powertraining", "#healthspan", "#mobility", "#agewell", "#wellness", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "The Strength That Fades First (and How to Keep It)",
+  "cover_query": "older man jumping"
+}

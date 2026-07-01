@@ -1,0 +1,55 @@
+{
+  "key": "457-total-darkness-bedroom",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your bedroom may be *too bright* to sleep",
+      "sub": "Even faint ambient light can quietly disrupt the night your body uses to repair itself. Total darkness is a metabolic tool.",
+      "bg": "ai-bg/457-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Darkness is a signal",
+      "body": "Your body reads darkness as a cue to wind down. Even *dim ambient light* during sleep can blunt that signal."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Light suppresses melatonin",
+      "body": "Melatonin guides you into deep, restorative sleep. Low overnight light *can suppress melatonin* and keep the body subtly alert."
+    },
+    {
+      "type": "content",
+      "kicker": "The cost",
+      "title": "A busier night",
+      "body": "Sleeping with light is linked to a *higher overnight heart rate*. Your body works harder during the hours meant for rest."
+    },
+    {
+      "type": "content",
+      "kicker": "The morning after",
+      "title": "It reaches your metabolism",
+      "body": "One night of light during sleep is linked to *greater insulin resistance* the next morning, which may strain long-term metabolic health."
+    },
+    {
+      "type": "content",
+      "kicker": "The fix",
+      "title": "Aim for true darkness",
+      "body": "Blackout curtains, covered LEDs and a dark room *can support* deeper sleep and steadier overnight metabolism."
+    },
+    {
+      "type": "cta",
+      "title": "See how your nights *add up*",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns them into one daily Health Score so you can protect the habits that matter.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "The room you sleep in might be working against you. Even a little light at night can quietly disrupt your metabolism. 🌙😴\n\nDarkness protects melatonin, a calmer overnight heart rate and steadier morning blood sugar. Blackout curtains and covered LEDs go a long way. Save this. 🔖\n\nVibe Health turns your sleep, food and movement into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#sleephealth", "#metabolichealth", "#healthyhabits", "#vibehealth", "#aihealthcoach", "#wellness", "#healthspan", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "Why Total Darkness Protects Your Metabolism at Night",
+  "cover_query": "dark bedroom curtains"
+}

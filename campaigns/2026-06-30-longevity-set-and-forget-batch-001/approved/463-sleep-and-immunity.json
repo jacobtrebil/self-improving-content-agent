@@ -1,0 +1,55 @@
+{
+  "key": "463-sleep-and-immunity",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your immune system *trains* while you sleep.",
+      "sub": "Deep sleep is when the body files away how to fight infection. Here is the link between rest and resilience.",
+      "bg": "ai-bg/463-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Sleep builds immune memory",
+      "body": "During deep sleep the body consolidates *immune memory*: the same overnight process that locks in what you learned by day."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "T-cells do their work",
+      "body": "Deep sleep can support T-cell function, the immune cells that recognize threats and *remember them* for next time."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "A stronger antibody response",
+      "body": "Good sleep around a vaccine is linked to a *better antibody response*, helping your defenses respond when it counts."
+    },
+    {
+      "type": "content",
+      "kicker": "The cost",
+      "title": "Short sleep cuts both ways",
+      "body": "A run of short nights may leave you *more prone to getting sick* and slower to bounce back afterward."
+    },
+    {
+      "type": "content",
+      "kicker": "The habit",
+      "title": "Protect your deep sleep",
+      "body": "Consistent timing, a cool dark room and morning light *can support* the deep sleep your immune system depends on."
+    },
+    {
+      "type": "cta",
+      "title": "Rest that *works for you*.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps, then turns them into one daily Health Score so better nights are easy to see.",
+      "screens": ["score", "plan"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your sleep, tracked"
+    }
+  ],
+  "caption": "The night you spend asleep is the night your immune system gets stronger. 😴🌿\n\nDeep sleep can support T-cell function and a healthier antibody response, while short nights may leave you more open to getting sick. Save this for your next early night. 🔖\n\nVibe Health turns sleep, food and movement into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#sleephealth", "#immunesupport", "#healthyaging", "#sleepbetter", "#wellness", "#healthhabits", "#vibehealth", "#healthtech", "#vibehealthapp"],
+  "youtube_title": "How Deep Sleep Strengthens Your Immune System",
+  "cover_query": "person resting blanket"
+}

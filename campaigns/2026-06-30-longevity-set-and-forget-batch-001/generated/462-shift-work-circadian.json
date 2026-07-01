@@ -1,0 +1,69 @@
+{
+  "key": "462-shift-work-circadian",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Your body keeps a clock. *Shift work* moves it.",
+      "sub": "Working against the sun pulls your internal rhythm out of sync. A few small habits can soften the toll.",
+      "bg": "ai-bg/462-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "An internal clock",
+      "body": "Every cell runs on a roughly 24-hour rhythm set by *light and meal timing*. Night shifts ask it to flip overnight."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "Misalignment adds up",
+      "body": "Eating and working in the dark can desync that clock. Long-term shift work *is linked to* higher metabolic and heart risk."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever one",
+      "title": "Use light on purpose",
+      "body": "Bright light on shift, dark and dim on the way home. Controlled light *can help* anchor your rhythm."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever two",
+      "title": "Tighten the eating window",
+      "body": "Front-load food toward your active hours and ease off deep overnight. A steady window *may ease* the metabolic load."
+    },
+    {
+      "type": "content",
+      "kicker": "Lever three",
+      "title": "Protect the sleep you get",
+      "body": "Cool, dark, quiet, and consistent timing matter most. Guarding daytime sleep *can support* recovery between shifts."
+    },
+    {
+      "type": "cta",
+      "title": "Bring rhythm to an *odd schedule*.",
+      "body": "Vibe Health tracks your sleep, food, movement and steps across irregular hours, turning them into one daily Health Score.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your rhythm, tracked"
+    }
+  ],
+  "caption": "Shift work asks your body to live against its own clock. With a little structure, you can soften the toll. 🌙\n\nUse light on purpose, tighten your eating window, and guard the sleep you get. Small anchors, steadier rhythm. Save this. 🔖\n\nVibe Health turns those habits into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#shiftwork",
+    "#circadianrhythm",
+    "#sleephealth",
+    "#metabolichealth",
+    "#hearthealth",
+    "#wellness",
+    "#healthhabits",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Shift Work and Your Body Clock: How to Soften the Toll",
+  "cover_query": "nurse"
+}

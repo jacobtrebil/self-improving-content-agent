@@ -1,0 +1,69 @@
+{
+  "key": "440-plyometrics-bone",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A few jumps a day can *rebuild* your bones.",
+      "sub": "Short bursts of impact send a signal that tells bone to grow stronger. The science calls it osteogenic loading.",
+      "bg": "ai-bg/440-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Impact is a signal",
+      "body": "Bone is living tissue that responds to stress. A hard landing tells it to *lay down new mineral* and reinforce itself."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Loading builds density",
+      "body": "Quick, forceful jumps create the strain that *can support* bone remodeling far better than slow, steady movement alone."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Stronger, harder to break",
+      "body": "Denser bone is more resistant to fractures. Plyometric training is linked to *better hip and spine* bone health."
+    },
+    {
+      "type": "content",
+      "kicker": "How much",
+      "title": "Short bouts are enough",
+      "body": "Just a few sets of jumps, a handful of times a week, *may help* stimulate bone without long, draining workouts."
+    },
+    {
+      "type": "content",
+      "kicker": "Start safely",
+      "title": "Build up your landings",
+      "body": "Begin with small hops and soft landings, then progress. Consistency over weeks is what *moves the needle*."
+    },
+    {
+      "type": "cta",
+      "title": "Make every jump *count*.",
+      "body": "Vibe Health tracks your movement, steps, sleep and food, then turns them into one daily Health Score so good habits stick.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your movement, tracked"
+    }
+  ],
+  "caption": "You don't need an hour at the gym to protect your bones. A few jumps a day can do real work. 🦴🌿\n\nImpact loading signals bone to rebuild mineral density, build it up slowly with short bouts a few times a week. Save this. 🔖\n\nVibe Health turns movement, sleep and food into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#bonehealth",
+    "#healthyaging",
+    "#vibehealth",
+    "#aihealthcoach",
+    "#wellness",
+    "#healthhabits",
+    "#strongbones",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How a Few Jumps a Day Can Strengthen Your Bones",
+  "cover_query": "jumping"
+}

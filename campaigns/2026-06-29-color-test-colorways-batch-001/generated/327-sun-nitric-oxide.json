@@ -1,0 +1,72 @@
+{
+  "key": "327-sun-nitric-oxide",
+  "theme": "health",
+  "colorway": "deep-green",
+  "eyebrow": "Sunlight",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Sunlight does more than make *vitamin D*.",
+      "sub": "UVA light on your skin releases stored nitric oxide that can gently lower blood pressure — a benefit separate from vitamin D.",
+      "bg": "ai-bg/327-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Not just D",
+      "title": "Beyond vitamin D",
+      "body": "Most people think sun equals vitamin D — but your skin does something *entirely separate* with light."
+    },
+    {
+      "type": "content",
+      "kicker": "The mechanism",
+      "title": "Your skin stores it",
+      "body": "UVA rays trigger your skin to release stored *nitric oxide* into the bloodstream."
+    },
+    {
+      "type": "content",
+      "kicker": "The effect",
+      "title": "Vessels relax",
+      "body": "That nitric oxide widens blood vessels, which *may lower blood pressure* for a while afterward."
+    },
+    {
+      "type": "content",
+      "kicker": "Bonus",
+      "title": "Light lifts mood",
+      "body": "Daytime light exposure also supports *mood and your body clock* — heart and head both benefit."
+    },
+    {
+      "type": "content",
+      "kicker": "Do it safely",
+      "title": "Smart, not scorched",
+      "body": "A little *regular daylight* goes a long way — enjoy the sun without burning."
+    },
+    {
+      "type": "cta",
+      "title": "Step outside, *help your heart*.",
+      "body": "Vibe Health tracks your steps, sleep, and daily habits into one Health Score — so a morning walk outside counts twice.",
+      "button": "Download Vibe Health →",
+      "tag": "sunlight, heart, and mood",
+      "bg": "ai-bg/327-cta.png"
+    }
+  ],
+  "caption": "Sunlight does way more than make vitamin D — your skin releases stored nitric oxide that may gently lower blood pressure. ☀️\n\nIt's a totally separate benefit for your heart and mood. A little daily daylight, no burning. 🔖\n\nVibe Health folds your steps, sleep, and habits into one daily Health Score → link in bio.",
+  "hashtags": [
+    "#sunlight",
+    "#nitricoxide",
+    "#bloodpressure",
+    "#hearthealth",
+    "#vitamind",
+    "#mood",
+    "#wellness",
+    "#longevity",
+    "#healthtips",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Sunlight Does More Than Vitamin D",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person standing at a window with morning sunlight falling across their face and bare forearm.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of sunlight hitting the skin of a forearm near a window, soft warm contrast rendered in monochrome."
+  },
+  "cover_query": "person in morning sunlight",
+  "cta_query": "bright sunlight sky"
+}

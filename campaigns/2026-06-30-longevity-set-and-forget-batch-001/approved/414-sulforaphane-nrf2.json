@@ -1,0 +1,55 @@
+{
+  "key": "414-sulforaphane-nrf2",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The tiny sprout that *flips a switch* inside you",
+      "sub": "Sulforaphane from broccoli sprouts can wake up your body's own defense system. Here is how it works.",
+      "bg": "ai-bg/414-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Meet sulforaphane",
+      "body": "Broccoli sprouts are unusually rich in a compound called *sulforaphane*. Gram for gram, they carry far more than the mature vegetable."
+    },
+    {
+      "type": "content",
+      "kicker": "The switch",
+      "title": "It activates Nrf2",
+      "body": "Sulforaphane turns on *Nrf2*, a master regulator that tells your cells to ramp up their own antioxidant and detox defenses."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Your enzymes do the work",
+      "body": "Instead of one dose of antioxidant, Nrf2 *switches on enzymes* that keep working for hours, defending cells from the inside."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Calmer oxidative stress",
+      "body": "Oxidative stress is linked to faster aging. Blunting it *may help* protect cells, tissues and the way you feel over time."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Small, steady, repeatable",
+      "body": "A handful of broccoli sprouts on a salad or bowl is enough. The win comes from *making it a habit*, not a single meal."
+    },
+    {
+      "type": "cta",
+      "title": "Turn good habits into *one number*.",
+      "body": "Vibe Health tracks your food, sleep, movement and steps, then turns the small daily choices into one Health Score you can actually follow.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "your habits, tracked"
+    }
+  ],
+  "caption": "A tiny broccoli sprout can switch on your body's own antioxidant defenses for hours. 🌿✨\n\nSulforaphane activates the Nrf2 pathway, your enzymes do the work, and steady oxidative stress is what may help you age slower. Save this for your next salad. 🔖\n\nVibe Health turns those small daily habits into one simple score → link in bio.",
+  "hashtags": ["#longevity", "#sulforaphane", "#broccolisprouts", "#nrf2", "#healthyaging", "#antioxidants", "#wellness", "#healthhabits", "#vibehealth", "#vibehealthapp"],
+  "youtube_title": "Broccoli Sprouts and Nrf2: The Longevity Switch",
+  "cover_query": "broccoli sprouts"
+}

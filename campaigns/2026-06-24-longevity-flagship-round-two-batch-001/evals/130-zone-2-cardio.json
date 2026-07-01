@@ -1,0 +1,114 @@
+{
+  "key": "130-zone-2-cardio",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/130-zone-2-cardio.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/130-zone-2-cardio.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/13-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/13-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The easiest pace might *add the most years*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "291/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 4,
+      "predicted_performance": 2
+    },
+    "rationales": {
+      "hook_strength": "The 'easiest pace = most years' angle is mildly counterintuitive but soft — no specific stat or concrete contrast to sharpen the stop-scroll tension.",
+      "clarity": "Each slide is genuinely one idea and the brisk-walk callout is a real actionable takeaway, though slide 5 adds little beyond slide 4.",
+      "audience_fit": "Busy 20–35s who feel guilty about skipping hard workouts will appreciate 'a walk counts' framing, but 'aerobic base' language may feel slightly clinical for the most overwhelmed tier.",
+      "novelty": "Zone 2 has saturated health TikTok for two years; the angle here doesn't add a fresh frame, stat, or contrarian edge to earn attention over the dozens of identical decks.",
+      "brand_fit": "Claims are appropriately hedged ('linked to a longer life', 'may help'-adjacent), voice stays plain, and the CTA connects movement to the Health Score naturally without cringe.",
+      "predicted_performance": "Strong saves from the already-converted Zone 2 crowd, but low viral ceiling — the hook won't pull in newcomers and the concept is no longer novel enough to drive shares."
+    },
+    "overall": 3.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25424,
+    "tokensOut": 316,
+    "costUsd": 0.06792720000000001,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "The 'easiest pace = most years' angle is mildly counterintuitive but soft — no specific stat or concrete contrast to sharpen the stop-scroll tension."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide is genuinely one idea and the brisk-walk callout is a real actionable takeaway, though slide 5 adds little beyond slide 4."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Busy 20–35s who feel guilty about skipping hard workouts will appreciate 'a walk counts' framing, but 'aerobic base' language may feel slightly clinical for the most overwhelmed tier."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Zone 2 has saturated health TikTok for two years; the angle here doesn't add a fresh frame, stat, or contrarian edge to earn attention over the dozens of identical decks."
+      },
+      "brand_fit": {
+        "score": 4,
+        "why": "Claims are appropriately hedged ('linked to a longer life', 'may help'-adjacent), voice stays plain, and the CTA connects movement to the Health Score naturally without cringe."
+      },
+      "predicted_performance": {
+        "score": 2,
+        "why": "Strong saves from the already-converted Zone 2 crowd, but low viral ceiling — the hook won't pull in newcomers and the concept is no longer novel enough to drive shares."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:37:26.239Z"
+}

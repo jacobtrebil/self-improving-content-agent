@@ -1,0 +1,67 @@
+{
+  "key": "228-supplement-scams",
+  "theme": "gym",
+  "eyebrow": "Supplements",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Supplements that are a *waste*.",
+      "sub": "Save your money.",
+      "img": "ai-bg/228-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Fat burners",
+      "title": "Skip *fat burners*",
+      "body": "They're caffeine pills with a big markup."
+    },
+    {
+      "type": "content",
+      "kicker": "BCAAs",
+      "title": "Skip *BCAAs*",
+      "body": "Useless if you already eat enough protein."
+    },
+    {
+      "type": "content",
+      "kicker": "Test boosters",
+      "title": "Skip *test boosters*",
+      "body": "They don't raise testosterone. Sleep does."
+    },
+    {
+      "type": "content",
+      "kicker": "Mass gainers",
+      "title": "Skip *mass gainers*",
+      "body": "It's just sugar. Eat real food instead."
+    },
+    {
+      "type": "content",
+      "kicker": "Keep",
+      "title": "Keep it *simple*",
+      "body": "Protein, creatine, caffeine. That is it."
+    },
+    {
+      "type": "cta",
+      "title": "Spend it on *food*.",
+      "body": "Vibe Health keeps your protein and training on track for free.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Supplements that are a waste. 💪\n\nSave this and put it to work. 🔖\n\nVibe keeps your protein and training on track for free. → link in bio.",
+  "hashtags": [
+    "#supplements",
+    "#fitnessmyths",
+    "#gymtok",
+    "#gains",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#savemoney",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "Supplements That Are a Waste of Money"
+}

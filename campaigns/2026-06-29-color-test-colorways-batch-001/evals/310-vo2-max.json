@@ -1,0 +1,114 @@
+{
+  "key": "310-vo2-max",
+  "eyebrow": "VO2 Max",
+  "spec": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/310-vo2-max.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-29-color-test-colorways-batch-001/approved/310-vo2-max.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/31-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/31-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"The number that *predicts how long* you live.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": true,
+        "score": 1,
+        "detail": "cta + exact button"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "293/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": true,
+        "score": 1,
+        "detail": "cover+cta, house style"
+      }
+    ],
+    "passed": 5,
+    "total": 6,
+    "pass": false,
+    "score": 0.83
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 5,
+      "clarity": 5,
+      "audience_fit": 3,
+      "novelty": 4,
+      "brand_fit": 5,
+      "predicted_performance": 4
+    },
+    "rationales": {
+      "hook_strength": "'Predicts how long you live' is specific, stakes-driven, and earns the click without being hypey.",
+      "clarity": "Each slide is a single named idea with one actionable or explanatory beat — no bloat.",
+      "audience_fit": "4x4 intervals are a solid protocol but skew toward people already exercising; the overwhelmed beginner may bounce at slide 4.",
+      "novelty": "VO2 max for longevity is gaining traction but the mortality-gap-rivals-smoking framing sharpens a familiar topic into something worth saving.",
+      "brand_fit": "Claims are hedged ('in some studies', 'tends to'), voice is plain and direct, CTA ties to the score concept without AI-cringe.",
+      "predicted_performance": "Strong save bait for fitness-curious viewers; share ceiling is slightly limited by the interval protocol feeling intermediate rather than universal."
+    },
+    "overall": 4.33,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25817,
+    "tokensOut": 247,
+    "costUsd": 0.06930420000000001,
+    "raw": {
+      "hook_strength": {
+        "score": 5,
+        "why": "'Predicts how long you live' is specific, stakes-driven, and earns the click without being hypey."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide is a single named idea with one actionable or explanatory beat — no bloat."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "4x4 intervals are a solid protocol but skew toward people already exercising; the overwhelmed beginner may bounce at slide 4."
+      },
+      "novelty": {
+        "score": 4,
+        "why": "VO2 max for longevity is gaining traction but the mortality-gap-rivals-smoking framing sharpens a familiar topic into something worth saving."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are hedged ('in some studies', 'tends to'), voice is plain and direct, CTA ties to the score concept without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 4,
+        "why": "Strong save bait for fitness-curious viewers; share ceiling is slightly limited by the interval protocol feeling intermediate rather than universal."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-29T17:08:05.927Z"
+}

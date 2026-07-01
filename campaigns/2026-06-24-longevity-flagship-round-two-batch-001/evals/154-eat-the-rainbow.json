@@ -1,0 +1,114 @@
+{
+  "key": "154-eat-the-rainbow",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/154-eat-the-rainbow.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/154-eat-the-rainbow.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/15-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/15-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Eat the rainbow, *age more slowly*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "280/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 3,
+      "novelty": 2,
+      "brand_fit": 5,
+      "predicted_performance": 2
+    },
+    "rationales": {
+      "hook_strength": "'Eat the rainbow, age more slowly' is readable but not scroll-stopping — it's a familiar phrase with a mild payoff, not a provocative or specific claim.",
+      "clarity": "Each slide holds one idea and the action (three or four colors per plate) is concrete and immediately usable.",
+      "audience_fit": "The 20–35 busy audience gets the simplicity angle, but the longevity framing skews older — tired-by-3pm readers care more about energy now than aging later.",
+      "novelty": "'Eat the rainbow' is one of the most repeated nutrition tips on the internet; even the polyphenol framing doesn't rescue it from feeling recycled.",
+      "brand_fit": "Hedging is consistent throughout ('may help', 'can support', 'tends to serve'), voice is plain and direct, and the CTA ties cleanly back to the app's daily score.",
+      "predicted_performance": "Low save/share potential — the advice is too familiar to trigger a 'I need this' save, and there's no tension or contrarian hook to drive shares."
+    },
+    "overall": 3.17,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25445,
+    "tokensOut": 291,
+    "costUsd": 0.0677092,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'Eat the rainbow, age more slowly' is readable but not scroll-stopping — it's a familiar phrase with a mild payoff, not a provocative or specific claim."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide holds one idea and the action (three or four colors per plate) is concrete and immediately usable."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "The 20–35 busy audience gets the simplicity angle, but the longevity framing skews older — tired-by-3pm readers care more about energy now than aging later."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "'Eat the rainbow' is one of the most repeated nutrition tips on the internet; even the polyphenol framing doesn't rescue it from feeling recycled."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedging is consistent throughout ('may help', 'can support', 'tends to serve'), voice is plain and direct, and the CTA ties cleanly back to the app's daily score."
+      },
+      "predicted_performance": {
+        "score": 2,
+        "why": "Low save/share potential — the advice is too familiar to trigger a 'I need this' save, and there's no tension or contrarian hook to drive shares."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:39:00.930Z"
+}

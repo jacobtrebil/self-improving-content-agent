@@ -1,0 +1,59 @@
+{
+  "key": "300-food-order",
+  "theme": "health",
+  "colorway": "mono",
+  "eyebrow": "Meal Order",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Eat your food in *this exact order*.",
+      "sub": "It's called meal sequencing, and it changes your glucose curve more than the food itself. Most people eat in the worst possible order.",
+      "bg": "ai-bg/300-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The spike",
+      "title": "Carbs-first hits hardest",
+      "body": "Starting a meal with bread or rice sends glucose *straight up* — then the crash drags your energy down with it."
+    },
+    {
+      "type": "content",
+      "kicker": "Step 01",
+      "title": "Vegetables and fiber first",
+      "body": "Open every meal with the *fiber and veg*. They form a mesh in your gut that slows how fast sugar hits your blood."
+    },
+    {
+      "type": "content",
+      "kicker": "Step 02",
+      "title": "Protein and fats next",
+      "body": "Eat your *protein and fats* second. They trigger GLP-1, the hormone that tells your stomach to empty slower."
+    },
+    {
+      "type": "content",
+      "kicker": "Step 03",
+      "title": "Save carbs for last",
+      "body": "Now the rice and bread land on a *slowed-down stomach* — same meal, far gentler spike, no afternoon crash."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Steadier energy, all day",
+      "body": "Change nothing about your meal except the *order you eat it* — and watch your energy stop swinging."
+    },
+    {
+      "type": "cta",
+      "title": "Eat in the *right order*, automatically.",
+      "body": "Snap a photo of your plate and Vibe Health flags the smart order to eat it — so steadier energy becomes a habit, not a guessing game.",
+      "button": "Download Vibe Health →",
+      "tag": "steadier energy, same food",
+      "bg": "ai-bg/300-cta.png"
+    }
+  ],
+  "caption": "The order you eat your food changes your blood sugar more than the food itself. 🍽️\n\nVeg and fiber first, protein and fats next, carbs last — same meal, steadier energy, no afternoon crash. Save this one. 🔖\n\nVibe Health flags the smart order to eat your plate → link in bio.",
+  "hashtags": ["#bloodsugar", "#glucose", "#mealsequencing", "#insulinresistance", "#energy", "#healthyhabits", "#nutritiontips", "#metabolichealth", "#wellness", "#vibehealthapp"],
+  "youtube_title": "Eat Your Food In This Order For Steady Energy",
+  "bg_prompts": {
+    "cover": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. A person at a kitchen counter building a plate, reaching first for a bowl of green vegetables, warm side light raking across the food.",
+    "cta": "Black-and-white cinematic editorial photograph. Dramatic low-key lighting, deep shadows, dark charcoal background. Realistic texture, shallow depth of field. Single subject, calm confident mood. No text, no logos. Vertical composition with the subject toward the upper half so the lower third falls into darkness. Close detail of a fork lifting leafy greens from a simply plated meal, hard rim light catching the texture."
+  }
+}

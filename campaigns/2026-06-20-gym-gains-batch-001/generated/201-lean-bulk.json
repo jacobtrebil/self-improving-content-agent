@@ -1,0 +1,69 @@
+{
+  "key": "201-lean-bulk",
+  "theme": "gym",
+  "eyebrow": "Bulking",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Bulk without getting *fat*.",
+      "sub": "Lean bulking, done right.",
+      "img": "ai-bg/201-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The surplus",
+      "title": "Stay in a small surplus",
+      "body": "Plus 250 to 500 calories. More is just fat.",
+      "stat": "+300"
+    },
+    {
+      "type": "content",
+      "kicker": "Protein",
+      "title": "Eat enough *protein*",
+      "body": "Around 1g per pound of bodyweight.",
+      "stat": "1g"
+    },
+    {
+      "type": "content",
+      "kicker": "Train",
+      "title": "Chase *progressive overload*",
+      "body": "A surplus without overload is just weight gain."
+    },
+    {
+      "type": "content",
+      "kicker": "Pace it",
+      "title": "Gain *slowly*",
+      "body": "Half a pound a week. Faster means fat."
+    },
+    {
+      "type": "content",
+      "kicker": "Adjust",
+      "title": "Watch the *trend*",
+      "body": "Gaining too fast? Pull the calories back."
+    },
+    {
+      "type": "cta",
+      "title": "Bulk *smarter*.",
+      "body": "Vibe Health tracks your calories, protein and weight trend in one place.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Bulk without getting fat. 💪\n\nSave this and put it to work. 🔖\n\nVibe tracks your calories, protein and weight trend in one place. → link in bio.",
+  "hashtags": [
+    "#bulking",
+    "#leanbulk",
+    "#gymtok",
+    "#gains",
+    "#buildmuscle",
+    "#fitness",
+    "#bodybuilding",
+    "#nutrition",
+    "#gymbro",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Bulk Without Getting Fat"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "149-eye-health",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    { "type": "cover", "title": "Protect the eyes that *carry you* through life.", "sub": "Vision ages quietly alongside the rest of you. A few simple habits help you see well for longer.", "bg": "ai-bg/149-cover.png" },
+    { "type": "content", "kicker": "The idea", "title": "Your eyes age too", "body": "Like muscle and skin, vision changes with the years. Treating your eyes with the same care *pays off* over a lifetime." },
+    { "type": "content", "kicker": "Screen strain", "title": "Try the 20-20-20 habit", "body": "Every 20 minutes, look 20 feet away for 20 seconds. This small reset *may help* ease tired, dry eyes from long screens." },
+    { "type": "content", "kicker": "Sunlight", "title": "Shield your eyes from UV", "body": "Bright sun reaches your eyes too. Quality sunglasses can support healthier eyes and may help slow some age related changes." },
+    { "type": "content", "kicker": "Eat for them", "title": "Greens and fish help", "body": "Leafy greens and oily fish carry nutrients linked to eye health. A colorful plate *quietly supports* your vision over time." },
+    { "type": "content", "kicker": "The takeaway", "title": "Get your eyes checked", "body": "Regular exams catch changes early, often before you notice them. A simple visit is one of the kindest things you can do." },
+    { "type": "cta", "title": "Care for the eyes you *rely on*.", "body": "Vibe Health helps you build the daily habits, from food to rest, that support your whole body, all in one simple score.", "screens": ["plan", "score"], "cta_text": "search ‘Vibe Health’ on the App Store", "tag": "your habits, tracked" }
+  ],
+  "caption": "Your eyes age right along with the rest of you, and they're easy to take for granted. 🌿\n\nThe 20-20-20 break, good sunglasses, leafy greens and oily fish, and a regular check-up all help you see well for longer. Save this. 🔖\n\nVibe Health turns small daily habits into one clear score → link in bio.",
+  "hashtags": ["#longevity", "#eyehealth", "#vision", "#healthyaging", "#vibehealth", "#aihealthcoach", "#wellness", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "How to Protect Your Vision as You Age",
+  "cover_query": "reading glasses book"
+}

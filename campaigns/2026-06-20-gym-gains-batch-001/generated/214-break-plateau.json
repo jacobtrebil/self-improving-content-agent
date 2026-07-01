@@ -1,0 +1,67 @@
+{
+  "key": "214-break-plateau",
+  "theme": "gym",
+  "eyebrow": "Training",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Break a *plateau*.",
+      "sub": "Stuck? Do this.",
+      "img": "ai-bg/214-01.png"
+    },
+    {
+      "type": "content",
+      "kicker": "Overload",
+      "title": "Force *progression*",
+      "body": "Add reps or weight, even a tiny bit."
+    },
+    {
+      "type": "content",
+      "kicker": "Eat",
+      "title": "Check your *food*",
+      "body": "Not growing? You're probably under-eating."
+    },
+    {
+      "type": "content",
+      "kicker": "Sleep",
+      "title": "Fix your *sleep*",
+      "body": "No recovery means no progress."
+    },
+    {
+      "type": "content",
+      "kicker": "Deload",
+      "title": "Take a *deload*",
+      "body": "Back off a week to come back stronger."
+    },
+    {
+      "type": "content",
+      "kicker": "Switch",
+      "title": "Change a *variable*",
+      "body": "A new rep range or exercise can restart growth."
+    },
+    {
+      "type": "cta",
+      "title": "Smash the *plateau*.",
+      "body": "Vibe Health ties your training, food and sleep together.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store"
+    }
+  ],
+  "caption": "Break a plateau. 💪\n\nSave this and put it to work. 🔖\n\nVibe ties your training, food and sleep together. → link in bio.",
+  "hashtags": [
+    "#plateau",
+    "#buildmuscle",
+    "#gymtok",
+    "#gains",
+    "#liftingtips",
+    "#fitness",
+    "#bodybuilding",
+    "#gymbro",
+    "#strength",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "How to Break a Training Plateau"
+}

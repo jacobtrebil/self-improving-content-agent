@@ -1,0 +1,114 @@
+{
+  "key": "157-leafy-greens-brain",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/157-leafy-greens-brain.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/157-leafy-greens-brain.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/15-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/15-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"One serving of greens, *a sharper brain*.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "276/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 5,
+      "audience_fit": 4,
+      "novelty": 2,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "The cover promise is clear but 'sharper brain from greens' is a well-worn claim that won't jolt a scroll — needs a more surprising or specific hook to earn the stop.",
+      "clarity": "Each slide holds exactly one idea with a concrete, actionable takeaway and no clutter.",
+      "audience_fit": "Brain fog and tired-by-3pm are real pain points for this audience, and the one-serving framing removes overwhelm — though 'future mind' and 'decades' skew slightly older in aspiration.",
+      "novelty": "Leafy greens equal brain health is among the most repeated nutrition facts on the platform; nothing here reframes it with a fresh angle or surprising data point.",
+      "brand_fit": "Hedging is consistent throughout ('may support', 'appears to come', 'may thank you'), voice is plain and direct, CTA ties back to the Health Score naturally without hype.",
+      "predicted_performance": "Solid saves from greens-curious users but low share potential given the familiar premise — expect average-to-slightly-below for a longevity carousel."
+    },
+    "overall": 3.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25452,
+    "tokensOut": 292,
+    "costUsd": 0.06777319999999999,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "The cover promise is clear but 'sharper brain from greens' is a well-worn claim that won't jolt a scroll — needs a more surprising or specific hook to earn the stop."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide holds exactly one idea with a concrete, actionable takeaway and no clutter."
+      },
+      "audience_fit": {
+        "score": 4,
+        "why": "Brain fog and tired-by-3pm are real pain points for this audience, and the one-serving framing removes overwhelm — though 'future mind' and 'decades' skew slightly older in aspiration."
+      },
+      "novelty": {
+        "score": 2,
+        "why": "Leafy greens equal brain health is among the most repeated nutrition facts on the platform; nothing here reframes it with a fresh angle or surprising data point."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedging is consistent throughout ('may support', 'appears to come', 'may thank you'), voice is plain and direct, CTA ties back to the Health Score naturally without hype."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Solid saves from greens-curious users but low share potential given the familiar premise — expect average-to-slightly-below for a longevity carousel."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:39:11.097Z"
+}

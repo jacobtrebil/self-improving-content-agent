@@ -1,0 +1,55 @@
+{
+  "key": "468-awe-inflammation",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "A sense of *wonder* may quiet inflammation.",
+      "sub": "Moments of awe are linked to lower inflammatory markers. The science of feeling small is bigger than you think.",
+      "bg": "ai-bg/468-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Awe leaves a trace",
+      "body": "Awe is the feeling of meeting something vast: a night sky, a great song. Research suggests it *shows up in your body*, not your mood."
+    },
+    {
+      "type": "content",
+      "kicker": "The marker",
+      "title": "Meet IL-6",
+      "body": "IL-6 is a pro-inflammatory cytokine. Chronically high levels *are linked to* heart disease, diabetes and faster aging."
+    },
+    {
+      "type": "content",
+      "kicker": "The finding",
+      "title": "More awe, less IL-6",
+      "body": "In studies of positive emotion, people who felt the most awe tended to show *the lowest IL-6*. Wonder stood out from joy or pride."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Feeling small calms the system",
+      "body": "Awe can shift attention away from daily stress and toward something larger. That quieter stress response *may help* dampen inflammation."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Build awe into the week",
+      "body": "Stargaze, walk under tall trees, sit with real music. Small doses of wonder are *free, repeatable and trackable* over time."
+    },
+    {
+      "type": "cta",
+      "title": "Track the habits that *calm you down*.",
+      "body": "Vibe Health turns your sleep, food, movement and steps into one daily Health Score, so the calmer, healthier weeks become easy to see and repeat.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "wonder, tracked"
+    }
+  ],
+  "caption": "Looking up at a starry sky might do more than calm your mind. Awe is linked to lower inflammation in the body. ✨🌿\n\nIL-6 is a cytokine tied to chronic disease, and the people who feel the most everyday wonder tend to carry less of it. Stargaze, walk among trees, sit with great music. Save this for a slower evening. 🔖\n\nVibe Health turns your calmest, healthiest habits into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#awe", "#inflammation", "#wellness", "#healthspan", "#mindbody", "#healthyaging", "#stressrelief", "#healthhabits", "#vibehealthapp"],
+  "youtube_title": "How Awe May Lower Inflammation and Add Healthy Years",
+  "cover_query": "person starry sky"
+}

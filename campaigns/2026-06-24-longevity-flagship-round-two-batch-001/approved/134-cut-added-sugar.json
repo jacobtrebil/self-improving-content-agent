@@ -1,0 +1,69 @@
+{
+  "key": "134-cut-added-sugar",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Hidden sugar may *age you faster* than you think.",
+      "sub": "It is not the obvious desserts. It is the added sugar tucked into everyday food.",
+      "bg": "ai-bg/134-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Where sugar hides",
+      "body": "Sauces, bread, yogurt and granola often carry *added sugar* you never notice. It adds up quietly."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it matters",
+      "title": "The slow, cumulative cost",
+      "body": "Years of excess sugar are linked to *faster metabolic aging*. The damage is gradual, not sudden."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Make a few easy swaps",
+      "body": "Plain yogurt with fruit. Water instead of soda. Small trades *can cut a lot* over time."
+    },
+    {
+      "type": "content",
+      "kicker": "In practice",
+      "title": "Read the label",
+      "body": "Check the added sugars line, not just the total. The hidden grams are *where it adds up*."
+    },
+    {
+      "type": "content",
+      "kicker": "The takeaway",
+      "title": "Less, not none",
+      "body": "You do not need to quit sweetness. Just trim the hidden sugar that *quietly speeds aging*."
+    },
+    {
+      "type": "cta",
+      "title": "Protect the years that *feel good*.",
+      "body": "Vibe Health scores your food, sleep and movement and turns the habits that protect your healthspan into one daily number.",
+      "screens": [
+        "plan",
+        "score"
+      ],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "eat for the long game"
+    }
+  ],
+  "caption": "The sugar aging you fastest isn't in the dessert aisle. It's hidden in everyday food. 🌿\n\nSauces, bread and yogurt quietly add up. Make a few swaps, read the added sugars line, and trim the slow cost. Save this. 🔖\n\nVibe Health turns the food and habits that age you well into one daily score → link in bio.",
+  "hashtags": [
+    "#longevity",
+    "#addedsugar",
+    "#metabolichealth",
+    "#healthspan",
+    "#healthyaging",
+    "#vibehealth",
+    "#nutrition",
+    "#wellness",
+    "#healthtech",
+    "#vibehealthapp"
+  ],
+  "youtube_title": "The Hidden Sugar That Ages You Faster",
+  "cover_query": "sugar cubes"
+}

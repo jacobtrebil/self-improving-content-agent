@@ -1,0 +1,114 @@
+{
+  "key": "148-flexibility-mobility",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/148-flexibility-mobility.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/148-flexibility-mobility.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/14-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/14-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"Stay able to *move freely* for life.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "331/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 5,
+      "audience_fit": 3,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Stay able to move freely for life' is clear but not scroll-stopping — no specific number, no contrarian tension, no immediate payoff that feels urgent to a 25-year-old.",
+      "clarity": "Each slide holds exactly one idea with a tight label, and the body copy delivers it without padding.",
+      "audience_fit": "Longevity framing skews older — a tired 28-year-old thinks about back pain and desk posture, not independence decades away.",
+      "novelty": "'Use it or lose it' and 'hips and shoulders' are solid fundamentals but not a fresh angle; this carousel exists in a thousand forms already.",
+      "brand_fit": "Claims are properly hedged ('may help', 'can support'), voice is plain and unexcited, and the CTA ties directly to the score mechanic without AI-cringe.",
+      "predicted_performance": "Save-worthy for older health enthusiasts but unlikely to spike shares among the core 20–35 audience without a hook that makes them feel seen right now."
+    },
+    "overall": 3.67,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25463,
+    "tokensOut": 279,
+    "costUsd": 0.0676402,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'Stay able to move freely for life' is clear but not scroll-stopping — no specific number, no contrarian tension, no immediate payoff that feels urgent to a 25-year-old."
+      },
+      "clarity": {
+        "score": 5,
+        "why": "Each slide holds exactly one idea with a tight label, and the body copy delivers it without padding."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Longevity framing skews older — a tired 28-year-old thinks about back pain and desk posture, not independence decades away."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "'Use it or lose it' and 'hips and shoulders' are solid fundamentals but not a fresh angle; this carousel exists in a thousand forms already."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Claims are properly hedged ('may help', 'can support'), voice is plain and unexcited, and the CTA ties directly to the score mechanic without AI-cringe."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Save-worthy for older health enthusiasts but unlikely to spike shares among the core 20–35 audience without a hook that makes them feel seen right now."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:36.352Z"
+}

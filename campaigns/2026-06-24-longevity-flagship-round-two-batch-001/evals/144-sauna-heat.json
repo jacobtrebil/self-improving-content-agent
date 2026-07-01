@@ -1,0 +1,114 @@
+{
+  "key": "144-sauna-heat",
+  "eyebrow": "Longevity",
+  "spec": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/144-sauna-heat.json",
+  "artifacts": [
+    {
+      "label": "spec",
+      "path": "campaigns/2026-06-24-longevity-flagship-round-two-batch-001/approved/144-sauna-heat.json"
+    },
+    {
+      "label": "bg-cover",
+      "path": "vibe-carousels/ai-bg/14-cover.png"
+    },
+    {
+      "label": "bg-cta",
+      "path": "vibe-carousels/ai-bg/14-cta.png"
+    }
+  ],
+  "code": {
+    "results": [
+      {
+        "name": "slide_count",
+        "pass": true,
+        "score": 1,
+        "detail": "7 slides (want 7 or 9)"
+      },
+      {
+        "name": "has_hook",
+        "pass": true,
+        "score": 1,
+        "detail": "\"A warm sauna may be *quietly good* for the heart.\""
+      },
+      {
+        "name": "has_cta",
+        "pass": false,
+        "score": 0,
+        "detail": "button must be \"Download Vibe Health →\" + highlighted title"
+      },
+      {
+        "name": "caption_under_limit",
+        "pass": true,
+        "score": 1,
+        "detail": "339/2200 chars, 3 paragraphs (want 3)"
+      },
+      {
+        "name": "follows_json_schema",
+        "pass": false,
+        "score": 0,
+        "detail": "key, theme not in health/looksmax, bg_prompts"
+      },
+      {
+        "name": "has_image_prompts",
+        "pass": false,
+        "score": 0,
+        "detail": "cover:✗ cta:✗"
+      }
+    ],
+    "passed": 3,
+    "total": 6,
+    "pass": false,
+    "score": 0.5
+  },
+  "judge": {
+    "skipped": false,
+    "scores": {
+      "hook_strength": 3,
+      "clarity": 4,
+      "audience_fit": 3,
+      "novelty": 3,
+      "brand_fit": 5,
+      "predicted_performance": 3
+    },
+    "rationales": {
+      "hook_strength": "'Quietly good for the heart' is pleasantly understated but lacks the specificity or contrarian punch needed to stop a scroll — no number, no unexpected claim, no tension.",
+      "clarity": "Each slide holds one idea and the progression (stressor → link → frequency → caution → takeaway) is logical and easy to follow.",
+      "audience_fit": "Sauna access skews older and more affluent than the tired-25-year-old target; the content is relevant but the habit itself isn't realistic for most of the audience.",
+      "novelty": "Sauna-heart-health is well-trodden wellness content; the honest 'association not proof' framing adds a small fresh edge but doesn't rescue a familiar angle.",
+      "brand_fit": "Hedged language throughout ('linked to', 'may support', 'association not proof'), no hype words, genuine caution slide, and a CTA that ties naturally back to the app — textbook Vibe Health voice.",
+      "predicted_performance": "Saves likely from the 'honest about limitations' crowd but shares will be limited because the hook doesn't provoke and the habit isn't universally accessible."
+    },
+    "overall": 3.5,
+    "model": "claude-sonnet-4-6",
+    "tokensIn": 25460,
+    "tokensOut": 306,
+    "costUsd": 0.0680442,
+    "raw": {
+      "hook_strength": {
+        "score": 3,
+        "why": "'Quietly good for the heart' is pleasantly understated but lacks the specificity or contrarian punch needed to stop a scroll — no number, no unexpected claim, no tension."
+      },
+      "clarity": {
+        "score": 4,
+        "why": "Each slide holds one idea and the progression (stressor → link → frequency → caution → takeaway) is logical and easy to follow."
+      },
+      "audience_fit": {
+        "score": 3,
+        "why": "Sauna access skews older and more affluent than the tired-25-year-old target; the content is relevant but the habit itself isn't realistic for most of the audience."
+      },
+      "novelty": {
+        "score": 3,
+        "why": "Sauna-heart-health is well-trodden wellness content; the honest 'association not proof' framing adds a small fresh edge but doesn't rescue a familiar angle."
+      },
+      "brand_fit": {
+        "score": 5,
+        "why": "Hedged language throughout ('linked to', 'may support', 'association not proof'), no hype words, genuine caution slide, and a CTA that ties naturally back to the app — textbook Vibe Health voice."
+      },
+      "predicted_performance": {
+        "score": 3,
+        "why": "Saves likely from the 'honest about limitations' crowd but shares will be limited because the hook doesn't provoke and the habit isn't universally accessible."
+      }
+    }
+  },
+  "evaluatedAt": "2026-06-24T23:38:13.336Z"
+}

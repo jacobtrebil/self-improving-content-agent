@@ -1,0 +1,55 @@
+{
+  "key": "445-swimming-joints",
+  "theme": "brand",
+  "eyebrow": "Longevity",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The workout that *spares your joints*.",
+      "sub": "Water carries most of your weight, so aching joints can move freely. Here is why swimming earns a place in a longevity routine.",
+      "bg": "ai-bg/445-cover.png"
+    },
+    {
+      "type": "content",
+      "kicker": "The idea",
+      "title": "Buoyancy unloads the joints",
+      "body": "Standing in chest-deep water cuts the load on your knees and hips dramatically. Sore, arthritic joints *can move freely* again."
+    },
+    {
+      "type": "content",
+      "kicker": "Why it works",
+      "title": "Full range, low impact",
+      "body": "Water removes the pounding, not the effort. You can train through a *complete range of motion* without the jarring of pavement."
+    },
+    {
+      "type": "content",
+      "kicker": "The payoff",
+      "title": "Heart and lungs still work",
+      "body": "Swimming keeps demanding oxygen, so it *can support* the VO2 max that tracks closely with a long, capable life."
+    },
+    {
+      "type": "content",
+      "kicker": "Strength too",
+      "title": "Water is resistance",
+      "body": "Every stroke pushes against the water from all sides. That steady resistance *can help* preserve real muscular strength."
+    },
+    {
+      "type": "content",
+      "kicker": "How to start",
+      "title": "Gentle, then build",
+      "body": "Begin with easy laps or water walking, then add pace as your joints allow. *Consistency* matters more than speed."
+    },
+    {
+      "type": "cta",
+      "title": "Make every pool day *count*.",
+      "body": "Vibe Health logs your swims, steps, sleep and food, then folds them into one daily Health Score so you can see the gains add up.",
+      "screens": ["plan", "score"],
+      "cta_text": "search ‘Vibe Health’ on the App Store",
+      "tag": "movement, tracked"
+    }
+  ],
+  "caption": "Aching joints don't mean the end of hard training. The water just carries the weight for you. 🌊🌿\n\nBuoyancy unloads arthritic knees and hips while swimming still protects your VO2 max and full-range strength. Save this for your next pool day. 🔖\n\nVibe Health turns every swim into one daily score → link in bio.",
+  "hashtags": ["#longevity", "#swimming", "#jointhealth", "#healthyaging", "#vibehealth", "#lowimpact", "#wellness", "#healthhabits", "#agewell", "#vibehealthapp"],
+  "youtube_title": "Why Swimming Is the Best Workout for Aging Joints",
+  "cover_query": "senior man swimming"
+}
